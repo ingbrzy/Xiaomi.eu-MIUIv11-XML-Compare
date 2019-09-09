@@ -1,3 +1,4 @@
+[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://xiaomi.eu/)
 
 # MIUI 11 Daily XML changes by xiaomi.eu / miui.com
 
