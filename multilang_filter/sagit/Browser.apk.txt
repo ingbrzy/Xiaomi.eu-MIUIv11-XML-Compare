@@ -1,2 +1,0 @@
-Removed: [cs] array/pref_navscreen_layoutstate_choices (item mismatch)
-Removed: [sk] array/pref_navscreen_layoutstate_choices (item mismatch)

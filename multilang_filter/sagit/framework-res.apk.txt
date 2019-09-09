@@ -1,8 +1,1 @@
-Removed: [cs] array/fingerprint_error_vendor (untranslatable)
-Removed: [en-rGB] array/fingerprint_error_vendor (untranslatable)
-Removed: [en-rGB] string/ext_media_badremoval_notification_message (format mismatch)
-Removed: [en-rGB] string/ext_media_new_notification_message (format mismatch)
-Removed: [en-rGB] string/ext_media_nomedia_notification_message (format mismatch)
-Removed: [en-rGB] string/ext_media_unmountable_notification_message (format mismatch)
 Removed: [en-rUS] array/common_nicknames (untranslatable)
-Removed: [sk] array/fingerprint_error_vendor (untranslatable)

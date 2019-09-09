@@ -1,6 +1,0 @@
-Removed: [cs] string/image_file_name_format (untranslatable)
-Removed: [cs] string/pano_file_name_format (untranslatable)
-Removed: [cs] string/video_file_name_format (untranslatable)
-Removed: [sk] string/image_file_name_format (untranslatable)
-Removed: [sk] string/pano_file_name_format (untranslatable)
-Removed: [sk] string/video_file_name_format (untranslatable)

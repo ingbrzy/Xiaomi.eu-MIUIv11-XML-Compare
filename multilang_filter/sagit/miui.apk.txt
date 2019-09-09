@@ -1,2 +1,0 @@
-Removed: [cs] string/fmt_date_numeric_year (untranslatable)
-Removed: [sk] string/fmt_date_numeric_year (untranslatable)

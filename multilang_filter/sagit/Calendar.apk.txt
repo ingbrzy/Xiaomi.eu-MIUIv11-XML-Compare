@@ -1,7 +1,1 @@
-Removed: [cs] array/preferences_default_reminder_values (item mismatch)
-Removed: [cs] array/reminder_minutes_values (untranslatable)
-Removed: [cs] array/timezone_labels (item mismatch)
 Removed: [me-rME] string/monthly_on_day_count (format mismatch)
-Removed: [sk] array/preferences_default_reminder_values (item mismatch)
-Removed: [sk] array/reminder_minutes_values (untranslatable)
-Removed: [sk] array/timezone_labels (item mismatch)
