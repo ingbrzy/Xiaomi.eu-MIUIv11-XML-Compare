@@ -1,0 +1,2 @@
+Removed: [sk-rSK] array/bluetooth_a2dp_codec_summaries (item mismatch)
+Removed: [sk-rSK] array/bluetooth_a2dp_codec_titles (item mismatch)
