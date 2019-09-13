@@ -1834,7 +1834,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_spell_checker">Default spell checker</string>
   <string name="default_theme">Default</string>
   <string name="default_usb_mode">USB connection</string>
-  <string name="default_vol_stream_title">Default volume control stream</string>
   <string name="delete">Delete</string>
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
@@ -1882,12 +1881,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
-  <string name="device_description_battery">Battery capacity</string>
-  <string name="device_description_camera">Rear camera</string>
-  <string name="device_description_cpu">CPU</string>
-  <string name="device_description_ram">RAM</string>
-  <string name="device_description_resolution">Resolution</string>
-  <string name="device_description_screen">Screen size</string>
   <string name="device_details_title">Device details</string>
   <string name="device_display_layout_title">Mi 5 Features</string>
   <string name="device_edit_title">Rename phone</string>
@@ -2305,10 +2298,9 @@ For more details, contact your organization's admin."</string>
   <string name="ethernet_data_usage">Ethernet data usage</string>
   <string name="every_day">Every day</string>
   <string name="expand_button_title">Advanced</string>
-  <string name="expandable_under_keyguard_title">Expandable under secure Lock screen</string>
+  <string name="expandable_under_keyguard_title">Show on Lock screen</string>
   <string name="experimental_category_title">Experimental</string>
   <string name="experimental_preference">(Experimental)</string>
-  <string name="extended_power_menu">Extended power menu</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="external_source_switch_title">Allow from this source</string>
@@ -2761,7 +2753,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="importance_default">Default</string>
   <string name="importance_high">High</string>
   <string name="importance_low">Low</string>
-  <string name="importance_min">Minimal</string>
+  <string name="importance_min">Trivial</string>
   <string name="importance_title">Importance</string>
   <string name="ims_reg_status_not_registered">Not registered</string>
   <string name="ims_reg_status_registered">Registered</string>
@@ -3923,7 +3915,7 @@ Select your operating system:"</string>
   <string name="notification_importance_low_title">Medium</string>
   <string name="notification_importance_min">Show silently and minimize</string>
   <string name="notification_importance_min_title">Low</string>
-  <string name="notification_importance_title">Importance</string>
+  <string name="notification_importance_title">Behavior</string>
   <string name="notification_importance_unspecified">Allow sound</string>
   <string name="notification_listener_disable_warning_cancel">Cancel</string>
   <string name="notification_listener_disable_warning_confirm">Turn off</string>
@@ -4238,8 +4230,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="power_key_start_enjoy">Learn more about Google Assistant</string>
   <string name="power_key_start_guide">Waking Google Assistant using the Power button on full display devices</string>
   <string name="power_label">Power</string>
-  <string name="power_menu_under_keyguard_summary">Allow access to the power menu while the device is locked</string>
-  <string name="power_menu_under_keyguard_title">Power menu access</string>
   <string name="power_mgr">Battery optimization</string>
   <string name="power_mode">Power settings</string>
   <string name="power_mode_balanced_title">Balance Power</string>
@@ -4505,8 +4495,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="quick_reply_title">Quick replies</string>
   <string name="quick_settings_developer_tiles">Quick settings developer tiles</string>
   <string name="quick_settings_label">Toggles</string>
-  <string name="quick_settings_under_keyguard_summary">Allow access to quick settings while the device is locked</string>
-  <string name="quick_settings_under_keyguard_title">Quick settings access</string>
   <string name="quiet">Do not disturb</string>
   <string name="quiet_group">Do not disturb</string>
   <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
@@ -5079,7 +5067,7 @@ To use screen pinning:
   <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
   <string name="search_status_bar_settings">Notifications &amp; status bar;Notifications;Status bar</string>
   <string name="search_status_bar_settings_custom_carrier">Edit carrier name;Carrier name</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Expandable under secure Lock screen;expandable under secure lockscreen</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Show on lock screen;show on lockscreen</string>
   <string name="search_status_bar_settings_manage_notification">App Notifications;Notifications</string>
   <string name="search_status_bar_settings_show_carrier">Show carrier name;Carrier name</string>
   <string name="search_status_bar_settings_show_network_speed">Show connection speed;connection speed</string>
@@ -5566,10 +5554,6 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_manage_notification">App notifications</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
-  <string name="status_bar_settings_notification_use_app_icon">Use app icons for notifications</string>
-  <string name="status_bar_settings_qs_layout">Quick settings layout</string>
-  <string name="status_bar_settings_show_lte_for_4g">Show LTE icon for 4G</string>
-  <string name="status_bar_settings_show_weather">Show weather in notification shade</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_title">Status bar</string>
   <string name="status_bt_address">Bluetooth address</string>
@@ -6155,7 +6139,6 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlogin_account_summary">All Mi services. One Mi Account.</string>
   <string name="unlogin_account_title">Sign in to Mi Account</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
-  <string name="unmute_sound_title">Unmute sound</string>
   <string name="unrestrict_max_aspect_ratio_title">These apps are optimized for fullscreen mode</string>
   <string name="unrestricted_app_summary">Allow unrestricted data access when Data Saver is on</string>
   <string name="unrestricted_app_title">Unrestricted data usage</string>
