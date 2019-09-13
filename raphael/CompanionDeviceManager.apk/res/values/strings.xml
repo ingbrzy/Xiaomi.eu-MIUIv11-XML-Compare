@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Companion Device Manager</string>
+  <string name="chooser_title">Link with &lt;strong&gt;%1$s&lt;/strong&gt;</string>
+  <string name="confirmation_title">Link &lt;strong&gt;%1$s&lt;/strong&gt; with &lt;strong&gt;%2$s&lt;/strong&gt;</string>
+</resources>
