@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="clock" size="2:4">
+    <dualClock>true</dualClock>
+</MIUI-Theme>

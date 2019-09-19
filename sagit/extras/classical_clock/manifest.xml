@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clock version="1" frameRate="0" type="awesome" useVariableUpdater="DateTime.Minute" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222" pivotX="0.25" pivotY="0.3">
+    <Var name="color_time" type="string" expression="ifelse(#applied_light_wallpaper,'#b3000000','#ffffffff')" />
+	<Var name="color_date" type="string" expression="ifelse(#applied_light_wallpaper,'#80000000','#ccffffff')" />
+    <Text x="20" y="-39" size="175" color="@color_time" textExp="ifelse(#hour12,#hour12,12) + ':' + int(#minute/10) + int(#minute%10)" fontFamily="miui-thin" visibility="eq(#time_format,0)"/>
+	<DateTime x="20" y="-39" size="175" color="@color_time" format="HH:mm" fontFamily="miui-thin" visibility="eq(#time_format,1)"/>
+    <DateTime enableFontScale="true" x="31" y="194" format="@date_time" size="36" color="@color_date" contentDescriptionFormat="@desc_date_format" visibility="#time_format"/>
+    <DateTime enableFontScale="true" x="31" y="194" format="@date_time_12" size="36" color="@color_date" contentDescriptionFormat="@desc_date_format_12" visibility="not(#time_format)"/>
+    <Button name="clock_button" x="0" y="0" width="480" height="183" contentDescriptionExp="eval(@desc_time)"/>
+	<Button x="0" y="184" width="480" height="77" >
+		<Triggers>
+			<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.calendar" class="com.android.calendar.AllInOneActivity"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+</Clock>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clock version="1" frameRate="0" type="awesome" useVariableUpdater="DateTime.Minute" resDensity="480" pivotX="0.25" pivotY="0.3">
+    <VariableBinders>
+         <ContentProviderBinder
+            uri="content://weather/weather"
+            columns="city_name,weather_type,temperature"
+            countName="hasweather">
+             <Variable name="weather_id" type="int" column="weather_type"/>
+             <Variable name="temperature_unit" type="string" column="temperature_unit"/>
+             <Variable name="weather_temperature" type="int" column="temperature"/>
+             <Variable name="weather_temperature_str" type="string" column="temperature"/>
+         </ContentProviderBinder>
+    </VariableBinders>
+    <Var name="weather_description" expression="eval('@weather_type_'+#weather_id)" type="string"/>
+    <Var name="weather_description_null" expression="eval(@weather_type_null)" type="string"/>
+	<Var name="color_time" type="string" expression="ifelse(#applied_light_wallpaper,'#b3000000','#ffffffff')" />
+	<Var name="color_date" type="string" expression="ifelse(#applied_light_wallpaper,'#80000000','#ccffffff')" />
+	<Var name="color_shadow" type="string" expression="ifelse(#applied_light_wallpaper,'#00000000','#54000000')" />
+	
+	<Var name="is_rain" expression="ge(#weather_id,4)*le(#weather_id,6)+ge(#weather_id,8)*le(#weather_id,11)+eq(#weather_id,25)" />
+    <Var name="is_snow" expression="ge(#weather_id,13)*le(#weather_id,17)" />
+    <Var name="is_dust" expression="ge(#weather_id,18)*le(#weather_id,21)+eq(#weather_id,23)" />
+	
+	<Var name="not_null" expression="#hasweather*len(@weather_temperature_str)*not(isnull(#weather_id))" />
+    <Var name="icon_suffix" expression="ifelse(not(#not_null),1,gt(#weather_id,25),1,#weather_id)" />
+    <Var name="icon_index" expression="ifelse(#is_rain,4,#is_snow,13,#is_dust,18,#icon_suffix)" />
+		
+    
+	<DateTime x="34" y="-2" size="150" color="@color_time" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow" format="h:mm" fontPath="mitype-clock.ttf" visibility="eq(#time_format,0)"/>
+	<DateTime x="34" y="-2" size="150" color="@color_time" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow" format="HH:mm" fontPath="mitype-clock.ttf" visibility="eq(#time_format,1)"/>
+	<Button name="clock_button" x="0" y="0" width="480" height="193" contentDescriptionExp="eval(@desc_time)"/>
+    <DateTime enableFontScale="true" x="40" y="172" w="450" marqueeSpeed="30" format="@date_time"    size="36" color="@color_date" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow" contentDescriptionFormat="@desc_date_format" visibility="#time_format"/>
+    <DateTime enableFontScale="true" x="40" y="172" w="450" marqueeSpeed="30" format="@date_time_12" size="36" color="@color_date" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow" contentDescriptionFormat="@desc_date_format_12" visibility="not(#time_format)"/>
+    
+	<Group visibility="#not_null">
+	    <Text name="weather_temperature" enableFontScale="true" x="#view_width-40" y="168" align="right" textExp="#weather_temperature + ifelse(eq(@temperature_unit,'1'),'°C',eq(@temperature_unit,'0'),'°F','°C')" size="38" color="@color_date" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow"/>
+	    <Text name="text_description" enableFontScale="true" x="#view_width-64-#weather_temperature.text_width" y="170" w="310" marqueeSpeed="30" align="right" textExp="@weather_description" size="36" color="@color_date" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow"/>
+	</Group>
+	<Text name="weather_degree" enableFontScale="true" x="#view_width-40" y="170" textExp="@weather_description_null" align="right" size="36" color="@color_date" shadowDx="1" shadowDy="1" shadowRadius="1" shadowColor="@color_shadow" visibility="not(#not_null)"/>
+	<Image name="img_weather" srcExp="'weather/weather.png'" srcid="ifelse(gt(#weather_id,25)+lt(#weather_id,0),1,#icon_index)" x="#view_width-33" y="10" align="right" touchable="true"/>
+           
+	<Button x="#view_width-39" y="0" w="159" h="270" align="right" contentDescriptionExp="eval(@desc_weather)">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
+                </Trigger>
+            </Triggers>
+	</Button>
+	<Button x="0" y="194" width="480" height="77" >
+		<Triggers>
+			<Trigger action="up">
+				<IntentCommand action="android.intent.action.MAIN" package="com.android.calendar" class="com.android.calendar.AllInOneActivity"/>
+			</Trigger>
+		</Triggers>
+	</Button>
+</Clock>
