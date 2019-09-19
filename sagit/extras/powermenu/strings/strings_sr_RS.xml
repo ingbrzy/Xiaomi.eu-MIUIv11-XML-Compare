@@ -8,5 +8,5 @@
     <string name="label_alert_recovery">Recovery</string>
     <string name="label_alert_fastboot">Fastboot</string>
     <string name="label_alert_shutdown">Искључи</string>
-	<string name="label_blank">Натраг</string>
+    <string name="label_blank">Натраг</string>
 </resources>
