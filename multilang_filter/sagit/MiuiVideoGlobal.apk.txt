@@ -1,1 +1,2 @@
 Removed: [tr] string/cast_casting_to_device (format mismatch)
+Removed: [vi] string/vp_notify_apk_installed (format mismatch)
