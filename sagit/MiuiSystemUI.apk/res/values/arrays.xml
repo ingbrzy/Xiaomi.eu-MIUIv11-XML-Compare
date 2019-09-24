@@ -813,7 +813,6 @@
         <item>com.miui.yellowpage</item>
         <item>com.xiaomi.smarthome</item>
         <item>com.android.updater</item>
-        <item>com.miui.voip</item>
         <item>com.miui.voiceassist</item>
         <item>com.miui.securitycore</item>
         <item>com.wali.live</item>
@@ -909,7 +908,6 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
-        <item>custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
@@ -1415,6 +1413,7 @@
         <item>com.qualcomm.wfd.service</item>
         <item>com.miui.notes</item>
         <item>com.miui.tsmclient</item>
+        <item>com.mi.android.globalminusscreen</item>
     </string-array>
     <string-array name="telephony_data_activity_1x_sim1">
         <item>0</item>
