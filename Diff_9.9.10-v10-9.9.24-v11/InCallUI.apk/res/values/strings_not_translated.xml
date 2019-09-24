@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="incoming_answer_voice_text">Voice answer</string>
+     <string name="incoming_circle_text_message">Release</string>
+     <string name="incoming_circle_text_message_p">Slide up</string>
+</resources>

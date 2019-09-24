@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="permgrouprequest_storage_isolated">Allow &lt;b&gt;%1$s&lt;/b&gt; to access photos and media on your device?</string>
+     <string name="permission_description_summary_activity_recognition">Apps with this permission can access your physical activity, like walking, biking, driving, step count, and more</string>
+     <string name="permission_description_summary_calendar">Apps with this permission can access your calendar</string>
+     <string name="permission_description_summary_call_log">Apps with this permission can read and write phone call log</string>
+     <string name="permission_description_summary_camera">Apps with this permission can take pictures and record video</string>
+     <string name="permission_description_summary_contacts">Apps with this permission can access your contacts</string>
+     <string name="permission_description_summary_generic">Apps with this permission can %1$s</string>
+     <string name="permission_description_summary_location">"Apps with this permission can access this device's location"</string>
+     <string name="permission_description_summary_microphone">Apps with this permission can record audio</string>
+     <string name="permission_description_summary_phone">Apps with this permission can make and manage phone calls</string>
+     <string name="permission_description_summary_sensors">Apps with this permission can access sensor data about your vital signs</string>
+     <string name="permission_description_summary_sms">Apps with this permission can send and view SMS messages</string>
+     <string name="permission_description_summary_storage">Apps with this permission can access photos, media, and files on your device</string>
+</resources>

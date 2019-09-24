@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="action_text_card_manager">Channel</string>
+     <string name="ad_card_connecting">连接中</string>
+     <string name="ad_card_installed">已安装</string>
+     <string name="app_name">common</string>
+     <string name="card_manager_no_data">No subscriptions yet</string>
+     <string name="city_limit_back_icon_tip">返回日历首页</string>
+     <string name="city_limit_set_icon_tip">设置提醒</string>
+     <string name="create_an_account_desc">"Calendar works better with a Mi Account.
+
+• Access it from any web browser.
+• Back up your events securely."</string>
+     <string name="credit_card_date_label">还款日：</string>
+     <string name="credit_card_number_label">卡号：</string>
+     <string name="credit_detail_today">今日：</string>
+     <string name="date_calculate_hint">Learn what date it is after a number of days</string>
+     <string name="date_jump_hint">Jump to a certain day directly</string>
+     <string name="download">下载</string>
+     <string name="edit_event_custom_reminder_title">Set custom reminder</string>
+     <string name="english_premium_league">English premier league</string>
+     <string name="feed_actionbar_day">日</string>
+     <string name="feed_close_open_feed">开启今日关注</string>
+     <string name="global_action_text_card_manager">Customize your calendar</string>
+     <string name="global_cricket_no_match">No cricket matches are scheduled for today. Check out other days.</string>
+     <string name="global_football_final">FINAL</string>
+     <string name="global_football_no_match">No football matches are scheduled for today.</string>
+     <string name="global_onthisday_com">OnThisDay.com</string>
+     <string name="guide_card_close">Close</string>
+     <string name="guide_card_import">Import</string>
+     <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
+     <string name="guide_card_second_text">Never miss important dates</string>
+     <string name="guide_card_title">Import birthdays</string>
+     <string name="match_select_activity_label">Leagues</string>
+     <string name="next_alarm_time">Next reminder at %1$s</string>
+     <string name="panchang_amanta">Amanta</string>
+     <string name="panchang_amanta_month">Amanta Month:</string>
+     <string name="panchang_ayana">Ayana</string>
+     <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
+     <string name="panchang_hindu_lunar_month">Hindu Lunar Month</string>
+     <string name="panchang_inauspicious_timings">Inauspicious Timings</string>
+     <string name="panchang_karan">Karan</string>
+     <string name="panchang_moon_sign">Moon Sign</string>
+     <string name="panchang_nakshatra">Nakshatra</string>
+     <string name="panchang_purnimanta">Purnimanta</string>
+     <string name="panchang_purnimanta_month">Purnimanta Month:</string>
+     <string name="panchang_rahu_kalam">Rahu Kalam</string>
+     <string name="panchang_ritu">Ritu</string>
+     <string name="panchang_shaka_samvat">Shaka Samvat</string>
+     <string name="panchang_sun_sign">Sun Sign</string>
+     <string name="panchang_tithi">Tithi</string>
+     <string name="panchang_to"> to </string>
+     <string name="panchang_upto"> upto </string>
+     <string name="panchang_vikram_samvat">Vikram Samvat</string>
+     <string name="panchang_yamaghanta">Yamaghanta</string>
+     <string name="panchang_yog">Yog</string>
+     <string name="pref_title_notification_remind">Notification reminders</string>
+     <string name="preferences_alerts_ringtone_title">Sound</string>
+     <string name="preferences_popup_alert_smart_summary">MIUI will identify which events are most relevant automatically</string>
+     <string name="preferences_popup_alert_smart_tips">"Replace traditional notifications with pop-up alerts to avoid missing important events. Pop-up alerts won't appear when you're playing games, watching fullscreen videos, or using Car mode."</string>
+     <string name="reminder_later_notification_time_format">HH:mm</string>
+     <string name="repeat_alarm_changed_event">Set repeated reminder</string>
+     <string name="repeat_alarm_changed_title">This is a repeated event. Set reminder?</string>
+     <string name="setting_title_limit_card_desc">位于日历首页的限行卡片,该服务需要联网</string>
+     <string name="setting_title_limit_card_display">显示限行服务</string>
+     <string name="setting_title_lottery_card_desc">位于日历首页的彩票开奖卡片，该服务需要联网</string>
+     <string name="setting_title_lottery_card_display">彩票开奖服务</string>
+     <string name="setting_title_shift_card_desc">位于日历首页的倒班助手卡片,该服务需要联网</string>
+     <string name="setting_title_shift_card_display">显示倒班助手</string>
+     <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
+     <string name="subscribe_channel_footer_desc">Check your subscriptions or unsubscribe</string>
+     <string name="subscribe_channel_footer_title">Subscribed</string>
+     <string name="subscribe_channel_hint">"Subscribe to the services you like and receive daily updates on your home page.
+You can also add reminders so you don't miss anything important."</string>
+     <string name="subscribe_channel_title">Channel</string>
+     <string name="train_event_reminder">Remind %1$s in advance</string>
+     <string name="travel_airport">Airport</string>
+     <string name="travel_ets_advice">Drive to %2$s before %1$s.</string>
+     <string name="travel_item_trafic">Traffic</string>
+     <string name="travel_train_station">Train station</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
+     <string name="passport_license_info_collapse">Collapse</string>
+     <string name="passport_license_info_open">Details</string>
+</resources>

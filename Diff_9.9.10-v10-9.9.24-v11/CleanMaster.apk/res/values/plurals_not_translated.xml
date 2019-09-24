@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="zero">%1$d days ago</item>
+        <item quantity="one">%1$d day ago</item>
+        <item quantity="two">%1$d days ago</item>
+        <item quantity="few">%1$d days ago</item>
+        <item quantity="many">%1$d days ago</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d hours ago</item>
+        <item quantity="zero">%1$d hours ago</item>
+        <item quantity="one">%1$d hour ago</item>
+        <item quantity="two">%1$d hours ago</item>
+        <item quantity="few">%1$d hours ago</item>
+        <item quantity="many">%1$d hours ago</item>
+     </plurals>
+     <plurals name="million">
+        <item quantity="other">Downloaded by %1$d people</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d minutes ago</item>
+        <item quantity="zero">%1$d minutes ago</item>
+        <item quantity="one">%1$d minute ago</item>
+        <item quantity="two">%1$d minutes ago</item>
+        <item quantity="few">%1$d minutes ago</item>
+        <item quantity="many">%1$d minutes ago</item>
+     </plurals>
+</resources>
