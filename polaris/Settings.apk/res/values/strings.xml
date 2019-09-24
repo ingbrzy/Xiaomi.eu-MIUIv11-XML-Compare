@@ -362,6 +362,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="anti_spam">Blocklist</string>
   <string name="aod_and_lock_screen_settings_title">Ambient display &amp; Lock screen</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
+  <string name="aod_name_wanxiang">Ambient display</string>
   <string name="aod_notification_style_animation">Show animation</string>
   <string name="aod_notification_style_none">Do nothing</string>
   <string name="aod_notification_style_screen_on">Light up screen</string>
@@ -1361,6 +1362,7 @@ This feature can be turned off in the Settings."</string>
   <string name="choose_a_card_to_reset">Select SIM card to reset</string>
   <string name="choose_keyguard_clock_style">Lock screen clock format</string>
   <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
+  <string name="choose_lock_pattern_header_text">Set pattern</string>
   <string name="choose_profile">Choose profile</string>
   <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_spell_checker">Choose spell checker</string>
@@ -1502,6 +1504,7 @@ This feature can be turned off in the Settings."</string>
   <string name="confirm_frp_credential_message">You device was factory reset. You can unlock it using your previous password.</string>
   <string name="confirm_frp_credential_skip_txt">Use Google account instead</string>
   <string name="confirm_frp_credential_title">Unlock after Factory reset</string>
+  <string name="confirm_lock_pattern_header_text">Draw your pattern</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_password_with_fingerprint">Use fingerprint</string>
   <string name="confirm_password_with_password">Enter password</string>
@@ -1791,7 +1794,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="day_of_week">Day of the week</string>
   <string name="dc_light_dialog_summary">Image quality might be affected when Anti-flicker mode is on. Turn on anyway?</string>
   <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
-  <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
+  <string name="dc_light_summary_new">DC dimming prevents extensive flickering and reduces eye strain in low light conditions. However, image quality might be affected when this feature is on.</string>
   <string name="dc_light_title">Anti-flicker mode</string>
   <string name="debug_app">Select debug app</string>
   <string name="debug_app_not_set">No debug application set</string>
@@ -2150,6 +2153,7 @@ You can view generated logs in File Manager."</string>
   <string name="emergency_tone_title">Emergency dialing signal</string>
   <string name="emergency_tone_vibrate">Vibrations</string>
   <string name="empty_list_msg">You don’t have any third-party apps installed.</string>
+  <string name="empty_title">" "</string>
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
@@ -2482,11 +2486,11 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="forget">Forget</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_password_dialog_button_text">Back</string>
-  <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Select &amp;lt;font color=#e6e6e6&amp;gt;[Wipe data]&amp;lt;/font&amp;gt;, and wait until your device reboots.&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_four">2. Select [Wipe data], and wait until your device reboots.</string>
   <string name="forget_password_dialog_content_one">&lt;Data&gt;"If you forget your password, you won't be able to restore it. However, you can reset your password after you &amp;lt;font color=#ec2700&amp;gt;erase all data on your device&amp;lt;/font&amp;gt; (including photos, contacts, etc.). Back up all important data before this."&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Turn off your device. Press the &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; button and the &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; button simultaneously, and hold them until you see the &amp;lt;img src=''&amp;gt; icon."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">1. Turn off your device. Press the [Power] button and the [Volume+] button simultaneously, and hold them until you see the * icon.</string>
   <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-  <string name="forget_password_dialog_title">Reset your password</string>
+  <string name="forget_password_dialog_title">Wipe data</string>
   <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Add Mi Account</string>
   <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
@@ -3516,8 +3520,6 @@ There are other users present on this device.
   <string name="miui_lab_gallery_search_title">Find photos in Gallery</string>
   <string name="miui_lab_gesture_desc">Use gestures instead of buttons for navigation</string>
   <string name="miui_lab_gesture_title">Full screen gestures</string>
-  <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
-  <string name="miui_lab_home_feed_title">Media Center</string>
   <string name="miui_lab_install_drive_mode_error">"Couldn't install, try again."</string>
   <string name="miui_lab_install_drive_mode_summary">"Car mode is a system app. Installation doesn't require internet connection."</string>
   <string name="miui_lab_install_drive_mode_title">Install Car mode</string>
@@ -6525,7 +6527,7 @@ Tap the plus to add words."</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">Hi-Fi settings</string>
   <string name="volume_label">Volume</string>
-  <string name="volume_launch_camera_summary">Double press the volume button to open Camera when the screen is locked</string>
+  <string name="volume_launch_camera_summary">Double press the \"Volume down\" button to open Camera when the screen is locked</string>
   <string name="volume_media_description">Music, video, games, and other media</string>
   <string name="volume_media_mute">Mute music &amp; other media</string>
   <string name="volume_notification_description">Notifications</string>
