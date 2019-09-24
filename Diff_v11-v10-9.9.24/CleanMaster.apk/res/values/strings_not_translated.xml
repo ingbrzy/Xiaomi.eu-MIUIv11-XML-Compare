@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="appcleaner_g_day_earlier">Earlier</string>
+     <string name="appcleaner_g_seven_day">Last 7 days</string>
+     <string name="appcleaner_g_thirty_day">Last 30 days</string>
+     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Clear %s of WeChat cache to free up storage space</string>
+     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
+     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Remind to clear WeChat cache</string>
+     <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+     <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+     <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+     <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
+     <string name="appcleaner_wechat_pref_time_every_day">Every day</string>
+     <string name="appcleaner_wechat_pref_time_fifteen_day">Every 15 days</string>
+     <string name="appcleaner_wechat_pref_time_seven_day">Every 7 days</string>
+     <string name="appcleaner_wechat_pref_time_three_day">Every 3 days</string>
+     <string name="appcleaner_wechat_pref_title_clean_alert">Remind to clear WeChat cache</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Cache size</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Remind</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Cache size</string>
+     <string name="button_agree">Agree</string>
+     <string name="button_deny">"Don't agree"</string>
+     <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
+     <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
+     <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
+</resources>

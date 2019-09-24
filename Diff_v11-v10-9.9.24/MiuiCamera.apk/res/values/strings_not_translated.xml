@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="confirm_reset_manually_parameter_message">Reset all parameters to their default values?</string>
+     <string name="dirty_tip_toast">镜头有脏污，请擦拭</string>
+     <string name="hint_subtitle">边录边说，语音自动转字幕</string>
+     <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
+     <string name="location_permission_des">为照片或视频添加位置信息</string>
+     <string name="manually_raw_hint">RAW</string>
+     <string name="network_access_user_notice_agree">同意</string>
+     <string name="network_access_user_notice_message_live_video">"欢迎您使用短视频功能，我们将使用联网功能为您提供道具、音乐等趣味性功能。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+     <string name="network_access_user_notice_message_sticker">"欢迎您使用贴纸功能，我们将使用联网功能获取更多贴纸。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+     <string name="network_access_user_notice_message_voice_caption">"欢迎您使用语音字幕功能，我们将使用联网功能为您提供实时语音转字幕服务。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+     <string name="photo_assistance_tips_title">拍照辅助提示</string>
+     <string name="pref_lens_dirty_detect_summary">镜头外部有灰尘或污垢时，会在拍照界面给我擦拭镜头的提示</string>
+     <string name="pref_lens_dirty_detect_title">镜头脏污提示</string>
+     <string name="pref_photo_assistance_tips_off">关</string>
+     <string name="pref_photo_assistance_tips_on">开</string>
+     <string name="pref_video_subtitle">语音字幕</string>
+     <string name="required_permissions">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+     <string name="reset_manually_parameter_confirmed">OK</string>
+     <string name="reset_manually_parameter_hint">Reset</string>
+     <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
+     <string name="super_eis">超级防抖</string>
+     <string name="super_eis_disabled_hint">超级防抖已关闭</string>
+     <string name="vv_duartion_hint">%1$s | %2$d段 |%3$s秒</string>
+     <string name="vv_use_hint_text_body">"开始VISION录制，更潮流的拼接玩法
+随后拍出时尚大片"</string>
+     <string name="vv_use_hint_text_title">视频VISION</string>
+</resources>

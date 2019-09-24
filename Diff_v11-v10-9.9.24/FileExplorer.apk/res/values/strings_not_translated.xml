@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_all_purpose">欢迎您使用文件管理器。您可使用本应用以实现管理手机内文件的功能。</string>
+     <string name="path_name_email">Email</string>
+</resources>

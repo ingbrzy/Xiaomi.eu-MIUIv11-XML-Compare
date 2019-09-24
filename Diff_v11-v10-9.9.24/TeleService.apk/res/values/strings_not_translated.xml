@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="prompt_to_suggest_to_open_volte_from_operator">"Can't make calls. Contact China Telecom to turn on VoLTE service."</string>
+     <string name="wifi_call_accept">OK</string>
+     <string name="wifi_call_available_message">"You can make calls using WLAN now. If you're connected to a WLAN network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
+     <string name="wifi_call_available_title">Turning on WLAN Calling</string>
+     <string name="wifi_call_cancel">Cancel</string>
+     <string name="wifi_call_help">Help</string>
+     <string name="wifi_call_help_message">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, WLAN network will be used instead."</string>
+     <string name="wifi_call_help_title">WLAN Calling Help</string>
+     <string name="wifi_call_notification_message">"This service is provided by Orange. It might take several hours to activate this service. You'll receive a confirmation SMS as soon as it's available."</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="close_hotspot_when_connecting_to_wifi">Hotspot is on. Turn on Wi-Fi.</string>
+     <string name="setting_function_sort">Rearrange features</string>
+</resources>

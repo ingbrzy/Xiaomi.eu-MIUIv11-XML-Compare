@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="san_wait_msg_1">Target device needs to turn on wireless screencast</string>
+     <string name="san_wait_msg_2">Searching for devices might take some time…</string>
+     <string name="san_wait_msg_3">"External devices are easier to find when they're connected to the same network as your phone"</string>
+     <string name="san_wait_msg_4">"View \"Help\" if you can't find devices"</string>
+</resources>

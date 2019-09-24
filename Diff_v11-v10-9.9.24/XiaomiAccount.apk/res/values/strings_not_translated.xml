@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="passport_ticket_login_select_sim_card">Select SIM card</string>
+     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+     <string name="passport_ticket_login_select_sim_card_cancel">Cancel</string>
+</resources>

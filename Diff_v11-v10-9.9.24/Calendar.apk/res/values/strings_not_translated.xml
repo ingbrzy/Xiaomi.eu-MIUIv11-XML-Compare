@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="card_credit_repayment">还款日期</string>
+     <string name="card_credit_today">今日</string>
+     <string name="gas_detail_account_name">户号</string>
+     <string name="gas_detail_deadline">计费截止日期：%1$s</string>
+     <string name="gas_detail_header_title">电费交费提醒</string>
+     <string name="limit_detail_title">城市限行</string>
+     <string name="permission_accounts">For signing in and managing your system account, and associating items with it</string>
+     <string name="permission_contacts">For syncing the birthdays of your contacts and sending reminders</string>
+     <string name="permission_main_purpose">Viewing and managing calendar events, planning trips, receiving reminders, and subscribing to services</string>
+     <string name="permission_storage">For saving reminders and ringtones</string>
+     <string name="required_permissions">android.permission.RECEIVE_SMS;android.permission.READ_PHONE_STATE;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.GET_ACCOUNTS;</string>
+     <string name="subscription_service_unsupported">未同意联网权限，无法使用订阅服务</string>
+</resources>

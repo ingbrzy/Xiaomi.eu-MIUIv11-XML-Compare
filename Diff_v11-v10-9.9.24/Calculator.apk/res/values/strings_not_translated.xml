@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="network_purpose">Welcome to Calculator! Calculator allows you to convert currencies, calculate mortgage repayments, and more.</string>
+     <string name="required_permissions">android.permission.READ_PHONE_STATE;</string>
+</resources>

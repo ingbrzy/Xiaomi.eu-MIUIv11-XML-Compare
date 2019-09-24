@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="callrecordview_menu_identify_numbers">Identify phone numbers</string>
+     <string name="contact_detail_calllog_correct_yellow_page">Correct or report</string>
+     <string name="contact_detail_more_calllog">Show more</string>
+     <string name="eight">8</string>
+     <string name="eight_letter">TUV</string>
+     <string name="five">5</string>
+     <string name="five_letter">JKL</string>
+     <string name="four">4</string>
+     <string name="four_letter">GHI</string>
+     <string name="nine">9</string>
+     <string name="nine_letter">WXYZ</string>
+     <string name="one">1</string>
+     <string name="pound">\#</string>
+     <string name="seven">7</string>
+     <string name="seven_letter">PQRS</string>
+     <string name="six">6</string>
+     <string name="six_letter">MNO</string>
+     <string name="star">*</string>
+     <string name="star_letter">,</string>
+     <string name="three">3</string>
+     <string name="three_letter">DEF</string>
+     <string name="two">2</string>
+     <string name="two_letter">ABC</string>
+     <string name="yellowpage_address_tag">Address</string>
+     <string name="yellowpage_provider_label">Data provided by</string>
+     <string name="zero">0</string>
+     <string name="zero_letter">+</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="no_memory_space">no memory space</string>
+     <string name="system_permission_accounts_purpose">Used for system account login and management</string>
+     <string name="system_permission_main_purpose">Browse the web, search for information, read news, watch videos, etc</string>
+     <string name="system_permission_phone_state_purpose">Used to obtain the device IMEI identifier to provide the corresponding service</string>
+     <string name="system_permission_storage_purpose">Used to read and write files such as saved images and to enable file upload/download functions</string>
+     <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
+     <string name="wechat_not_installed">Wechat not installed</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="table_titles">
+        <item>@string/mortgage_detail_month</item>
+        <item>@string/mortgage_detail_monthly_repayment</item>
+        <item>@string/mortgage_detail_monthly_principal</item>
+        <item>@string/mortgage_detail_monthly_interest</item>
+        <item>@string/mortgage_detail_monthly_remain</item>
+     </string-array>
+</resources>

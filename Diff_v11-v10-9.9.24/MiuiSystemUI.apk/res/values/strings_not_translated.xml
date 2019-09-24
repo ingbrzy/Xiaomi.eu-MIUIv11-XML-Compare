@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="face_data_apply_for_category_title">Unlock using face data</string>
+     <string name="face_data_apply_for_keyguard_title">Lock screen</string>
+     <string name="face_unlock_category_title">Lock screen options</string>
+     <string name="keyguard_charging_battery_level">%s%%</string>
+</resources>

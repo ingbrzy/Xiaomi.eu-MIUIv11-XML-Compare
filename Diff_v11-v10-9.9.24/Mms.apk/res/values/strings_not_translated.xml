@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="mi_message_title">Mi Message</string>
+     <string name="mms_main_purpose">"To get access to Messaging's full functionality, allow the app to connect to the internet, and turn on Mi Message and Smart Messaging."</string>
+     <string name="mms_title">Messaging</string>
+     <string name="mx_main_purpose">"Mi Message lets you send messages to other Mi Message users over the internet without incurring charges.
+An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message."</string>
+     <string name="mx_privacy_policy">Mi Message Privacy Policy</string>
+     <string name="perm_purpose_mms_account">For accessing account info</string>
+     <string name="perm_purpose_mms_storage">For saving MMS attachments</string>
+     <string name="perm_purpose_rcs_account">"For displaying beginner's guide to new users"</string>
+     <string name="perm_purpose_rcs_phone_state">For accessing IMEI in order to identify your device</string>
+     <string name="perm_purpose_rcs_storage">For saving images, videos, files, and other RCS attachments</string>
+     <string name="rcs_main_purpose">This feature allows you to send and receive RCS messages. RCS Messaging is provided by China Mobile.</string>
+     <string name="rcs_message_title">RCS Messaging</string>
+     <string name="smart_message_title">Smart Messaging</string>
+     <string name="smart_msg_main_purpose">Smart Messaging provides Sender ID recognition and smart menu services.</string>
+     <string name="smart_msg_privacy_policy">Smart Messaging Privacy Policy</string>
+     <string name="system_permission_declare_agree">Agree</string>
+     <string name="system_permission_declare_disagree">"Don't agree"</string>
+     <string name="system_permission_declare_double_link" formatted="false">Read and agree to our %1s and %2s before using this feature.</string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! %2s</string>
+     <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
+     <string name="system_permission_declare_privacy_declare">"We respect and protect your privacy.
+Note that %1s needs to collect your data and requires the following permissions to work normally:"</string>
+     <string name="system_permission_declare_revoke_path">You can revoke your authorization and turn off services in the Messaging settings.</string>
+     <string name="system_permission_declare_single_link">Read and agree to our %1s before using this feature.</string>
+     <string name="system_permission_declare_triple_link" formatted="false">Read and agree to our %1s, %2s, and %3s before using these features.</string>
+     <string name="system_permission_declare_use_network">Connect to the network</string>
+     <string name="system_permission_perm_answer_call">Make calls</string>
+     <string name="system_permission_perm_read_mms">Read MMS</string>
+     <string name="system_permission_perm_read_numbers">Read phone numbers</string>
+     <string name="system_permission_perm_send_mms">Send MMS</string>
+</resources>

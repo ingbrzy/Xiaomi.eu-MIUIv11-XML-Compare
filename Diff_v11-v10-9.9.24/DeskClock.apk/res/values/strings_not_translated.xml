@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
+     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
+     <string name="dialog_legal_off_day">&lt;Data&gt;"Looks like you're using holiday alarms.This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+     <string name="dialog_legal_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Holiday alarms will go off on Saturday and Sunday."</string>
+     <string name="dialog_legal_workday">&lt;Data&gt;"Looks like you're using weekday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+     <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Looks like you're using weekday and holiday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+     <string name="dialog_legal_workday_and_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Weekday alarms will go off from Monday to Friday. Holiday alarms will go off on Saturday and Sunday."</string>
+     <string name="dialog_legal_workday_desc">"Clock isn't allowed to connect to the internet to update the info about working days. Weekday alarms will go off from Monday to Friday."</string>
+     <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE</string>
+</resources>

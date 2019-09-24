@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="HIPS_Perm_PhoneID_Desc_Q">Access phone number and IMSI</string>
+     <string name="permdesc_camera">Take photos and record videos</string>
+     <string name="permdesc_in_calls">Monitor incoming calls</string>
+     <string name="permdesc_location">Access location info</string>
+     <string name="permdesc_microphone">Record calls and audio</string>
+     <string name="permdesc_out_calls">Monitor outgoing calls</string>
+     <string name="permdesc_read_calendar">Access calendar events</string>
+     <string name="permdesc_read_storage">Access photos and files stored on device</string>
+     <string name="permdesc_recognition">Access health &amp; activity data</string>
+     <string name="permdesc_sensors">Access body sensor data</string>
+     <string name="permdesc_write_calendar">Access and add calendar events</string>
+     <string name="permdesc_write_storage">Access and save photos and files on device</string>
+</resources>

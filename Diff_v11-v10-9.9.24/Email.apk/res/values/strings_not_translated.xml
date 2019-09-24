@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="account_options_actionbar_title">General Settings</string>
+     <string name="mail_outlook_login_tips">According to Microsoft requirements, you need to type the password in the Microsoft Authorization page.</string>
+     <string name="mail_outlook_oauth_login">Log in with OAuth</string>
+     <string name="mail_outlook_psw_login">Login with password</string>
+     <string name="outlook_login_failed_non_proxy_title">"Couldn't access OutLook server"</string>
+     <string name="quick_reply_expend">Expand</string>
+     <string name="sync_calendra_fail_per_content">Tap to allow access to calendar</string>
+     <string name="sync_calendra_fail_per_title">"Couldn't sync calendar"</string>
+     <string name="sync_calendra_fail_permission">"Couldn't sync calendar, allow Mail to access your calendar in the Settings"</string>
+</resources>

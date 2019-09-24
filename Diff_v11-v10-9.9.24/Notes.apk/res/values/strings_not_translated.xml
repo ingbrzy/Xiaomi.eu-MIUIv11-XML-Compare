@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="confirm_cancel">"Don't agree"</string>
+     <string name="confirm_ok">Agree</string>
+     <string name="permission_get_account_desc">Syncing notes with the cloud</string>
+     <string name="permission_microphone_desc">Making voice notes</string>
+     <string name="permission_network_for_cloud_desc">To sync notes with the cloud, you need to connect to the internet. Mobile data might be used to sync items. Connect now?</string>
+     <string name="permission_read_contact_desc">Associating the notes created during calls with contacts</string>
+     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI will collect your voice recordings and device ID to transcribe audio and create voice notes. Learn more in Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+     <string name="pref_remind_type_summary">Play reminder sound in Silent mode</string>
+     <string name="pref_remind_type_title">Ignore Silent mode</string>
+     <string name="remind_title">Reminders</string>
+</resources>

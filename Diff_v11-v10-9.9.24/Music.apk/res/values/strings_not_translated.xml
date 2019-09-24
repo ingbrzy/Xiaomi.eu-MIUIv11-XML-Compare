@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="choose_music_lang_pref">Preferred languages for songs</string>
+     <string name="tab_top_results">Top result</string>
+     <string name="toast_my_playlist_sync_failed">"Couldn't sync playlists due to a network error."</string>
+</resources>

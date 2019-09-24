@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="always_style">Always</string>
+     <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
+     <string name="aod_name_wanxiang">Ambient display</string>
+     <string name="aod_notification_style_animation">Show animation</string>
+     <string name="aod_notification_style_none">Do nothing</string>
+     <string name="aod_notification_style_screen_on">Light up screen</string>
+     <string name="aod_show_mode_title">Show items</string>
+     <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
+     <string name="aod_style_title">Style</string>
+     <string name="aod_to_close">Turn off</string>
+     <string name="calendar_remind">Events</string>
+     <string name="choose_lock_pattern_header_text">Set pattern</string>
+     <string name="confirm_lock_pattern_header_text">Draw your pattern</string>
+     <string name="empty_title">" "</string>
+     <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
+     <string name="notification_animation_style">Special effects</string>
+     <string name="notification_remind">Notifications</string>
+     <string name="scheduled_style">Scheduled</string>
+     <string name="system_haptic_feedback">Haptic feedback</string>
+     <string name="temporary_style">10 seconds after tapping the screen</string>
+     <string name="title_layout_current2_weight">Text size &amp; font weight</string>
+     <string name="weight_heavy">Bold</string>
+     <string name="weight_light">Light</string>
+     <string name="weight_setting_toast">You can change font weight only for the default system font</string>
+</resources>

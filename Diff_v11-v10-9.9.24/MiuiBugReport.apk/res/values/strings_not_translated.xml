@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="feedback_detail_copy_toast">Copied to clipboard</string>
+     <string name="feedback_detail_feedback_attach">Attachments</string>
+     <string name="feedback_detail_feedback_attach_upload_failed">"Couldn't upload"</string>
+     <string name="feedback_detail_feedback_attach_uploading">Uploading…</string>
+     <string name="feedback_detail_feedback_category">Category</string>
+     <string name="feedback_detail_feedback_id">Report ID: %d</string>
+     <string name="feedback_detail_feedback_reply_hint">Reply</string>
+     <string name="feedback_detail_feedback_summary">Feedback</string>
+     <string name="feedback_detail_need_content">Enter content first</string>
+     <string name="feedback_detail_title">Details</string>
+     <string name="feedback_detail_upload_generate_log">Generate logs</string>
+     <string name="feedback_detail_upload_image">Upload images/videos</string>
+     <string name="feedback_detail_upload_local_log">Upload file</string>
+     <string name="feedback_detail_upload_log">Upload logs</string>
+     <string name="feedback_detail_waiting">Generating…</string>
+     <string name="kr_authorization_function">Submitting feedback, generating logs, viewing frequently asked questions</string>
+     <string name="mi_service_dialog_cancel">Exit</string>
+     <string name="mi_service_dialog_confirm">Open</string>
+     <string name="mi_service_dialog_content">All feedback features were moved to the new \"Services &amp; feedback\" app. The Feedback app will be removed from your Home screen. Tap \"Open\" to try \"Services &amp; feedback\".</string>
+     <string name="mi_service_dialog_title">Introducing \"Services &amp; feedback\"</string>
+</resources>

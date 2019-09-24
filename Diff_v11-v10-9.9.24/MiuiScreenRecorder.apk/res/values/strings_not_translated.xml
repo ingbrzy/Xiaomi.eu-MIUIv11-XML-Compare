@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="permission_microphone_desc">Using the microphone as the audio source for screen recordings</string>
+     <string name="settings_other">Other</string>
+     <string name="settings_privacy">Privacy Policy</string>
+</resources>
