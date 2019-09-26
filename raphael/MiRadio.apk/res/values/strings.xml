@@ -196,10 +196,24 @@
   <string name="create_order_fail">"Couldn't create order, try again."</string>
   <string name="create_playlist">Create playlist</string>
   <string name="create_playlist_failure">"Couldn't create playlist"</string>
+  <string name="cross_talk">Stand-up acts</string>
+  <string name="cta_runtime_perm_desc_account">Access accounts on your device in order to sign in using Mi Account</string>
+  <string name="cta_runtime_perm_desc_location">Access location to make local radio stations available</string>
+  <string name="cta_runtime_perm_desc_phone">Access device info in order to identify your device</string>
+  <string name="cta_runtime_perm_desc_storage">Access storage in order to access and save cover art and downloaded files</string>
+  <string name="cta_runtime_perm_desc_storage_single">Access storage in order to access and save cover art and downloaded files</string>
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="date_format_str">MM-dd-yyyy</string>
+  <string name="declaration_main_content">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"</string>
+  <string name="declaration_main_content2">&lt;Data&gt;"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to sign out or restrict permissions in the Settings in such cases. Read and agree to our &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; and &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; before using FM Radio."&lt;/Data&gt;</string>
+  <string name="declaration_main_content2_unloadable">&lt;Data&gt;"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases. Read and agree to our &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; and &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; before using FM Radio."&lt;/Data&gt;</string>
+  <string name="declaration_main_purpose">Welcome to FM Radio! You can use this app to listen to the programs provided by the local and online radio stations.</string>
+  <string name="declaration_runtime_perm_desc">"Access device info in order to identify your device
+Access accounts on your device in order to sign in using Mi Account
+Access storage in order to access and save cover art and downloaded files"</string>
   <string name="default_songtab_name">Playlist categories</string>
   <string name="delete">Delete</string>
   <string name="delete_comment_failed">"Couldn't delete comment"</string>
@@ -338,6 +352,7 @@
   <string name="edit">Delete multiple items</string>
   <string name="editmode_menu_delete">Delete</string>
   <string name="editmode_menu_share">Share</string>
+  <string name="emotion">Talk radio</string>
   <string name="empty_page_no_album">No albums.</string>
   <string name="empty_page_no_artist">No artists.</string>
   <string name="empty_view_default_text">No content</string>
@@ -391,6 +406,7 @@
   <string name="fm_local_not_listening">"Haven't listened yet"</string>
   <string name="fm_progress">Progress %1$s%%</string>
   <string name="fm_progress_finish">Played</string>
+  <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="fm_select_category">Select category</string>
   <string name="fm_sort_hot">Popular</string>
   <string name="fm_sort_new">New</string>
@@ -438,6 +454,8 @@
   <string name="group_favor">Presets</string>
   <string name="group_other">Others</string>
   <string name="guide_jump">Jump</string>
+  <string name="guide_radio">"Listen to local radio when you're offline"</string>
+  <string name="guide_radio_tip">Connect earphones to receive signal</string>
   <string name="handle_later">Not now</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="hint_frequency">Frequency: %1$s ~ %2$s</string>
@@ -447,14 +465,10 @@
   <string name="history_clear_fm">Clear radio playback history?</string>
   <string name="history_clear_music">Clear music playback history?</string>
   <string name="hot_icon_in_fast_indexer">H</string>
+  <string name="hot_list">Top charts</string>
   <string name="i_know">OK</string>
-  <string name="impunity_declaration_content">You must read and agree with our %1$s and %2$s before using this product.</string>
-  <string name="impunity_declaration_content_agreement">User Agreement</string>
-  <string name="impunity_declaration_content_html">&lt;Data&gt;Before using FM Radio, you must read and agree to our &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; and &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;. FM Radio also needs to connect to the internet and access your location info to work normally. Agree?&lt;/Data&gt;</string>
-  <string name="impunity_declaration_content_online">You must read and agree with our %1$s and %2$s before using online content.</string>
-  <string name="impunity_declaration_content_policy">Privacy Policy</string>
-  <string name="impunity_declaration_enjoy_now">Start</string>
   <string name="impunity_declaration_negative_text">Cancel</string>
+  <string name="impunity_declaration_negative_text_unloadable">Exit</string>
   <string name="impunity_declaration_positive_text">Agree</string>
   <string name="impunity_declaration_title">Terms of Service</string>
   <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
@@ -477,6 +491,16 @@
   <string name="like_comment_success">Liked</string>
   <string name="list">Channels</string>
   <string name="list_item_play_all_tracks">Play all</string>
+  <string name="listen_to_broadcast">Listen to the radio</string>
+  <string name="listen_to_cross_talk">Listen to stand-up acts</string>
+  <string name="listen_to_emotion">Listen to the talk radio</string>
+  <string name="listen_to_history">Listen to history programs</string>
+  <string name="listen_to_hotlist">Listen to top charts</string>
+  <string name="listen_to_music">Listen to music</string>
+  <string name="listen_to_news">Listen to the news</string>
+  <string name="listen_to_novel">Listen to audiobooks</string>
+  <string name="listen_to_storytelling">Listen to stories</string>
+  <string name="listen_without_headset">You can listen to the following programs without earphones:</string>
   <string name="live_stream_error">"This item isn't currently available due to copyright issues."</string>
   <string name="load_shuffle">Loading…</string>
   <string name="loadercontainer_loading">Just a sec…</string>
@@ -564,10 +588,12 @@
   <string name="msg_try_plug_headset">Connect headphones and try again.</string>
   <string name="multiple_select">Select</string>
   <string name="multiply_prefix">X%1$s</string>
+  <string name="music">Music</string>
   <string name="music_filter">Filter audio files</string>
   <string name="my_account">Mi Account</string>
   <string name="my_download">Downloads</string>
   <string name="my_favorite">Favorites</string>
+  <string name="name_download_count">(%1$d)</string>
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_playlist">Playlists</string>
   <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
@@ -578,10 +604,12 @@
   <string name="new_comment">最新评论(%s条)</string>
   <string name="new_frequency">New frequency</string>
   <string name="new_search_instant_title">Search：%1$s</string>
+  <string name="news">News</string>
   <string name="news_not_interest_positive">Not interested</string>
   <string name="next_station">Next station</string>
   <string name="next_time">Not now</string>
   <string name="nick_name">Name</string>
+  <string name="night_mode_switch">Night mode</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_broadcast">No Broadcast</string>
@@ -615,6 +643,7 @@
   <string name="notification_setting">Notification settings</string>
   <string name="notification_settings_summary">Receive notifications about news and latest releases</string>
   <string name="notification_settings_title">Push notifications</string>
+  <string name="novel">Audiobooks</string>
   <string name="nowplaying_bottom_bubble">Scroll to view more</string>
   <string name="nowplaying_bottom_statu_view_error">Network not connected click retry</string>
   <string name="nowplaying_bottom_statu_view_normal">Playing local songs</string>
@@ -719,7 +748,9 @@
   <string name="playlist_type_my">My playlists</string>
   <string name="playlist_type_recommend">Featured playlists</string>
   <string name="please_download_first">You need to download this song before you can use it as a ringtone</string>
+  <string name="please_plug_headset">Connect earphones</string>
   <string name="please_select_song">Choose a song first</string>
+  <string name="poor_signal_due_to_no_headset">Connect earphones to improve signal</string>
   <string name="post_comment_failed">"Couldn't publish comment"</string>
   <string name="post_comment_success">Published comment successfully</string>
   <string name="power_save_mode_dialog_msg">Battery saver is on. Start downloading now?</string>
@@ -760,6 +791,7 @@
   <string name="recently_played">Recently played</string>
   <string name="recently_played_songs">Recently played</string>
   <string name="recognize_calling_network_error">"Couldn't connect to the network. Wait a minute or two and try again."</string>
+  <string name="recommend_list">Recommended</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
   <string name="remain_prefix">%1$s remaining</string>
@@ -772,6 +804,7 @@
   <string name="reply_comment_hint">Reply to %s:</string>
   <string name="report">Report</string>
   <string name="report_comment_success">"We'll review your report. Thanks for your feedback."</string>
+  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.GET_ACCOUNTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restart_download">Restart</string>
   <string name="restart_immediate">Restart</string>
   <string name="resume_download">Resume</string>
@@ -881,6 +914,7 @@
   <string name="start_to_download">Added to download queue successfully</string>
   <string name="start_to_play">Play</string>
   <string name="station_check_favorite">Add to presets</string>
+  <string name="station_freq_format">%sMHz</string>
   <string name="stations_list">Station list</string>
   <string name="stations_list_empty">No presets</string>
   <string name="status_bar_notification_info_overflow">999+</string>
@@ -889,6 +923,7 @@
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
+  <string name="storytelling">Stories</string>
   <string name="subscribe_empty_hint">The items you add to favorites will appear here.</string>
   <string name="subscribe_success_location">"You can view the item you've just added in \"Favorites\"."</string>
   <string name="swipe_to_load_head_complete_fail">"Couldn't refresh. Try again."</string>

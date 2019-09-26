@@ -2748,6 +2748,41 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@drawable/powerclick01</item>
         <item>@drawable/powerclick01</item>
     </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Performance</item>
         <item>Balanced</item>
@@ -2919,13 +2954,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>show_menu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimize contrast for available light</item>
-        <item>"Increase display's contrast"</item>
+        <item>Adjust colors based on the current lighting</item>
+        <item>Always enhance colors</item>
         <item>Contrast will remain constant</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Automatic contrast</item>
-        <item>Increased contrast</item>
+        <item>Auto (recommended)</item>
+        <item>Saturated</item>
         <item>Standard</item>
     </string-array>
     <integer-array name="screen_resolution">

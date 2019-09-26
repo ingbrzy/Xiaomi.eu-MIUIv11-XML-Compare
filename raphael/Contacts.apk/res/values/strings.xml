@@ -135,6 +135,7 @@
   <string name="callrecordview_menu_delete_sim">Clear call history records (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Clear unknown numbers</string>
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
+  <string name="callrecordview_menu_identify_numbers">Identify phone numbers</string>
   <string name="callrecordview_menu_ip">Auto IP dialing</string>
   <string name="callrecordview_menu_livetalk">Top-up package</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -225,6 +226,7 @@
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
+  <string name="contact_detail_calllog_correct_yellow_page">Correct or report</string>
   <string name="contact_detail_calllog_empty">No history</string>
   <string name="contact_detail_entry_pay">Send money</string>
   <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
@@ -1169,7 +1171,7 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation">This contact will be separated into multiple contacts.</string>
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="star">*</string>
-  <string name="star_letter">，</string>
+  <string name="star_letter">,</string>
   <string name="starredList">Starred</string>
   <string name="starred_contacts">Favorites</string>
   <string name="status_available">Available</string>
@@ -1274,6 +1276,7 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowpage_address_tag">Address</string>
   <string name="yellowpage_fc_toast">"Can't use this feature because Yellow pages crashed."</string>
   <string name="yellowpage_mi_family">小米之家</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
@@ -1295,6 +1298,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
+  <string name="yellowpage_provider_label">Data provided by</string>
   <string name="yellowpage_search_the_yellowpage">Search Yellow pages</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="zero">0</string>
