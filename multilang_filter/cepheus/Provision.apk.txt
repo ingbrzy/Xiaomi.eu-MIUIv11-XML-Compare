@@ -50,7 +50,6 @@ Removed: [hy-rAM] string/other_settings_enhanced_lockscreen_summary (format mism
 Removed: [in] array/organized_locales (item mismatch)
 Removed: [in] string/other_settings_enhanced_lockscreen_summary (format mismatch)
 Removed: [it] array/organized_locales (item mismatch)
-Removed: [it-rIT] string/other_settings_enhanced_lockscreen_summary (format mismatch)
 Removed: [it] string/other_settings_enhanced_lockscreen_summary (format mismatch)
 Removed: [iw-rIL] array/organized_locales (item mismatch)
 Removed: [ka-rGE] array/organized_locales (item mismatch)
