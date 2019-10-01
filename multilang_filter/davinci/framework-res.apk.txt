@@ -72,6 +72,7 @@ Removed: [nl-rNL] string/ext_media_nomedia_notification_message (format mismatch
 Removed: [nl-rNL] string/ext_media_unmountable_notification_message (format mismatch)
 Removed: [pl] array/fingerprint_error_vendor (untranslatable)
 Removed: [pl] array/wfcSpnFormats (item mismatch)
+Removed: [pt-rBR] array/wfcSpnFormats (item mismatch)
 Removed: [ro] array/wfcSpnFormats (item mismatch)
 Removed: [ro] string/ext_media_badremoval_notification_message (format mismatch)
 Removed: [ro] string/ext_media_new_notification_message (format mismatch)
