@@ -2956,12 +2956,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>Adjust colors based on the current lighting</item>
         <item>Always enhance colors</item>
-        <item>Contrast will remain constant</item>
+        <item>Restore standard color of screen content with color calibration</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Auto (recommended)</item>
         <item>Saturated</item>
-        <item>Standard</item>
+        <item>Original color</item>
     </string-array>
     <integer-array name="screen_resolution">
         <item>1440</item>
@@ -3631,7 +3631,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Use randomized MAC (default)</item>
+        <item>Use randomized MAC</item>
         <item>Use device MAC</item>
     </string-array>
     <string-array name="wifi_privacy_values">
