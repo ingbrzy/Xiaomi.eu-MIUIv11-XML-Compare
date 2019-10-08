@@ -3,7 +3,7 @@
     <string name="date_time">EEEE, d. MMMM</string>
     <string name="date_time_12">EEEE, d. MMMM</string>
     <string name="location">Lokal</string>
-    <string name="resident_city">Standardstadt</string>
+    <string name="resident_city">Standardort</string>
     <string name="clock_local">Lokal</string>
-    <string name="clock_city">Stadt</string>
+    <string name="clock_city">Ort</string>
 </resources>
