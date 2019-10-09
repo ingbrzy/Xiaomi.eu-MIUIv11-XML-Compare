@@ -2998,7 +2998,6 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="launch_voice_assistant">Launch Voice assistant</string>
   <string name="launch_wifi_text">View details</string>
   <string name="launcher_icon">Icons</string>
-  <string name="launcher_minus_screen_title">Minus one screen</string>
   <string name="launcher_title">Home screen &amp; Recents</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info…</string>
@@ -3489,8 +3488,6 @@ There are other users present on this device.
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay Account</string>
-  <string name="minus_one_screen_google">Google</string>
-  <string name="minus_one_screen_none">None</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
