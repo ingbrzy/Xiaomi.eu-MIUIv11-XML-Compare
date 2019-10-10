@@ -290,6 +290,8 @@ in Portrait mode"</string>
   <string name="lighting_pattern_rainbow">Rainbow</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Stage</string>
+  <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
+  <string name="link_user_agreement">http://www.miui.com/res/doc/eula.html?lang=%s</string>
   <string name="live_activation_id"/>
   <string name="live_activation_license"/>
   <string name="live_edit_exit_confirm">Stop</string>
@@ -326,7 +328,9 @@ in Portrait mode"</string>
   <string name="live_sticker_network_error_hint">Network error</string>
   <string name="live_sticker_tab_name">TikTok Magic Sticker</string>
   <string name="live_sticker_updating">Updating…</string>
-  <string name="location_permission_des">为照片或视频添加位置信息</string>
+  <string name="location_permission_des">Remember locations for photos and videos</string>
+  <string name="location_permission_not_ask_again">Allow Camera to access your location in the Settings.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">Allow</string>
   <string name="lying_direct_hint">Current orientation</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Distance between the lens and the object shouldn't exceed 10cm"</string>
@@ -410,16 +414,10 @@ look larger on photos"</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"Camera doesn't work in Split screen"</string>
-  <string name="network_access_user_notice_agree">同意</string>
-  <string name="network_access_user_notice_message_live_video">"欢迎您使用短视频功能，我们将使用联网功能为您提供道具、音乐等趣味性功能。
-
-点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
-  <string name="network_access_user_notice_message_sticker">"欢迎您使用贴纸功能，我们将使用联网功能获取更多贴纸。
-
-点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
-  <string name="network_access_user_notice_message_voice_caption">"欢迎您使用语音字幕功能，我们将使用联网功能为您提供实时语音转字幕服务。
-
-点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+  <string name="network_access_user_notice_agree">Agree</string>
+  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Camera needs to connect to the internet to provide effects, music, and other features for short videos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Camera needs to connect to the internet to provide stickers for this feature.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Camera needs to connect to the internet to provide speech-to-text output functionality.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
   <string name="network_access_user_notice_title">Connecting to the internet</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">SD card is full</string>
