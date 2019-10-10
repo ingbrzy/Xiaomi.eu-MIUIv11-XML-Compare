@@ -4,7 +4,7 @@
     <string name="label_silent_mode">Lautlos</string>
     <string name="label_reboot">Neustart</string>
     <string name="label_shutdown">Ausschalten</string>
-    <string name="label_alert_reboot">Zum Neustart tippen</string>
+    <string name="label_alert_reboot">Für Neustart tippen</string>
     <string name="label_alert_recovery">Recovery-Modus</string>
     <string name="label_alert_fastboot">Fastboot-Modus</string>
     <string name="label_alert_shutdown">Zum Ausschalten tippen</string>
