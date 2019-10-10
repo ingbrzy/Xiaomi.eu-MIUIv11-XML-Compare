@@ -135,6 +135,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Not now</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Turn on</string>
   <string name="fp_nav_center_action_choose_dlg_title">Turn on Quick tap</string>
+  <string name="frequent_email">Frequently used email</string>
   <string name="frequent_phrases">Frequent phrases</string>
   <string name="functions_are_being_developed">This feature will be available soon. Stay tuned!</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
@@ -304,7 +305,7 @@
   <string name="status_bar_toggle_power_mode">Performance</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
-  <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
+  <string name="status_bar_toggle_quiet_mode_action">com.android.settings/com.android.settings.Settings$ZenModeSettingsActivity</string>
   <string name="status_bar_toggle_rotate">Rotate off</string>
   <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
   <string name="status_bar_toggle_screen_button">Buttons</string>
