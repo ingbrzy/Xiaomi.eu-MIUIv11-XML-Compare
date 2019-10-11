@@ -121,6 +121,13 @@
         <item>Large</item>
         <item>Huge</item>
     </string-array>
+    <string-array name="cell_icon_size_values">
+        <item>-20</item>
+        <item>-10</item>
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
     <string-array name="minus_screen_entries">
         <item>None</item>
         <item>App vault</item>
