@@ -90,6 +90,7 @@
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
+  <string name="cell_icon_size_title">Icon size</string>
   <string name="change_wallpaper">Change</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
@@ -266,8 +267,6 @@
   <string name="menu_workspace_preview">Home screen previews</string>
   <string name="mi_wallpaper">MIUI Themes</string>
   <string name="minus_one_screen">App vault</string>
-  <string name="minus_one_screen_google">Google</string>
-  <string name="minus_one_screen_none">None</string>
   <string name="miui_screen_config_title">Home screen settings</string>
   <string name="mtzgadget_missing_text">"Widget isn't available"</string>
   <string name="multi_selecting_tips">To pick up an app, drag its icon and drop here.</string>
