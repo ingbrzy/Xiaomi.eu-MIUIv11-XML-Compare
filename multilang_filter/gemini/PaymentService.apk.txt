@@ -1,1 +1,4 @@
+Removed: [de] string/mibi_title_gesture (untranslatable)
 Removed: [uk] array/passport_alphabet_table (item mismatch)
+Removed: [uk] string/mibi_title_gesture (untranslatable)
+Removed: [vi] string/mibi_title_gesture (untranslatable)

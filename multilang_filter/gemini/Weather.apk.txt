@@ -1,0 +1,2 @@
+Removed: [fr] string/card_item_ad_text (untranslatable)
+Removed: [vi] string/card_item_ad_text (untranslatable)
