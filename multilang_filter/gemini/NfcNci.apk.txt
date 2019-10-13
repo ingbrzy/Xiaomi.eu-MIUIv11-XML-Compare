@@ -1,4 +1,0 @@
-Removed: [fi-rFI] string/tap_to_beam (untranslatable)
-Removed: [pl] string/tap_to_beam (untranslatable)
-Removed: [vi] string/beam_tap_to_view (untranslatable)
-Removed: [vi] string/tap_to_beam (untranslatable)
