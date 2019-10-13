@@ -1,1 +1,5 @@
-Removed: [uk] array/passport_alphabet_table (item mismatch)
+Removed: [ja] string/mibi_recharge_value_money_special_unit (untranslatable)
+Removed: [ja] string/mibi_recharge_value_money (untranslatable)
+Removed: [ja] string/mibi_unit_value_redeemed (untranslatable)
+Removed: [ja] string/mibi_unit_value_remained (untranslatable)
+Removed: [ja] string/mibi_unit_value (untranslatable)

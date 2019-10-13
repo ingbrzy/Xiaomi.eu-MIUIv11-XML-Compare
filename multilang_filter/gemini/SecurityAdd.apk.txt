@@ -1,0 +1,3 @@
+Removed: [fr] string/password_change_value_preference_desc (untranslatable)
+Removed: [fr] string/password_change_value_preference_title (untranslatable)
+Removed: [vi] string/password_change_value_preference_title (untranslatable)
