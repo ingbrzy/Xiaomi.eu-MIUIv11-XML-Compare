@@ -1,4 +1,5 @@
 Removed: [pt-rBR] array/miui_nature_sound_array (untranslatable)
+Removed: [pt-rBR] array/mobile_operator_numeric_values (untranslatable)
 Removed: [pt-rBR] array/religious_languages (untranslatable)
 Removed: [pt-rBR] array/religious_regions (untranslatable)
 Removed: [pt-rBR] string/def_alarm_alert (untranslatable)
