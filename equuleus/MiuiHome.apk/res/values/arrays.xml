@@ -15,6 +15,13 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
+    <string-array name="drawer_transparency">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Wallpaper</item>
         <item>Widgets</item>
