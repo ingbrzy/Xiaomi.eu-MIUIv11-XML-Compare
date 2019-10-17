@@ -499,6 +499,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_title">Slider Hall</string>
   <string name="cit_soft_torch">front soft flash led</string>
+  <string name="cit_soft_torch_off">Turn off soft flash light</string>
   <string name="cit_soft_torch_on">Turn on soft flash light</string>
   <string name="cit_splash_check_summary">Make sure there is black screen phenomenon more 5s.</string>
   <string name="cit_start_calibration">Calibrate</string>
@@ -1291,6 +1292,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="test_bio_no_finger_tips">测试时请保证模组上方无遮挡</string>
   <string name="test_bio_recived_up_message">收到测试头提起消息，即将开始测试</string>
   <string name="test_bio_waiting_start">请抬起测试头，%d 秒后开始进行测试</string>
+  <string name="test_bottom_speaker">bottom_speaker</string>
   <string name="test_capture">图像质量测试</string>
   <string name="test_capture_title">图像质量测试:</string>
   <string name="test_case_status"/>
@@ -1352,6 +1354,7 @@ Please click the appropriate button according to the number you hear"</string>
   <string name="test_success_tips_multi_case_and" formatted="false">成功条件: %s%s %s</string>
   <string name="test_success_tips_string" formatted="false">成功条件：%s%s</string>
   <string name="test_top_mic">Top MIC</string>
+  <string name="test_top_speaker">top_speaker</string>
   <string name="test_unfinished">未完成</string>
   <string name="testagain">You can Press key HOME to test again</string>
   <string name="testing">AutoTest Running...</string>

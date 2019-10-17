@@ -28,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="app_name">MIUI Bluetooth</string>
+  <string name="blackshark_name">H66L</string>
   <string name="ble_device_address">Bluetooth Smart device MAC</string>
   <string name="ble_device_profile">Bluetooth device profile</string>
   <string name="ble_device_profile_header_title">Settings</string>
@@ -48,6 +49,7 @@
   <string name="device_picker">Bluetooth device settings</string>
   <string name="disconnect">Unpair</string>
   <string name="expand_button_title">Advanced</string>
+  <string name="fast_connect_device_battery">Battery</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
   <string name="fast_connect_device_connect_cancel">Cancel</string>
