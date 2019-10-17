@@ -1,1 +1,0 @@
-Removed: [pt-rBR] array/config_skuSupportsSecureNfc (untranslatable)
