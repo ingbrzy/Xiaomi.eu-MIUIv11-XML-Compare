@@ -134,6 +134,7 @@ Charger test end, please plug out the charger"</string>
   <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
+  <string name="cit_analog_headset_plug_hint">Connect analog headphones now</string>
   <string name="cit_apk_signature_failed">apk signature FAILED</string>
   <string name="cit_apk_signature_passed">apk signature PASSED</string>
   <string name="cit_aud_current_state">Current State:</string>
@@ -399,6 +400,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC value should appear below,please test for light sensor</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
+  <string name="cit_macro_camera_check_title">macro camera check</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
   <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
   <string name="cit_main_camera_check_summary">"Test instructions:
@@ -682,7 +684,6 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_test_device_value_set">modify device state</string>
   <string name="cit_tool_modem_test_get">update</string>
   <string name="cit_tool_modem_test_mode">Modem Test Mode Setting</string>
-  <string name="cit_tool_modem_test_mode_close">close test mode</string>
   <string name="cit_tool_modem_test_mode_closed">test mode closed</string>
   <string name="cit_tool_modem_test_mode_mismatch">test mode mismatched</string>
   <string name="cit_tool_modem_test_mode_opened">test mode opened</string>
@@ -758,6 +759,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
   <string name="cit_touch_calib_title">Touch Calibration</string>
   <string name="cit_touch_panel_test_title">Touch sensor</string>
+  <string name="cit_ultra_camera_check_title">ultra camera check</string>
   <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
 test fail!"</string>
   <string name="cit_usb_OTG_in">USB_OTG device has plugged in, please plug out and reverse plug in</string>
@@ -1239,6 +1241,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="start_far">Start FAR</string>
   <string name="start_frr">Start FRR</string>
   <string name="status">Status</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_failed">One or more tests failed</string>
   <string name="status_passed">Passed</string>
   <string name="status_running">Running</string>
@@ -1289,6 +1292,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="test_bio_no_finger_tips">测试时请保证模组上方无遮挡</string>
   <string name="test_bio_recived_up_message">收到测试头提起消息，即将开始测试</string>
   <string name="test_bio_waiting_start">请抬起测试头，%d 秒后开始进行测试</string>
+  <string name="test_bottom_speaker">bottom_speaker</string>
   <string name="test_capture">图像质量测试</string>
   <string name="test_capture_title">图像质量测试:</string>
   <string name="test_case_status"/>
@@ -1350,6 +1354,7 @@ Please click the appropriate button according to the number you hear"</string>
   <string name="test_success_tips_multi_case_and" formatted="false">成功条件: %s%s %s</string>
   <string name="test_success_tips_string" formatted="false">成功条件：%s%s</string>
   <string name="test_top_mic">Top MIC</string>
+  <string name="test_top_speaker">top_speaker</string>
   <string name="test_unfinished">未完成</string>
   <string name="testagain">You can Press key HOME to test again</string>
   <string name="testing">AutoTest Running...</string>
