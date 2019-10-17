@@ -8,7 +8,7 @@
     <string name="weather_type_null">'کوئی ڈیٹا نہیں ہے'</string>
     <string name="weather_type_0">صاف</string>
     <string name="weather_type_1">ابرآلود</string>
-    <string name="weather_type_2">گرد و غبار والا</string>
+    <string name="weather_type_2">دھندلا</string>
     <string name="weather_type_3">کہر آلود</string>
     <string name="weather_type_4">شدید طوفانی بارش</string>
     <string name="weather_type_5">طوفانی بارش</string>
