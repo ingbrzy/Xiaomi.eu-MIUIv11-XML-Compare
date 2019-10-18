@@ -95,7 +95,6 @@
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
-  <string name="cell_icon_size_title">Icon size</string>
   <string name="change_wallpaper">Change</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
