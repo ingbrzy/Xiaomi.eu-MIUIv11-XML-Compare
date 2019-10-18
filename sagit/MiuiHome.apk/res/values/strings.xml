@@ -15,6 +15,9 @@
   <string name="all_apps_setting_drawer_tips_desc">App drawer is opened by swiping up on the Home screen. Switching to the Home screen mode with App drawer will make Search unavailable. Switch anyway?</string>
   <string name="all_apps_setting_drawer_tips_title">Using App drawer</string>
   <string name="all_apps_setting_drawer_title">With App drawer</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">Original layout</string>
+  <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
   <string name="all_apps_slide_up_tips">Swiping up is reserved for opening App drawer. Switch to the regular Home screen mode and try again.</string>
   <string name="all_apps_suggestions">App suggestions</string>
@@ -229,6 +232,7 @@
   <string name="home_screen_settings">Home screen</string>
   <string name="home_slide_up_action">Swipe up on the Home screen</string>
   <string name="icon_reorganize_channel">Arrange icons</string>
+  <string name="icon_size">Icon size</string>
   <string name="image_too_small_message">"Original image isn't big enough."</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact</string>
