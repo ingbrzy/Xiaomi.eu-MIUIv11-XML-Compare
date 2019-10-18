@@ -1,0 +1,3 @@
+Removed: [pt-rBR] string/version_type (untranslatable)
+Removed: [pt-rPT] string/version_type (untranslatable)
+Removed: [ru] string/version_type (untranslatable)
