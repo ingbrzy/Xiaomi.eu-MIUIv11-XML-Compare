@@ -3525,6 +3525,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
+        <item>@string/wifi_security_sae</item>
     </string-array>
     <array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
