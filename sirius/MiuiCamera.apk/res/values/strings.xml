@@ -34,7 +34,7 @@
   <string name="accessibility_filter_open_panel">Opened filter menu</string>
   <string name="accessibility_filter_pad_close">Filter menu is hidden</string>
   <string name="accessibility_flash_auto">Auto flash is on</string>
-  <string name="accessibility_flash_back_soft_light">闪光灯，柔光状态</string>
+  <string name="accessibility_flash_back_soft_light">Flash is working in the Soft light mode</string>
   <string name="accessibility_flash_off">Flash is off</string>
   <string name="accessibility_flash_on">Flash is on</string>
   <string name="accessibility_flash_torch">Flash is on, torch mode</string>
@@ -51,6 +51,8 @@
   <string name="accessibility_intent_done_retry">Retry</string>
   <string name="accessibility_lighting_panel_off">Studio lighting bar is hidden</string>
   <string name="accessibility_lighting_panel_on">Showing studio lighting bar</string>
+  <string name="accessibility_mimovie_off">Movie mode is off</string>
+  <string name="accessibility_mimovie_on">Movie mode is on</string>
   <string name="accessibility_more">More</string>
   <string name="accessibility_open">Turned on</string>
   <string name="accessibility_peak">Focus peak button</string>
@@ -130,10 +132,13 @@ and optimizes your photos based on this info"</string>
   <string name="cannot_connect_camera_volte_call">Video call is in progress, try again later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
   <string name="capture_back_pressed_hint">Tap again to exit</string>
+  <string name="ccc_temperature_warning_msg">Your device is overheated. Camera will be closed in %d seconds. Your photos or videos will be saved automatically.</string>
+  <string name="ccc_temperature_warning_title">Device is overheated</string>
   <string name="close_back_flash_toast">"Your device is overheated. Can't use flash now."</string>
   <string name="close_front_flash_toast">"Your device is overheated. Can't use flash now."</string>
   <string name="color_effect_entry_berry">Berries</string>
   <string name="color_effect_entry_blackwhite">B&amp;W</string>
+  <string name="color_effect_entry_classic">Classic</string>
   <string name="color_effect_entry_cookie">Cookie</string>
   <string name="color_effect_entry_delicacy">Gourmet</string>
   <string name="color_effect_entry_fade">Fade</string>
@@ -156,7 +161,9 @@ and optimizes your photos based on this info"</string>
   <string name="color_effect_live_years">Sepia</string>
   <string name="config_name_group">Group selfie</string>
   <string name="config_name_hht">HHT</string>
+  <string name="config_name_livephoto">@string/camera_liveshot_on_tip</string>
   <string name="config_name_magic">Magic</string>
+  <string name="config_name_mimovie">Movie mode</string>
   <string name="config_name_scene">Scene</string>
   <string name="config_name_setting">Settings</string>
   <string name="config_name_sound">Audio</string>
@@ -189,7 +196,7 @@ and optimizes your photos based on this info"</string>
   <string name="dialog_google_lens_option_0">Google Lens (Recommended)</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (%ds)</string>
-  <string name="dirty_tip_toast">镜头有脏污，请擦拭</string>
+  <string name="dirty_tip_toast">The lens is dirty. Wipe it clean.</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dual_camera_lens_covered_toast">The lens is covered.</string>
   <string name="dual_camera_lowlight_toast">"Looks like it's too dark."</string>
@@ -265,9 +272,10 @@ and then create a shot with a minimal amount of noise."</string>
   <string name="hint_groupshot">"Camera will take multiple photos
 and then create a shot where everyone looks best."</string>
   <string name="hint_groupshot_beauty">"Can't use Beautify in group shots"</string>
+  <string name="hint_mimovie">Shoot in landscape mode for best effect</string>
   <string name="hint_slow_motion">The video you shoot will be played slower.</string>
-  <string name="hint_subtitle">边录边说，语音自动转字幕</string>
-  <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
+  <string name="hint_subtitle">"Dictate subtitles while you're shooting video"</string>
+  <string name="hint_subtitle_prompt">You can dictate subtitles now</string>
   <string name="hunt_dual_water_mark">Dual camera watermark will be added automatically.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Install</string>
@@ -435,7 +443,7 @@ look larger on photos"</string>
   <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
   <string name="permission_phone_state">android.permission-group.PHONE@0</string>
   <string name="permission_storage">android.permission-group.STORAGE@0</string>
-  <string name="photo_assistance_tips_title">拍照辅助提示</string>
+  <string name="photo_assistance_tips_title">Live tips</string>
   <string name="pic_flaw_blink_more">照片拍摄有人眨眼</string>
   <string name="pic_flaw_blink_one">照片拍摄有眨眼</string>
   <string name="pic_flaw_cover">照片拍摄有遮挡</string>
@@ -468,7 +476,7 @@ the background on your photos"</string>
 and brings out the people in the front."</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Try Portrait mode.
 Keep the subject sharp while blurring the background."</string>
-  <string name="pref_6mw_title">TEST60</string>
+  <string name="pref_960_watermark_title">960FPS watermark</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_ai_detect">AI detection</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -760,7 +768,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">REGULAR</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
   <string name="pref_camera_zoom_mode_title">LENS</string>
@@ -786,8 +795,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_google_lens_title">Lens suggestions</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
   <string name="pref_hdr_value_default">off</string>
-  <string name="pref_lens_dirty_detect_summary">镜头外部有灰尘或污垢时，会在拍照界面给我擦拭镜头的提示</string>
-  <string name="pref_lens_dirty_detect_title">镜头脏污提示</string>
+  <string name="pref_lens_dirty_detect_summary">Receive a notification when the lens is dirty</string>
+  <string name="pref_lens_dirty_detect_title">Notify about dirty lens</string>
   <string name="pref_live_volumekey_function_default">volume</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
@@ -797,8 +806,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">You can only record 720p videos with 960fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
-  <string name="pref_photo_assistance_tips_off">关</string>
-  <string name="pref_photo_assistance_tips_on">开</string>
+  <string name="pref_photo_assistance_tips_off">Off</string>
+  <string name="pref_photo_assistance_tips_on">On</string>
   <string name="pref_pic_flaw_tip_summary">拍摄的照片人物有闭眼或照片边缘有遮挡时，会在拍照界面实时给出提示</string>
   <string name="pref_pic_flaw_tip_title">照片瑕疵提示</string>
   <string name="pref_priority_storage_title">Save to SD card</string>
@@ -835,6 +844,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
   <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
   <string name="pref_video_hfr_title">Video HFR</string>
+  <string name="pref_video_quality_1080P">6</string>
   <string name="pref_video_quality_default">6</string>
   <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
   <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
@@ -843,10 +853,12 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
   <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
   <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+  <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
   <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
   <string name="pref_video_quality_entry_value_4kuhd">8</string>
   <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
   <string name="pref_video_quality_entry_value_720p_60fps">5,60</string>
+  <string name="pref_video_quality_entry_value_8kuhd">3001</string>
   <string name="pref_video_quality_title">Video quality</string>
   <string name="pref_video_quality_value_autozoom">6</string>
   <string name="pref_video_speed_entry_fast">Fast</string>
@@ -854,7 +866,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_video_speed_entry_slow">Slow</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
-  <string name="pref_video_subtitle">语音字幕</string>
+  <string name="pref_video_subtitle">Subtitles</string>
   <string name="pref_video_time_lapse_frame_interval_default">120</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3-second interval)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4-second interval)</string>
@@ -876,10 +888,10 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_watermark_title">Watermark</string>
   <string name="preparing_sd">Checking SD card…</string>
   <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
-  <string name="recommend_macro_mode">建议开启“微距”模式</string>
-  <string name="recommend_portrait">建议使用“人像”模式</string>
-  <string name="recommend_soft_light_tip">Use flash in the soft light mode</string>
-  <string name="recommend_super_night">建议使用“夜景”模式</string>
+  <string name="recommend_macro_mode">Try the Macro mode</string>
+  <string name="recommend_portrait">Try the Portrait mode</string>
+  <string name="recommend_soft_light_tip">Turn on flash</string>
+  <string name="recommend_super_night">Try the Night mode</string>
   <string name="record_back_pressed_hint">Tap again to stop recording</string>
   <string name="required_permissions">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
@@ -912,12 +924,13 @@ Keep the subject sharp while blurring the background."</string>
   <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
   <string name="start_capture">OK</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sticker_tab1">Cute</string>
   <string name="sticker_tab2">Funny</string>
-  <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
-  <string name="super_eis">超级防抖</string>
-  <string name="super_eis_disabled_hint">超级防抖已关闭</string>
-  <string name="super_night_hint">画质优化中，请持稳手机</string>
+  <string name="subtitle_network_exception_tips">"Couldn't connect to the network. Can't transcribe now."</string>
+  <string name="super_eis">Super stabilization</string>
+  <string name="super_eis_disabled_hint">Super stabilization is off</string>
+  <string name="super_night_hint">Optimizing image… Keep your device stable.</string>
   <string name="super_night_toast">Keep your phone steady while taking a photo</string>
   <string name="tap_to_exposure">Tap to adjust exposure manually</string>
   <string name="tap_to_focus">Tap to focus</string>
@@ -930,14 +943,18 @@ Keep the subject sharp while blurring the background."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"Couldn't take photo"</string>
   <string name="ubifocus_capture_warning_message">For best results, your photo should contain objects both near (less than 1 meter from the lens) and far</string>
+  <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>
   <string name="ultra_pixel_64mp">64MP</string>
   <string name="ultra_pixel_device">64MP</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD is off</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD is on</string>
-  <string name="ultra_pixel_portrait_hint">超清人像</string>
+  <string name="ultra_pixel_portrait_hint">Low light portrait</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Zoom doesn't work in %s Ultra HD mode"</string>
+  <string name="ultra_tele_use_hint_text_body">"Use 50X zoom to capture distant objects
+in greater detail"</string>
+  <string name="ultra_tele_use_hint_text_title">50X zoom</string>
   <string name="ultra_wide_bokeh_close_tip">Full body mode is off</string>
   <string name="ultra_wide_bokeh_open_tip">Full body mode</string>
   <string name="ultra_wide_close_tip">Ultra wide angle mode is off</string>
@@ -949,7 +966,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="ultra_wide_open_tip">Ultra wide angle mode</string>
   <string name="ultra_wide_open_tip_sat">0.6X ultra wide angle</string>
   <string name="ultra_wide_recommend_tip_hint">Try Ultra wide angle mode</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Try 0.6X ultra wide angle mode</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Switch to 0.6X ultra wide angle</string>
   <string name="user_agree">Agree</string>
   <string name="user_define_watermark_cancel">Cancel</string>
   <string name="user_define_watermark_save">Save</string>
@@ -966,13 +983,15 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Size limit reached.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
+  <string name="video_ultra_clear_tip_8k">8K UHD</string>
   <string name="view_privacy_policy">View Privacy Policy</string>
-  <string name="vv_duartion_hint">%1$s | %2$d段 |%3$s秒</string>
-  <string name="vv_hint">VISION仅支持横屏拍摄</string>
-  <string name="vv_start">开拍VISION</string>
-  <string name="vv_use_hint_text_body">"开始VISION录制，更潮流的拼接玩法
-随后拍出时尚大片"</string>
-  <string name="vv_use_hint_text_title">视频VISION</string>
+  <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
+  <string name="vv_hint">You can shoot vlogs only in the landscape mode</string>
+  <string name="vv_stability_hint">Keep your device stable</string>
+  <string name="vv_start">Shoot vlog</string>
+  <string name="vv_use_hint_text_body">"Vlog mode allows you
+to record and edit videos on the go"</string>
+  <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Just a sec…</string>
   <string name="wideselfie_press_shoot_key_to_start">Tap the shutter button</string>
   <string name="wideselfie_result_image_lossless">"Couldn't create panoramic shot"</string>
