@@ -571,6 +571,7 @@
     <array name="config_oemUsbModeOverride" />
     <string-array name="config_priorityOnlyDndExemptPackages">
         <item>com.android.dialer</item>
+        <item>com.tencent.mm</item>
     </string-array>
     <integer-array name="config_protectedNetworks">
         <item>10</item>
