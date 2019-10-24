@@ -26,7 +26,7 @@
   <string name="access_control_app_is_launching">App is starting</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
-  <string name="access_control_need_password">"%s added successfully
+  <string name="access_control_need_password">"%s added successfullyr
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
   <string name="accessibility_gameboosterservice_description">"Turn on to silence incoming WeChat calls when you're playing games"</string>
@@ -415,7 +415,7 @@ You will not lose any app data."</string>
   <string name="battery_charge_estimating">Calculating</string>
   <string name="battery_charge_full">Charged</string>
   <string name="battery_charging_prompt">Charging</string>
-  <string name="battery_desc_ambient_display">Power consumed by Ambient display</string>
+  <string name="battery_desc_ambient_display">Power consumed by Always-on display</string>
   <string name="battery_desc_apps">Battery used by app</string>
   <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
   <string name="battery_desc_display">Battery used by the display and backlight</string>
@@ -627,11 +627,15 @@ You will not lose any app data."</string>
   <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
   <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_HIPS_Perm_Location_Desc">get precise location (GPS and network-based)</string>
+  <string name="cta_close_dialog_cancel">Cancel</string>
+  <string name="cta_close_dialog_content">"If you restrict Security's access to the internet and your location info, you won't be able to receive earthquake warnings, update virus definitions and blocklist info. Your device will become less secure. Restrict anyway?"</string>
+  <string name="cta_close_dialog_ok">Restrict</string>
+  <string name="cta_close_dialog_title">Restricting access</string>
   <string name="cta_dialog_negative">Exit</string>
   <string name="cta_dialog_positive">Agree</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_main_purpose">Welcome to Security! You can use this app to clear trash on your device, find and neutralize viruses, optimize performance for gaming, save battery, manage apps, and more.</string>
-  <string name="cta_settings">Allow internet connection</string>
+  <string name="cta_settings">Allow to connect to the internet and access location</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
   <string name="customize_limit_pkg">%s (custom)</string>
   <string name="customizer_mode_user_define_name">My rules</string>
@@ -1571,7 +1575,7 @@ to respond"</string>
   <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
   <string name="mixed_pattern_entered_header">Set password successfully</string>
-  <string name="mixed_recording_intro_header">Enter at least 4 characters</string>
+  <string name="mixed_recording_intro_header">Enter %1$s-%2$s characters</string>
   <string name="mixed_retry_button_text">Cancel</string>
   <string name="mixed_settings_help_how_to_record">How to set password</string>
   <string name="modify_password_mode">&lt;u&gt;Change password type&lt;/u&gt;</string>
@@ -1613,20 +1617,20 @@ to respond"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "&lt;b&gt;1. Public WLAN network issues&lt;/b&gt;"
+If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet service provider.
+ "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+Make sure that your account is in good standing with your Internet service provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+Try rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+Read the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
+ "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -1879,13 +1883,18 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
   <string name="pm_root_success_notification_title">Allowed root access</string>
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
-  <string name="power_ambient_display">Ambient display</string>
+  <string name="power_ambient_display">Always-on display</string>
   <string name="power_analysis_consume_title">Battery usage</string>
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
   <string name="power_autorun_apps_empty">No autostart apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analyze battery usage</string>
   <string name="power_cell">Cell standby</string>
+  <string name="power_center_5g_save_close_detail">5G battery saver increases battery life without affecting 5G connectivity. Turn off anyway?</string>
+  <string name="power_center_5g_save_close_later">"Don't turn off"</string>
+  <string name="power_center_5g_save_close_title">Turning off 5G battery saver</string>
+  <string name="power_center_5g_save_summary_text">Make 5G connectivity less power consuming in certain scenarios</string>
+  <string name="power_center_5g_save_title_text">5G battery saver</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_back">Back</string>
   <string name="power_center_battery_last">%s remaining</string>
@@ -2144,6 +2153,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="privacy_prompt_upload">Upload</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Media server</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Ad</string>
   <string name="prompt_all">Ask for all</string>
   <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
@@ -2282,6 +2292,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="shield_keyboard_summary">Restrict buttons and full screen gestures during games</string>
   <string name="shield_keyboard_title">Restrict buttons and gestures</string>
   <string name="shoop_again_float">咻一咻</string>
+  <string name="shortcut_title_scan">Scan</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
   <string name="show_system_app">Show system apps</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the Notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings.</string>
   <string name="show_traffic_dialog_title">Show usage in Notification shade</string>
@@ -2551,7 +2563,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="superpower_progress_turnoff_process">Restrict background activity</string>
   <string name="superpower_savemode_limit1">Dark theme</string>
   <string name="superpower_savemode_limit2">Restrict background activity</string>
-  <string name="superpower_savemode_limit3">Restrict power-consuming activity (sync, GPS, vibration, Ambient display, etc.)</string>
+  <string name="superpower_savemode_limit3">Restrict power-consuming activity (sync, GPS, vibration, Always-on display, etc.)</string>
   <string name="superpower_savemode_limit4">Allow selected apps to work normally</string>
   <string name="superpower_settings">Ultra battery saver</string>
   <string name="superpower_settins_autoenter_summary">Turn on Ultra battery saver automatically when the battery is only 10% charged</string>
@@ -2836,7 +2848,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plan’s data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>

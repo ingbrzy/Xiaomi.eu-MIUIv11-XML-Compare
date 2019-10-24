@@ -15,6 +15,13 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
+    <string-array name="drawer_transparency">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Wallpaper</item>
         <item>Widgets</item>
@@ -24,6 +31,10 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="fast_scroller_style_values">
+        <item>default</item>
+        <item>letter</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Clear</item>
@@ -55,6 +66,13 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Default</item>
         <item>Classic</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
     </string-array>
     <array name="item_shake_animation_scaler">
         <item>0.0dip</item>
@@ -113,5 +131,15 @@
         <item>home_edit_box_area_4_2</item>
         <item>home_edit_box_area_4_3</item>
         <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <string-array name="minus_screen_entries">
+        <item>None</item>
+        <item>App vault</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="minus_screen_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>
