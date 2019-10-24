@@ -27,6 +27,8 @@
         <item>tiffany</item>
         <item>mido</item>
         <item>oxygen</item>
+        <item>olivelite</item>
+        <item>willow</item>
     </string-array>
     <string-array name="device_need_operating_mode">
         <item>polaris</item>
@@ -45,6 +47,7 @@
         <item>raphael</item>
         <item>raphaelin</item>
         <item>crux</item>
+        <item>tucana</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
@@ -56,5 +59,6 @@
         <item>sirius</item>
         <item>sagit</item>
         <item>chiron</item>
+        <item>laurus</item>
     </string-array>
 </resources>

@@ -4,7 +4,7 @@
     <string name="date_time_12">EEE dd MMMM</string>
     <string name="desc_date_format">EEEE dd MMM</string>
     <string name="desc_date_format_12">EEEE dd MMM</string>
-    <string name="desc_time">'ពេលវេលាបច្ចុប្បន្ន\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', ប៉ះពីរដងដើម្បីបញ្ចូលកម្មវិធីនាឡិកា'</string>
+    <string name="desc_time">'ពេលវេលាបច្ចុប្បន្ន\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', ចុចពីរដងដើម្បីចូលទៅកម្មវិធីនាឡិកា'</string>
     <string name="weather_type_null">'មិនមានទិន្នន័យ'</string>
     <string name="weather_type_0">ស្រឡះ</string>
     <string name="weather_type_1">មានពពក</string>
