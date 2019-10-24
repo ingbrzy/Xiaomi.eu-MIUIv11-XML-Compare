@@ -32,6 +32,7 @@
   <string name="download_fail_desc">MD5 Sum does not match…</string>
   <string name="downloading">Downloading:</string>
   <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
+  <string name="fetching_data">Fetching download link, please wait…</string>
   <string name="install_desc">Device will reboot to recovery and install chosen file: &lt;b&gt;%1$s&lt;/b&gt;"
 Data will not be wiped."</string>
   <string name="install_title">Are you sure to continue?</string>
@@ -43,6 +44,7 @@ Data will not be wiped."</string>
   <string name="message_title">NOTE!</string>
   <string name="new_version">New version found!</string>
   <string name="no_info">No info available.</string>
+  <string name="no_mirror">All mirrors are currently offline, try later…</string>
   <string name="no_network">No network access.</string>
   <string name="no_update">You are up to date!</string>
   <string name="no_xioamieu">"You are not using MIUI Rom created by Xiaomi.eu team!

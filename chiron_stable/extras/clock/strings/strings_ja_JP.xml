@@ -5,7 +5,7 @@
     <string name="desc_date_format">M月d日 EEEE</string>
     <string name="desc_date_format_12">M月d日 EEEE</string>
     <string name="desc_time">'現在時刻\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', ダブルタップして時計アプリを開く'</string>
-    <string name="weather_type_null">'データがありません'</string>
+    <string name="weather_type_null">'データなし'</string>
     <string name="weather_type_0">晴れ</string>
     <string name="weather_type_1">曇り</string>
     <string name="weather_type_2">スモッグ</string>
