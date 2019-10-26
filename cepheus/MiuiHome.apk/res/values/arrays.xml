@@ -32,10 +32,6 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="fast_scroller_style_values">
-        <item>default</item>
-        <item>letter</item>
-    </string-array>
     <string-array name="gadget_weather_image">
         <item>Clear</item>
         <item>Cloudy</item>
