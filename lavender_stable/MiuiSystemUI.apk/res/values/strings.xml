@@ -956,12 +956,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
   <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
   <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-  <string name="keyguard_left_calculator">Calculator</string>
-  <string name="keyguard_left_calendar">Calendar</string>
-  <string name="keyguard_left_contacts">Contacts</string>
   <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-  <string name="keyguard_left_music">Music</string>
-  <string name="keyguard_left_notes">Notes</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Torch</string>

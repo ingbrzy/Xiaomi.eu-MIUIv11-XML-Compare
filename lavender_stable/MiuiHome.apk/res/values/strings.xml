@@ -14,6 +14,9 @@
   <string name="all_apps_setting_drawer_tips_desc">App drawer is opened by swiping up on the Home screen. Switching to the Home screen mode with App drawer will make Search unavailable. Switch anyway?</string>
   <string name="all_apps_setting_drawer_tips_title">Using App drawer</string>
   <string name="all_apps_setting_drawer_title">With App drawer</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">Original layout</string>
+  <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
   <string name="all_apps_slide_up_tips">Swiping up is reserved for opening App drawer. Switch to the regular Home screen mode and try again.</string>
   <string name="all_apps_suggestions">App suggestions</string>
@@ -75,6 +78,7 @@
   <string name="apply_as_lock_screen">Set as Lock screen</string>
   <string name="apply_as_wallpaper">Set as Home screen</string>
   <string name="apply_both">Set both</string>
+  <string name="apply_text">APPLY</string>
   <string name="aqi_quality_index_dangerous">Dangerous</string>
   <string name="aqi_quality_index_good">Good</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>
@@ -127,6 +131,11 @@
   <string name="download_action">Download</string>
   <string name="drag_multiple_item_name"/>
   <string name="drag_single_item_name"/>
+  <string name="drawer_background">Backgrounds</string>
+  <string name="drawer_background_dark">Dark</string>
+  <string name="drawer_background_light">Light</string>
+  <string name="drawer_background_transparency">App drawer background transparency</string>
+  <string name="drawer_settings">App drawer</string>
   <string name="dual_app">Dual apps</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -220,6 +229,7 @@
   <string name="home_screen">Home screen</string>
   <string name="home_slide_up_action">Swipe up on the Home screen</string>
   <string name="icon_reorganize_channel">Arrange icons</string>
+  <string name="icon_size">Icon size</string>
   <string name="image_too_small_message">"Original image isn't big enough."</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact</string>
@@ -235,6 +245,7 @@
   <string name="liked">Added to favorites</string>
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
+  <string name="local_apps">Local apps</string>
   <string name="local_wallpaper">Downloaded</string>
   <string name="lock_screen">Lock screen</string>
   <string name="lock_screen_cells_title">Lock Home screen layout</string>
@@ -266,8 +277,6 @@
   <string name="menu_workspace_preview">Home screen previews</string>
   <string name="mi_wallpaper">MIUI Themes</string>
   <string name="minus_one_screen">App vault</string>
-  <string name="minus_one_screen_google">Google</string>
-  <string name="minus_one_screen_none">None</string>
   <string name="miui_screen_config_title">Home screen settings</string>
   <string name="mtzgadget_missing_text">"Widget isn't available"</string>
   <string name="multi_selecting_tips">To pick up an app, drag its icon and drop here.</string>
@@ -322,6 +331,7 @@
   <string name="recent_apps">Recent</string>
   <string name="recents_config_title">Recents</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
+  <string name="recommend_app">App suggestions</string>
   <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_no_data">No data</string>
   <string name="recommend_apps_no_data_toast">No recommendations for now.</string>
@@ -341,6 +351,8 @@
   <string name="screen_cells_config_title">Home screen layout</string>
   <string name="screen_locked_toast">Home screen layout is locked.</string>
   <string name="screen_number">%d screen</string>
+  <string name="search_in_apps_store">Search for \"%1$s\" in %2$s</string>
+  <string name="search_no_result">"Couldn't find any results"</string>
   <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
@@ -357,6 +369,7 @@
   <string name="shortcut_share_dialog_title">Disclaimer</string>
   <string name="show_all">Show all</string>
   <string name="show_mem_info_title">Show memory status</string>
+  <string name="show_most_popular_apps_you_used">Display most frequently used apps in the drawer</string>
   <string name="show_recents_recommend_title">Show suggestions</string>
   <string name="sort_by_abc">Sort by name</string>
   <string name="sort_by_frequency">Sort by usage</string>
@@ -370,6 +383,7 @@
   <string name="status_paused">Paused</string>
   <string name="status_pending">Waiting</string>
   <string name="system_shortcuts_more_operation">App info</string>
+  <string name="system_text">System</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Select folder</string>
   <string name="title_select_shortcut">Select shortcut</string>
@@ -394,8 +408,6 @@
   <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"?</string>
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="unnamed_folder_name">Folder</string>
-  <string name="user_query_notification_text">桌面操作是否舒适？动画是否显示流畅？参加调研快快告诉我们吧!</string>
-  <string name="user_query_notification_title">MIUI系统桌面邀请您参加使用方式调研</string>
   <string name="wallpaper">Wallpaper</string>
   <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_failed_message">"Can't set wallpaper"</string>
