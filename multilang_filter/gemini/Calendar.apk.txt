@@ -1,8 +1,6 @@
 Removed: [cs] array/preferences_default_reminder_values (untranslatable)
 Removed: [cs] array/reminder_minutes_values (untranslatable)
 Removed: [fi-rFI] string/monthly_on_day_count (format mismatch)
-Removed: [fr] string/life_card_gas_bill_secondary (format mismatch)
-Removed: [fr] string/trip_card_hotel_secondary (format mismatch)
 Removed: [hr] array/preferences_default_reminder_values (untranslatable)
 Removed: [hr] array/reminder_minutes_values (untranslatable)
 Removed: [it] array/preferences_default_reminder_values (untranslatable)
