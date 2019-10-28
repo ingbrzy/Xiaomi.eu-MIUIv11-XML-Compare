@@ -1899,6 +1899,14 @@
         <item>1.15</item>
         <item>1.30</item>
     </string-array>
+    <string-array name="fingerprint_unlock_type_entries">
+        <item>@string/fingerprint_unlock_touch_type</item>
+        <item>@string/fingerprint_unlock_press_type</item>
+    </string-array>
+    <string-array name="fingerprint_unlock_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
@@ -3525,7 +3533,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_sae</item>
     </string-array>
     <array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>
