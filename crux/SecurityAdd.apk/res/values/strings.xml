@@ -66,6 +66,7 @@
   <string name="camera_perm_dialog_message">在使用过程中，本应用需要访问相机权限，用于屏幕距离检测功能。如果您不同意调用以上权限，将导致该功能无法正常使用，但不影响您使用本应用的其他功能。您可以随时通过关闭“屏幕距离检测”功能，取消以上权限调用并撤回您的同意。</string>
   <string name="camera_perm_dialog_title">提示</string>
   <string name="can_not_switch_when_green_kid_active">亲情守护中禁止切换分身</string>
+  <string name="cancel">Cancel</string>
   <string name="cancel_button">Cancel</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="clean_kid_space">删除儿童空间</string>
@@ -115,6 +116,11 @@
   <string name="fastboot_status_locked_summary">"Can't get root access"</string>
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Go to the official MIUI website to get the unlock tool.</string>
+  <string name="fingerprint_not_remind">"Don't ask again"</string>
+  <string name="free_send_net_booster">Free Network speed boost</string>
+  <string name="free_send_net_booster_busniess">Get a free Xunlei speed boost</string>
+  <string name="free_send_net_booster_busniess_tip">Tap to receive</string>
+  <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free network speed boost.</string>
   <string name="function_not_support">不支持本功能</string>
   <string name="game_booster">Game speed booster</string>
   <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
@@ -164,6 +170,9 @@
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="need_network_when_bind">绑定之前需要先联网</string>
+  <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
+  <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
+  <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
   <string name="net_retry_btn_text">重试</string>
   <string name="net_switch_to_owner_space_text">回到主空间</string>
   <string name="net_unavailable_tip">网络不可用，请检查联网后再试</string>
@@ -208,6 +217,7 @@
   <string name="privacy_declare_dialog_title">Terms of Service</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="remove_kid_mode_tip_msg">删除儿童空间，空间内的所有数据将丢失且无法恢复。确定要删除儿童空间吗？</string>
+  <string name="renew_now">Renew</string>
   <string name="restrict_time_interval">禁用时段</string>
   <string name="search_menu_title">Search</string>
   <string name="set_password_dialog_message">建议您设置初始空间锁屏密码，设置后，退出儿童模式时将会验证锁屏密码。宝贝不可随意进入您的主空间</string>
