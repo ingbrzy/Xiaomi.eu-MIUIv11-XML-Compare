@@ -2,8 +2,8 @@
 <resources>
     <string name="date_time">EEE, dd MMMM</string>
     <string name="date_time_12">EEE, dd MMMM</string>
-    <string name="desc_date_format">EEEE, MMM dd</string>
-    <string name="desc_date_format_12">EEEE, MMM dd</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
     <string name="desc_time">'thời gian hiện tại\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', nhấp đúp để vào ứng dụng đồng hồ'</string>
     <string name="weather_type_null">'Không có dữ liệu'</string>
     <string name="weather_type_0">Quang</string>
