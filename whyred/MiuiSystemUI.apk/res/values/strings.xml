@@ -1301,7 +1301,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_mehod_back">Back</string>
   <string name="phone_locked_foget_password_method">Forgot password?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt;on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Next</string>
   <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button&amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button&amp;lt;/font&amp;gt; simultaneously until you see the Mi logo.&lt;/Data&gt;</string>
