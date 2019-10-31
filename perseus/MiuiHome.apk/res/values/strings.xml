@@ -4,7 +4,6 @@
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
   <string name="add_screen">Add screen</string>
-  <string name="additional_settings">Additional settings</string>
   <string name="all_apps">All apps</string>
   <string name="all_apps_no_search_results">"Couldn't find results"</string>
   <string name="all_apps_search_app">Search for apps</string>
@@ -228,7 +227,6 @@
   <string name="home_indicator">bottom_point</string>
   <string name="home_pull_down_action">Swipe down on the Home screen</string>
   <string name="home_screen">Home screen</string>
-  <string name="home_screen_settings">Home screen</string>
   <string name="home_slide_up_action">Swipe up on the Home screen</string>
   <string name="icon_reorganize_channel">Arrange icons</string>
   <string name="icon_size">Icon size</string>
@@ -240,6 +238,7 @@
   <string name="launcher_minus_screen_title">Minus one screen</string>
   <string name="launcher_not_exist">An error occurred. Go back to Home screen and try again.</string>
   <string name="launcher_pull_down_title">Swipe down on the Home screen</string>
+  <string name="launcher_search_bar_title">Search bar</string>
   <string name="launcher_slide_up_title">Swipe up on the Home screen</string>
   <string name="launcher_sliding_up_gesture">Swipe up on the Home screen to open search</string>
   <string name="launcher_title">Home screen &amp; Recents</string>
