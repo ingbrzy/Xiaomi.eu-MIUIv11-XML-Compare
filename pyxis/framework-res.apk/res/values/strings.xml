@@ -615,6 +615,10 @@ If you have questions, contact your organization's admin."</string>
   <string name="granularity_label_link">link</string>
   <string name="granularity_label_word">word</string>
   <string name="gsm_alphabet_default_charset"/>
+  <string name="handset_text_unsupported_handset_insert">Click for more information.</string>
+  <string name="handset_text_usb_handset_insert">Click for more headset and sound settings.</string>
+  <string name="handset_title_unsupported_handset_insert">USB analog headphones are not supported</string>
+  <string name="handset_title_usb_handset_insert">USB sound card is outputting sound</string>
   <string name="hardware">Show virtual keyboard</string>
   <string name="harmful_app_warning_open_anyway">OPEN ANYWAY</string>
   <string name="harmful_app_warning_title">Harmful app detected</string>

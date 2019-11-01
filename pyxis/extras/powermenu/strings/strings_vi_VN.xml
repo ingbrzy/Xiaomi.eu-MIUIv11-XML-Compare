@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="label_airplane_mode">Chế độ máy bay</string>
+    <string name="label_airplane_mode">Máy bay</string>
     <string name="label_silent_mode">Im lặng</string>
     <string name="label_reboot">Khởi động lại</string>
     <string name="label_shutdown">Tắt nguồn</string>
