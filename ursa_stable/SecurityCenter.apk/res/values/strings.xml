@@ -415,7 +415,7 @@ You will not lose any app data."</string>
   <string name="battery_charge_estimating">Calculating</string>
   <string name="battery_charge_full">Charged</string>
   <string name="battery_charging_prompt">Charging</string>
-  <string name="battery_desc_ambient_display">Power consumed by Ambient display</string>
+  <string name="battery_desc_ambient_display">Power consumed by Always-on display</string>
   <string name="battery_desc_apps">Battery used by app</string>
   <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
   <string name="battery_desc_display">Battery used by the display and backlight</string>
@@ -1879,7 +1879,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
   <string name="pm_root_success_notification_title">Allowed root access</string>
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
-  <string name="power_ambient_display">Ambient display</string>
+  <string name="power_ambient_display">Always-on display</string>
   <string name="power_analysis_consume_title">Battery usage</string>
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
   <string name="power_autorun_apps_empty">No autostart apps</string>
@@ -2135,8 +2135,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="privacy_apps_tutorial_prompt_pagethree">After you enter your password, the folder with hidden apps will appear.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
+  <string name="privacy_description_camera">%1s is using camera in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_camera_mic">%1s is using camera and microphone in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_mic">%1s is using microphone in the background. You can toggle the switch below to restrict this activity.</string>
   <string name="privacy_dialog_message">"When you connect to the internet, this message along with the carrier info will be encrypted and uploaded to Mi's servers to help us improve data usage monitoring."</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
+  <string name="privacy_notification_subtitle">Tap to manage permissions</string>
+  <string name="privacy_notification_title_camera">%1s is using camera in the background</string>
+  <string name="privacy_notification_title_camera_mic">%1s is using camera and microphone in the background</string>
+  <string name="privacy_notification_title_mic">%1s is using microphone in the background</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
 
@@ -2551,7 +2558,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="superpower_progress_turnoff_process">Restrict background activity</string>
   <string name="superpower_savemode_limit1">Dark theme</string>
   <string name="superpower_savemode_limit2">Restrict background activity</string>
-  <string name="superpower_savemode_limit3">Restrict power-consuming activity (sync, GPS, vibration, Ambient display, etc.)</string>
+  <string name="superpower_savemode_limit3">Restrict power-consuming activity (sync, GPS, vibration, Always-on display, etc.)</string>
   <string name="superpower_savemode_limit4">Allow selected apps to work normally</string>
   <string name="superpower_settings">Ultra battery saver</string>
   <string name="superpower_settins_autoenter_summary">Turn on Ultra battery saver automatically when the battery is only 10% charged</string>
