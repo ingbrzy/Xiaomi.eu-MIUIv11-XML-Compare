@@ -1498,6 +1498,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="quick_settings_screenshot_label">Screenshot</string>
   <string name="quick_settings_secondary_label_until">Until %s</string>
   <string name="quick_settings_settings_label">Settings</string>
+  <string name="quick_settings_sim_disabled">(Disabled)</string>
   <string name="quick_settings_sync_label">Sync</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_tiles">default</string>
