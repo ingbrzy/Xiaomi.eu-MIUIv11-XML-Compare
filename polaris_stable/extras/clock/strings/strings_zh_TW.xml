@@ -4,10 +4,10 @@
     <string name="date_time_12">M月d日 Eaa</string>
     <string name="desc_date_format">M月d日 EEEE</string>
     <string name="desc_date_format_12">M月d日 Eaa</string>
-    <string name="desc_time">ifelse(eq(#time_format,0),ifelse(#hour24{12,'上午','下午')+#hour12,eq(#time_format,1),#hour24,#hour24)+\'點\'+ifelse(gt(#minute,0)*le(#minute,9),0,\'\')+ifelse(#minute,#minute+\'分\',\'整\')</string>
+    <string name="desc_time">ifelse(eq(#time_format,0),#hour12,eq(#time_format,1),#hour24,#hour24)+\'點\'+ifelse(gt(#minute,0)*le(#minute,9),0,\'\')+ifelse(#minute,#minute+\'分\',\'整\')+\', 按兩下進入時鐘App\'</string>
     <string name="desc_weather">\'今天\'+\', \'+@weather_location+\', \'+int(#month+1)+\'月\'+#date+\'日\'+\', \'+\'週\'+int(#day_of_week-1)+\',\'+#weather_temperature+\'度\'+\',\'+@weather_description+\',\'+@weather_aqi</string>
-    <string name="desc_weather_null">'點擊獲取天氣數據'</string>
-    <string name="weather_type_null">'點擊獲取天氣數據'</string>
+    <string name="desc_weather_null">'暫無資料'</string>
+    <string name="weather_type_null">'暫無資料'</string>
     <string name="weather_type_0">晴</string>
     <string name="weather_type_1">多雲</string>
     <string name="weather_type_2">陰</string>
