@@ -885,8 +885,11 @@ Once your phone has cooled down, it will run normally."</string>
   <string name="input_puk_code">Input PUK</string>
   <string name="install_other_apps">Install unknown apps</string>
   <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-  <string name="instant_apps">Instant apps</string>
-  <string name="instant_apps_message">"Instant apps don't require installation."</string>
+  <string name="instant_apps">Instant Apps</string>
+  <string name="instant_apps_help_url"/>
+  <string name="instant_apps_message">App opened without being installed.</string>
+  <string name="instant_apps_message_with_help">App opened without being installed. Tap to learn more.</string>
+  <string name="instant_apps_title">%1$s running</string>
   <string name="interruption_level_alarms">Alarms only</string>
   <string name="interruption_level_alarms_twoline">"Alarms
 only"</string>
@@ -958,6 +961,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_carrier_default">No service</string>
   <string name="keyguard_charged">Charged</string>
   <string name="keyguard_charging_back_to_lockscreen">Back to Lock screen</string>
+  <string name="keyguard_charging_battery_level">%s%%</string>
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
@@ -983,12 +987,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
   <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
   <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-  <string name="keyguard_left_calculator">Calculator</string>
-  <string name="keyguard_left_calendar">Calendar</string>
-  <string name="keyguard_left_contacts">Contacts</string>
   <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-  <string name="keyguard_left_music">Music</string>
-  <string name="keyguard_left_notes">Notes</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Torch</string>
@@ -2125,7 +2124,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_dpp">DPP</string>
-  <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
+  <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
   <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
   <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
   <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>

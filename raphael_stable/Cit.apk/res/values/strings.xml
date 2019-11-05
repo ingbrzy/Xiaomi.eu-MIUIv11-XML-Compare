@@ -79,6 +79,7 @@
   <string name="bad_pixel_num">全局坏点数:</string>
   <string name="bad_point_touch_sensor">通过平头橡胶头按压指纹模组</string>
   <string name="badpoint_category">坏点测试</string>
+  <string name="battery_authentic">BatteryAuthentic</string>
   <string name="battery_id">Battery ID:</string>
   <string name="battery_info">Charging battery related information</string>
   <string name="battery_plug_wirelee_summary">Wireless charger each connection, disconnect once</string>
@@ -268,6 +269,8 @@ and reverse plug in the charger"</string>
   <string name="cit_diag_chaging_summary">Copy charge logger files to sdcard</string>
   <string name="cit_diag_chaging_title">Read charge logger</string>
   <string name="cit_diag_chaging_wait">Please wait... Copying files</string>
+  <string name="cit_diag_jank_summary">Copy jank logger files to sdcard</string>
+  <string name="cit_diag_jank_title">Read jank logger</string>
   <string name="cit_dial_emergencycall">Dial 112</string>
   <string name="cit_display_check_summary">Confirm that the colors are consistently displayed across the whole screen. Make sure there are no irregular bright spots and dark spots.</string>
   <string name="cit_display_check_title">Display</string>
@@ -397,6 +400,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC value should appear below,please test for light sensor</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
+  <string name="cit_macro_camera_check_title">macro camera check</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
   <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
   <string name="cit_main_camera_check_summary">"Test instructions:
@@ -495,6 +499,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_title">Slider Hall</string>
   <string name="cit_soft_torch">front soft flash led</string>
+  <string name="cit_soft_torch_off">Turn off soft flash light</string>
   <string name="cit_soft_torch_on">Turn on soft flash light</string>
   <string name="cit_splash_check_summary">Make sure there is black screen phenomenon more 5s.</string>
   <string name="cit_start_calibration">Calibrate</string>
@@ -754,6 +759,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
   <string name="cit_touch_calib_title">Touch Calibration</string>
   <string name="cit_touch_panel_test_title">Touch sensor</string>
+  <string name="cit_ultra_camera_check_title">ultra camera check</string>
   <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
 test fail!"</string>
   <string name="cit_usb_OTG_in">USB_OTG device has plugged in, please plug out and reverse plug in</string>

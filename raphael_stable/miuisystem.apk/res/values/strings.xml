@@ -14,7 +14,7 @@
   <string name="autumn_equinox">秋分</string>
   <string name="beep">Beep</string>
   <string name="bells">Bells</string>
-  <string name="birdcicada_preview">Nature sound 2</string>
+  <string name="birdcicada_preview">Nature - Birds &amp; fireflies</string>
   <string name="blues">Blues</string>
   <string name="bottle">Bottle</string>
   <string name="breeze">Breeze</string>
@@ -146,6 +146,8 @@
   <string name="martix">Matrix</string>
   <string name="messagesent">Message sent</string>
   <string name="mi">Mi</string>
+  <string name="mihouse">Mi Electronic</string>
+  <string name="mijazz">Mi Jazz</string>
   <string name="miremix">Mi (Remix)</string>
   <string name="miui_device_name">Android</string>
   <string name="mix">MIX</string>
@@ -205,8 +207,9 @@
   <string name="vip_login">Tap to sign in</string>
   <string name="vip_not_login">Not signed in</string>
   <string name="vip_sign">Signature:</string>
-  <string name="waterdrop_preview">Nature sound 1</string>
+  <string name="waterdrop_preview">Nature - Droplets</string>
   <string name="white_dews">白露</string>
+  <string name="windchime">Wind chimes</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="yellow_page_module_sms_sent">SMS sent</string>

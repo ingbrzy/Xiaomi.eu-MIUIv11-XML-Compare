@@ -581,7 +581,7 @@ Selection"</string>
   <string name="change_pin_system_error">Unable to set PIN</string>
   <string name="change_pin_title">Change Voicemail PIN</string>
   <string name="charge_length_format">%1$s ago</string>
-  <string name="china_mobile_palm_category">Operator Service</string>
+  <string name="china_mobile_palm_category">Carrier services</string>
   <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
   <string name="choose_network_title">Choose network</string>
   <string name="choose_profile">Choose profile</string>
@@ -959,6 +959,7 @@ Selection"</string>
   <string name="fiveg_network_config_type2">Network Config Type[Slot2] :</string>
   <string name="fiveg_plmn_info_list1">PLMN info list[Slot1] :</string>
   <string name="fiveg_plmn_info_list2">PLMN info list[Slot2] :</string>
+  <string name="fiveg_power_secret_code_tip">operate this through Security APP - Battery - 5G Saver</string>
   <string name="fiveg_restrict_dcnr1">Restrict DCNR[Slot1] :</string>
   <string name="fiveg_restrict_dcnr2">Restrict DCNR[Slot2] :</string>
   <string name="fiveg_signal_strength1">5G Signal strength[Slot1] :</string>
@@ -1564,6 +1565,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM auto</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Prefer LTE</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">Prefer 4G</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Prefer 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automatic</string>
@@ -1575,6 +1577,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="preferred_phone_account">Preferred calling account</string>
+  <string name="preferred_wificall_roaming_title">Roaming preferences</string>
   <string name="preferred_wificall_title">Network preferences</string>
   <string name="privacy_policy_title">Privacy Policy</string>
   <string name="private_dns_mode_off">Off</string>
@@ -1585,6 +1588,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="private_num">Private number</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator">"Can't make calls. Contact China Telecom to turn on VoLTE service."</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE services aren't available. Turn off VoLTE to make a call."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Service isn't available. Turn off VoLTE in the Settings."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Select LTE as your preferred network type before turning on VoLTE.</string>
@@ -2094,14 +2098,14 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with VoLTE network coverage. VoLTE services are provided by the carrier.</string>
   <string name="vowifi_emergency_notification_channel">WLAN Calling emergency warning</string>
-  <string name="vowifi_emergency_notification_content">Emergency calls are possible in areas with mobile network coverage</string>
+  <string name="vowifi_emergency_notification_content">Emergency calls in areas with cellular coverage only</string>
   <string name="vowifi_emergency_notification_title">Vodafone WLAN Calling</string>
-  <string name="vowifi_emergency_warning_check">"Don't show again"</string>
-  <string name="vowifi_emergency_warning_message">"WLAN Calling can't be used for emergency calls.
+  <string name="vowifi_emergency_warning_check">"Don't show again."</string>
+  <string name="vowifi_emergency_warning_message">"Emergency calls are not possible via WLAN Calling.
 
-Your device will automatically switch to a mobile network (2G/3G) to place an emergency call.
+The device switches automatically to a cellular network(2G/3G) to place an emergency call.
 
-Emergency calls are only possible in areas with mobile network coverage."</string>
+Emergency calls are only possible in areas with cellular coverage."</string>
   <string name="vowifi_emergency_warning_title">Emergency calls via WLAN Calling</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
   <string name="vvm_unsupported_message_format">Unsupported message type, call %s to listen.</string>
@@ -2131,6 +2135,14 @@ Emergency calls are only possible in areas with mobile network coverage."</strin
   <string name="wfcmode_wifi_preferred">Prefer WLAN</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
   <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
+  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_available_message">"You can make calls using WLAN now. If you're connected to a WLAN network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
+  <string name="wifi_call_available_title">Turning on WLAN Calling</string>
+  <string name="wifi_call_cancel">Cancel</string>
+  <string name="wifi_call_help">Help</string>
+  <string name="wifi_call_help_message">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, WLAN network will be used instead."</string>
+  <string name="wifi_call_help_title">WLAN Calling Help</string>
+  <string name="wifi_call_notification_message">"This service is provided by Orange. It might take several hours to activate this service. You'll receive a confirmation SMS as soon as it's available."</string>
   <string name="wifi_call_setting">WLAN calls</string>
   <string name="wifi_call_setting_vodafone_de">WLAN calling</string>
   <string name="wifi_call_setting_vodafone_uk">WLAN call</string>

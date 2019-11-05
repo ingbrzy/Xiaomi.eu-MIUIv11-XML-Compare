@@ -329,7 +329,7 @@
   <string name="config_defaultNetworkScorerPackageName"/>
   <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
   <string name="config_defaultSms">@string/default_sms_application</string>
-  <string name="config_defaultSupervisionProfileOwnerComponent"/>
+  <string name="config_defaultSupervisionProfileOwnerComponent">com.google.android.gms/.kids.account.receiver.ProfileOwnerReceiver</string>
   <string name="config_defaultSystemCaptionsManagerService"/>
   <string name="config_defaultSystemCaptionsService"/>
   <string name="config_defaultTextClassifierPackage"/>
@@ -408,7 +408,7 @@
   <string name="config_wifi_random_mac_oui">DA-A1-19</string>
   <string name="config_wifi_sar_sensor_type"/>
   <string name="config_wifi_softap_acs_supported_channel_list"/>
-  <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
+  <string name="config_wifi_tcp_buffers">524288,1048576,5505024,262144,524288,4194304</string>
   <string name="config_wifi_tether_enable">com.android.settings/.wifi.tether.TetherService</string>
   <string name="config_wimaxManagerClassname"/>
   <string name="config_wimaxNativeLibLocation"/>
