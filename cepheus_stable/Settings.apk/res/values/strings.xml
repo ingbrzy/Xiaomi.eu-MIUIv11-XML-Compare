@@ -3498,7 +3498,9 @@ as your First space PIN."</string>
   <string name="long_press_home_key">Long press the Home button</string>
   <string name="long_press_menu_key">Long press the Menu button</string>
   <string name="long_press_menu_key_when_lock">Long press Menu on the Lock screen</string>
+  <string name="long_press_power_key">Long press the Power button</string>
   <string name="long_press_power_key_half_of_second">Press and hold the Power button for 0.5s to turn on Google Assistant</string>
+  <string name="long_press_power_key_tips">&lt;Data&gt;Long press the Power button &amp;lt;font color=#999999&amp;gt;Faster and more convenient&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Long press Volume down</string>
   <string name="lost_internet_access_cancel">Stay on WLAN</string>
   <string name="lost_internet_access_persist">Never show again</string>
@@ -3693,6 +3695,8 @@ There are other users present on this device.
   <string name="miui_lab_ai_cloud_closed">"AI preloading isn't available yet."</string>
   <string name="miui_lab_ai_preload_desc">AI preloading increases app launch speed</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Transform voice and text to answer calls silently</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI Call Assistant</string>
   <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
   <string name="miui_lab_drive_mode_title">Car mode</string>
   <string name="miui_lab_feature_applied">Applied</string>
@@ -5347,7 +5351,7 @@ To use screen pinning:
   <string name="search_children_mode_title">Child mode;Lock sms;Parental controls;Child parental;Restrict SMS</string>
   <string name="search_choose_timezone">Choose time zone;Time zone;Time zones</string>
   <string name="search_cloud_backup_settings_section_title">Backup settings;Backup;Back up;Backups</string>
-  <string name="search_cloud_restore_section_title">Restore from Mi Cloud;Mi Cloud;Cloud backups</string>
+  <string name="search_cloud_restore_section_title">Restore from Mi Cloud;Mi Cloud;Cloud backups;Xiaomi Cloud;Restore from Xiaomi Cloud</string>
   <string name="search_connection_and_sharing">More;Wireless</string>
   <string name="search_copyright_title">Copyright</string>
   <string name="search_credentials_install">Install from storage;Direct install;Install APK</string>
@@ -5396,7 +5400,7 @@ To use screen pinning:
   <string name="search_master_clear_title">Factory data reset</string>
   <string name="search_menu">Search settings</string>
   <string name="search_menu_title">Search</string>
-  <string name="search_micloud">Sync;Mi Cloud;Cloud sync;Sync with Mi Cloud</string>
+  <string name="search_micloud">Sync;Mi Cloud;Xiaomi Cloud;Cloud sync;Sync with the cloud;Sync with Xiaomi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audio settings;Sound settings</string>
   <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Assign buttons;buttons</string>
@@ -7135,6 +7139,7 @@ Tap the plus to add words."</string>
   <string name="weight_light">Light</string>
   <string name="weight_setting_toast">You can change font weight only for the default system font</string>
   <string name="welcome">Welcome</string>
+  <string name="wellbing_title">Digital Wellbeing &amp; parental controls</string>
   <string name="wfc_disclaimer_agree_button_text">CONTINUE</string>
   <string name="wfc_disclaimer_disagree_text">NO THANKS</string>
   <string name="wfc_disclaimer_emergency_limitation_desc_text">"Emergency calls over WLAN Calling are not supported by your carrier.
@@ -7521,7 +7526,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_dpp">DPP</string>
-  <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
+  <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
   <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
   <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
   <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>

@@ -126,6 +126,7 @@
   <string name="file_cannot_screen_throw">"Can't cast this item."</string>
   <string name="file_sending">Transferring files…</string>
   <string name="first_back_long_press_message">To set custom press &amp; hold actions for navigation buttons, go to Settings &gt; Additional settings &gt; Buttons</string>
+  <string name="flip_screen_camera_tip">Turn device around to use camera</string>
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">Force closed %1$s</string>
   <string name="force_exit_skip_message">"Can't close %1$s because it's required by the system."</string>
@@ -134,6 +135,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Not now</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Turn on</string>
   <string name="fp_nav_center_action_choose_dlg_title">Turn on Quick tap</string>
+  <string name="frequent_email">Frequently used email</string>
   <string name="frequent_phrases">Frequent phrases</string>
   <string name="functions_are_being_developed">This feature will be available soon. Stay tuned!</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
@@ -255,6 +257,7 @@
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
   <string name="send_files_to">Send items to</string>
+  <string name="service_not_subscribed">WITHOUT SUBSCRIPTION TO SERVICE -33-</string>
   <string name="set_password_action">Set password</string>
   <string name="set_password_message">Set a password to use this feature.</string>
   <string name="set_password_title">Set a password</string>
@@ -340,6 +343,7 @@
   <string name="unknown_caller">Unknown number</string>
   <string name="unrecognized_manufacture">Unknown</string>
   <string name="unrecognized_model">Unknown device</string>
+  <string name="user_authentication_failed">AUTHENTICATION FAILURE -29-</string>
   <string name="user_switching_dialog_switch_into_kid_space">Switching to Kid space…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Leaving Kid space…</string>
   <string name="user_switching_dialog_text">Switching…</string>
