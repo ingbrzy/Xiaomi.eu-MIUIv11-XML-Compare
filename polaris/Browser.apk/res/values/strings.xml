@@ -230,7 +230,6 @@
   <string name="cloud_tabs_sync_off">Sync off</string>
   <string name="cloud_time_tips">Last sync</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
-  <string name="collect_diagnosis_log">Collect diagnosis log</string>
   <string name="collect_video">Collect video</string>
   <string name="comment_app_menu">Comment</string>
   <string name="comment_description">Comment</string>
@@ -295,10 +294,6 @@
   <string name="delete_bookmark_group_warning">Delete \"%s\"? All bookmarks in this group will be deleted.</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_download">Delete</string>
-  <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
-  <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
-ID:%s
-Please send this code to the technician."</string>
   <string name="dialog_ad_exit_exit_app">稍后打开</string>
   <string name="dialog_ad_exit_open_app">立即打开</string>
   <string name="dialog_cannot_resume">Download was interrupted</string>
@@ -409,7 +404,6 @@ to view open tabs from other devices."</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="finish_sync_cloud_tabs">Synced successfully</string>
-  <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
   <string name="forward_description">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
@@ -956,15 +950,18 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="send_bookmark">Bookmark</string>
   <string name="send_comment_button">Send</string>
   <string name="send_desktop">Home screen</string>
-  <string name="send_diagnosis_log">Send diagnosis log</string>
   <string name="send_startpage">Start page</string>
-  <string name="sending">Sending…</string>
   <string name="sequence_bookmark_description">Press and hold to rearrange bookmarks</string>
   <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Look what I shared! @MIUI</string>
   <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
   <string name="share_video">Share video</string>
+  <string name="short_video_comment_hint">发表你的观点</string>
   <string name="short_video_description">Video channel</string>
+  <string name="short_video_gesture_btn">我知道了</string>
+  <string name="short_video_gesture_hint">滑动查看更多</string>
+  <string name="short_video_net_dialog_continue">继续播放</string>
+  <string name="short_video_net_dialog_title">当前为非WIFI环境，继续播放将消耗流量</string>
   <string name="short_video_tip">Look! Fun video</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
 Here's the data that we'll collect:
@@ -982,6 +979,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="slide_guide">Slide to return</string>
   <string name="small_video_ad_app_text_click">Download</string>
   <string name="small_video_ad_app_text_resume">Resume</string>
+  <string name="small_video_ad_download_text">Download</string>
   <string name="small_video_ad_web_text">Open</string>
   <string name="small_video_boba_tab">Broadcast</string>
   <string name="small_video_comment">All comments</string>
@@ -1062,7 +1060,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="sync_cloud_tabs">Sync</string>
   <string name="tabs_description">Tabs</string>
   <string name="temp_refuse">No thanks</string>
-  <string name="temporary_not_available">temporary not available</string>
   <string name="title_bar_loading">Loading…</string>
   <string name="title_notice_push">Turn on push</string>
   <string name="toast_feedback">将为您减少此类内容</string>
