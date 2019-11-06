@@ -104,4 +104,13 @@
         <item>@string/November</item>
         <item>@string/December</item>
     </string-array>
+    <string-array name="recommendation_desc_week">
+        <item>Sunday recommendations</item>
+        <item>Monday recommendations</item>
+        <item>Tuesday recommendations</item>
+        <item>Wednesday recommendations</item>
+        <item>Thursday recommendations</item>
+        <item>Friday recommendations</item>
+        <item>Saturday recommendations</item>
+    </string-array>
 </resources>
