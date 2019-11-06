@@ -1020,8 +1020,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="storage_permission_request_toast">"Downloads require access to your device's storage"</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
-  <string name="sug_search_history_delete_text">清除该记录</string>
-  <string name="sug_search_history_empty_text">清除全部</string>
+  <string name="sug_search_history_delete_text">Remove</string>
+  <string name="sug_search_history_empty_text">Clear</string>
   <string name="suggest_access_btn_install">Install</string>
   <string name="suggest_access_btn_open">Open</string>
   <string name="suggest_access_item_app_mark">APPS</string>
