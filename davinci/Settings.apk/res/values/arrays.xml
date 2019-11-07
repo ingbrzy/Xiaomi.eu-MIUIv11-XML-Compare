@@ -535,6 +535,39 @@
         <item>1002</item>
         <item>1003</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Short latency</item>
+        <item>Middle latency</item>
+        <item>Long latency</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Short latency (50~100ms)</item>
+        <item>Middle latency (150~200ms)</item>
+        <item>Long latency (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_values">
+        <item>49152</item>
+        <item>49153</item>
+        <item>49154</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimized for connection quality</item>
+        <item>Balanced audio and connection quality</item>
+        <item>Optimized for audio quality</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimized for connection quality (400kbps)</item>
+        <item>Balanced audio and connection quality (500/560kbps)</item>
+        <item>Optimized for audio quality (900kbps)</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_values">
+        <item>32768</item>
+        <item>32769</item>
+        <item>32770</item>
+        <item>32771</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Use System Selection (Default)</item>
         <item>44.1 kHz</item>
@@ -564,6 +597,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -575,6 +609,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -588,6 +623,7 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -1898,6 +1934,14 @@
         <item>1.0</item>
         <item>1.15</item>
         <item>1.30</item>
+    </string-array>
+    <string-array name="fingerprint_unlock_type_entries">
+        <item>@string/fingerprint_unlock_touch_type</item>
+        <item>@string/fingerprint_unlock_press_type</item>
+    </string-array>
+    <string-array name="fingerprint_unlock_type_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
@@ -3286,6 +3330,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>5</item>
         <item>10</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Adjust colors based on the current lighting</item>
+        <item>Always enhance colors</item>
+        <item>Restore standard color of screen content with color calibration</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (recommended)</item>
+        <item>Saturated</item>
+        <item>Original color</item>
+    </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>
         <item>fra</item>
@@ -3504,7 +3558,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_sae</item>
     </string-array>
     <array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>

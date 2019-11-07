@@ -18,6 +18,8 @@
         <item>raphaelin</item>
         <item>crux</item>
         <item>tucana</item>
+        <item>phoenix</item>
+        <item>phoenixin</item>
     </string-array>
     <string-array name="device_use_cameraone">
         <item>jason</item>
@@ -48,6 +50,11 @@
         <item>oxygen</item>
         <item>olivelite</item>
         <item>willow</item>
+        <item>umi</item>
+        <item>cmi</item>
+        <item>lmi</item>
+        <item>picasso</item>
+        <item>picassoin</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>

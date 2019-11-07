@@ -1369,7 +1369,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_mehod_back">Back</string>
   <string name="phone_locked_foget_password_method">Forgot password?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt;on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Next</string>
   <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button&amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button&amp;lt;/font&amp;gt; simultaneously until you see the Mi logo.&lt;/Data&gt;</string>
@@ -1569,12 +1569,13 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="quick_settings_screenshot_label">Screenshot</string>
   <string name="quick_settings_secondary_label_until">Until %s</string>
   <string name="quick_settings_settings_label">Settings</string>
+  <string name="quick_settings_sim_disabled">(Disabled)</string>
   <string name="quick_settings_sync_label">Sync</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
   <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
+  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
   <string name="quick_settings_time_label">Time</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">To add an item, press and hold it, and then drag it to the upper part of the panel.</string>
   <string name="quick_settings_user_label">Me</string>
@@ -2109,7 +2110,7 @@ Any user can update apps for all other users."</string>
   <string name="wifi_limited_connection">Limited connection</string>
   <string name="wifi_metered_label">Metered</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">No internet access</string>
+  <string name="wifi_no_internet">"Can't connect to the internet"</string>
   <string name="wifi_no_internet_no_reconnect">"Can't connect to the internet"</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_remembered">Saved</string>
