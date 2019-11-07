@@ -141,7 +141,7 @@
   <string name="choose_stream_quality">Choose streaming quality</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="close_music_time">"Time remaining: "</string>
-  <string name="com.crashlytics.android.build_id">14273c2c-874b-4448-92b0-bcb2ae0b2a43</string>
+  <string name="com.crashlytics.android.build_id">9e446fb0-ec99-46c1-8d4f-9e83e2180443</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -172,6 +172,7 @@
   <string name="current_album">Current album cover</string>
   <string name="current_lyric">Current lyrics</string>
   <string name="current_version">Current version</string>
+  <string name="daily_recommendation">Daily mix</string>
   <string name="dark_mode">Dark mode</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
@@ -216,6 +217,10 @@
   <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
   <string name="dialog_renew_success">Thanks for your confirmation</string>
+  <string name="dialog_score_btn_good">Rate</string>
+  <string name="dialog_score_prompt_bad">"Thanks for your feedback! We'll do our best to improve our app and services."</string>
+  <string name="dialog_score_prompt_good">Thanks for your support! Rate our app in Google Play as well?</string>
+  <string name="dialog_score_title">Rate our app</string>
   <string name="dialog_song_sort_type">Sort songs</string>
   <string name="dialog_song_sort_type_name">By name</string>
   <string name="dialog_song_sort_type_playing_times">By the number of times played</string>
@@ -233,6 +238,7 @@
   <string name="dialog_title_remove_tracks">Remove</string>
   <string name="disallow_add_to_fm">"Can't add songs to FM radio"</string>
   <string name="do_not_remind_this_version">"Don't remind me about this version"</string>
+  <string name="do_not_support_google_voice_search">"Google Voice Search isn't supported on your device."</string>
   <string name="download">Download</string>
   <string name="download_added_to_list">Added to download list</string>
   <string name="download_apk_desktop_installing">Installing</string>
@@ -440,12 +446,14 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Only PRO members can download multiple songs. Get a PRO membership now?</string>
-  <string name="hungama_category_chart">Top Charts</string>
+  <string name="hungama_batch_download_alert_summary_toast">Get a subscription to download the whole playlist.</string>
+  <string name="hungama_category_chart">Charts</string>
   <string name="hungama_category_playlist">Playlists</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Videos</string>
   <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
+  <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
   <string name="hungama_playlist_category">Playlist category</string>
   <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
   <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
@@ -547,6 +555,7 @@
   <string name="more_settings">Advanced settings</string>
   <string name="more_settings_summary">Sleep timer, filtering files, and more</string>
   <string name="more_share">Share</string>
+  <string name="more_splendid_contents">More</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mulit_choice_management">Manage multiple items</string>
   <string name="music_browser_label">Music</string>
@@ -827,6 +836,7 @@ Be Happy"</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist">Artists</string>
   <string name="tab_artist_list">Artists</string>
+  <string name="tab_chart">Charts</string>
   <string name="tab_folder">Folders</string>
   <string name="tab_playlist">Playlists</string>
   <string name="tab_top_results">Top result</string>
@@ -919,4 +929,5 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
+  <string name="you_may_like">You may also like</string>
 </resources>
