@@ -7265,6 +7265,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
