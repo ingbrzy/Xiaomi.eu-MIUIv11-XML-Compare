@@ -77,6 +77,7 @@
         <item>com.miui.notes</item>
         <item>com.milink.service</item>
         <item>com.android.thememanager</item>
+        <item>com.miui.mishare.connectivity</item>
     </string-array>
     <string-array name="process_camera_boost_protect_list">
         <item>android.process.media</item>
@@ -152,6 +153,7 @@
         <item>com.taobao.taobao</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.miui.hybrid.accessory</item>
+        <item>com.orange.conecta.es</item>
     </string-array>
     <string-array name="keyguard_whitelist">
         <item>com.google.android.apps.messaging</item>
