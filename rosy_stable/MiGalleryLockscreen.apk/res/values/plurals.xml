@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d articles</item>
+        <item quantity="one">%d article</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">View %s articles recommended to you</item>
         <item quantity="one">View %s article recommended to you</item>
