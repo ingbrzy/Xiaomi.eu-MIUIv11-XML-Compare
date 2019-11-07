@@ -1766,6 +1766,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_system_decide">Automatic</string>
   <string name="smart_divert_summary">CFNRc Settings</string>
   <string name="smart_divert_title">Smart-Divert</string>
+  <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
   <string name="speed_label_fast">Fast</string>
   <string name="speed_label_medium">Medium</string>
@@ -2022,7 +2023,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="voicemail_provider">Service</string>
   <string name="voicemail_provider_summary">Choose voicemail service</string>
   <string name="voicemail_set_pin_dialog_title">Set PIN</string>
-  <string name="voicemail_settings">Setup</string>
+  <string name="voicemail_settings">Voicemail Setup</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
