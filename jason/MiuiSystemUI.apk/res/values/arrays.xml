@@ -467,6 +467,8 @@
         <item>com.miui.smarttravel</item>
         <item>com.miui.tsmclient</item>
     </string-array>
+    <array name="config_blockFloatPackages" />
+    <array name="config_blockKeyguardPackages" />
     <integer-array name="config_cameraLaunchGestureVibePattern">
         <item>0</item>
         <item>400</item>
@@ -1403,6 +1405,7 @@
     </array>
     <string-array name="system_alert_window_notification_whitelist">
         <item>com.miui.notes</item>
+        <item>com.android.thememanager</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.xiaomi.joyose</item>
