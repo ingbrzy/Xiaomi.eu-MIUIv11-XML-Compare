@@ -83,23 +83,25 @@
   <string name="ad_click">点击</string>
   <string name="ad_deeplink_fail">Deeplink调起失败</string>
   <string name="ad_deeplink_success">Deeplink调起成功</string>
-  <string name="ad_download_continue">继续下载</string>
-  <string name="ad_download_downloading">正在下载</string>
-  <string name="ad_download_error">下载失败</string>
+  <string name="ad_download_continue">Resume</string>
+  <string name="ad_download_downloading">Downloading</string>
+  <string name="ad_download_error">"Couldn't download"</string>
   <string name="ad_download_fail">下载失败</string>
-  <string name="ad_download_immediately">立即下载</string>
-  <string name="ad_download_installing">安装中</string>
-  <string name="ad_download_open">立即打开</string>
-  <string name="ad_download_pausing">暂停中</string>
+  <string name="ad_download_immediately">Download</string>
+  <string name="ad_download_installing">Installing</string>
+  <string name="ad_download_open">Open</string>
+  <string name="ad_download_pausing">Paused</string>
   <string name="ad_download_succeed">下载成功</string>
-  <string name="ad_download_success">下载成功</string>
+  <string name="ad_download_success">Downloaded</string>
   <string name="ad_exit_dialog_exit_btn_name">quit</string>
-  <string name="ad_exit_dialog_message">Installation is complete! Do you want to open it now?</string>
+  <string name="ad_exit_dialog_message">Installed %s successfully. Open now?</string>
   <string name="ad_exit_dialog_open_btn_name">open</string>
   <string name="ad_exit_dialog_title_name">New app open confirmation</string>
+  <string name="ad_go_download">Download</string>
+  <string name="ad_go_see">More</string>
   <string name="ad_install_fail">安装失败</string>
   <string name="ad_install_success">安装成功</string>
-  <string name="ad_look_detail">查看详情</string>
+  <string name="ad_look_detail">Details</string>
   <string name="ad_lunch_app">packageName开始调起</string>
   <string name="ad_lunch_deeplink">Deeplink开始调起</string>
   <string name="ad_start_download">开始下载</string>
@@ -198,6 +200,10 @@
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
+  <string name="browser_default_setting_cancel">取消</string>
+  <string name="browser_default_setting_confirm">确定</string>
+  <string name="browser_default_setting_content">安全上网 保驾护航</string>
+  <string name="browser_default_setting_title">设置为默认浏览器</string>
   <string name="bubble_guide_bottom_message_text">You have %d unread messages</string>
   <string name="bubble_guide_logined_text">Sign in for lucky draw</string>
   <string name="bubble_guide_portrait_message_text">Click to view</string>
@@ -206,10 +212,10 @@
   <string name="cancle_sync_cloud_tabs">Cancel sync</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs</string>
   <string name="cast_video">Cast video</string>
-  <string name="channel_header_description">点击进入频道，长按编辑</string>
-  <string name="channel_header_title">我的频道</string>
-  <string name="channel_more_description">点击添加频道</string>
-  <string name="channel_more_title">更多频道</string>
+  <string name="channel_header_description">Tap to open. Press and hold to edit.</string>
+  <string name="channel_header_title">My channels</string>
+  <string name="channel_more_description">Tap to add</string>
+  <string name="channel_more_title">More channels</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_security_tip_privacy_policy">Privacy Policy</string>
@@ -277,7 +283,7 @@
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_content_pull_down_text">pull down</string>
   <string name="custom_head_pull_down_text">Enter infoFlow</string>
-  <string name="custom_head_weather">天气</string>
+  <string name="custom_head_weather">Weather</string>
   <string name="data_monitor">Traffic monitoring reminder</string>
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">Continue</string>
@@ -294,8 +300,8 @@
   <string name="delete_bookmark_group_warning">Delete \"%s\"? All bookmarks in this group will be deleted.</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_download">Delete</string>
-  <string name="dialog_ad_exit_exit_app">稍后打开</string>
-  <string name="dialog_ad_exit_open_app">立即打开</string>
+  <string name="dialog_ad_exit_exit_app">Later</string>
+  <string name="dialog_ad_exit_open_app">Open</string>
   <string name="dialog_cannot_resume">Download was interrupted</string>
   <string name="dialog_clipboard_tabs_action">Click to open</string>
   <string name="dialog_clipboard_tabs_tip">Find already copied links</string>
@@ -309,14 +315,14 @@
   <string name="dialog_insufficient_space_on_cache">"Couldn't download"</string>
   <string name="dialog_insufficient_space_on_external">Not enough space on removable storage</string>
   <string name="dialog_media_not_found">"Can't download: no removable storage detected"</string>
-  <string name="dialog_nps_comment_cancel_text">残忍拒绝</string>
-  <string name="dialog_nps_comment_confirm_text">鼓励一下</string>
-  <string name="dialog_nps_comment_slogan_text">"全新版本离不开您的支持
-给个好评激励我们做的更好!"</string>
+  <string name="dialog_nps_comment_cancel_text">No thanks</string>
+  <string name="dialog_nps_comment_confirm_text">Rate</string>
+  <string name="dialog_nps_comment_slogan_text">"Rate our app
+to support our work"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_recovery_tabs_action">Click to restore</string>
   <string name="dialog_recovery_tabs_tip">Find webview not closed last time</string>
-  <string name="dialog_scroll_up_to_more_site">上滑显示更多</string>
+  <string name="dialog_scroll_up_to_more_site">Scroll up to view more</string>
   <string name="dialog_title_not_available">"Couldn't download"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="document_download_background_btn">Download in background</string>
@@ -436,8 +442,6 @@ to view open tabs from other devices."</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history">History</string>
   <string name="home_description">Home</string>
-  <string name="hot_word_hot_count">%d人在看</string>
-  <string name="hot_word_hot_count_postfix">人在看</string>
   <string name="hot_word_item_mark_ads_text">ADS</string>
   <string name="hot_word_item_mark_burst_text">BURST</string>
   <string name="hot_word_item_mark_hot_text">HOT</string>
@@ -446,15 +450,14 @@ to view open tabs from other devices."</string>
   <string name="hot_words_item_ads_mark">Ads</string>
   <string name="ignore_add_pwa_dialog_today">"Don't show today"</string>
   <string name="info_flow_description">Info channel</string>
-  <string name="info_flow_tips">为您推荐%d条内容</string>
   <string name="isReplacePage">File already exists, replace?</string>
   <string name="keep_queued_download">Keep</string>
   <string name="load_error_tip">Loading error, click retry</string>
-  <string name="load_more_footer_status_msg_error_load">加载失败,点击重试!</string>
-  <string name="load_more_footer_status_msg_error_no_network">网络连接失败!</string>
-  <string name="load_more_footer_status_msg_full">没有更多数据了</string>
-  <string name="load_more_footer_status_msg_idle">点击加载更多</string>
-  <string name="load_more_footer_status_msg_loading">加载中...</string>
+  <string name="load_more_footer_status_msg_error_load">"Couldn't load. Try again."</string>
+  <string name="load_more_footer_status_msg_error_no_network">"Couldn't connect to the network."</string>
+  <string name="load_more_footer_status_msg_full">"That's all for now."</string>
+  <string name="load_more_footer_status_msg_idle">Tap to load more</string>
+  <string name="load_more_footer_status_msg_loading">Just a sec…</string>
   <string name="loading_dialog_title">Moving…</string>
   <string name="login_failed_toast">"Couldn't sign in, refresh and try again"</string>
   <string name="maximum_input_alert">"Can't enter more than 2048 characters"</string>
@@ -496,6 +499,7 @@ to view open tabs from other devices."</string>
   <string name="more_option">More options</string>
   <string name="movie_player_3g_tip_retry">Continue</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="multi_window_max_tips">Too many windows</string>
   <string name="mw_accessibility_date_picker_month">Month</string>
   <string name="mw_accessibility_date_picker_week">Week</string>
   <string name="mw_accessibility_date_picker_year">Year</string>
@@ -669,8 +673,8 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="nav_bottom_bar_close_description">Close</string>
   <string name="nav_bottom_bar_new_tab">New tab</string>
   <string name="nav_close_index_tab">Delete item %d</string>
-  <string name="nav_launch_title">浏览器为您识别可通过以下应用打开</string>
-  <string name="nav_lunch_duokan">浏览器正在为您打开多看</string>
+  <string name="nav_launch_title">Try using the following apps</string>
+  <string name="nav_lunch_duokan">Opening Duokan…</string>
   <string name="nav_screen_container_tab_incognito">Incognito tab</string>
   <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
 Remember that the files you download and the bookmarks you add will still be saved."</string>
@@ -810,7 +814,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_notifications_title">Notifications</string>
   <string name="pref_other_title">Other</string>
   <string name="pref_paper_mode_title">Reading mode</string>
-  <string name="pref_personalized_customization">个性化推荐</string>
+  <string name="pref_personalized_customization">Personalized recommendations</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
   <string name="pref_privacy_clear_cache_dlg">Delete locally cached content and databases?</string>
   <string name="pref_privacy_clear_cache_summary">Clear locally cached contents and databases</string>
@@ -836,7 +840,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_privacy_location_title">Location access</string>
   <string name="pref_privacy_policy">Privacy policy</string>
   <string name="pref_privacy_security_title">Privacy &amp; security</string>
-  <string name="pref_save_bandwidth_mode_title">Reduce data usage</string>
+  <string name="pref_save_bandwidth_mode_title">Save data</string>
   <string name="pref_security_accept_cookies">Accept cookies</string>
   <string name="pref_security_accept_cookies_summary">Allow sites to save and read cookie data</string>
   <string name="pref_security_passwords_title">Passwords</string>
@@ -857,9 +861,9 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pwa_app_name">Web apps</string>
   <string name="qr_code_title">QR Code</string>
   <string name="qr_description">Scan QR code</string>
-  <string name="quicklink_add_last7day">过去7天</string>
-  <string name="quicklink_add_today">今天</string>
-  <string name="quicklink_add_yesterday">昨天</string>
+  <string name="quicklink_add_last7day">Past 7 days</string>
+  <string name="quicklink_add_today">Today</string>
+  <string name="quicklink_add_yesterday">Yesterday</string>
   <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_cannot_save_url">"This URL can't be added."</string>
   <string name="quicklink_folder_text">Top apps</string>
@@ -956,12 +960,12 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="share_image_text">Look what I shared! @MIUI</string>
   <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
   <string name="share_video">Share video</string>
-  <string name="short_video_comment_hint">发表你的观点</string>
+  <string name="short_video_comment_hint">Enter comment</string>
   <string name="short_video_description">Video channel</string>
-  <string name="short_video_gesture_btn">我知道了</string>
-  <string name="short_video_gesture_hint">滑动查看更多</string>
-  <string name="short_video_net_dialog_continue">继续播放</string>
-  <string name="short_video_net_dialog_title">当前为非WIFI环境，继续播放将消耗流量</string>
+  <string name="short_video_gesture_btn">Got it</string>
+  <string name="short_video_gesture_hint">Swipe to watch next video</string>
+  <string name="short_video_net_dialog_continue">Play anyway</string>
+  <string name="short_video_net_dialog_title">"You're using mobile data now. Using mobile may generate additional carrier fees."</string>
   <string name="short_video_tip">Look! Fun video</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
 Here's the data that we'll collect:
@@ -984,7 +988,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="small_video_boba_tab">Broadcast</string>
   <string name="small_video_comment">All comments</string>
   <string name="small_video_comment_input_hint">Input your comment</string>
-  <string name="small_video_footer_status_msg_idle">滑动加载更多</string>
+  <string name="small_video_footer_status_msg_idle">Tap to load more</string>
   <string name="small_video_load_failed">Load failed</string>
   <string name="small_video_loading">Loading...</string>
   <string name="small_video_main_tab">Recommend</string>
@@ -1018,8 +1022,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="storage_permission_request_toast">"Downloads require access to your device's storage"</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
-  <string name="sug_search_history_delete_text">Remove</string>
-  <string name="sug_search_history_empty_text">Clear</string>
+  <string name="sug_search_history_delete_text">Delete this record</string>
+  <string name="sug_search_history_empty_text">Clear all</string>
   <string name="suggest_access_btn_install">Install</string>
   <string name="suggest_access_btn_open">Open</string>
   <string name="suggest_access_item_app_mark">APPS</string>
@@ -1062,7 +1066,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="temp_refuse">No thanks</string>
   <string name="title_bar_loading">Loading…</string>
   <string name="title_notice_push">Turn on push</string>
-  <string name="toast_feedback">将为您减少此类内容</string>
+  <string name="toast_feedback">"You'll see fewer items of this kind."</string>
   <string name="topic_content_default">topic</string>
   <string name="transfer_prompt_0">Play video</string>
   <string name="transfer_restart">Restart</string>
@@ -1099,6 +1103,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="version_dialog_buttion_update">Update</string>
   <string name="version_update_file_download_toast">Downloading</string>
   <string name="version_update_file_not_found">"Can't find updates"</string>
+  <string name="video_ad_duration">Close ad (%d)</string>
   <string name="video_doenload_complete">Downloaded video successfully</string>
   <string name="video_download_empty">No videos</string>
   <string name="video_download_error">Error</string>
@@ -1120,6 +1125,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_fragment_name_historys">History</string>
   <string name="video_history_empty">No history</string>
   <string name="video_manager_action_bar_end_view">Videos</string>
+  <string name="video_next_playback">Up next</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
@@ -1130,12 +1136,11 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_title_prefix_message">"Offline: "</string>
   <string name="view_certificate">View certificate</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
-  <string name="vo_ad_detail">%s·广告</string>
-  <string name="vo_choose_activity_cancel">随便看看</string>
-  <string name="vo_choose_activity_content">定位失败了，请手动选择城市</string>
-  <string name="vo_choose_activity_positive">选择城市</string>
-  <string name="vo_comment">%s条评论</string>
-  <string name="vo_comment_text">评论</string>
+  <string name="vo_ad_detail">%s · Ad</string>
+  <string name="vo_choose_activity_cancel">Cancel</string>
+  <string name="vo_choose_activity_content">"Couldn't get location info. Select a city manually."</string>
+  <string name="vo_choose_activity_positive">Select</string>
+  <string name="vo_comment_text">Comment</string>
   <string name="vo_debug_info_flow_dialog" formatted="false">"imei
 %s
 track_ext:
@@ -1163,15 +1168,15 @@ item_style:
 feedsContentId:
 %s
 "</string>
-  <string name="vo_feedback_back">返回</string>
-  <string name="vo_feedback_black">拉黑：%s</string>
-  <string name="vo_feedback_content">内容质量差</string>
-  <string name="vo_feedback_dislike">不感兴趣</string>
-  <string name="vo_feedback_frequent">出现过于频繁</string>
-  <string name="vo_feedback_quality">反馈：垃圾内容</string>
-  <string name="vo_feedback_shield">屏蔽</string>
-  <string name="vo_feedback_sub_quality">标题党、低俗等</string>
-  <string name="vo_feedback_sub_shield">等</string>
+  <string name="vo_feedback_back">Back</string>
+  <string name="vo_feedback_black">Block: %s</string>
+  <string name="vo_feedback_content">Poor content quality</string>
+  <string name="vo_feedback_dislike">Not interested</string>
+  <string name="vo_feedback_frequent">Appears too frequently</string>
+  <string name="vo_feedback_quality">Feedback on content quality</string>
+  <string name="vo_feedback_shield">Blocklist</string>
+  <string name="vo_feedback_sub_quality">Clickbait, profanity, etc.</string>
+  <string name="vo_feedback_sub_shield">, etc.</string>
   <string name="vo_icon_text_burst">突发</string>
   <string name="vo_icon_text_deep">深度</string>
   <string name="vo_icon_text_featured">精选</string>
@@ -1179,42 +1184,35 @@ feedsContentId:
   <string name="vo_icon_text_recommend">推荐</string>
   <string name="vo_icon_text_topping">置顶</string>
   <string name="vo_icon_text_video">视频</string>
-  <string name="vo_image_mark">%d图</string>
   <string name="vo_info_flow_debug_title">debug data</string>
-  <string name="vo_info_flow_load_error_content">重新加载</string>
-  <string name="vo_info_flow_load_error_title">加载失败，请检查网络后重试～</string>
-  <string name="vo_info_flow_load_more_content">加载更多</string>
-  <string name="vo_info_flow_load_more_error">网络不给力，请检查网络状态~</string>
-  <string name="vo_info_flow_load_more_full">已经到底了，换个频道看看吧~</string>
-  <string name="vo_info_flow_load_more_idle">加载更多</string>
-  <string name="vo_info_flow_load_more_loading">正在加载</string>
-  <string name="vo_info_flow_load_more_title">试试手动加载，点击这里~</string>
-  <string name="vo_info_flow_refresh_empty">没有更新了，换个频道看看吧~</string>
-  <string name="vo_info_flow_refresh_error">网络不给力，请检查网络状态~</string>
+  <string name="vo_info_flow_load_error_content">Try again</string>
+  <string name="vo_info_flow_load_error_title">"Couldn't load info. Check your network settings and try again."</string>
+  <string name="vo_info_flow_load_more_content">Load more</string>
+  <string name="vo_info_flow_load_more_error">A network error occurred. Check your network settings and try again.~</string>
+  <string name="vo_info_flow_load_more_full">"That's all for now. Check other channels."</string>
+  <string name="vo_info_flow_load_more_idle">Load more</string>
+  <string name="vo_info_flow_load_more_loading">Just a sec…</string>
+  <string name="vo_info_flow_load_more_title">Try loading more items manually</string>
+  <string name="vo_info_flow_refresh_empty">No updates for now. Check other channels!</string>
+  <string name="vo_info_flow_refresh_error">"Couldn't connect to the network. Check your network settings and try again."</string>
   <string name="vo_info_flow_rs_hint">Search</string>
-  <string name="vo_like_text">点赞</string>
-  <string name="vo_location_change_cancel">下次再说</string>
-  <string name="vo_location_change_content">您的定位已变更，是否切换到当前定位？</string>
-  <string name="vo_location_change_positive">立即切换</string>
-  <string name="vo_location_change_title">城市变更</string>
-  <string name="vo_location_choose_city">点击切换城市</string>
-  <string name="vo_share_text">分享</string>
-  <string name="vo_short_video_play_count">%s次播放</string>
-  <string name="vo_small_video_load_more_text">滑动加载更多</string>
-  <string name="vo_small_video_title">精彩小视频</string>
-  <string name="vo_source_comment" formatted="false">%s·%s条评论</string>
-  <string name="vo_vote_left" formatted="false">%d$%正方</string>
-  <string name="vo_vote_num">已有%d人参与投票</string>
-  <string name="vo_vote_right" formatted="false">%d$%反方</string>
-  <string name="vo_wei_bo_all_text">全文</string>
-  <string name="vo_wei_bo_gif_image">动图</string>
-  <string name="vo_wei_bo_long_image">长图</string>
-  <string name="vo_wei_bo_publish_time_hour">·%s小时前</string>
-  <string name="vo_wei_bo_publish_time_just">·刚刚</string>
-  <string name="vo_wei_bo_publish_time_minute">·%s分钟前</string>
-  <string name="vo_wei_bo_publish_time_yesterday">·昨天%s</string>
-  <string name="vo_zhi_hu">知乎</string>
-  <string name="vo_zhi_hu_answer">知乎 %d人回答了问题</string>
+  <string name="vo_like_text">Like</string>
+  <string name="vo_location_change_cancel">Not now</string>
+  <string name="vo_location_change_content">Looks like your location changed. Switch to the current city?</string>
+  <string name="vo_location_change_positive">Switch</string>
+  <string name="vo_location_change_title">Location changed</string>
+  <string name="vo_location_choose_city">Tap to switch cities</string>
+  <string name="vo_share_text">Share</string>
+  <string name="vo_small_video_load_more_text">Swipe to load more</string>
+  <string name="vo_small_video_title">Short videos</string>
+  <string name="vo_vote_left" formatted="false">%d$% for</string>
+  <string name="vo_vote_right" formatted="false">%d$% against</string>
+  <string name="vo_wei_bo_all_text">Full text</string>
+  <string name="vo_wei_bo_gif_image">GIF</string>
+  <string name="vo_wei_bo_long_image">Long image</string>
+  <string name="vo_wei_bo_publish_time_just">·Just now</string>
+  <string name="vo_wei_bo_publish_time_yesterday">· Yesterday at %s</string>
+  <string name="vo_zhi_hu">Zhihu</string>
   <string name="voice_check_network">Check your network settings and try again.</string>
   <string name="voice_close_description">Close</string>
   <string name="voice_connect_network">"Couldn't connect to the network."</string>
