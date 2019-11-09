@@ -501,8 +501,6 @@
         <item>com.miui.smarttravel</item>
         <item>com.miui.tsmclient</item>
     </string-array>
-    <array name="config_blockFloatPackages" />
-    <array name="config_blockKeyguardPackages" />
     <integer-array name="config_cameraLaunchGestureVibePattern">
         <item>0</item>
         <item>400</item>
@@ -958,7 +956,6 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
-        <item>custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
@@ -1439,7 +1436,6 @@
     </array>
     <string-array name="system_alert_window_notification_whitelist">
         <item>com.miui.notes</item>
-        <item>com.android.thememanager</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.xiaomi.joyose</item>
