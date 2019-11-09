@@ -51,8 +51,6 @@
         <item>umi</item>
         <item>cmi</item>
         <item>lmi</item>
-        <item>picasso</item>
-        <item>picassoin</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
