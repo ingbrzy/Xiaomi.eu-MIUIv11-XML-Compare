@@ -498,7 +498,6 @@ To activate your account, follow the
   <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
   <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
   <string name="push_notify_dialog_title">Account verification</string>
-  <string name="pwd_width_phone_number_or_mail_num">"Password can't contain your phone number, email, or Mi Account ID"</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
   <string name="recycle_phone_notification_title">Mi Account security risk</string>
@@ -511,8 +510,7 @@ To activate your account, follow the
   <string name="restart_action">Start over</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
-  <string name="risky_pwd_not_allow">"New password isn't secure. Set a different one."</string>
-  <string name="same_new_and_old_pwd">New password must be different from the old one</string>
+  <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="search_account_security">Account security</string>
   <string name="search_account_security_desc">Account Settings</string>
