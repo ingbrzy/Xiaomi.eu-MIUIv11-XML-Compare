@@ -306,7 +306,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_ringtone_title">Default alarm sound</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
-  <string name="alarm_sound_title">Alarm sound</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_template">at %1$s</string>
@@ -4662,7 +4662,7 @@ UT Interface: %5$s"</string>
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">"Reset all network settings now? This might take several seconds. You won't be able to undo this action."</string>
-  <string name="reset_network_title">Reset WLAN, mobile &amp; Bluetooth</string>
+  <string name="reset_network_title">Reset WLAN, mobile networks, and Bluetooth</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Reset Second space password</string>
   <string name="reset_second_space_passwd_cancel">Cancel</string>
@@ -4712,7 +4712,7 @@ UT Interface: %5$s"</string>
   <string name="ring_volume_option_title">Calls, reminders, notifications</string>
   <string name="ring_volume_title">Ring volume</string>
   <string name="ringtone_slot_setting_title">Single SIM settings</string>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">Ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="ringtones_category_preference_title">Ringtones</string>
   <string name="ringtones_install_custom_sound_content">This file will be copied to the %s folder</string>
@@ -4765,7 +4765,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_cancel">Cancel</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
-  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature">Color temperature</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
