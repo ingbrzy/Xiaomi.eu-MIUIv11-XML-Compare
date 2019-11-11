@@ -39,22 +39,6 @@
 
     sput-object v0, Lcom/android/server/SystemServerInjector;->sVersionPolicyDevices:Ljava/util/Set;
 
-    const-string/jumbo v0, "ugg"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "ugglite"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "rosy"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "riva"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
     const-string/jumbo v0, "vince"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
@@ -64,14 +48,6 @@
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
     const-string/jumbo v0, "versace"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "wayne"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "ysl"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
@@ -236,6 +212,22 @@
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
     const-string/jumbo v0, "phoenixin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "cmi"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "umi"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "picasso"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "picassoin"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
