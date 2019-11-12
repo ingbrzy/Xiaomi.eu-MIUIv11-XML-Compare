@@ -360,7 +360,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_account_hint_text">Email address, phone number or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_label">Mi Account</string>
-  <string name="passport_account_name">Account: %1$s</string>
+  <string name="passport_account_name">"Account: %1$s "</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
   <string name="passport_account_set_password">Set password</string>
@@ -551,6 +551,7 @@ To activate your account, follow the
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_yes">Yes</string>
+  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.SEND_SMS;android.permission.RECEIVE_SMS;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="web_sso_login_fail">You need to sign in again</string>
   <string name="web_sso_login_message">Signing in…</string>
