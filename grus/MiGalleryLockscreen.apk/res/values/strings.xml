@@ -534,7 +534,7 @@
   <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
-  <string name="system_default">系统默认</string>
+  <string name="system_default">Default</string>
   <string name="tab_user_title_bar_text">Settings</string>
   <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
   <string name="theme_apply_lockscreen_apply">Turning on Wallpaper Carousel…</string>
