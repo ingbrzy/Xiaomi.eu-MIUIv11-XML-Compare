@@ -812,10 +812,6 @@ If you resume, charges may apply for data usage."</string>
   <string name="gxzw_area">Fingerprint scanner</string>
   <string name="gxzw_long_press_tip"/>
   <string name="gxzw_press_harder">Press a bit harder</string>
-  <string name="gxzw_quick_open_add_note">Add note</string>
-  <string name="gxzw_quick_open_add_note_sub">Notes</string>
-  <string name="gxzw_quick_open_dialer">Dialer</string>
-  <string name="gxzw_quick_open_dialer_sub">Phone</string>
   <string name="gxzw_try_again">Try again</string>
   <string name="gxzw_try_more_again">Try again</string>
   <string name="gxzw_use_password">Use your password to unlock</string>
