@@ -390,6 +390,7 @@
         <item>com.amazon.dee.app</item>
         <item>com.xiaomi.misettings</item>
         <item>com.miui.cleanmaster</item>
+        <item>com.orange.conecta.es</item>
     </string-array>
     <string-array name="config_allowKeyguardPackages">
         <item>com.google.android.apps.messaging</item>
@@ -465,6 +466,11 @@
         <item>com.mi.oa</item>
         <item>com.amazon.dee.app</item>
         <item>com.miui.smarttravel</item>
+        <item>abbanza.bixpe.orange.dispositivos.android</item>
+        <item>com.orange.conecta.es</item>
+        <item>com.orange.miorange</item>
+        <item>co.uk.infomedia.humley.orangejuegos</item>
+        <item>com.orange.serenateleasistencia.es</item>
     </string-array>
     <integer-array name="config_cameraLaunchGestureVibePattern">
         <item>0</item>
@@ -930,6 +936,7 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
+        <item>custom(com.amazon.dee.app/com.amazon.alexa.handsfree.settings.quicksettings.AlexaQuickSettingService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
