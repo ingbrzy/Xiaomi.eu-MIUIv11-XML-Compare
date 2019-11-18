@@ -1940,6 +1940,14 @@
         <item>@string/layout_size_huge</item>
         <item>@string/layout_size_exhuge</item>
     </string-array>
+    <string-array name="fps_list_entries">
+        <item>120Hz</item>
+        <item>60Hz</item>
+    </string-array>
+    <string-array name="fps_list_values">
+        <item>120</item>
+        <item>60</item>
+    </string-array>
     <string-array name="game_driver_all_apps_preference_values">
         <item>@string/game_driver_app_preference_default</item>
         <item>@string/game_driver_app_preference_game_driver</item>
