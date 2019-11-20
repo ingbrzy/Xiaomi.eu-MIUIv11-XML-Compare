@@ -279,6 +279,7 @@ To switch between services, swipe up with two fingers and hold."</string>
   <string name="add_account_label">Add account</string>
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_back_fingerprint_instruction_msg">Place your finger on the sensor</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
   <string name="add_device_admin">Activate this device admin app</string>
   <string name="add_device_admin_msg">Activate device admin app?</string>
   <string name="add_facerecoginition_text">Add face data</string>
@@ -347,7 +348,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_ringtone_title">Default alarm sound</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
-  <string name="alarm_sound_title">Alarm sound</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_template">at %1$s</string>
@@ -386,7 +387,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="ambient_display_pickup_title">Lift to check phone</string>
   <string name="ambient_display_screen_summary_always_on">Always on / Increased battery usage</string>
   <string name="ambient_display_screen_summary_notifications">New notifications</string>
-  <string name="ambient_display_screen_title">Ambient display</string>
+  <string name="ambient_display_screen_title">Always-on display</string>
   <string name="ambient_display_summary">To check time, notifications, and other info, double-tap your screen.</string>
   <string name="ambient_display_tap_screen_summary">To check time, notifications, and other info, tap your screen.</string>
   <string name="ambient_display_tap_screen_title">Tap to check phone</string>
@@ -408,14 +409,14 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="another_migration_already_in_progress">Another migration is already in progress.</string>
   <string name="anti_spam">Blocklist</string>
-  <string name="aod_and_lock_screen_settings_title">Ambient display &amp; Lock screen</string>
+  <string name="aod_and_lock_screen_settings_title">Always-on display &amp; Lock screen</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
-  <string name="aod_name_wanxiang">Ambient display</string>
+  <string name="aod_name_wanxiang">Always-on display</string>
   <string name="aod_notification_style_animation">Show animation</string>
   <string name="aod_notification_style_none">Do nothing</string>
   <string name="aod_notification_style_screen_on">Light up screen</string>
-  <string name="aod_settings_category_name">Ambient display</string>
-  <string name="aod_settings_title">Ambient display</string>
+  <string name="aod_settings_category_name">Always-on display</string>
+  <string name="aod_settings_title">Always-on display</string>
   <string name="aod_show_mode_title">Show items</string>
   <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
   <string name="aod_style_title">Style</string>
@@ -2722,6 +2723,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gxzw_add_fingerprint_put_finger_message">Press the screen and lift your finger after you feel vibration. Repeat several times.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Press and lift after vibration</string>
   <string name="gxzw_add_fingerprint_title">Add your fingerprint</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
@@ -5022,7 +5024,7 @@ Restart your device and try again."</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">"Reset all network settings now? This might take several seconds. You won't be able to undo this action."</string>
   <string name="reset_network_final_desc_esim">Reset all network settings and erase downloaded SIMs? You can’t undo this action.</string>
-  <string name="reset_network_title">Reset WLAN, mobile &amp; Bluetooth</string>
+  <string name="reset_network_title">Reset WLAN, mobile networks, and Bluetooth</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Reset Second space password</string>
   <string name="reset_second_space_passwd_cancel">Cancel</string>
@@ -5073,7 +5075,7 @@ Restart your device and try again."</string>
   <string name="ring_volume_option_title">Calls, reminders, notifications</string>
   <string name="ring_volume_title">Ring volume</string>
   <string name="ringtone_slot_setting_title">Single SIM settings</string>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">Ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="ringtones_category_preference_title">Ringtones</string>
   <string name="ringtones_install_custom_sound_content">This file will be copied to the %s folder</string>
@@ -5136,7 +5138,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_cancel">Cancel</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
-  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature">Color temperature</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
@@ -5147,6 +5149,12 @@ This setting affects all users on this phone."</string>
   <string name="screen_dark_mode_smart_dark_title">Global dark mode</string>
   <string name="screen_dark_mode_time_title">Schedule</string>
   <string name="screen_effect">Color scheme</string>
+  <string name="screen_fps_summary_power_save">Using fixed rate consumes less power</string>
+  <string name="screen_fps_summary_smooth">Some apps will increase refresh rate automatically to improve picture quality</string>
+  <string name="screen_fps_title">Refresh rate</string>
+  <string name="screen_fps_unit">%dHz</string>
+  <string name="screen_fps_unit_power_save">%dHz (Saves battery)</string>
+  <string name="screen_fps_unit_smooth">%dHz (Better quality)</string>
   <string name="screen_key_long_press">Long press navigation buttons</string>
   <string name="screen_key_long_press_action">Trigger function</string>
   <string name="screen_key_long_press_timeout">Set long press time</string>
