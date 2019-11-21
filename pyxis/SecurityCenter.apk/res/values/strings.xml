@@ -13,7 +13,7 @@
   <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
   <string name="ac_firstUseApplock_title">Set a password to protect your apps</string>
-  <string name="ac_mask_all_apps">Hide for all apps</string>
+  <string name="ac_mask_all_apps">Hide for all</string>
   <string name="ac_notification_contentText">Tap to turn on</string>
   <string name="ac_notification_contentTitle">Protect apps with App lock</string>
   <string name="ac_post_notification_contentText">Get system-level protection</string>
@@ -22,11 +22,11 @@
   <string name="ac_pre_notification_contentTitle">Try App Lock</string>
   <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
   <string name="ac_summaryOn">Enter password to open protected apps</string>
-  <string name="ac_unmask_all_apps">Unhide for all apps</string>
+  <string name="ac_unmask_all_apps">Show for all</string>
   <string name="access_control_app_is_launching">App is starting</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
-  <string name="access_control_need_password">"%s added successfully
+  <string name="access_control_need_password">"%s added successfullyr
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
   <string name="accessibility_gameboosterservice_description">"Turn on to silence incoming WeChat calls when you're playing games"</string>
@@ -1620,20 +1620,20 @@ to respond"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "&lt;b&gt;1. Public WLAN network issues&lt;/b&gt;"
+If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet service provider.
+ "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+Make sure that your account is in good standing with your Internet service provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+Try rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+Read the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
+ "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -1671,8 +1671,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_mask_summary">"Don't display notification content for protected apps"</string>
   <string name="notification_mask_title">Hide notification content</string>
-  <string name="notification_masked_item">Hide notifications</string>
-  <string name="notification_masked_subtitle">Hide notifications from apps protected with App lock</string>
+  <string name="notification_masked_item">How to hide notification content?</string>
+  <string name="notification_masked_subtitle">Use App lock to hide notification content for selected apps</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notify_channel_mipush">Security push messages</string>
   <string name="notify_channel_name_security">System security</string>
@@ -1923,6 +1923,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_power_save_summary_text">Increase remaining time up to %1$dh %2$dm</string>
   <string name="power_center_power_save_title_text">Battery saver</string>
   <string name="power_center_repeat">Repeat</string>
+  <string name="power_center_scan_item_title_5g">5G connectivity</string>
   <string name="power_center_scan_item_title_GPS">Adjust GPS accuracy</string>
   <string name="power_center_scan_item_title_abnormal">Battery issues</string>
   <string name="power_center_scan_item_title_abnormal_apps">Apps that drain battery</string>
@@ -1953,6 +1954,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">"Ultra battery saver restricts most power-consuming features and decreases your device's performance in order to leave basic functionality (e.g. calls, SMS, and connecting to the network) available as long as possible. Turn on Ultra battery saver?"</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra battery saver restricts most power consuming features (e.g. 5G connectivity) lowering your device's performance. Only calls, messages, and network connectivity won't be affected. Turn on Ultra battery saver?"</string>
   <string name="power_dialog_super_save_title">Ultra battery saver</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh remaining</string>
@@ -1964,6 +1966,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
   <string name="power_optimize_close_app">Close apps consuming excessive power</string>
+  <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
@@ -1986,6 +1989,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
   <string name="power_save_ps_close_setting">Turn off background services (sync, GPS) to save battery</string>
+  <string name="power_save_ps_close_setting_5g">Restrict power consuming features (sync, 5G connectivity, GPS)</string>
   <string name="power_save_ps_freeze">Freeze apps in the background</string>
   <string name="power_save_ps_limit">Restrict the activity of system apps</string>
   <string name="power_save_settings">Battery settings</string>
@@ -2162,6 +2166,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_upload">Upload</string>
+  <string name="privacyapp_number_masked_text">Notification content is hidden</string>
+  <string name="privacyapp_number_unmasked_text">Notification content can be hidden</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Media server</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
@@ -2507,7 +2513,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="still_retain_btn">Keep</string>
   <string name="stop_milink_connect">Stopped casting</string>
   <string name="suggest_app_tolock">Suggestions</string>
-  <string name="suggest_app_tolock_masked">Hidden</string>
+  <string name="suggest_app_tolock_masked">Content hidden</string>
   <string name="suggest_app_tolock_unmasked">Visible notifications</string>
   <string name="suggest_scan_again">Complete the scan to avoid security risks.</string>
   <string name="summary_app_lock_disable">Protect your data with App lock</string>
@@ -2599,8 +2605,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
   <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
-  <string name="system_permission_declare_privacy_declare">We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Note that Security needs to connect to the internet and requires the following permissions to collect your personal information:</string>
-  <string name="system_permission_declare_privacy_no_permission">Note that Security needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
+  <string name="system_permission_declare_privacy_declare">We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:</string>
+  <string name="system_permission_declare_privacy_no_permission">Note that this app needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">You can exit this app.</string>
   <string name="system_permission_declare_revoke_uninstallable">You can sign out, uninstall this app, or revoke your authorization in Security &gt; Manage apps &gt; Permissions &gt; Permissions.</string>
@@ -2859,7 +2865,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plan’s data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
