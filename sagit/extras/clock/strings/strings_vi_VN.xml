@@ -4,7 +4,7 @@
     <string name="date_time_12">EEE, dd MMMM</string>
     <string name="desc_date_format">EEEE, dd MMM</string>
     <string name="desc_date_format_12">EEEE, dd MMM</string>
-    <string name="desc_time">'thời gian hiện tại\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', nhấp đúp để vào ứng dụng đồng hồ'</string>
+    <string name="desc_time">'giờ hiện tại' + #hour12+' '+ifelse(#minute,#minute,'oclock')</string>
     <string name="weather_type_null">'Không có dữ liệu'</string>
     <string name="weather_type_0">Quang</string>
     <string name="weather_type_1">Nhiều mây</string>
@@ -31,5 +31,5 @@
     <string name="weather_type_22">Mưa đá</string>
     <string name="weather_type_23">Bụi</string>
     <string name="weather_type_24">Sương mù</string>
-    <string name="weather_type_25">Băng tuyết</string>
+    <string name="weather_type_25">Mưa lạnh</string>
 </resources>
