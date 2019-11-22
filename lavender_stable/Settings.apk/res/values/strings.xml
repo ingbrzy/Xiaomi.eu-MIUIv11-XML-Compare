@@ -241,6 +241,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
   <string name="add_account_label">Add account</string>
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_back_fingerprint_instruction_msg">Place your finger on the sensor</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
   <string name="add_device_admin">Activate this device admin app</string>
   <string name="add_device_admin_msg">Activate device admin app?</string>
   <string name="add_facerecoginition_text">Add face data</string>
@@ -305,7 +306,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_ringtone_title">Default alarm sound</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
-  <string name="alarm_sound_title">Alarm sound</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_template">at %1$s</string>
@@ -344,7 +345,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="ambient_display_pickup_title">Lift to check phone</string>
   <string name="ambient_display_screen_summary_always_on">Always on / Increased battery usage</string>
   <string name="ambient_display_screen_summary_notifications">New notifications</string>
-  <string name="ambient_display_screen_title">Ambient display</string>
+  <string name="ambient_display_screen_title">Always-on display</string>
   <string name="ambient_display_summary">To check time, notification icons, and other info, double-tap your screen.</string>
   <string name="ambient_display_title">Double-tap to check phone</string>
   <string name="android_beam_disabled_summary">To use this feature, turn on NFC</string>
@@ -360,14 +361,14 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="another_migration_already_in_progress">Another migration is already in progress.</string>
   <string name="anti_spam">Blocklist</string>
-  <string name="aod_and_lock_screen_settings_title">Ambient display &amp; Lock screen</string>
+  <string name="aod_and_lock_screen_settings_title">Always-on display &amp; Lock screen</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
-  <string name="aod_name_wanxiang">Ambient display</string>
+  <string name="aod_name_wanxiang">Always-on display</string>
   <string name="aod_notification_style_animation">Show animation</string>
   <string name="aod_notification_style_none">Do nothing</string>
   <string name="aod_notification_style_screen_on">Light up screen</string>
-  <string name="aod_settings_category_name">Ambient display</string>
-  <string name="aod_settings_title">Ambient display</string>
+  <string name="aod_settings_category_name">Always-on display</string>
+  <string name="aod_settings_title">Always-on display</string>
   <string name="aod_show_mode_title">Show items</string>
   <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
   <string name="aod_style_title">Style</string>
@@ -2606,6 +2607,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gxzw_add_fingerprint_put_finger_message">Press the screen and lift your finger after you feel vibration. Repeat several times.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Press and lift after vibration</string>
   <string name="gxzw_add_fingerprint_title">Add your fingerprint</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
@@ -3501,8 +3503,8 @@ There are other users present on this device.
   <string name="miui_lab_ai_cloud_closed">"AI preloading isn't available yet."</string>
   <string name="miui_lab_ai_preload_desc">AI preloading increases app launch speed</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Connect By Tips</string>
-  <string name="miui_lab_aiasst_call_screen_title">Tips Call</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Transform voice and text to answer calls silently</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI Call Assistant</string>
   <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
   <string name="miui_lab_drive_mode_title">Car mode</string>
   <string name="miui_lab_feature_applied">Applied</string>
@@ -4190,8 +4192,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/track pad</string>
   <string name="pointer_speed">Pointer speed</string>
-  <string name="popup_gesture_summary">Go back to Home screen, lift the phone, and look at the screen to open the front camera automatically</string>
-  <string name="popup_gesture_title">Lift to open front camera</string>
   <string name="popup_led_summary">Show animation when the front camera appears and retracts</string>
   <string name="popup_led_title">Visual effect</string>
   <string name="popup_title">Front camera effects</string>
@@ -4652,7 +4652,7 @@ UT Interface: %5$s"</string>
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">"Reset all network settings now? This might take several seconds. You won't be able to undo this action."</string>
-  <string name="reset_network_title">Reset WLAN, mobile &amp; Bluetooth</string>
+  <string name="reset_network_title">Reset WLAN, mobile networks, and Bluetooth</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Reset Second space password</string>
   <string name="reset_second_space_passwd_cancel">Cancel</string>
@@ -4702,7 +4702,7 @@ UT Interface: %5$s"</string>
   <string name="ring_volume_option_title">Calls, reminders, notifications</string>
   <string name="ring_volume_title">Ring volume</string>
   <string name="ringtone_slot_setting_title">Single SIM settings</string>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">Ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="ringtones_category_preference_title">Ringtones</string>
   <string name="ringtones_install_custom_sound_content">This file will be copied to the %s folder</string>
@@ -4755,7 +4755,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_cancel">Cancel</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
-  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature">Color temperature</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
@@ -4968,7 +4968,7 @@ To use screen pinning:
   <string name="search_children_mode_title">Child mode;Lock sms;Parental controls;Child parental;Restrict SMS</string>
   <string name="search_choose_timezone">Choose time zone;Time zone;Time zones</string>
   <string name="search_cloud_backup_settings_section_title">Backup settings;Backup;Back up;Backups</string>
-  <string name="search_cloud_restore_section_title">Restore from Mi Cloud;Mi Cloud;Cloud backups</string>
+  <string name="search_cloud_restore_section_title">Restore from Mi Cloud;Mi Cloud;Cloud backups;Xiaomi Cloud;Restore from Xiaomi Cloud</string>
   <string name="search_connection_and_sharing">More;Wireless</string>
   <string name="search_copyright_title">Copyright</string>
   <string name="search_credentials_install">Install from storage;Direct install;Install APK</string>
@@ -5017,7 +5017,7 @@ To use screen pinning:
   <string name="search_master_clear_title">Factory data reset</string>
   <string name="search_menu">Search settings</string>
   <string name="search_menu_title">Search</string>
-  <string name="search_micloud">Sync;Mi Cloud;Cloud sync;Sync with Mi Cloud</string>
+  <string name="search_micloud">Sync;Mi Cloud;Xiaomi Cloud;Cloud sync;Sync with the cloud;Sync with Xiaomi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audio settings;Sound settings</string>
   <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Assign buttons;buttons</string>
@@ -5522,6 +5522,8 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="sound_title">Sound</string>
   <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="sound_work_settings">Work profile sounds</string>
+  <string name="speaker">Speaker</string>
+  <string name="speaker_clean">Clear speaker</string>
   <string name="special_access">Special app access</string>
   <string name="speed_label_fast">Fast</string>
   <string name="speed_label_medium">Medium</string>
@@ -6665,6 +6667,7 @@ Tap the plus to add words."</string>
   <string name="weight_light">Light</string>
   <string name="weight_setting_toast">You can change font weight only for the default system font</string>
   <string name="welcome">Welcome</string>
+  <string name="wellbing_title">Digital Wellbeing &amp; parental controls</string>
   <string name="wfc_provisioned_switch_string">Wifi Calling Provisioned</string>
   <string name="wfd_available_devices">Available devices</string>
   <string name="wfd_disconnect_diag_msg">Disconnect from %1$s?</string>
