@@ -3,7 +3,6 @@
   <string name="action_add_to_workspace">Add to workspace</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-  <string name="add">Add</string>
   <string name="add_custom_category">Customise</string>
   <string name="add_screen">Add screen</string>
   <string name="added_all_category">Added all apps successfully</string>
@@ -167,6 +166,7 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="edit">Edit</string>
   <string name="edit_folder_title">Edit folder name</string>
   <string name="edit_mode_dual_app">Create dual app</string>
   <string name="edit_mode_group">Group</string>
