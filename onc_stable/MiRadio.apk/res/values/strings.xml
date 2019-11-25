@@ -593,6 +593,7 @@ Access storage in order to access and save cover art and downloaded files"</stri
   <string name="my_account">Mi Account</string>
   <string name="my_download">Downloads</string>
   <string name="my_favorite">Favorites</string>
+  <string name="name_download_count">(%1$d)</string>
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_playlist">Playlists</string>
   <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
@@ -608,6 +609,7 @@ Access storage in order to access and save cover art and downloaded files"</stri
   <string name="next_station">Next station</string>
   <string name="next_time">Not now</string>
   <string name="nick_name">Name</string>
+  <string name="night_mode_switch">Night mode</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_broadcast">No Broadcast</string>
