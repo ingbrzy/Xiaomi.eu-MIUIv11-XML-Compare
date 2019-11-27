@@ -235,7 +235,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_ringtone_title">Default alarm sound</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
-  <string name="alarm_sound_title">Alarm sound</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_volume_option_title">Alarm volume</string>
@@ -270,7 +270,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="ambient_display_pickup_title">Lift to check phone</string>
   <string name="ambient_display_screen_summary_always_on">Always on / Increased battery usage</string>
   <string name="ambient_display_screen_summary_notifications">New notifications</string>
-  <string name="ambient_display_screen_title">Ambient display</string>
+  <string name="ambient_display_screen_title">Always-on display</string>
   <string name="ambient_display_summary">To quickly check your notifications, double-tap your screen.</string>
   <string name="ambient_display_title">Double-tap to check phone</string>
   <string name="android_beam_disabled_summary">To use this feature, turn on NFC</string>
@@ -284,14 +284,14 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="another_migration_already_in_progress">Another migration is already in progress.</string>
   <string name="anti_spam">Blocklist</string>
-  <string name="aod_and_lock_screen_settings_title">Ambient display &amp; Lock screen</string>
+  <string name="aod_and_lock_screen_settings_title">Always-on display &amp; Lock screen</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
-  <string name="aod_name_wanxiang">Ambient display</string>
+  <string name="aod_name_wanxiang">Always-on display</string>
   <string name="aod_notification_style_animation">Show animation</string>
   <string name="aod_notification_style_none">Do nothing</string>
   <string name="aod_notification_style_screen_on">Light up screen</string>
-  <string name="aod_settings_category_name">Ambient display</string>
-  <string name="aod_settings_title">Ambient display</string>
+  <string name="aod_settings_category_name">Always-on display</string>
+  <string name="aod_settings_title">Always-on display</string>
   <string name="aod_show_mode_title">Show items</string>
   <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
   <string name="aod_style_title">Style</string>
@@ -540,7 +540,7 @@ Last ran on %2$s"</string>
   <string name="backup_data_summary">Back up app data, WLAN passwords, and other settings to Google servers</string>
   <string name="backup_data_title">Back up my data</string>
   <string name="backup_disabled">Back up disabled</string>
-  <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, and app data, and erase all copies on Google servers?</string>
+  <string name="backup_erase_dialog_message">Stop backing up your Wi-Fi passwords, bookmarks, other settings, and app data, and erase all copies on Google servers?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">"Backup service isn't active"</string>
   <string name="backup_pw_cancel_button_text">Cancel</string>
@@ -2050,11 +2050,14 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
   <string name="fingerprint_swipe_for_notifications_summary">To check your notifications, swipe down on the fingerprint sensor on the back of your phone.</string>
   <string name="fingerprint_swipe_for_notifications_title">Swipe fingerprint for notifications</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
   <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
   <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="fingerprint_unlock_touch_type">Touch</string>
+  <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
   <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
   <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
@@ -2826,6 +2829,8 @@ as your First space PIN."</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
   <string name="lockscreen_settings_title">Lock screen preferences</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Customize the apps displayed on the lock screen side panel</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Side panel shortcuts</string>
   <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
   <string name="login_account_dialog_title">Sign in with Mi Account</string>
   <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
@@ -4136,7 +4141,7 @@ UT Interface: %5$s"</string>
   <string name="ring_volume_option_title">Calls, reminders, notifications</string>
   <string name="ring_volume_title">Ring volume</string>
   <string name="ringtone_slot_setting_title">Single SIM settings</string>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">Ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="ringtones_category_preference_title">Ringtones</string>
   <string name="ringtones_install_custom_sound_content">This file will be copied to the %s folder</string>
@@ -4189,7 +4194,7 @@ This setting affects all users on this phone."</string>
   <string name="screen">Screen</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
-  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature">Color temperature</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
@@ -5326,8 +5331,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="translation_contributors_summary"/>
-  <string name="translation_contributors_title">Contributors</string>
   <string name="trusted_credentials">Trusted credentials</string>
   <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
   <string name="trusted_credentials_disable_label">Disable</string>
@@ -5487,6 +5490,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_type_category_title">Recognition method</string>
   <string name="unlogin_account_summary">All Mi services. One Mi Account.</string>
   <string name="unlogin_account_title">Sign in to Mi Account</string>
   <string name="unmount_inform_text">SD card will be unmounted.</string>
