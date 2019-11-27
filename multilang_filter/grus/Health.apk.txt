@@ -1,3 +1,4 @@
+Removed: [ru] array/weight_line_chart_default_y (untranslatable)
 Removed: [uk] string/date_format_m_d (format mismatch)
 Removed: [uk] string/date_format_y_m_d (format mismatch)
 Removed: [uk] string/date_format_y_m (format mismatch)
