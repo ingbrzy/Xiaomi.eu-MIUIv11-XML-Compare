@@ -1,0 +1,2 @@
+Removed: [tr] array/permission_risk_privacy (untranslatable)
+Removed: [tr] array/permission_risk_security (untranslatable)
