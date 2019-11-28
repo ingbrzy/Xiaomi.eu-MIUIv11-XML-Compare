@@ -31,6 +31,7 @@
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
+  <string name="account_check_in">签到</string>
   <string name="action_item_add">Add to playlist</string>
   <string name="action_item_add_song">Add to playlist</string>
   <string name="action_item_add_to_current_playlist">Queue</string>
@@ -160,7 +161,11 @@
   <string name="charge_fail">充值遇到了问题，请重新充值</string>
   <string name="charge_success">充值成功</string>
   <string name="check_in_complete_text">Checked in</string>
+  <string name="check_in_get_coin">签到赠币</string>
+  <string name="check_in_get_more_coin">连续签到赠币更多</string>
   <string name="check_in_label_text">Check in to get membership</string>
+  <string name="check_in_remind">做任务赠币可抵扣现金哦</string>
+  <string name="check_in_success">签到成功</string>
   <string name="check_in_text">Check in</string>
   <string name="check_in_vip_card_label1">You checked in 7 days in a row</string>
   <string name="check_in_vip_card_label2">"Here's your membership!"</string>
@@ -185,6 +190,9 @@
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Xiaomi Cloud and listen to them on other devices</string>
   <string name="coin">%1$s元</string>
+  <string name="collect_coin_message">可以进入帐号页收集赠币，赠币可以抵扣现金</string>
+  <string name="collect_coin_sure">去集赠币</string>
+  <string name="collect_coin_title">集赠币免费听</string>
   <string name="collect_diagnosis_log">Collect diagnosis log</string>
   <string name="collect_to_desktop">Add to Home screen</string>
   <string name="comment">Comment</string>
@@ -427,6 +435,7 @@ Please send this code to the technician."</string>
   <string name="fm_browser_label">FM</string>
   <string name="fm_has_turned_off">FM radio turned off</string>
   <string name="fm_headline">News</string>
+  <string name="fm_headline_title">今日精选</string>
   <string name="fm_history">Playback history</string>
   <string name="fm_local_not_listening">"Haven't listened yet"</string>
   <string name="fm_progress">Progress %1$s%%</string>
@@ -924,7 +933,11 @@ Please send this code to the technician."</string>
   <string name="share_image_error">"Couldn't share image due to a download error"</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
+  <string name="shortcut_cancel">我再想想</string>
+  <string name="shortcut_confirm">好的</string>
+  <string name="shortcut_message">将收音机图标移动到桌面,海量电台内容一触即达</string>
   <string name="shortcut_name">Mi Music stations</string>
+  <string name="shortcut_title">移动到桌面</string>
   <string name="show_download_manager">Downloads</string>
   <string name="show_more">Show %s more</string>
   <string name="shuffle_music">Shuffle playback</string>
