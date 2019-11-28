@@ -56,6 +56,15 @@
         <item>℃</item>
         <item>°F</item>
     </string-array>
+    <string-array name="week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
     <string-array name="week_label">
         <item>Sun</item>
         <item>Mon</item>
@@ -65,6 +74,11 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
+    <integer-array name="weight_line_chart_default_y">
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+    </integer-array>
     <string-array name="weight_unit">
         <item>" g"</item>
         <item>" kg"</item>
