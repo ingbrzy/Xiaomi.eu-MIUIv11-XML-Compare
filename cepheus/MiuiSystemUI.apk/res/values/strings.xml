@@ -1361,7 +1361,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="open_camera_hint_text">Drag the icon to open Camera</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_lock_screen_magazine_hint_text">Swipe right for more options</string>
-  <string name="open_remote_center_hint_text">Swipe right to view controls</string>
+  <string name="open_remote_center_hint_text">Swipe right to view shortcuts</string>
   <string name="osu_completing_sign_up">Completing sign-up…</string>
   <string name="osu_connect_failed">Couldn’t connect</string>
   <string name="osu_opening_provider">Opening %1$s</string>
