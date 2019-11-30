@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Installing…</string>
   <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
   <string name="app_store_missing_title">"App Store isn't installed"</string>
-  <string name="application_detail_tips">App details and permission settings</string>
+  <string name="application_detail_tips">App info and permission settings</string>
   <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
   <string name="btn_text_full_scan">Full scan</string>
   <string name="btn_text_install_new_version">Latest version</string>
@@ -274,7 +274,6 @@ All your previous user data will be saved."</string>
   <string name="settings">Settings</string>
   <string name="settings_warning_dialog_detail">"You'll be prompted in the following cases:
  "&lt;li&gt;When an app contains viruses.&lt;/li&gt;"
- "&lt;li&gt;A newer version of an app is available in our app market.&lt;/li&gt;"
  "&lt;li&gt;Installation package comes from an unknown source.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">"Your phone is prone to security risks. You won't be prompted to install secure app versions if you turn this feature off. Turn off anyway?"</string>
   <string name="settings_warning_dialog_title">Attention</string>
