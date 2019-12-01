@@ -6,7 +6,7 @@
     <string name="label_shutdown">Desligar</string>
     <string name="label_alert_reboot">Reiniciar</string>
     <string name="label_alert_recovery">Recovery</string>
-    <string name="label_alert_fastboot">Modo Fastboot</string>
+    <string name="label_alert_fastboot">Fastboot</string>
     <string name="label_alert_shutdown">Desligar</string>
     <string name="label_blank">Voltar</string>
 </resources>
