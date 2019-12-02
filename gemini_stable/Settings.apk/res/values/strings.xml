@@ -2824,6 +2824,8 @@ as your First space PIN."</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
   <string name="lockscreen_settings_title">Lock screen preferences</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Customize the apps displayed on the lock screen side panel</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Side panel shortcuts</string>
   <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
   <string name="login_account_dialog_title">Sign in with Mi Account</string>
   <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
