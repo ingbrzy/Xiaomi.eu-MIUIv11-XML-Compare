@@ -30,7 +30,6 @@
   <string name="all_apps_setting_drawer_tips_title">Using App drawer</string>
   <string name="all_apps_setting_drawer_title">With App drawer</string>
   <string name="all_apps_setting_letter_scrollbar">A-Z</string>
-  <string name="all_apps_setting_min_category_limit">Select at least 1 category</string>
   <string name="all_apps_setting_original_scrollbar">Original layout</string>
   <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
@@ -113,7 +112,6 @@
   <string name="cate_order_reset">Reset</string>
   <string name="category_already_exists">This category already exists</string>
   <string name="category_cannot_empty">Enter category first</string>
-  <string name="category_choose_no_app_select_tip">Every category must contain at least 1 app.</string>
   <string name="category_drawer_name_hint">Enter category name</string>
   <string name="category_group">Categorize apps</string>
   <string name="category_group_summary">Categorize apps in App drawer</string>
@@ -415,6 +413,7 @@
   <string name="status_paused">Paused</string>
   <string name="status_pending">Waiting</string>
   <string name="system_shortcuts_more_operation">App info</string>
+  <string name="system_shortcuts_remove">Remove</string>
   <string name="system_text">System</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Select folder</string>
