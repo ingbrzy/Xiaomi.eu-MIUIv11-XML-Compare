@@ -931,6 +931,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_carrier_default">No service</string>
   <string name="keyguard_charged">Charged</string>
   <string name="keyguard_charging_back_to_lockscreen">Back to Lock screen</string>
+  <string name="keyguard_charging_battery_level">%s%%</string>
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
@@ -956,12 +957,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
   <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
   <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-  <string name="keyguard_left_calculator">Calculator</string>
-  <string name="keyguard_left_calendar">Calendar</string>
-  <string name="keyguard_left_contacts">Contacts</string>
   <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-  <string name="keyguard_left_music">Music</string>
-  <string name="keyguard_left_notes">Notes</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Torch</string>
@@ -1295,7 +1291,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="open_camera_hint_text">Drag the icon to open Camera</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_lock_screen_magazine_hint_text">Swipe right for more options</string>
-  <string name="open_remote_center_hint_text">Swipe right to view controls</string>
+  <string name="open_remote_center_hint_text">Swipe right to view shortcuts</string>
   <string name="other">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="overview">Overview</string>
