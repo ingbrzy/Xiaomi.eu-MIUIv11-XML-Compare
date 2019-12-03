@@ -1454,7 +1454,7 @@ This feature can be turned off in the Settings."</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">%1$s ago</string>
-  <string name="charging_sounds_title">Charging sounds and vibration</string>
+  <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
