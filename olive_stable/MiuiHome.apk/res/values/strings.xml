@@ -3,7 +3,6 @@
   <string name="action_add_to_workspace">Add to workspace</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-  <string name="add">Add</string>
   <string name="add_custom_category">Customise</string>
   <string name="add_screen">Add screen</string>
   <string name="added_all_category">Added all apps successfully</string>
@@ -31,7 +30,6 @@
   <string name="all_apps_setting_drawer_tips_title">Using App drawer</string>
   <string name="all_apps_setting_drawer_title">With App drawer</string>
   <string name="all_apps_setting_letter_scrollbar">A-Z</string>
-  <string name="all_apps_setting_min_category_limit">Select at least 1 category</string>
   <string name="all_apps_setting_original_scrollbar">Original layout</string>
   <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
@@ -114,7 +112,6 @@
   <string name="cate_order_reset">Reset</string>
   <string name="category_already_exists">This category already exists</string>
   <string name="category_cannot_empty">Enter category first</string>
-  <string name="category_choose_no_app_select_tip">Every category must contain at least 1 app.</string>
   <string name="category_drawer_name_hint">Enter category name</string>
   <string name="category_group">Categorize apps</string>
   <string name="category_group_summary">Categorize apps in App drawer</string>
@@ -167,6 +164,7 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="edit">Edit</string>
   <string name="edit_folder_title">Edit folder name</string>
   <string name="edit_mode_dual_app">Create dual app</string>
   <string name="edit_mode_group">Group</string>
@@ -415,6 +413,7 @@
   <string name="status_paused">Paused</string>
   <string name="status_pending">Waiting</string>
   <string name="system_shortcuts_more_operation">App info</string>
+  <string name="system_shortcuts_remove">Remove</string>
   <string name="system_text">System</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Select folder</string>
