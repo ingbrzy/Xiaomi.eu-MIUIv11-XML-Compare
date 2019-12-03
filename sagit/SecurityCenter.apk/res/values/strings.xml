@@ -1959,8 +1959,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Turn off Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Advanced settings</string>
+  <string name="power_center_list_item_haptic_feedback">Turn off haptic feedback</string>
   <string name="power_center_list_item_set_lockscreen_time">Put screen to sleep after 30 seconds of inactivity</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Lock device after %d seconds of inactivity</string>
+  <string name="power_center_list_item_wake_notification">"Don't wake screen for notifications"</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimize</string>
   <string name="power_center_ontime_boot">Power on time</string>
@@ -2014,6 +2016,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Turn off high accuracy location mode</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
   <string name="power_optimize_loading">Loading</string>
   <string name="power_optimize_open_hide_mode">Turn on Battery saver</string>
