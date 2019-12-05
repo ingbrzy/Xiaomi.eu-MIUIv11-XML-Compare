@@ -1842,6 +1842,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_vol_stream_title">Default volume control stream</string>
   <string name="delete">Delete</string>
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+  <string name="delete_fingerprint_confirm_title">Attention</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
@@ -3037,6 +3038,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="legal_written_offer">Written Offer</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="lights_title">LED light</string>
@@ -3310,6 +3312,7 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">Stunning images and exciting stories delivered to you daily</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
