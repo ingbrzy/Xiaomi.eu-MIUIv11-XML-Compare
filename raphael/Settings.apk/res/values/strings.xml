@@ -1454,7 +1454,7 @@ This feature can be turned off in the Settings."</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">%1$s ago</string>
-  <string name="charging_sounds_title">Charging sounds and vibration</string>
+  <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
@@ -1509,6 +1509,13 @@ This feature can be turned off in the Settings."</string>
   <string name="color_cyan">Cyan</string>
   <string name="color_gray">Gray</string>
   <string name="color_green">Green</string>
+  <string name="color_lamp_applications_title">Manage notifications</string>
+  <string name="color_lamp_applications_title_summary">Allow or restrict using LED light in \"Notification categories\"</string>
+  <string name="color_lamp_battery_title">Keep on while charging</string>
+  <string name="color_lamp_charging_summary">LED light will be turned off when your device is fully charged</string>
+  <string name="color_lamp_incall_pulse_title">Flash for incoming calls</string>
+  <string name="color_lamp_notification_pulse_title">Flash for notifications when the screen is off</string>
+  <string name="color_lamp_title">LED light</string>
   <string name="color_led_applications_title">Select apps</string>
   <string name="color_led_applications_title_summary">You can restrict using LED light for individual apps</string>
   <string name="color_led_battery_title">Keep on while charging</string>
@@ -1972,6 +1979,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_vol_stream_title">Default volume control stream</string>
   <string name="delete">Delete</string>
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+  <string name="delete_fingerprint_confirm_title">Attention</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
@@ -2261,6 +2269,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dual_wifi">Dual band WLAN speed boost</string>
   <string name="dual_wifi_acceleration">Boosting speed</string>
+  <string name="dual_wifi_auto_disable">Stop boosting speed automatically</string>
+  <string name="dual_wifi_auto_disable_summary">Disconnect from auxiliary WLAN networks when the screen is turned off to save power</string>
   <string name="dual_wifi_avaliable_slave_wifi">Available auxiliary networks</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Available auxiliary networks (2.4 GHz band)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Available auxiliary networks (5 GHz band)</string>
@@ -3262,6 +3272,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="legal_written_offer">Written Offer</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="lights_title">LED light</string>
@@ -3555,6 +3566,7 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">Stunning images and exciting stories delivered to you daily</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
@@ -4606,6 +4618,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="popup_gesture_title">Lift to open front camera</string>
   <string name="popup_led_summary">Show animation when the front camera appears and retracts</string>
   <string name="popup_led_title">Visual effect</string>
+  <string name="popup_led_try_later">Wait a minute or two and try again</string>
   <string name="popup_title">Front camera effects</string>
   <string name="popup_title_cangmen">Cabin door</string>
   <string name="popup_title_chilun">Gearwheel</string>
