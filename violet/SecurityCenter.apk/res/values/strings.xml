@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">write and delete call history</string>
+  <string name="HIPS_Perm_Call_Desc">directly call phone numbers</string>
+  <string name="HIPS_Perm_Contact_Desc">modify and delete contacts</string>
+  <string name="HIPS_Perm_PhoneID_Desc">access phone number, IMEI, and IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Access phone number and device status</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">read call history</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">read your contacts</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">read your SMS messages</string>
+  <string name="HIPS_Perm_SendSMS_Desc">directly send SMS messages</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">add system voice messages</string>
+  <string name="HIPS_Perm_get_accounts_Desc">access all accounts stored on device</string>
+  <string name="HIPS_Perm_use_sip_Desc">use Session Initiation Protocol to stream video</string>
   <string name="Phonepass">Allow calls</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="SMSpass">Allow SMS</string>
@@ -1870,6 +1882,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Avoid overheating and hardware-related issues</string>
   <string name="perfermance_optimization_title">Performance optimization</string>
+  <string name="permdesc_in_calls">Monitor incoming calls</string>
+  <string name="permdesc_out_calls">Monitor outgoing calls</string>
   <string name="permgroupdesc_calendar">Access calendar events</string>
   <string name="permgroupdesc_calllog">Access and save items to call history</string>
   <string name="permgroupdesc_camera">Take photos and record videos</string>
@@ -1934,6 +1948,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_battery_last">%s remaining</string>
   <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_dialog_msg_bottom">You can increase battery life up to %1$dh %2$dm. Turn on Battery saver?</string>
+  <string name="power_center_dialog_msg_title">Turn on to get %1$s of extra time. The following actions will be performed to save battery:</string>
   <string name="power_center_dialog_msg_top">When Battery saver is on, MIUI will perform the following optimizations:</string>
   <string name="power_center_hints_scan_danger_result">You can fix battery issues now</string>
   <string name="power_center_list_item_auto_brightness">Adjust screen brightness automatically</string>
@@ -1945,8 +1960,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Turn off Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Advanced settings</string>
+  <string name="power_center_list_item_haptic_feedback">Turn off haptic feedback</string>
   <string name="power_center_list_item_set_lockscreen_time">Put screen to sleep after 30 seconds of inactivity</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Lock device after %d seconds of inactivity</string>
+  <string name="power_center_list_item_wake_notification">"Don't wake screen for notifications"</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimize</string>
   <string name="power_center_ontime_boot">Power on time</string>
@@ -2000,6 +2017,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Turn off high accuracy location mode</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
   <string name="power_optimize_loading">Loading</string>
   <string name="power_optimize_open_hide_mode">Turn on Battery saver</string>
@@ -2009,18 +2027,23 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_mode">Battery saver</string>
   <string name="power_save_mode_auto_exit_summary">Turn off when battery is 60% or fully charged​</string>
   <string name="power_save_mode_auto_exit_title">Turn off when charged</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Works when Battery saver is on</string>
+  <string name="power_save_mode_close_notification_screenon_title">"Don't wake screen for notifications"</string>
   <string name="power_save_mode_close_warn_text">Battery saver restricts background activity and sync. If you choose to use it when your device is charged, some features might not work properly. Keep Battery saver on when your device is charged?</string>
   <string name="power_save_mode_close_warn_title">Battery saver</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Works when Battery saver is on</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">"Don't trigger Mi AI with voice"</string>
   <string name="power_save_mode_enable">Battery saver</string>
   <string name="power_save_mode_end_time">End</string>
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
+  <string name="power_save_mode_other_optimization">Optional optimization</string>
   <string name="power_save_mode_start_time">Start</string>
   <string name="power_save_mode_summary">Monitor background processes and turn off sync.</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
-  <string name="power_save_ps_close_setting">Turn off background services (sync, GPS) to save battery</string>
-  <string name="power_save_ps_close_setting_5g">Restrict power consuming features (sync, 5G connectivity, GPS)</string>
+  <string name="power_save_ps_close_setting">Turn off services and features with high power consumption (sync, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
+  <string name="power_save_ps_close_setting_5g">Turn off services and features with high power consumption (sync, 5G network connectivity, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
   <string name="power_save_ps_freeze">Freeze apps in the background</string>
   <string name="power_save_ps_limit">Restrict the activity of system apps</string>
   <string name="power_save_settings">Battery settings</string>
@@ -2646,6 +2669,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_use_network_no_permission">Connect to the network</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Make calls</string>
+  <string name="system_permission_perm_optional">" (optional)"</string>
   <string name="system_permission_perm_read_mms">Read MMS</string>
   <string name="system_permission_perm_read_numbers">Read phone numbers</string>
   <string name="system_permission_perm_send_mms">Send MMS</string>
