@@ -218,6 +218,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
@@ -230,6 +231,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
@@ -264,6 +266,38 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Disabled</item>
+        <item>Enabled Filtered</item>
+        <item>Enabled</item>
+        <item>Enabled \"Headers filtered\"</item>
+        <item>Enabled \"Media packets filtered\"</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabled</item>
+        <item>filtered</item>
+        <item>full</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
+    <array name="bt_icon_bg_colors">
+        <item>@color/bt_color_bg_1</item>
+        <item>@color/bt_color_bg_2</item>
+        <item>@color/bt_color_bg_3</item>
+        <item>@color/bt_color_bg_4</item>
+        <item>@color/bt_color_bg_5</item>
+        <item>@color/bt_color_bg_6</item>
+        <item>@color/bt_color_bg_7</item>
+    </array>
+    <array name="bt_icon_fg_colors">
+        <item>@color/bt_color_icon_1</item>
+        <item>@color/bt_color_icon_2</item>
+        <item>@color/bt_color_icon_3</item>
+        <item>@color/bt_color_icon_4</item>
+        <item>@color/bt_color_icon_5</item>
+        <item>@color/bt_color_icon_6</item>
+        <item>@color/bt_color_icon_7</item>
+    </array>
     <array name="car_facet_category_filters" />
     <array name="car_facet_icons" />
     <array name="car_facet_intent_uris" />
@@ -630,6 +664,7 @@
         <item>davinciin</item>
         <item>raphael</item>
         <item>raphaelin</item>
+        <item>lmi</item>
     </string-array>
     <string-array name="device_support_pickup_by_MTK">
         <item>cactus</item>
@@ -989,14 +1024,14 @@
     <string-array name="select_logpersist_summaries">
         <item>Off</item>
         <item>All log buffers</item>
-        <item>All except radio log buffers</item>
-        <item>Kernel log buffer only</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Off</item>
         <item>All</item>
-        <item>All except radio</item>
-        <item>Kernel only</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
     </string-array>
     <string-array name="select_logpersist_values">
         <item></item>
@@ -1432,6 +1467,7 @@
         <item>com.miui.notes</item>
         <item>com.miui.tsmclient</item>
         <item>com.mi.android.globalminusscreen</item>
+        <item>com.mfashiongallery.emag</item>
     </string-array>
     <string-array name="telephony_data_activity_1x_sim1">
         <item>0</item>
