@@ -189,10 +189,10 @@
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
-  <string name="browser_default_setting_cancel">取消</string>
-  <string name="browser_default_setting_confirm">确定</string>
-  <string name="browser_default_setting_content">安全上网 保驾护航</string>
-  <string name="browser_default_setting_title">设置为默认浏览器</string>
+  <string name="browser_default_setting_cancel">Cancel</string>
+  <string name="browser_default_setting_confirm">OK</string>
+  <string name="browser_default_setting_content">Fast and secure web browsing</string>
+  <string name="browser_default_setting_title">Set as default browser</string>
   <string name="bubble_guide_bottom_message_text">You have %d unread messages</string>
   <string name="bubble_guide_logined_text">Sign in for lucky draw</string>
   <string name="bubble_guide_portrait_message_text">Click to view</string>
@@ -433,7 +433,7 @@ to view open tabs from other devices."</string>
   <string name="info_flow_description">Info channel</string>
   <string name="isReplacePage">File already exists, replace?</string>
   <string name="keep_queued_download">Keep</string>
-  <string name="load_error_tip">Loading error, click retry</string>
+  <string name="load_error_tip">"Couldn't load items. Tap to try again."</string>
   <string name="load_more_footer_status_msg_error_load">"Couldn't load. Try again."</string>
   <string name="load_more_footer_status_msg_error_no_network">"Couldn't connect to the network."</string>
   <string name="load_more_footer_status_msg_full">"That's all for now."</string>
@@ -672,7 +672,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
   <string name="navigationbar_rightbutton_actiontext_go">Go</string>
   <string name="navigationbar_rightbutton_actiontext_search">Search</string>
-  <string name="network_error_tips">Netwrok error, retry</string>
+  <string name="network_error_tips">A network error occurred. Try again.</string>
   <string name="network_not_available_comment">No internet connection, unable to comment</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
@@ -688,7 +688,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="not_now">Not now</string>
   <string name="not_remind_again">Remember my choice</string>
   <string name="notif_install_successful">Download complete</string>
-  <string name="notification_channel_name_local_push">本地推送</string>
+  <string name="notification_channel_name_local_push">Browser notifications</string>
   <string name="ok">OK</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_cloud_sync">Turn on sync with the cloud</string>
@@ -842,7 +842,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
   <string name="recommending_close_toast_text">Set close this function in advanced settings</string>
   <string name="refresh_description">Refresh</string>
-  <string name="refresh_text">Refresh</string>
+  <string name="refresh_text">Try again</string>
   <string name="refuse_permissions_request">Restrict</string>
   <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
   <string name="remove_bookmark">Delete bookmark</string>
