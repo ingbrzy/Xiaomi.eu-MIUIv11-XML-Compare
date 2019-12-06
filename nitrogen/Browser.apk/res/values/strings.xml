@@ -746,6 +746,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_content_block_popups">Block pop-ups</string>
   <string name="pref_content_cloud_speedup">Load content faster using proxy servers</string>
   <string name="pref_content_homepage">Set start page</string>
+  <string name="pref_content_javascript">Enable JavaScript</string>
   <string name="pref_content_search_engine">Search engine in address bar</string>
   <string name="pref_content_search_engine_summary">Choose a search engine</string>
   <string name="pref_content_simple_homepage">Simplified start page</string>
