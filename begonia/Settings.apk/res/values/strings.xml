@@ -1454,7 +1454,7 @@ This feature can be turned off in the Settings."</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">%1$s ago</string>
-  <string name="charging_sounds_title">Charging sounds and vibration</string>
+  <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
@@ -1509,6 +1509,13 @@ This feature can be turned off in the Settings."</string>
   <string name="color_cyan">Cyan</string>
   <string name="color_gray">Gray</string>
   <string name="color_green">Green</string>
+  <string name="color_lamp_applications_title">Manage notifications</string>
+  <string name="color_lamp_applications_title_summary">Allow or restrict using LED light in \"Notification categories\"</string>
+  <string name="color_lamp_battery_title">Keep on while charging</string>
+  <string name="color_lamp_charging_summary">LED light will be turned off when your device is fully charged</string>
+  <string name="color_lamp_incall_pulse_title">Flash for incoming calls</string>
+  <string name="color_lamp_notification_pulse_title">Flash for notifications when the screen is off</string>
+  <string name="color_lamp_title">LED light</string>
   <string name="color_led_applications_title">Select apps</string>
   <string name="color_led_applications_title_summary">You can restrict using LED light for individual apps</string>
   <string name="color_led_battery_title">Keep on while charging</string>
@@ -1972,6 +1979,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_vol_stream_title">Default volume control stream</string>
   <string name="delete">Delete</string>
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+  <string name="delete_fingerprint_confirm_title">Attention</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
@@ -2125,6 +2133,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="disallow_lock_screen_summary">Allow notifications in \"App notifications\" first</string>
   <string name="disconnect">disconnect</string>
   <string name="disconnected">Not connected</string>
+  <string name="display_advanced_mode_summary">Color gamut options</string>
+  <string name="display_advanced_mode_title">Advanced settings</string>
   <string name="display_auto_rotate_rotate">On</string>
   <string name="display_auto_rotate_stay_in_current">Off</string>
   <string name="display_auto_rotate_stay_in_landscape">Lock landscape</string>
@@ -2261,6 +2271,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dual_wifi">Dual band WLAN speed boost</string>
   <string name="dual_wifi_acceleration">Boosting speed</string>
+  <string name="dual_wifi_auto_disable">Stop boosting speed automatically</string>
+  <string name="dual_wifi_auto_disable_summary">Disconnect from auxiliary WLAN networks when the screen is turned off to save power</string>
   <string name="dual_wifi_avaliable_slave_wifi">Available auxiliary networks</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Available auxiliary networks (2.4 GHz band)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Available auxiliary networks (5 GHz band)</string>
@@ -2962,6 +2974,8 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="ignore_optimizations_on_desc">May drain your battery more quickly. App will no longer be restricted from using background battery.</string>
   <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
   <string name="ime_security_warning">%1$s might record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
+  <string name="ime_security_warning_title_global">Turn on Keyboard</string>
   <string name="imei_information_summary">IMEI relative information</string>
   <string name="imei_information_title">IMEI information</string>
   <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
@@ -3258,6 +3272,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="legal_written_offer">Written Offer</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="lights_title">LED light</string>
@@ -3551,11 +3566,14 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">Stunning images and exciting stories delivered to you daily</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
   <string name="lockscreen_settings_title">Lock screen display</string>
   <string name="lockscreen_settings_what_to_show_category">What to show</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Customize the apps displayed on the lock screen side panel</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Side panel shortcuts</string>
   <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
   <string name="login_account_dialog_title">Sign in with Mi Account</string>
   <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
@@ -3965,7 +3983,12 @@ Select your operating system:"</string>
   <string name="msd_pc_system_install_summary_xp">1. Run setup.exe to install</string>
   <string name="msg_wlan_signal_found">Connect to %s?</string>
   <string name="msim_sim_radio_off">Off</string>
+  <string name="mtp_connection_failed">"Can't transfer files to the connected computer. Try troubleshooting."</string>
+  <string name="mtp_connection_failed_title">USB connection</string>
+  <string name="mtp_connection_not_remind">"Don't show again"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
+  <string name="mtp_solution_button_cancel">Got it</string>
+  <string name="mtp_solution_button_ok">Troubleshooting</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mtrl_picker_cancel">Cancel</string>
   <string name="mtrl_picker_confirm">Save</string>
@@ -4595,6 +4618,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="popup_gesture_title">Lift to open front camera</string>
   <string name="popup_led_summary">Show animation when the front camera appears and retracts</string>
   <string name="popup_led_title">Visual effect</string>
+  <string name="popup_led_try_later">Wait a minute or two and try again</string>
   <string name="popup_title">Front camera effects</string>
   <string name="popup_title_cangmen">Cabin door</string>
   <string name="popup_title_chilun">Gearwheel</string>

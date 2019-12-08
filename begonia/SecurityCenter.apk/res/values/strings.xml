@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">write and delete call history</string>
+  <string name="HIPS_Perm_Call_Desc">directly call phone numbers</string>
+  <string name="HIPS_Perm_Contact_Desc">modify and delete contacts</string>
+  <string name="HIPS_Perm_PhoneID_Desc">access phone number, IMEI, and IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Access phone number and device status</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">read call history</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">read your contacts</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">read your SMS messages</string>
+  <string name="HIPS_Perm_SendSMS_Desc">directly send SMS messages</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">add system voice messages</string>
+  <string name="HIPS_Perm_get_accounts_Desc">access all accounts stored on device</string>
+  <string name="HIPS_Perm_use_sip_Desc">use Session Initiation Protocol to stream video</string>
   <string name="Phonepass">Allow calls</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="SMSpass">Allow SMS</string>
@@ -282,6 +294,11 @@ You will not lose any app data."</string>
   <string name="app_permission_use_no_neccesary">Optional permissions</string>
   <string name="app_permission_use_title">Permissions</string>
   <string name="app_right">小米公司官方出品</string>
+  <string name="app_running_tip_dialog_negative">Cancel</string>
+  <string name="app_running_tip_dialog_positive">OK</string>
+  <string name="app_running_tip_dialog_text">Quit %1$s to prevent it from running in the background. This will speed up your device and reduce power consumption.</string>
+  <string name="app_running_tip_dialog_title">Quit app</string>
+  <string name="app_running_tip_uninstall">Uninstall this app</string>
   <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
 春节红包活动，不错过每一个红包"</string>
@@ -413,6 +430,7 @@ You will not lose any app data."</string>
   <string name="banner_red_money_assist_button">Turn on</string>
   <string name="banner_red_money_assist_summary">Open red envelopes faster</string>
   <string name="battery_and_property">Battery &amp; performance</string>
+  <string name="battery_can_use_time">%s remaining</string>
   <string name="battery_capacity_title">Battery capacity</string>
   <string name="battery_charge_estimating">Calculating</string>
   <string name="battery_charge_full">Charged</string>
@@ -438,6 +456,12 @@ You will not lose any app data."</string>
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_seconds">%1$ds</string>
+  <string name="battery_low_button_not_open_power_save">Not now</string>
+  <string name="battery_low_button_open_power_save">Turn on</string>
+  <string name="battery_low_percent_format_save_mode_closed">"There's less than %s of battery remaining now. Don't forget to charge your device."</string>
+  <string name="battery_low_percent_format_save_mode_open">"There's less than %1$s of battery remaining now. Turn on Battery saver to add %2$s of extra time."</string>
+  <string name="battery_low_title">Battery is running low</string>
+  <string name="battery_low_title_power_save">Battery saver</string>
   <string name="battery_statistics_activity_title">Battery usage stats</string>
   <string name="battery_stats_charging_label">Charging</string>
   <string name="battery_stats_gps_on_label">GPS on</string>
@@ -739,12 +763,14 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="dlg_black_address_antispam_message">Add this location to blocklist?</string>
   <string name="dlg_black_antispam_hint">Blocklist</string>
   <string name="dlg_black_antispam_message">Add this number to blocklist?</string>
+  <string name="dlg_cancel">Cancel</string>
   <string name="dlg_clear_all_call">Clear blocked calls?</string>
   <string name="dlg_clear_all_ok">Clear all</string>
   <string name="dlg_clear_all_sms">Delete blocked messages?</string>
   <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
   <string name="dlg_clear_current_ok">Clear</string>
   <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
+  <string name="dlg_confirm">Turn on</string>
   <string name="dlg_delete_keyword">Clear selected keywords?</string>
   <string name="dlg_edit_keyword">Edit keywords</string>
   <string name="dlg_import_blacklist">Adding…</string>
@@ -767,6 +793,11 @@ It will be added to exceptions, but previously blocked items won't appear in cal
   <string name="dlg_remove_whitelist_ing">Removing…</string>
   <string name="dlg_remove_whitelist_title">Remove</string>
   <string name="dlg_sec_network_unavailable">"Security can't update because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="dlg_summary_close_app">"Apps won't run in the background. Notifications will be restricted."</string>
+  <string name="dlg_summary_close_theme">"Dynamic themes won't work."</string>
+  <string name="dlg_summary_close_wifi">WLAN, Bluetooth, and portable hotspot will be turned off.</string>
+  <string name="dlg_summary_nfc">NFC will be turned off.</string>
+  <string name="dlg_summary_title">Background activity will be restricted when you leave an app or go back to the Home screen. Add the apps to the Battery saver exceptions to allow them to run in the background.</string>
   <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
   <string name="dlg_update_btn_contiue">Continue</string>
   <string name="dlg_update_btn_open">Allow</string>
@@ -801,6 +832,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
   <string name="empty_title_perm_apps">No apps have this permission.</string>
   <string name="empty_title_permission_apps_list">No apps.</string>
   <string name="empty_title_root_apps">No apps have root access.</string>
+  <string name="enable_extreme_power_save_mode">Extreme battery saver</string>
   <string name="enable_network">Turn network on first</string>
   <string name="enter">进入</string>
   <string name="every_day">Every day</string>
@@ -1321,6 +1353,7 @@ medical card"</string>
   <string name="installing">Installing</string>
   <string name="international_Ad">Ad</string>
   <string name="international_roaming_setting">Overseas roaming</string>
+  <string name="invalid_charger">"Can't charge via USB. Use the charger that came with your device."</string>
   <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>
@@ -1330,6 +1363,7 @@ medical card"</string>
   <string name="item_system_auto_download">Download updates automatically</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
+  <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_callwait">Call waiting notification</string>
@@ -1393,6 +1427,9 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
   <string name="low_memory_warning_dialog_ok_button">Clear</string>
   <string name="low_memory_warning_dialog_title">Not enough free space</string>
+  <string name="low_temperature_button_ok">Got it</string>
+  <string name="low_temperature_warning_message">"Looks like it's too cold and your phone can turn off sooner than you expect. Save all important changes."</string>
+  <string name="low_temperature_warning_title">Air temperature is low</string>
   <string name="lucky_activity">红包活动</string>
   <string name="lucky_alarm">红包闹钟</string>
   <string name="lucky_alarm_app">红包活动倒计时</string>
@@ -1667,8 +1704,13 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_battery_consume_abnormal_title">Battery is being drained too fast</string>
   <string name="notification_battery_scan_consume_abnormal_summary">Tap to fix the problem</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s is draining battery</string>
+  <string name="notification_channel_battery">Battery</string>
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
+  <string name="notification_low_battery_action_btn">Turn on</string>
+  <string name="notification_low_battery_need_charge">Charge your device</string>
+  <string name="notification_low_battery_open_save_mode">Turn on Battery saver</string>
+  <string name="notification_low_battery_title">Less than %s of battery remaining</string>
   <string name="notification_mask_summary">"Don't display notification content for protected apps"</string>
   <string name="notification_mask_title">Hide notification content</string>
   <string name="notification_masked_item">How to hide notification content?</string>
@@ -1727,6 +1769,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="open_callwait">On</string>
   <string name="open_dnd_mode">勿扰模式</string>
   <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
+  <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_fast_open_mode">开启速抢模式</string>
   <string name="open_fast_open_mode_summary">开启速抢模式，当收到红包时，系统将自动打开抢红包页面。</string>
   <string name="open_game">Open</string>
@@ -1839,6 +1882,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Avoid overheating and hardware-related issues</string>
   <string name="perfermance_optimization_title">Performance optimization</string>
+  <string name="permdesc_in_calls">Monitor incoming calls</string>
+  <string name="permdesc_out_calls">Monitor outgoing calls</string>
   <string name="permgroupdesc_calendar">Access calendar events</string>
   <string name="permgroupdesc_calllog">Access and save items to call history</string>
   <string name="permgroupdesc_camera">Take photos and record videos</string>
@@ -1903,6 +1948,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_battery_last">%s remaining</string>
   <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_dialog_msg_bottom">You can increase battery life up to %1$dh %2$dm. Turn on Battery saver?</string>
+  <string name="power_center_dialog_msg_title">Turn on to get %1$s of extra time. The following actions will be performed to save battery:</string>
   <string name="power_center_dialog_msg_top">When Battery saver is on, MIUI will perform the following optimizations:</string>
   <string name="power_center_hints_scan_danger_result">You can fix battery issues now</string>
   <string name="power_center_list_item_auto_brightness">Adjust screen brightness automatically</string>
@@ -1914,8 +1960,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Turn off Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Advanced settings</string>
+  <string name="power_center_list_item_haptic_feedback">Turn off haptic feedback</string>
   <string name="power_center_list_item_set_lockscreen_time">Put screen to sleep after 30 seconds of inactivity</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Lock device after %d seconds of inactivity</string>
+  <string name="power_center_list_item_wake_notification">"Don't wake screen for notifications"</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimize</string>
   <string name="power_center_ontime_boot">Power on time</string>
@@ -1969,6 +2017,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Turn off high accuracy location mode</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
   <string name="power_optimize_loading">Loading</string>
   <string name="power_optimize_open_hide_mode">Turn on Battery saver</string>
@@ -1978,18 +2027,25 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_mode">Battery saver</string>
   <string name="power_save_mode_auto_exit_summary">Turn off when battery is 60% or fully charged​</string>
   <string name="power_save_mode_auto_exit_title">Turn off when charged</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Works when Battery saver is on</string>
+  <string name="power_save_mode_close_notification_screenon_title">"Don't wake screen for notifications"</string>
   <string name="power_save_mode_close_warn_text">Battery saver restricts background activity and sync. If you choose to use it when your device is charged, some features might not work properly. Keep Battery saver on when your device is charged?</string>
   <string name="power_save_mode_close_warn_title">Battery saver</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Works when Battery saver is on</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">"Don't trigger Mi AI with voice"</string>
   <string name="power_save_mode_enable">Battery saver</string>
   <string name="power_save_mode_end_time">End</string>
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
+  <string name="power_save_mode_other_optimization">Optional optimization</string>
   <string name="power_save_mode_start_time">Start</string>
   <string name="power_save_mode_summary">Monitor background processes and turn off sync.</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
-  <string name="power_save_ps_close_setting">Turn off background services (sync, GPS) to save battery</string>
-  <string name="power_save_ps_close_setting_5g">Restrict power consuming features (sync, 5G connectivity, GPS)</string>
+  <string name="power_save_ps_close_setting">Turn off services and features with high power consumption (sync, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
+  <string name="power_save_ps_close_setting_5g">Turn off services and features with high power consumption (sync, 5G network connectivity, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
+  <string name="power_save_ps_close_setting_5g_q">Turn off services and features with high power consumption (sync, 5G network connectivity, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\")</string>
+  <string name="power_save_ps_close_setting_q">Turn off services and features with high power consumption (sync, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\")</string>
   <string name="power_save_ps_freeze">Freeze apps in the background</string>
   <string name="power_save_ps_limit">Restrict the activity of system apps</string>
   <string name="power_save_settings">Battery settings</string>
@@ -2262,6 +2318,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safe_result_item_info_system_version">MIUI is up to date</string>
   <string name="safepay_alert_dialog_button_continue">Continue</string>
   <string name="safepay_alert_dialog_button_fix">Fix</string>
+  <string name="save_mode_btn_ok">Got it</string>
   <string name="sc_allow_network_dialog_message">You restricted network connection and access to your location for Security. Give Security the required permissions to use this feature.</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use this feature"</string>
   <string name="sc_system_risk_fix_info_xspace">"Can't solve this in Second space. Try again in First space."</string>
@@ -2614,6 +2671,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_use_network_no_permission">Connect to the network</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Make calls</string>
+  <string name="system_permission_perm_optional">" (optional)"</string>
   <string name="system_permission_perm_read_mms">Read MMS</string>
   <string name="system_permission_perm_read_numbers">Read phone numbers</string>
   <string name="system_permission_perm_send_mms">Send MMS</string>

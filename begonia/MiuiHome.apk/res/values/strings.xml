@@ -19,8 +19,6 @@
   <string name="all_app_category_photography">Photography</string>
   <string name="all_app_category_shopping">Shopping</string>
   <string name="all_app_category_tools">Tools</string>
-  <string name="all_apps">All apps</string>
-  <string name="all_apps_no_search_results">"Couldn't find results"</string>
   <string name="all_apps_search_app">Search for apps</string>
   <string name="all_apps_search_market_message">Search online</string>
   <string name="all_apps_setting_desktop_desc">"Show all installed apps on the Home screen. Press and hold an app's icon to see available shortcuts, manage or uninstall the app."</string>
@@ -30,12 +28,10 @@
   <string name="all_apps_setting_drawer_tips_title">Using App drawer</string>
   <string name="all_apps_setting_drawer_title">With App drawer</string>
   <string name="all_apps_setting_letter_scrollbar">A-Z</string>
-  <string name="all_apps_setting_min_category_limit">Select at least 1 category</string>
   <string name="all_apps_setting_original_scrollbar">Original layout</string>
   <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
   <string name="all_apps_slide_up_tips">Swiping up is reserved for opening App drawer. Switch to the regular Home screen mode and try again.</string>
-  <string name="all_apps_suggestions">App suggestions</string>
   <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
   <string name="announce_for_checked">%1$s, checked</string>
   <string name="announce_for_choose_default_screen">Set screen %1$d as the default Home screen</string>
@@ -101,6 +97,8 @@
   <string name="aqi_quality_index_light_pollution">Caution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="auto_delete_category_dialog_content">移除分组下搜索图标后，将不再保留分组，是否确认删除？</string>
+  <string name="auto_delete_category_dialog_title">删除分组</string>
   <string name="backup_fail">"Couldn't backup launcher"</string>
   <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
   <string name="buffering">Buffering…</string>
@@ -358,7 +356,6 @@
   <string name="privacy_thumbnail_blur_title">Blur app previews</string>
   <string name="process"/>
   <string name="quick_app">Quick apps</string>
-  <string name="recent_apps">Recent</string>
   <string name="recents_config_title">Recents</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_app">App suggestions</string>
@@ -415,6 +412,7 @@
   <string name="status_paused">Paused</string>
   <string name="status_pending">Waiting</string>
   <string name="system_shortcuts_more_operation">App info</string>
+  <string name="system_shortcuts_remove">Remove</string>
   <string name="system_text">System</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Select folder</string>
