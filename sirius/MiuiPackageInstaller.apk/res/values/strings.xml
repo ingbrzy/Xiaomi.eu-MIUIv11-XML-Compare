@@ -262,7 +262,7 @@ All your previous user data will be saved."</string>
   <string name="review_button_cancel">Cancel</string>
   <string name="review_button_continue">Continue</string>
   <string name="risk_warning_bottom_button">Install from GetApps</string>
-  <string name="risk_warning_msg">"The signature on this installation package doesn't look genuine. To avoid possible risks, install this app from GetApps."</string>
+  <string name="risk_warning_msg">"The signature on this installation package doesn't look genuine. To avoid possible risks, install this app from a trusted source."</string>
   <string name="risk_warning_title">Risks detected</string>
   <string name="risk_warning_top_button">"Don't install"</string>
   <string name="safe_guard_support">Technical support provided by %1$s</string>
