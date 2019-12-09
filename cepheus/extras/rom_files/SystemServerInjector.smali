@@ -235,6 +235,18 @@
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
+    const-string/jumbo v0, "lmipro"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "lmiin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "lmiinpro"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
     return-void
 .end method
 
