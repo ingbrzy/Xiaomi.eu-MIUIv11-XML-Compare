@@ -2407,11 +2407,14 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">See notifications quickly</string>
   <string name="fingerprint_swipe_for_notifications_summary">To check your notifications, swipe down on the fingerprint sensor on the back of your phone.</string>
   <string name="fingerprint_swipe_for_notifications_title">Swipe fingerprint for notifications</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
   <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
   <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="fingerprint_unlock_touch_type">Touch</string>
+  <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
   <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
   <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
@@ -6158,6 +6161,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_type_category_title">Recognition method</string>
   <string name="unlogin_account_summary">All Mi services. One Mi Account.</string>
   <string name="unlogin_account_title">Sign in to Mi Account</string>
   <string name="unmount_inform_text">SD card will be unmounted.</string>
@@ -7249,6 +7253,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
