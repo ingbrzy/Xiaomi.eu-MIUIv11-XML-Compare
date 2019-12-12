@@ -722,6 +722,10 @@ If you have questions, contact your organization's admin."</string>
   <string name="granularity_label_link">link</string>
   <string name="granularity_label_word">word</string>
   <string name="gsm_alphabet_default_charset"/>
+  <string name="handset_text_unsupported_handset_insert">Tap to view details</string>
+  <string name="handset_text_usb_handset_insert">Tap to open additional settings</string>
+  <string name="handset_title_unsupported_handset_insert">"Can't play audio through adapter"</string>
+  <string name="handset_title_usb_handset_insert">Playing audio via USB</string>
   <string name="hardware">Show virtual keyboard</string>
   <string name="harmful_app_warning_open_anyway">OPEN ANYWAY</string>
   <string name="harmful_app_warning_title">Harmful app detected</string>
@@ -1875,13 +1879,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="usb_ptp_notification_title">PTP via USB is on</string>
   <string name="usb_storage_activity_title">USB mass storage</string>
   <string name="usb_storage_button_mount">Turn on USB storage</string>
-  <string name="usb_storage_error_message">"There's a problem using your USB storage for USB mass storage."</string>
-  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's USB storage."</string>
+  <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
+  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's SD card."</string>
   <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
   <string name="usb_storage_notification_title">USB connected</string>
   <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
   <string name="usb_storage_stop_error_message">"There was a problem turning off USB storage. Check that you've unmounted the USB host, then try again."</string>
-  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's USB storage from your computer."</string>
+  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's SD card from your computer."</string>
   <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB storage in use</string>
