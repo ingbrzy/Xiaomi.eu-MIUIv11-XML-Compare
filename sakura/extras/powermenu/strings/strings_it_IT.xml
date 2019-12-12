@@ -5,8 +5,8 @@
     <string name="label_reboot">Riavvia</string>
     <string name="label_shutdown">Spegni</string>
     <string name="label_alert_reboot">Tocca per riavviare</string>
-    <string name="label_alert_recovery">Modalit‡ di recupero</string>
-    <string name="label_alert_fastboot">Modalit‡ fastboot</string>
+    <string name="label_alert_recovery">Modalit√† di recupero</string>
+    <string name="label_alert_fastboot">Modalit√† fastboot</string>
     <string name="label_alert_shutdown">Tocca per spegnere</string>
     <string name="label_blank">Indietro</string>
 </resources>
