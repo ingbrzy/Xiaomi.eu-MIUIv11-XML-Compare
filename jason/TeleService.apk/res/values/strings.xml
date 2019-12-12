@@ -698,6 +698,7 @@ Selection"</string>
   <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
   <string name="crescendo_ringer_title">Increasing ringtone volume</string>
   <string name="ct_ut_not_support_close_4glte">UT is not available, please turn off Enhanced 4G LTE Mode in Settings</string>
+  <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -955,7 +956,10 @@ Selection"</string>
   <string name="fiveg_power_secret_code_tip">operate this through Security APP - Battery - 5G Saver</string>
   <string name="fiveg_restrict_dcnr1">Restrict DCNR[Slot1] :</string>
   <string name="fiveg_restrict_dcnr2">Restrict DCNR[Slot2] :</string>
-  <string name="fiveg_sa_switch_title">SA network</string>
+  <string name="fiveg_sa_switch_open_dialog_content">5G connection might be unstable in standalone mode, which might affect telephony services. Turn on SA mode anyway?</string>
+  <string name="fiveg_sa_switch_open_dialog_title">Attention</string>
+  <string name="fiveg_sa_switch_summary">Allow connecting to 5G networks in standalone mode</string>
+  <string name="fiveg_sa_switch_title">SA mode</string>
   <string name="fiveg_signal_strength1">5G Signal strength[Slot1] :</string>
   <string name="fiveg_signal_strength2">5G Signal strength[Slot2] :</string>
   <string name="fiveg_switch_status1">5G switch status[Slot1] :</string>
@@ -1288,7 +1292,7 @@ Using preferred network instead."</string>
   <string name="not_a_valid_port">Port number should be within %1$d and %2$d.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_voice_capable">Voice calling not supported</string>
-  <string name="notification_network_selection_text">Selected network (%s) unavailable</string>
+  <string name="notification_network_selection_text">Selected network%s unavailable</string>
   <string name="notification_network_selection_title">No service</string>
   <string name="notification_voicemail_no_vm_number">Voicemail number unknown</string>
   <string name="notification_voicemail_text_format">Dial %s</string>
@@ -1568,7 +1572,11 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="private_num">Private number</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">"Can't make and receive calls. VoLTE service is off for your SIM (China Telecom) now."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">"Can't make and receive calls. VoLTE service is off for SIM %d (China Telecom) now."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">"Can't make and receive calls"</string>
   <string name="prompt_to_suggest_to_open_volte_from_operator">"Can't make calls. Contact China Telecom to turn on VoLTE service."</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d can't make calls. Contact China Telecom to turn on VoLTE service."</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE services aren't available. Turn off VoLTE to make a call."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Service isn't available. Turn off VoLTE in the Settings."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Select LTE as your preferred network type before turning on VoLTE.</string>
