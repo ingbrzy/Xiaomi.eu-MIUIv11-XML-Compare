@@ -93,7 +93,7 @@
   <string name="bedtime_settings">Bedtime settings</string>
   <string name="bedtime_sleep_time_remind">"You'll be reminded to go to bed 15 minutes before this time"</string>
   <string name="bedtime_sleep_time_setting">When will you go to bed?</string>
-  <string name="bedtime_wake_up_time_remind">An alarm will go off at this</string>
+  <string name="bedtime_wake_up_time_remind">An alarm will go off at this time</string>
   <string name="bedtime_wake_up_time_setting">When will you get up?</string>
   <string name="bedtime_welcome">Manage your bedtime</string>
   <string name="bedtime_welcome_desc">Maintaining a regular and consistent sleep schedule benefits your health. Set reminders that will help you go to bed and get up on time every day.</string>
@@ -129,7 +129,7 @@
   <string name="delete_selected_timer_item">Delete the selected timer task?</string>
   <string name="delete_timer_item_title">Delete timer task</string>
   <string name="delete_timezone_title">Delete timezone</string>
-  <string name="deskclock_sleep_no_disturbance">Clock - Manage bedtime -DND mode</string>
+  <string name="deskclock_sleep_no_disturbance">Clock - Manage bedtime - DND mode</string>
   <string name="dialog_confirm_abort">Discard changes?</string>
   <string name="dialog_legal_off_day">&lt;Data&gt;"Looks like you're using holiday alarms.This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
   <string name="dialog_legal_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Holiday alarms will go off on Saturday and Sunday."</string>
