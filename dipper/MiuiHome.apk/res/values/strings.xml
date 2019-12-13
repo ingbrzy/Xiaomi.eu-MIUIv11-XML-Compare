@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="action_add_to_workspace">Add to workspace</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
@@ -19,6 +38,8 @@
   <string name="all_app_category_photography">Photography</string>
   <string name="all_app_category_shopping">Shopping</string>
   <string name="all_app_category_tools">Tools</string>
+  <string name="all_apps">All apps</string>
+  <string name="all_apps_no_search_results">"Couldn't find results"</string>
   <string name="all_apps_search_app">Search for apps</string>
   <string name="all_apps_search_market_message">Search online</string>
   <string name="all_apps_setting_desktop_desc">"Show all installed apps on the Home screen. Press and hold an app's icon to see available shortcuts, manage or uninstall the app."</string>
@@ -32,6 +53,7 @@
   <string name="all_apps_setting_scroll_bar">Scroll bar</string>
   <string name="all_apps_setting_title">Home screen</string>
   <string name="all_apps_slide_up_tips">Swiping up is reserved for opening App drawer. Switch to the regular Home screen mode and try again.</string>
+  <string name="all_apps_suggestions">App suggestions</string>
   <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
   <string name="announce_for_checked">%1$s, checked</string>
   <string name="announce_for_choose_default_screen">Set screen %1$d as the default Home screen</string>
@@ -97,7 +119,7 @@
   <string name="aqi_quality_index_light_pollution">Caution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="auto_delete_category_dialog_content">移除分组下搜索图标后，将不再保留分组，是否确认删除？</string>
+  <string name="auto_delete_category_dialog_content">移除该分组下所有图标后，将不再保留分组，是否确认删除？</string>
   <string name="auto_delete_category_dialog_title">删除分组</string>
   <string name="backup_fail">"Couldn't backup launcher"</string>
   <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
@@ -356,6 +378,7 @@
   <string name="privacy_thumbnail_blur_title">Blur app previews</string>
   <string name="process"/>
   <string name="quick_app">Quick apps</string>
+  <string name="recent_apps">Recent</string>
   <string name="recents_config_title">Recents</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_app">App suggestions</string>
