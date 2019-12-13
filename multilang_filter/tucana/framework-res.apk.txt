@@ -50,6 +50,7 @@ Removed: [nl-rNL] string/ext_media_badremoval_notification_message (format misma
 Removed: [nl-rNL] string/ext_media_new_notification_message (format mismatch)
 Removed: [nl-rNL] string/ext_media_nomedia_notification_message (format mismatch)
 Removed: [nl-rNL] string/ext_media_unmountable_notification_message (format mismatch)
+Removed: [pl-v29] string/wifi_no_internet (format mismatch)
 Removed: [ro] array/config_system_condition_providers (untranslatable)
 Removed: [ro] string/config_emergency_call_number (untranslatable)
 Removed: [ro] string/ext_media_badremoval_notification_message (format mismatch)
