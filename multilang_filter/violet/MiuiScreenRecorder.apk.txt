@@ -31,7 +31,6 @@ Removed: [ne-rIN] array/screenrecorder_settings_resolution_values (untranslatabl
 Removed: [ne-rNP] array/screenrecorder_settings_resolution_values (untranslatable)
 Removed: [or-rIN] array/screenrecorder_settings_resolution_values (untranslatable)
 Removed: [pa-rIN] array/screenrecorder_settings_resolution_values (untranslatable)
-Removed: [pl] array/screenrecorder_settings_resolution_values (untranslatable)
 Removed: [pt-rBR] array/screenrecorder_settings_bit_rate_values (untranslatable)
 Removed: [pt-rBR] array/screenrecorder_settings_frames_values (untranslatable)
 Removed: [pt-rBR] array/screenrecorder_settings_orientation_values (untranslatable)
