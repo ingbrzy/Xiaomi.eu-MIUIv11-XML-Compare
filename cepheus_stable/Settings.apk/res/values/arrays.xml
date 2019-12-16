@@ -1899,6 +1899,14 @@
         <item>1.15</item>
         <item>1.30</item>
     </string-array>
+    <string-array name="fingerprint_unlock_type_entries">
+        <item>@string/fingerprint_unlock_touch_type</item>
+        <item>@string/fingerprint_unlock_press_type</item>
+    </string-array>
+    <string-array name="fingerprint_unlock_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
@@ -2914,6 +2922,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Low</item>
         <item>Critical</item>
         <item>\?</item>
+    </string-array>
+    <string-array name="remove_oldman_mode_device_list">
+        <item>davinci</item>
+        <item>raphael</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>Left hand style</item>
