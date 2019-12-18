@@ -1431,7 +1431,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">%1$s ago</string>
-  <string name="charging_sounds_title">Charging sounds and vibration</string>
+  <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
@@ -2517,11 +2517,14 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">See notifications quickly</string>
   <string name="fingerprint_swipe_for_notifications_summary">To check your notifications, swipe down on the fingerprint sensor on the back of your phone.</string>
   <string name="fingerprint_swipe_for_notifications_title">Swipe fingerprint for notifications</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
   <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
   <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="fingerprint_unlock_touch_type">Touch</string>
+  <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button">Finish</string>
@@ -2904,6 +2907,8 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="ignore_optimizations_on_desc">May drain your battery more quickly. App will no longer be restricted from using background battery.</string>
   <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
   <string name="ime_security_warning">%1$s might record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
+  <string name="ime_security_warning_title_global">Turning on keyboard</string>
   <string name="imei_information_summary">IMEI relative information</string>
   <string name="imei_information_title">IMEI information</string>
   <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
@@ -4012,6 +4017,10 @@ Select your operating system:"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (recommended)</string>
+  <string name="network_alarm">"Don't silence internet calls"</string>
+  <string name="network_alarm_summary">"Note: Some apps aren't compatible with this feature.%1$s"</string>
+  <string name="network_alarm_summary_reg">View supported apps</string>
+  <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">Data usage</string>
   <string name="network_changed_noti_summary">Using mobile data</string>
   <string name="network_changed_noti_title">Disconnected from WLAN</string>
@@ -6453,8 +6462,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="translation_contributors_summary"/>
-  <string name="translation_contributors_title">Contributors</string>
   <string name="trigger_carrier_provisioning">Trigger Carrier Provisioning</string>
   <string name="trust_agents_extend_unlock_summary">If enabled, trust agents will keep your device unlocked for longer, but can no longer unlock a locked device.</string>
   <string name="trust_agents_extend_unlock_title">Trust agents only extend unlock</string>
@@ -6627,6 +6634,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_type_category_title">Recognition method</string>
   <string name="unlogin_account_summary">All Mi services. One Mi Account.</string>
   <string name="unlogin_account_title">Sign in to Mi Account</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
@@ -7145,6 +7153,7 @@ Tap the plus to add words."</string>
   <string name="webview_disabled_for_user">(disabled for user %s)</string>
   <string name="webview_license_title">System WebView License</string>
   <string name="webview_uninstalled_for_user">(uninstalled for user %s)</string>
+  <string name="wechat">WeChat</string>
   <string name="weight_heavy">Bold</string>
   <string name="weight_light">Light</string>
   <string name="weight_setting_toast">You can change font weight only for the default system font</string>
@@ -7779,6 +7788,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_system_settings">Modify system settings</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>

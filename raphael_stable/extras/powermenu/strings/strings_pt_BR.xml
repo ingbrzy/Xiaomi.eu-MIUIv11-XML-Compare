@@ -4,9 +4,9 @@
     <string name="label_silent_mode">Silêncio</string>
     <string name="label_reboot">Reiniciar</string>
     <string name="label_shutdown">Desligar</string>
-    <string name="label_alert_reboot">Toque para reiniciar</string>
-    <string name="label_alert_recovery">Modo restauro</string>
-    <string name="label_alert_fastboot">Modo fastboot</string>
-    <string name="label_alert_shutdown">Toque para desligar</string>
+    <string name="label_alert_reboot">Reiniciar</string>
+    <string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_fastboot">Fastboot</string>
+    <string name="label_alert_shutdown">Desligar</string>
     <string name="label_blank">Voltar</string>
 </resources>

@@ -141,7 +141,7 @@ Turn off personalized ads anyway?"</string>
   <string name="permission_recording">Record calls and audio:</string>
   <string name="permission_recording_introduction">For recording audio while recording video</string>
   <string name="permission_screen_shoot_introduction">For accessing and saving screen recordings</string>
-  <string name="permission_send_message">Send SMS</string>
+  <string name="permission_send_message">Send SMS:</string>
   <string name="permission_user_record_introduction">For recording audio</string>
   <string name="permission_virusscan_introduction">For performing virus scan and optimizing your device</string>
   <string name="permission_xunlei_introduction">For signing in and managing system accounts in order to provide Xunlei services</string>
