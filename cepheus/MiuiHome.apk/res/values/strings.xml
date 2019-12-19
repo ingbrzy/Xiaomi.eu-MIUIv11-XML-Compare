@@ -1,28 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="action_add_to_workspace">Add to workspace</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-  <string name="add_custom_category">Customise</string>
+  <string name="add_custom_category">Custom</string>
   <string name="add_screen">Add screen</string>
   <string name="added_all_category">Added all apps successfully</string>
   <string name="all_app_category_all">All</string>
@@ -119,8 +100,8 @@
   <string name="aqi_quality_index_light_pollution">Caution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="auto_delete_category_dialog_content">移除该分组下所有图标后，将不再保留分组，是否确认删除？</string>
-  <string name="auto_delete_category_dialog_title">删除分组</string>
+  <string name="auto_delete_category_dialog_content">Current apps will be removed from this category and the category will be deleted. Delete this category now?</string>
+  <string name="auto_delete_category_dialog_title">Deleting category</string>
   <string name="backup_fail">"Couldn't backup launcher"</string>
   <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
   <string name="buffering">Buffering…</string>
@@ -158,6 +139,7 @@
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_meitu">Meitu apps</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
+  <string name="default_folder_title_other_apps">Other apps</string>
   <string name="default_folder_title_recommend">More apps</string>
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_services">Services</string>
