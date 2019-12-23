@@ -317,6 +317,8 @@
     </integer-array>
     <string-array name="config_allowFloatPackages">
         <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.apps.vega</item>
+        <item>com.google.android.apps.maps</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -388,9 +390,12 @@
         <item>com.amazon.dee.app</item>
         <item>com.xiaomi.misettings</item>
         <item>com.miui.cleanmaster</item>
+        <item>com.orange.conecta.es</item>
     </string-array>
     <string-array name="config_allowKeyguardPackages">
         <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.apps.vega</item>
+        <item>com.google.android.apps.maps</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -461,6 +466,11 @@
         <item>com.mi.oa</item>
         <item>com.amazon.dee.app</item>
         <item>com.miui.smarttravel</item>
+        <item>abbanza.bixpe.orange.dispositivos.android</item>
+        <item>com.orange.conecta.es</item>
+        <item>com.orange.miorange</item>
+        <item>co.uk.infomedia.humley.orangejuegos</item>
+        <item>com.orange.serenateleasistencia.es</item>
     </string-array>
     <integer-array name="config_cameraLaunchGestureVibePattern">
         <item>0</item>
@@ -583,7 +593,7 @@
         <item>4G</item>
         <item>4G+</item>
         <item></item>
-        <item>4G</item>
+        <item>LTE</item>
         <item>5G</item>
     </string-array>
     <array name="data_type_name_cus_reg_key" />
@@ -926,6 +936,7 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
+        <item>custom(com.amazon.dee.app/com.amazon.alexa.handsfree.settings.quicksettings.AlexaQuickSettingService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
@@ -1406,6 +1417,7 @@
     </array>
     <string-array name="system_alert_window_notification_whitelist">
         <item>com.miui.notes</item>
+        <item>com.android.thememanager</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.xiaomi.joyose</item>

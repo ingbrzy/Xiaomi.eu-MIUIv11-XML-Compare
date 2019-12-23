@@ -639,6 +639,7 @@ If you resume, charges may apply for data usage."</string>
   <string name="drive_mode_tip_notch">Car mode</string>
   <string name="emergency_call_string">Emergency</string>
   <string name="empty_shade_text">No notifications</string>
+  <string name="empty_title">" "</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_bluetooth_confirmation_ok">Turn on</string>
@@ -836,6 +837,8 @@ Once your phone has cooled down, it will run normally."</string>
   <string name="how_to_use_drawer_summary">Swipe right in the upper part of the screen</string>
   <string name="how_to_use_fsg">You can perform these actions using gestures:</string>
   <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+  <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
+  <string name="ime_security_warning_title_global">Turning on keyboard</string>
   <string name="immediately_destroy_activities">Don’t keep activities</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="important_desc">All important notifications will appear directly on the Notification shade.</string>
@@ -931,6 +934,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_carrier_default">No service</string>
   <string name="keyguard_charged">Charged</string>
   <string name="keyguard_charging_back_to_lockscreen">Back to Lock screen</string>
+  <string name="keyguard_charging_battery_level">%s%%</string>
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
@@ -956,12 +960,7 @@ Use only the supplied charger."</string>
   <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
   <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
   <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-  <string name="keyguard_left_calculator">Calculator</string>
-  <string name="keyguard_left_calendar">Calendar</string>
-  <string name="keyguard_left_contacts">Contacts</string>
   <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-  <string name="keyguard_left_music">Music</string>
-  <string name="keyguard_left_notes">Notes</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Torch</string>
@@ -1295,7 +1294,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="open_camera_hint_text">Drag the icon to open Camera</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_lock_screen_magazine_hint_text">Swipe right for more options</string>
-  <string name="open_remote_center_hint_text">Swipe right to view controls</string>
+  <string name="open_remote_center_hint_text">Swipe right to view shortcuts</string>
   <string name="other">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="overview">Overview</string>
