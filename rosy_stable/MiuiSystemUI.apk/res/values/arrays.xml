@@ -579,7 +579,7 @@
         <item>4G</item>
         <item>4G+</item>
         <item></item>
-        <item>4G</item>
+        <item>LTE</item>
         <item>5G</item>
     </string-array>
     <array name="data_type_name_cus_reg_key" />
@@ -930,6 +930,7 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
+        <item>custom(com.amazon.dee.app/com.amazon.alexa.handsfree.settings.quicksettings.AlexaQuickSettingService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
