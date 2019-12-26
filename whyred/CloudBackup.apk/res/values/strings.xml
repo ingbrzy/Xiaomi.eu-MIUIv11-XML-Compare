@@ -195,6 +195,7 @@ Check your network settings and try again."</string>
   <string name="restore_finish_description">Restore finished</string>
   <string name="restore_finished_notification_content">Restored Home screen apps, system settings, etc.</string>
   <string name="restore_from_cloud">Restore from the cloud backup</string>
+  <string name="restore_from_mimover">Transfer from your old device using Mi Mover</string>
   <string name="restore_from_this_device">Restore using this backup</string>
   <string name="restore_home_failed">"Couldn't restore Home screen."</string>
   <string name="restore_home_screen_apps">Restore from the cloud backup</string>
