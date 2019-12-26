@@ -50,7 +50,9 @@
   <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">EE, MMMM d</string>
   <string name="aod_lock_screen_date_12">EE, MMMM d</string>
+  <string name="aod_lock_screen_date_12_signature">M/d</string>
   <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+  <string name="aod_lock_screen_date_signature">M/d</string>
   <string name="aod_mode_preview">Preview</string>
   <string name="aod_mode_style">Clock style and background</string>
   <string name="aod_mode_style_title">More options</string>
@@ -60,6 +62,7 @@
   <string name="aod_mode_title">Always-on display</string>
   <string name="aod_show_date_and_time">Show date and time</string>
   <string name="aod_show_style_title">Display items</string>
+  <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Theme</string>
   <string name="aod_to_close">Turn off</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
