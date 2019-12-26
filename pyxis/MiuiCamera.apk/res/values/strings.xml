@@ -134,7 +134,6 @@ and optimizes your photos based on this info"</string>
   <string name="camera_snap_mode_title_detail">Tap to view details</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your device."</string>
-  <string name="cannot_connect_camera_volte_call">Video call is in progress, try again later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
   <string name="capture_back_pressed_hint">Tap again to exit</string>
   <string name="ccc_temperature_warning_msg">Your device is overheated. Camera will be closed in %d seconds. Your photos or videos will be saved automatically.</string>
@@ -293,6 +292,7 @@ Print the copy wirelessly on A4 paper."</string>
   <string name="id_card_mode_use_hint_text_title">Scan ID</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Install</string>
+  <string name="kaleidoscope_fragment_tab_name">Kaleidoscope</string>
   <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
 Clean the lens for better effect."</string>
   <string name="lens_dirty_detected_title_back">Rear camera lens is dirty</string>
