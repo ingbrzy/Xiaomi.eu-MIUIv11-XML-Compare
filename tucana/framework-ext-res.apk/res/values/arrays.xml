@@ -1629,6 +1629,12 @@
         <item>be</item>
         <item>gb</item>
     </string-array>
+    <string-array name="config_Poland_Orange_IPV6_array">
+        <item>lavender</item>
+        <item>onc</item>
+        <item>pine</item>
+        <item>grus</item>
+    </string-array>
     <integer-array name="config_hightGrayBrightnessLevels">
         <item>150</item>
         <item>500</item>
