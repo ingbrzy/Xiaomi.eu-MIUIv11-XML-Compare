@@ -959,7 +959,7 @@ Selection"</string>
   <string name="fdn_enabled">Fixed Dialing Numbers are enabled</string>
   <string name="fdn_failed">FDN operation failed.</string>
   <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
-  <string name="fdn_invalid_number">"FDN wasn't updated because the number exceeds 20 digits."</string>
+  <string name="fdn_invalid_number">"FDN wasn't updated because the number exceeds %d digits."</string>
   <string name="fdn_list_with_label">FDN list (%s)</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
   <string name="fdn_with_label">Fixed Dialing Numbers (%s)</string>
@@ -1333,7 +1333,7 @@ Using preferred network instead."</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">SIP calling not supported</string>
   <string name="no_wifi_available">You need to be connected to a WLAN network for SIP calls (use the Wireless &amp; Network settings).</string>
-  <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
+  <string name="not_a_valid_port">Port number should be within %1$d and %2$d.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_set">Not set</string>
   <string name="not_voice_capable">Voice calling not supported</string>
