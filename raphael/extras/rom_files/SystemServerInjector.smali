@@ -39,86 +39,6 @@
 
     sput-object v0, Lcom/android/server/SystemServerInjector;->sVersionPolicyDevices:Ljava/util/Set;
 
-    const-string/jumbo v0, "vince"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "whyred"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "versace"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "sirius"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "polaris"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "sakura"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "sakura_india"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "ursa"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "beryllium"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "comet"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "clover"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "cactus"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "cereus"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "nitrogen"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "dipper"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "tulip"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "platina"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "lilium"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "equuleus"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "perseus"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
     const-string v0, "cepheus"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
@@ -215,19 +135,19 @@
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
-    const-string v0, "cmi"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "umi"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
     const-string/jumbo v0, "picasso"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
     const-string/jumbo v0, "picassoin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "cmi"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "umi"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
@@ -244,6 +164,66 @@
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
     const-string/jumbo v0, "lmiinpro"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "merlin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "merlinin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "urd"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "skuld"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "orion"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "curtana"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "durandal"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "excalibur"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "joyeuse"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "pre_bomb"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "atom"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "monet"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "monetin"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string/jumbo v0, "vangogh"
+
+    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
+
+    const-string v0, "avenger"
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
