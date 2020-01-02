@@ -162,6 +162,7 @@
   <string name="declaration">Get new wallpapers delivered straight to your Lock screen every day for free.</string>
   <string name="declaration_lockscreen_title">Get fresh Lock screen wallpapers daily</string>
   <string name="declaration_title">Terms and conditions</string>
+  <string name="delete_pic">Delete image</string>
   <string name="deny_des">Wallpaper Carousel needs access to Gallery to be able to work normally.</string>
   <string name="detail_ad_type_ad">AD</string>
   <string name="detail_ad_type_video">Popular videos</string>
@@ -294,6 +295,7 @@
   <string name="main_fragment_title_user">Settings</string>
   <string name="manage">Manage</string>
   <string name="minutes_15">Every 15 minutes</string>
+  <string name="minutes_5">Every 5 minutes</string>
   <string name="mode_auto_desc">Turn on Wallpaper Carousel to receive new images automatically</string>
   <string name="mode_auto_desc_open">Receive new images automatically</string>
   <string name="mode_auto_desc_selected">Receiving new images automatically</string>
@@ -420,6 +422,7 @@
   <string name="see_more">View more</string>
   <string name="see_more_content">View more</string>
   <string name="select_package">Select version</string>
+  <string name="select_photo_album">Select album</string>
   <string name="select_picture">Select images</string>
   <string name="select_picture_des">Add your photos and online images to the mix to make them appear in the slideshow automatically.</string>
   <string name="setting_about_item_des">Version</string>
@@ -445,7 +448,7 @@
   <string name="shortcut_created">Created shortcut successfully</string>
   <string name="shortcut_exist">Shortcut already exists</string>
   <string name="shortcut_failed">"Couldn't create shortcut"</string>
-  <string name="show_wallpaper_loop_entry_title">Home screen slideshow</string>
+  <string name="show_wallpaper_loop_entry_title">Slideshow settings</string>
   <string name="sign_in_title">Sign in with your Mi Account</string>
   <string name="sliding_on_unlock">Swipe up to unlock</string>
   <string name="sns_sign_in">Other way to sign in</string>
@@ -523,6 +526,7 @@
   <string name="subscribe_free">Subscribe</string>
   <string name="subscribe_item_checked">Subscribed</string>
   <string name="subscribe_item_unchecked">Unsubscribed</string>
+  <string name="subscribe_success_content_per_5_minutes">Change wallpaper every 5 minutes</string>
   <string name="subscribe_success_content_per_day">Change wallpaper every day</string>
   <string name="subscribe_success_content_per_hour">Change wallpaper every hour</string>
   <string name="subscribe_success_content_per_quarter">Change wallpaper every 15 minutes</string>
@@ -530,11 +534,11 @@
   <string name="subscribe_success_content_per_unlock">Change wallpaper every time device is locked</string>
   <string name="subscribe_update_time_setting">Set a different interval</string>
   <string name="summary">"Agree to our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available."</string>
-  <string name="summary2">"By using this feature, you're agreeing to our &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt;and &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="summary2">"By using this feature, you're agreeing to our &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
-  <string name="system_default">系统默认</string>
+  <string name="system_default">Default</string>
   <string name="tab_user_title_bar_text">Settings</string>
   <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
   <string name="theme_apply_lockscreen_apply">Turning on Wallpaper Carousel…</string>
@@ -557,6 +561,8 @@
   <string name="toast_ad_down_tip">Downloading app…</string>
   <string name="toast_ad_down_tip2">Downloading %s…</string>
   <string name="toast_connect_failed_tip">"Couldn't connect. Wait a minute or teo and try again."</string>
+  <string name="toast_has_close_gallery">Turned off Wallpaper Carousel successfully</string>
+  <string name="toast_has_open_gallery">Turned on Wallpaper Carousel successfully</string>
   <string name="toast_load_failed_tip">"Couldn't load items"</string>
   <string name="toast_load_hd_fail">"Couldn't load original image"</string>
   <string name="toast_neterror_tip">A network error occurred</string>
