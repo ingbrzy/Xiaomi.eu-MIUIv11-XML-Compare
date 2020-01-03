@@ -181,6 +181,11 @@ Pull down to refresh or check the network settings"</string>
 Tap the screen to manually add or reposition city"</string>
   <string name="location_provider_btn_text">Turn on location services</string>
   <string name="location_tag">Locate</string>
+  <string name="manager_city_option_add_city_back_search">Back to search</string>
+  <string name="manager_city_option_add_city_content">Added this city to start page successfully</string>
+  <string name="manager_city_option_add_city_title">Added successfully</string>
+  <string name="manager_city_option_add_home">Add to start page</string>
+  <string name="manager_city_option_view_on_home">View on start page</string>
   <string name="menu_location">Locations</string>
   <string name="menu_speaker">Voice broadcast</string>
   <string name="minute_rain">Precipitation forecast</string>
@@ -199,6 +204,17 @@ Tap the screen to manually add or reposition city"</string>
   <string name="more_details">More details</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
+  <string name="news_hour_minute_time_format">yyyy-MM-dd HH:mm</string>
+  <string name="news_load_more_default">上拉刷新</string>
+  <string name="news_load_more_failed">网络不可用，请检查网络后重试</string>
+  <string name="news_load_more_loading">正在刷新</string>
+  <string name="news_load_more_no_data">仅展示最近48小时的资讯</string>
+  <string name="news_refresh_loading">正在载入</string>
+  <string name="news_refresh_pull_to_refresh">下拉刷新</string>
+  <string name="news_refresh_release_to_refresh">松开刷新</string>
+  <string name="news_tips_net_error">网络不可用，请检查网络后重试</string>
+  <string name="news_tips_no_data">暂无更多新资讯</string>
+  <string name="news_tips_success">已更新%1$d条资讯</string>
   <string name="night_not_disturb_settings_summary">Block alerts between 23:00 and 7:00</string>
   <string name="night_not_disturb_settings_title">"Don't disturb at night"</string>
   <string name="no_data">No data</string>
@@ -227,6 +243,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="precipitation_degree_three">Moderate</string>
   <string name="precipitation_degree_two">Light</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="pressure_content">%1$s%2$s</string>
   <string name="privacy_grant_failed">"Couldn't grant authorization. Wait a minute or two and try again."</string>
   <string name="privacy_grant_or_revoke_settings">Granting &amp; revoking authorization</string>
   <string name="privacy_grant_success">Granted authorization successfully</string>
@@ -326,6 +343,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="weather_list_title">天气头条</string>
   <string name="weather_permission_agree">Accept</string>
   <string name="weather_service_channel_name">Background services</string>
+  <string name="widget_cta_not_agree">Tap to get weather info</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$skm/h</string>
