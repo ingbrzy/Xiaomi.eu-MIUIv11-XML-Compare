@@ -209,6 +209,7 @@
   <string name="confirm_delete_comment">Delete this comment?</string>
   <string name="confirm_purchase">确认购买</string>
   <string name="connecting_apk">Connecting…</string>
+  <string name="content_offline">抱歉，该资源暂时下线，我们正在努力争取</string>
   <string name="context_menu_item_delete">Delete</string>
   <string name="context_menu_item_edit">Edit</string>
   <string name="context_menu_item_favorite">Add to presets</string>
@@ -544,6 +545,19 @@ Please send this code to the technician."</string>
   <string name="loading_hint">Just a sec…</string>
   <string name="local_channel">Local channel</string>
   <string name="local_music">Offline</string>
+  <string name="local_operation_album_title_1">梁知</string>
+  <string name="local_operation_album_title_10">军情观察</string>
+  <string name="local_operation_album_title_11">怀旧音乐</string>
+  <string name="local_operation_album_title_12">流行速递</string>
+  <string name="local_operation_album_title_13">中国之声</string>
+  <string name="local_operation_album_title_2">郭德纲</string>
+  <string name="local_operation_album_title_3">局座时评</string>
+  <string name="local_operation_album_title_4">米小圈</string>
+  <string name="local_operation_album_title_5">绝密档案</string>
+  <string name="local_operation_album_title_6">赵本山</string>
+  <string name="local_operation_album_title_7">百家讲坛</string>
+  <string name="local_operation_album_title_8">杜月笙</string>
+  <string name="local_operation_album_title_9">新闻纵横</string>
   <string name="local_page_album_more">View all</string>
   <string name="local_page_artist_more">More songs by %s</string>
   <string name="local_page_music">Local music</string>
@@ -567,6 +581,7 @@ Please send this code to the technician."</string>
   <string name="menu_all_task_start">Start all</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_exit">Exit</string>
+  <string name="menu_exit_radio">Exit</string>
   <string name="menu_headset">Switch to headset</string>
   <string name="menu_label">Menu</string>
   <string name="menu_new_station">Add</string>
@@ -785,6 +800,10 @@ Please send this code to the technician."</string>
   <string name="play_continue">&lt;Data&gt;Continue playing &amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="play_error_program_not_find">This item is no longer available.</string>
   <string name="play_mode_circle">Circle Mode</string>
+  <string name="play_mode_circle_hint">Switch play mode to single loop</string>
+  <string name="play_mode_circle_title">single cycle</string>
+  <string name="play_mode_normal_hint">Switch play mode to sequential</string>
+  <string name="play_mode_normal_title">play in order</string>
   <string name="play_mode_shuffle">Shuffle Mode</string>
   <string name="play_mode_single">Single Mode</string>
   <string name="play_next">Play next</string>
