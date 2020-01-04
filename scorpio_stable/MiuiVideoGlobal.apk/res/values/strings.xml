@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="CAST_ID">9790E03C</string>
-  <string name="CM_append_value"/>
   <string name="Earlier">Earlier</string>
   <string name="HA_AFFILIATE_ID">1268</string>
   <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
-  <string name="HA_DOMAIN">test</string>
+  <string name="HA_DOMAIN">mivideo</string>
+  <string name="HA_DOMAIN_TEST">test</string>
   <string name="HA_SERVICE_ID">PLAY</string>
-  <string name="PLAYABLE_URL">http://mapi.hungama.com/v2/movieapp/playable_client.php?id=@CONTENT_ID@&amp;action=ww</string>
   <string name="This_week">This week</string>
   <string name="Today">Today</string>
   <string name="Yesterday">Yesterday</string>
@@ -86,7 +84,6 @@
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="activity_not_found_notice">"Can't find the app"</string>
   <string name="add_to_trust_device">This is a trusted device</string>
-  <string name="affelite_id">1268</string>
   <string name="agree">Agree</string>
   <string name="ai_animation_music_text">AI soundtrack</string>
   <string name="ai_music_save_cancel">Cancel</string>
@@ -106,9 +103,7 @@
   <string name="alert_dialog_download_progress">"Downloading app: "</string>
   <string name="all">Show all</string>
   <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
-  <string name="app_id">XyXsS7O3rJ</string>
   <string name="app_name">Mi Video</string>
-  <string name="app_name_hungama">Hungama Play</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="auth_fail_warning">Session expired. Sign in again.</string>
   <string name="auto_play_next_off">Autoplay is off</string>
@@ -201,6 +196,27 @@
   <string name="com_mixpanel_android_notification_image">Image not displayed</string>
   <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
   <string name="com_permission_title">Permissions required</string>
+  <string name="comment_model_add_comment">Add a comment</string>
+  <string name="comment_model_bg_add_comment">Share your thoughts with our community</string>
+  <string name="comment_model_bg_deleted_comment">This comment was deleted</string>
+  <string name="comment_model_comment">Comments</string>
+  <string name="comment_model_confirm_delete">Delete comment now?</string>
+  <string name="comment_model_copy">Copy</string>
+  <string name="comment_model_copy_fail">"Couldn't copy"</string>
+  <string name="comment_model_copy_success">Copied successfully</string>
+  <string name="comment_model_delete">Delete</string>
+  <string name="comment_model_delete_fail">"Couldn't delete"</string>
+  <string name="comment_model_delete_success">Deleted successfully</string>
+  <string name="comment_model_reply">Replies</string>
+  <string name="comment_model_reply_comment">"Reply to %s: "</string>
+  <string name="comment_model_report">Report</string>
+  <string name="comment_model_report_fail">"Couldn't report"</string>
+  <string name="comment_model_report_success">Reported successfully</string>
+  <string name="comment_model_send_fail">"Couldn't send"</string>
+  <string name="comment_model_send_fail_frequently">Not so fast! Wait a minute or two and try again.</string>
+  <string name="comment_model_send_forbid_desc">Your published multiple comments containing items that violate our community standards. Your account is permanently suspended now. You can appeal against our decision using in-app feedback.</string>
+  <string name="comment_model_send_forbid_tips">Account suspended</string>
+  <string name="comment_model_send_success">Sent successfully</string>
   <string name="common_cancel">Cancel</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -228,13 +244,14 @@
   <string name="content_can_not_null">"Can't submit feedback without description."</string>
   <string name="data_empty">No items here</string>
   <string name="day">day</string>
+  <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
   <string name="define_roundedimageview"/>
   <string name="description">Description</string>
   <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
   <string name="diagnosis_log_sent_format">"Sent logs successfully.
 ID:%s
 Send this code to the supervisor."</string>
-  <string name="dialog_privacy_info_new2">"To be able to use its services, you must agree that %1$s will collect, process, and use your personal information. You'll be deemed to have read and agreed to our &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; when you tap \"Agree\" below."</string>
+  <string name="dialog_privacy_info_new2">"To be able to use its services, you must agree that %1$s will collect, process, and use your personal information. You'll be deemed to have read and agreed to our &lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a&gt; when you tap \"Agree\" below."</string>
   <string name="dialog_privacy_title">Authorization</string>
   <string name="dialog_revoke_privacy_info_new2">After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from our servers. This might make the app virtually unusable. Revoke authorization anyway?</string>
   <string name="dialog_revoke_privacy_title">Revoking authorization</string>
@@ -242,23 +259,8 @@ Send this code to the supervisor."</string>
   <string name="do_not_show_again">"Don't show again"</string>
   <string name="empty_channels">Manage channels</string>
   <string name="empty_subscribe">"You haven't subscribed to anything yet."</string>
-  <string name="enable_background_audio">Play in background</string>
-  <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
-  <string name="error_drm_unknown">An unknown DRM error occurred</string>
-  <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
-  <string name="error_mg_content_not_available">This Content is not available in your country.</string>
-  <string name="error_mg_no_content">No content available for this movie. Please try again later</string>
-  <string name="error_mg_no_content_for_tv">No content available for this Tv Show. Please try again later</string>
-  <string name="error_msg_invalid_url">Invalid URL. Please try again later</string>
-  <string name="error_msg_no_network">No network connection detected. Please ensure you are connected to a network source and try again.</string>
-  <string name="error_msg_server_error">Server is not available at this moment.Please try again.</string>
-  <string name="error_msg_socket_timeout">Socket Timeout. Please try again later</string>
-  <string name="error_msg_video_play_time_out">"Sorry, we're unable to play this video right now. Please try again after some time."</string>
-  <string name="error_msg_video_play_time_out_title">Timed out</string>
-  <string name="error_no_content">No content available.</string>
-  <string name="error_title">Info</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="exit">Exit</string>
   <string name="exo_controls_fastforward_description">Fast forward</string>
@@ -307,6 +309,7 @@ Send this code to the supervisor."</string>
   <string name="favorite_cancel_success">Removed from favorites successfully</string>
   <string name="favorite_fail">"Couldn't add to favorites. Try again."</string>
   <string name="favorite_success">Added to favorites successfully</string>
+  <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_activity_title">Feedback</string>
   <string name="feedback_contact_empty">Enter your contact info</string>
@@ -324,12 +327,14 @@ Send this code to the supervisor."</string>
   <string name="feedback_text_empty_toast">Enter your feedback first.</string>
   <string name="find_psw">Forgot password</string>
   <string name="finish">Done</string>
+  <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
   <string name="for_diagnosis_usage_only">Logs are used only for diagnostics.</string>
   <string name="for_you">FOR YOU</string>
   <string name="friday">Friday</string>
   <string name="fw_loading">Just a sec…</string>
   <string name="fw_reload_sub_title">Tap the screen to try again</string>
   <string name="fw_reload_title">"Couldn't connect to the network."</string>
+  <string name="gallery_fold_tags">Hide marks</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Camera</string>
   <string name="gallery_folder_alias_download">Downloads</string>
@@ -362,13 +367,18 @@ Send this code to the supervisor."</string>
   <string name="gallery_video_operate_text">Slow-motion adjustments</string>
   <string name="gallery_video_save_video">Creating video…</string>
   <string name="gallery_video_slow_edit">Slow-motion</string>
+  <string name="gallery_view_tags">Show marks</string>
+  <string name="gcm_defaultSenderId">144285974528</string>
   <string name="get_back_pwd">Resetting password</string>
   <string name="get_ph_ticket">Get code</string>
   <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="google_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
+  <string name="google_app_id">1:144285974528:android:6b926accc3bd9e5a7918e5</string>
   <string name="google_application_id"/>
+  <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
+  <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
   <string name="goto_sign_up">Create account</string>
-  <string name="grant_write_settings_permission">Please grant this permission to control the player brightness</string>
   <string name="have_learned">Got it</string>
   <string name="hidden_channels">"The following channels won't be displayed on the Home page."</string>
   <string name="hide">Hide</string>
@@ -392,12 +402,6 @@ for videos"</string>
   <string name="language_setting_tips">Select your language preferences to receive more relevant content recommendations. You can change your language preferences in Profile &gt; Language.</string>
   <string name="language_setting_tips_dialog">You can select language preferences for content in Account &gt; Language.</string>
   <string name="later">Later</string>
-  <string name="lbl_connection_failed_alert_title">Connection Failed</string>
-  <string name="lbl_player_local_video_deleted_alert_dialog_text">This video cannot be played.</string>
-  <string name="lbl_player_no_network">No network connection detected. Please ensure you are connected to a network source and try again.</string>
-  <string name="lbl_player_response_failed_alert_dialog_text">"Sorry, your request can't be completed right now. Please try again after some time."</string>
-  <string name="lbl_setting_playback_streaming_auto">Auto</string>
-  <string name="lbl_url_alert">Info</string>
   <string name="library_roundedimageview_author">Vince Mi</string>
   <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
   <string name="library_roundedimageview_isOpenSource">true</string>
@@ -408,14 +412,16 @@ for videos"</string>
   <string name="library_roundedimageview_licenseId">apache_2_0</string>
   <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
   <string name="loading">Just a sec…</string>
-  <string name="logging_normal">Normal</string>
-  <string name="logging_verbose">Verbose</string>
+  <string name="local_push_title">Popular today</string>
   <string name="login">Sign in</string>
   <string name="login_tip">Sign in to be able to receive our replies to your feedback.</string>
-  <string name="login_type">Mi Video SDK</string>
   <string name="logout">Sign out</string>
   <string name="logout_account">Sign out</string>
   <string name="lp_base_folder">SD card</string>
+  <string name="lp_play_mode_list_loop">Loop all</string>
+  <string name="lp_play_mode_pause">Play one</string>
+  <string name="lp_play_mode_single_loop">Loop one</string>
+  <string name="lp_play_mode_title">Playback mode</string>
   <string name="lp_speed_title">Playback speed</string>
   <string name="lp_speed_toast">Playing at %sX speed…</string>
   <string name="lp_videoView_error_button">Got it</string>
@@ -436,6 +442,7 @@ for videos"</string>
   <string name="lv_audio_track">Audio track</string>
   <string name="lv_auto_update">Update later</string>
   <string name="lv_brightness">Brightness</string>
+  <string name="lv_cast">Cast</string>
   <string name="lv_check_delete_file">Select items to delete</string>
   <string name="lv_check_send_file">You can only send 1 file at a time</string>
   <string name="lv_confirm_delete_history">Delete selected items?</string>
@@ -507,7 +514,7 @@ for videos"</string>
   <string name="lv_subtitle_onlinesub_loading">Loading subtitles…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Loading subtitles…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Disclaimer</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Get subtitles &lt;br/&gt;&lt;br/&gt;from &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;All online subtitles are provided by &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Get subtitles &lt;br/&gt;&lt;br/&gt;from &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;All online subtitles are provided by &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
   <string name="lv_subtitle_onlinesub_save_failed">"Couldn't add subtitles"</string>
   <string name="lv_subtitle_onlinesub_save_success">Added subtitles successfully</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Enter keywords to search</string>
@@ -529,7 +536,6 @@ for videos"</string>
   <string name="lv_video_null">No videos</string>
   <string name="lv_volume">Volume</string>
   <string name="manage">Manage</string>
-  <string name="media_event_api">http://ping.hungama.com/mediaEvent.py?</string>
   <string name="mi_video">Mi Video</string>
   <string name="mock_url">12345</string>
   <string name="moment_guide_desc">Use gestures to zoom in and out</string>
@@ -576,13 +582,19 @@ for videos"</string>
   <string name="next">Next</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
+  <string name="no_more_content">"That's all for now"</string>
   <string name="no_network_tips">"Can't use this feature now. Network access is restricted."</string>
   <string name="no_phone">No phone number</string>
   <string name="no_recommend_data">No recommended videos now</string>
   <string name="no_subscriptions">No items here</string>
   <string name="not_show">"Don't show again"</string>
+  <string name="notice_comment_action">%s commented on your post</string>
+  <string name="notice_comment_action_deleted">This comment was deleted</string>
+  <string name="notice_feedback_content">"There's an update on your feedback. Tap to view."</string>
+  <string name="notice_like_action">%s liked your comment</string>
+  <string name="notice_message_title">Notifications</string>
+  <string name="notice_title">Messages</string>
   <string name="notify_apk_installed">Downloaded successfully</string>
-  <string name="off">[off]</string>
   <string name="ok">OK</string>
   <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Recent subscriptions</string>
@@ -592,6 +604,7 @@ for videos"</string>
   <string name="ovp_category">Categories</string>
   <string name="ovp_confirm_delete_favor">Remove selected items from favorites?</string>
   <string name="ovp_default_plugin_name">HD plug-in</string>
+  <string name="ovp_detail_back_to_watch_more">Discover more items on the home page</string>
   <string name="ovp_detail_collapse_summary">Hide</string>
   <string name="ovp_detail_collect">Add to favorites</string>
   <string name="ovp_detail_comment">Comment</string>
@@ -634,12 +647,14 @@ for videos"</string>
   <string name="ovp_loading_video_netplay_label_v5">Just a sec…</string>
   <string name="ovp_local_videos_title">Local videos</string>
   <string name="ovp_navigation_category">Category</string>
+  <string name="ovp_navigation_content">Content cooperation</string>
   <string name="ovp_navigation_favorites">Favorites</string>
   <string name="ovp_navigation_feedback">Feedback</string>
   <string name="ovp_navigation_history">History</string>
   <string name="ovp_navigation_home">Home</string>
   <string name="ovp_navigation_language">Language</string>
   <string name="ovp_navigation_localvideo">Local</string>
+  <string name="ovp_navigation_notice">Notifications</string>
   <string name="ovp_navigation_setting">Settings</string>
   <string name="ovp_navigation_subscribe">Subscription</string>
   <string name="ovp_player_plugin_dlg_neg_btn">Close</string>
@@ -749,8 +764,8 @@ Update Mi Video to the latest version first."</string>
   <string name="passport_unknow_error">An unknown error occurred</string>
   <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
   <string name="passport_unknow_network_error">A network error occurred</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;I've read and agree to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">"&lt;Data&gt;I've read and agree to Xiaomi's &lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data&gt;I've read and agree to the following documents: Xiaomi's &lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt; and &lt;a href=\"%4$s\"&gt;Privacy Policy&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
@@ -786,15 +801,13 @@ Increase the security of your account."</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="phone_number">Phone number</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
-  <string name="ping_platform">APP</string>
-  <string name="ping_property">movie</string>
-  <string name="player_replay_btn_text">replay</string>
   <string name="playlist_detail_recomm_title">Recommended playlists</string>
   <string name="playlist_no_more">No more videos here</string>
   <string name="playlist_offline">This playlist is no longer available.</string>
   <string name="playlist_title">Playlist</string>
   <string name="plus_add_shortcut">Create Home screen shortcut</string>
   <string name="plus_change_poster">Change album cover</string>
+  <string name="plus_continue_watching">Continue watching</string>
   <string name="plus_deleting_wait">Deleting</string>
   <string name="plus_fallback">Feedback</string>
   <string name="plus_gallery_allvideos">All videos</string>
@@ -813,6 +826,12 @@ Increase the security of your account."</string>
   <string name="plus_gallery_video_title_mediatype">Video categories</string>
   <string name="plus_gallery_video_title_othergallery">Other videos</string>
   <string name="plus_loading_text">Loading items…</string>
+  <string name="plus_menu_delete">Delete</string>
+  <string name="plus_menu_delete_popup_text">Delete now?</string>
+  <string name="plus_menu_properties">Properties</string>
+  <string name="plus_menu_rename">Rename</string>
+  <string name="plus_menu_rename_fail">"Filename can't contain \"/\""</string>
+  <string name="plus_menu_share">Share</string>
   <string name="plus_mine_gallery">My albums</string>
   <string name="plus_mine_videos">My videos</string>
   <string name="plus_player_8k_video_not_support">"Can't play 8K videos on this device"</string>
@@ -851,7 +870,7 @@ Increase the security of your account."</string>
   <string name="plus_player_subtitle_local_add_success">Added subtitles successfully</string>
   <string name="plus_player_subtitle_no_file">No subtitles here.</string>
   <string name="plus_player_subtitle_online">Online subtitles</string>
-  <string name="plus_player_subtitle_online_declare_content">"You're about to search for &lt;br/&gt;subtitles in the &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; database. &lt;br/&gt;All subtitles are provided by &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_content">"You're about to search for &lt;br/&gt;subtitles in the &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; database. &lt;br/&gt;All subtitles are provided by &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
   <string name="plus_player_subtitle_online_declare_title">Disclaimer</string>
   <string name="plus_player_subtitle_online_download_fail">"Couldn't download subtitles"</string>
   <string name="plus_player_subtitle_online_download_start">Downloading subtitles…</string>
@@ -863,6 +882,31 @@ Increase the security of your account."</string>
   <string name="plus_player_unhide">Unhide</string>
   <string name="plus_player_video_not_support">"This video format isn't supported."</string>
   <string name="plus_poster_reset_default">Restore default cover</string>
+  <string name="plus_properties_bit_rate">Bit rate</string>
+  <string name="plus_properties_codec">Codec</string>
+  <string name="plus_properties_date">Date</string>
+  <string name="plus_properties_file">File</string>
+  <string name="plus_properties_file_name">Filename</string>
+  <string name="plus_properties_finished">Finished</string>
+  <string name="plus_properties_format">Format</string>
+  <string name="plus_properties_frame_rate">Frame rate</string>
+  <string name="plus_properties_last_playback_position">Last position</string>
+  <string name="plus_properties_last_playback_time">Last played</string>
+  <string name="plus_properties_length">Duration</string>
+  <string name="plus_properties_media">Media</string>
+  <string name="plus_properties_path">Location</string>
+  <string name="plus_properties_playback_history">Playback history</string>
+  <string name="plus_properties_resolution">Resolution</string>
+  <string name="plus_properties_sample_rate">Sample rate</string>
+  <string name="plus_properties_size">Size</string>
+  <string name="plus_properties_status">Status</string>
+  <string name="plus_properties_stream">Stream</string>
+  <string name="plus_properties_stream_title">Title</string>
+  <string name="plus_properties_type">Type</string>
+  <string name="plus_properties_type_audio">Audio</string>
+  <string name="plus_properties_type_subtitle">Subtitles</string>
+  <string name="plus_properties_type_video">Video</string>
+  <string name="plus_properties_unfinish">Not finished</string>
   <string name="plus_search_barhint">Search for local videos</string>
   <string name="plus_search_guide">Search for videos</string>
   <string name="plus_search_result_empty">"Couldn't find results"</string>
@@ -881,7 +925,7 @@ Increase the security of your account."</string>
   <string name="plus_sort_type_time">Time</string>
   <string name="plus_tab_gallery">Folders</string>
   <string name="plus_tab_time">Timeline</string>
-  <string name="product_key">xl!f@e0GwR!7GRsm</string>
+  <string name="project_id">global-video-5cd70</string>
   <string name="psw_hint">Password</string>
   <string name="psw_sign_in">Sign in using password</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Pull up to refresh…</string>
@@ -905,6 +949,11 @@ Increase the security of your account."</string>
   <string name="reload_sub_title">Tap to try again.</string>
   <string name="reload_title">"Couldn't connect to the network."</string>
   <string name="report">Report</string>
+  <string name="report_content_fakement">Spam or fraud</string>
+  <string name="report_content_illegal">Illegal statements</string>
+  <string name="report_content_other">Other</string>
+  <string name="report_content_sexy">Sexually explicit content</string>
+  <string name="report_content_violence">Hate speech</string>
   <string name="report_fail">"Couldn't report. Try again."</string>
   <string name="report_success">Reported successfully</string>
   <string name="resend_active_email">Resend</string>
@@ -940,7 +989,6 @@ Increase the security of your account."</string>
   <string name="selectnull">Deselect all</string>
   <string name="send_diagnosis_log">Send logs</string>
   <string name="send_email_activate_message">Sent verification email successfully</string>
-  <string name="sender_id">142465509587</string>
   <string name="sending">Sending…</string>
   <string name="service_error">Server error</string>
   <string name="set_success">Changed successfully</string>
@@ -982,7 +1030,6 @@ Increase the security of your account."</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">SD card</string>
   <string name="storage_internal_sdcard">Internal storage</string>
-  <string name="storage_permission_denied">Permission to access storage was denied</string>
   <string name="submit">Submit</string>
   <string name="subscribe">SUBSCRIBE</string>
   <string name="subscribed">SUBSCRIBED</string>
@@ -1038,9 +1085,6 @@ Increase the security of your account."</string>
   <string name="toast_share_failed">"Couldn't share. Wait a minute or two and try again."</string>
   <string name="today">Today</string>
   <string name="tuesday">Tuesday</string>
-  <string name="txt_cancel_download">CANCEL TRANSFER</string>
-  <string name="txt_download_complete">Download Completed</string>
-  <string name="txt_watch_now">WATCH NOW</string>
   <string name="ugc_no_net">"Couldn't connect to the network. Check your network settings and try again."</string>
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="unknow">Unknown</string>
