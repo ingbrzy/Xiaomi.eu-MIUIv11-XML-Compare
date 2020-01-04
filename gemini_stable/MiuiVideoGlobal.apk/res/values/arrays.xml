@@ -259,13 +259,6 @@
         <item>日</item>
         <item>法</item>
     </string-array>
-    <string-array name="playback_streaming_quality">
-        <item>Auto</item>
-        <item>Low</item>
-        <item>Medium</item>
-        <item>High</item>
-        <item>Very High</item>
-    </string-array>
     <integer-array name="subtitle_font_size">
         <item>36</item>
         <item>48</item>
