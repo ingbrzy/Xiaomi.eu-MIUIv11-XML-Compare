@@ -327,6 +327,12 @@ Selection: Channel Mode"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Playback Quality</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Trigger Bluetooth Audio LDAC
 Codec Selection: Playback Quality"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Latency</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Latency"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Playback Quality</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Playback Quality"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Trigger Bluetooth Audio Codec
 Selection: Sample Rate"</string>
@@ -1524,7 +1530,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="preferred_phone_account">Preferred calling account</string>
-  <string name="preferred_wificall_roaming_title">Roaming preferences</string>
   <string name="preferred_wificall_title">Network preferences</string>
   <string name="privacy_policy_title">Privacy Policy</string>
   <string name="private_dns_mode_off">Off</string>
