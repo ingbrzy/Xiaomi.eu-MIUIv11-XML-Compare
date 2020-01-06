@@ -38,7 +38,7 @@
   <string name="can_not_backup_in_lite_mode">"Can't back up in Lite mode"</string>
   <string name="can_not_restore_in_lite_mode">"Can't restore in Lite mode"</string>
   <string name="cancel_backup">Canceling backup…</string>
-  <string name="cancel_recover_settings">Cancel</string>
+  <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
   <string name="cancel_restore_home">Canceling…</string>
   <string name="click_try_to_restore_again">Tap to try again</string>
   <string name="cloud_app_backup_success">Backed up apps successfully</string>
@@ -48,6 +48,7 @@
   <string name="cloud_app_no_data">No backups</string>
   <string name="cloud_app_no_network">"Can't connect to the network"</string>
   <string name="cloud_app_other_devices">Other devices</string>
+  <string name="cloud_app_restore_app_and_data">Set up your device</string>
   <string name="cloud_app_restore_data">Personal data and previously installed apps will appear on your device automatically</string>
   <string name="cloud_app_restore_error">"Couldn't restore"</string>
   <string name="cloud_app_restore_success">Apps restored</string>
@@ -130,7 +131,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="lack_of_storage">Not enough storage space</string>
   <string name="latest_backup_time_loading">Loading…</string>
   <string name="load_backup_failed">"Couldn't load backups"</string>
-  <string name="loading_progress_num">Loaded %s%%</string>
+  <string name="loading_progress_num">(%s%%)</string>
   <string name="loading_user_backup">Loading user backups…</string>
   <string name="managespace_delete_backup">Delete</string>
   <string name="menu_item_managespace">Manage space</string>
@@ -207,7 +208,6 @@ Check your network settings and try again."</string>
   <string name="restore_unfinished">Restoring, try again later</string>
   <string name="restoring_data">Restoring data…</string>
   <string name="restoring_file_title_no_progress">Restoring files…</string>
-  <string name="restoring_home_screen_apps">Restoring from Xiaomi Cloud…</string>
   <string name="restoring_settings">Restoring Settings…</string>
   <string name="retry">Retry</string>
   <string name="selected">Selected</string>
