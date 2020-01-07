@@ -1248,7 +1248,7 @@ feedsContentId:
   <string name="vo_location_change_positive">Switch</string>
   <string name="vo_location_change_title">Location changed</string>
   <string name="vo_location_choose_city">Tap to switch cities</string>
-  <string name="vo_mi_ad_detail">打开%sAPP观看</string>
+  <string name="vo_mi_ad_detail">Open in %s</string>
   <string name="vo_share_text">Share</string>
   <string name="vo_small_video_load_more_text">Swipe to load more</string>
   <string name="vo_small_video_title">Short videos</string>
