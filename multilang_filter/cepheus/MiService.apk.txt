@@ -1,0 +1,4 @@
+Removed: [de] string/miservice_notification_huanji_content (duplicate)
+Removed: [de] string/miservice_notification_huanji_title (duplicate)
+Removed: [de] string/miservice_notification_scan_content (duplicate)
+Removed: [de] string/miservice_notification_scan_title (duplicate)
