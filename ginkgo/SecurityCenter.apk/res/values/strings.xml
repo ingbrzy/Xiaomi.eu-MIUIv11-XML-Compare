@@ -1249,11 +1249,15 @@ medical card"</string>
   <string name="gb_sound_audition">Try</string>
   <string name="gb_voice_change_settinged">Voice changer is on</string>
   <string name="gb_voice_changer_cartoon">Cartoon</string>
+  <string name="gb_voice_changer_dlg_button_agree">Allow</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Restrict</string>
   <string name="gb_voice_changer_dlg_title">Voice changer</string>
   <string name="gb_voice_changer_lady">Woman</string>
   <string name="gb_voice_changer_loli">Girl</string>
   <string name="gb_voice_changer_men">Man</string>
   <string name="gb_voice_changer_normal">Original</string>
+  <string name="gb_voice_changer_permission_dlg_msg">Voice changer needs to be able to record audio to work normally.</string>
+  <string name="gb_voice_changer_permission_dlg_title">Permissions required</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gb_wonderful_video_cancel">Cancel</string>
   <string name="gb_wonderful_video_checkall">Select all</string>
@@ -1953,6 +1957,11 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analyze battery usage</string>
   <string name="power_cell">Cell standby</string>
+  <string name="power_center_5g_save_close_detail">5G battery saver increases battery life without affecting 5G connectivity. Turn off anyway?</string>
+  <string name="power_center_5g_save_close_later">"Don't turn off"</string>
+  <string name="power_center_5g_save_close_title">Turning off 5G battery saver</string>
+  <string name="power_center_5g_save_summary_text">Make 5G connectivity less power consuming in certain scenarios</string>
+  <string name="power_center_5g_save_title_text">5G battery saver</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_back">Back</string>
   <string name="power_center_battery_last">%s remaining</string>
@@ -1978,6 +1987,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_power_save_summary_text">Increase remaining time up to %1$dh %2$dm</string>
   <string name="power_center_power_save_title_text">Battery saver</string>
   <string name="power_center_repeat">Repeat</string>
+  <string name="power_center_scan_item_title_5g">5G connectivity</string>
   <string name="power_center_scan_item_title_GPS">Adjust GPS accuracy</string>
   <string name="power_center_scan_item_title_abnormal">Battery issues</string>
   <string name="power_center_scan_item_title_abnormal_apps">Apps that drain battery</string>
@@ -2008,6 +2018,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">"Ultra battery saver restricts most power-consuming features and decreases your device's performance in order to leave basic functionality (e.g. calls, SMS, and connecting to the network) available as long as possible. Turn on Ultra battery saver?"</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra battery saver restricts most power consuming features (e.g. 5G connectivity) lowering your device's performance. Only calls, messages, and network connectivity won't be affected. Turn on Ultra battery saver?"</string>
   <string name="power_dialog_super_save_title">Ultra battery saver</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh remaining</string>
@@ -2019,6 +2030,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
   <string name="power_optimize_close_app">Close apps consuming excessive power</string>
+  <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
@@ -2041,6 +2053,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
   <string name="power_save_ps_close_setting">Turn off background services (sync, GPS) to save battery</string>
+  <string name="power_save_ps_close_setting_5g">Restrict power consuming features (sync, 5G connectivity, GPS)</string>
   <string name="power_save_ps_freeze">Freeze apps in the background</string>
   <string name="power_save_ps_limit">Restrict the activity of system apps</string>
   <string name="power_save_settings">Battery settings</string>
