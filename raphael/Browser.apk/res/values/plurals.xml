@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d条回复</item>
+        <item quantity="one">%d条回复</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d小时前</item>
+        <item quantity="one">%d小时前</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">查看全部%d条评论></item>
+        <item quantity="one">查看全部%d条评论></item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d分钟前</item>
+        <item quantity="one">%d分钟前</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">已选择%d理由</item>
+        <item quantity="one">已选择%d理由</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d views</item>
         <item quantity="one">%d view</item>

@@ -100,7 +100,7 @@
   <string name="aqi_quality_index_light_pollution">Caution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="auto_add_app_shortcut">Add newly installed apps to the home screen</string>
+  <string name="auto_add_app_shortcut">Place new apps on the Home screen</string>
   <string name="auto_delete_category_dialog_content">Current apps will be removed from this category and the category will be deleted. Delete this category now?</string>
   <string name="auto_delete_category_dialog_title">Deleting category</string>
   <string name="backup_fail">"Couldn't backup launcher"</string>
@@ -323,6 +323,7 @@
   <string name="notification_installed">Installed successfully</string>
   <string name="notification_open_button">Open</string>
   <string name="notification_reset_title">Arranged icons successfully</string>
+  <string name="one_key_call_title">Tap to dial</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Turn off</string>
