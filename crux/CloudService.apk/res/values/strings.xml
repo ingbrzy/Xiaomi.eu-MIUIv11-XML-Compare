@@ -63,7 +63,7 @@
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Server error</string>
-  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Privacy Policy&lt;/a&gt;&lt;/u&gt;. If you need to revoke authorization, turn this feature off.</string>
+  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/a&gt;. If you need to revoke authorization, turn this feature off.</string>
   <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_title">Find device</string>
@@ -478,7 +478,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="warning_bar_action_close">Close</string>
   <string name="warning_bar_action_turn_on_master_sync">Turn on</string>
   <string name="warning_bar_action_turn_on_sync">Turn on</string>
-  <string name="warning_bar_action_upgrade_vip">Upgrade Xiaomi Cloud plan</string>
+  <string name="warning_bar_action_upgrade_vip">Upgrade</string>
   <string name="warning_bar_add_short_cut_success">Added successfully</string>
   <string name="warning_bar_title_cloud_space_already_full">Cloud storage is running low. Your photos might not be synced.</string>
   <string name="warning_bar_title_cloud_space_full">"Cloud storage is full. Can't sync photos, call history, and other items."</string>

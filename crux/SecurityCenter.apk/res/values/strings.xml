@@ -32,13 +32,17 @@
   <string name="ac_post_notification_contentTitle">Turn on App Lock</string>
   <string name="ac_pre_notification_contentText">Protect your personal info</string>
   <string name="ac_pre_notification_contentTitle">Try App Lock</string>
+  <string name="ac_recommend_guide_dialog_app_content">Use App lock with this app in order to protect your personal info and avoid data leaks.</string>
+  <string name="ac_recommend_guide_dialog_content">You can protect your personal info and avoid data leaks using App lock.</string>
+  <string name="ac_recommend_guide_dialog_ignore">"Don't show again"</string>
+  <string name="ac_recommend_guide_dialog_open">Turn on</string>
   <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
   <string name="ac_summaryOn">Enter password to open protected apps</string>
   <string name="ac_unmask_all_apps">Show for all</string>
   <string name="access_control_app_is_launching">App is starting</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
-  <string name="access_control_need_password">"%s added successfully
+  <string name="access_control_need_password">"%s added successfullyr
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
   <string name="accessibility_gameboosterservice_description">"Turn on to silence incoming WeChat calls when you're playing games"</string>
@@ -105,7 +109,7 @@
   <string name="alert_back_milink_hangup_tips_content">"Casting won't be interrupted while you're ending a call. You can press the Power button to wake the screen."</string>
   <string name="alert_back_milink_hangup_tips_content_vb">"Casting won't be interrupted when the screen is off and the app is working in the background. You can press the Power button to turn the screen back on."</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
-  <string name="already_close_gamebooster">Game speed booster is off</string>
+  <string name="already_close_gamebooster">Game Turbo is off</string>
   <string name="anti_disturb_msg_detail">Turn off all notifications except for incoming calls</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">Blocklist details</string>
@@ -143,8 +147,10 @@
   <string name="antivirus_update_btn_contiue">Continue</string>
   <string name="antivirus_update_btn_open">Allow</string>
   <string name="antivirus_update_btn_update">Update</string>
+  <string name="apn_exception_modify_summary">"Default carrier access point isn't used or modified"</string>
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
+  <string name="apn_exception_wap_summary">WAP is unstable now. Switch to NET.</string>
   <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content.</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">Details</string>
@@ -370,8 +376,8 @@ You will not lose any app data."</string>
   <string name="auto_back_booster">Stop boosting</string>
   <string name="auto_booster_suc">Boosted successfully</string>
   <string name="auto_clean_close">Automatic cleanups are off</string>
-  <string name="auto_data_back_booster">Game speed booster is off. Communication features are restored.</string>
-  <string name="auto_data_booster_suc">Game speed booster is on. Switched to Immersive mode.</string>
+  <string name="auto_data_back_booster">Game Turbo is off. Communication features are restored.</string>
+  <string name="auto_data_booster_suc">Game Turbo is on. Switched to Immersive mode.</string>
   <string name="auto_handle_title">GENERAL</string>
   <string name="auto_import_games">Put all your games in one place</string>
   <string name="auto_task_condition_choose_battery_level_down">When battery reaches a certain level</string>
@@ -602,7 +608,7 @@ You will not lose any app data."</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
   <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
   <string name="card_main_gamebooster_summary">Boost connection stability for games</string>
-  <string name="card_main_gamebooster_title">Game speed booster</string>
+  <string name="card_main_gamebooster_title">Game Turbo</string>
   <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
   <string name="card_main_hbassistant_title">Red envelope assistant</string>
   <string name="card_main_hwtest_title">Hardware test</string>
@@ -660,7 +666,7 @@ You will not lose any app data."</string>
   <string name="cpu_usage_process_run_time_little_time">Less than 1 minute</string>
   <string name="cpu_usage_view_action_btn_text">Tap to view</string>
   <string name="create_gamebooster_destop">Created Home screen shortcut successfully</string>
-  <string name="create_shortcut">Create a Home screen shortcut for Game speed booster</string>
+  <string name="create_shortcut">Create a Home screen shortcut for Game Turbo</string>
   <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
   <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
   <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
@@ -861,9 +867,11 @@ It will be added to exceptions, but previously blocked items won't appear in cal
 contact"</string>
   <string name="ew_alert_earthquake_center_title">Epicenter</string>
   <string name="ew_alert_earthquake_distance">"You're %s km away from the epicenter"</string>
+  <string name="ew_alert_earthquake_feel_little">Slight shaking</string>
   <string name="ew_alert_earthquake_feel_max">Severe</string>
   <string name="ew_alert_earthquake_feel_middle">Strong</string>
-  <string name="ew_alert_earthquake_feel_normal">Light</string>
+  <string name="ew_alert_earthquake_feel_none">Not sensible</string>
+  <string name="ew_alert_earthquake_feel_normal">Moderate</string>
   <string name="ew_alert_earthquake_feel_title">Estimated intensity</string>
   <string name="ew_alert_earthquake_level_title">Estimated magnitude</string>
   <string name="ew_alert_emergency_text">"Show
@@ -918,11 +926,19 @@ medical card"</string>
   <string name="ew_guide_next_text">Next</string>
   <string name="ew_guide_play_audio">Play warning sound</string>
   <string name="ew_guide_play_audio_last">Play warning sound (%ds)</string>
-  <string name="ew_guide_statement_text">&lt;Data&gt;"&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Disclaimer&amp;lt;/a&amp;gt; Whenever a user (hereinafter referred to as \"you\") activates earthquake warning functionality, he or she enters a legally binding contract with Xiaomi and its affiliates (hereinafter referred to as \"Xiaomi\"). By using this feature, you acknowledge that you've read this disclaimer, and you fully understand and agree to the entire contents of this disclaimer. If you don't agree to this disclaimer, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; In accordance with relevant laws and regulations, earthquake early warning services are provided only to the areas that have been authorized by the relevant government departments. This means that when you turn on the earthquake warning functionality and your device is in an authorized area, you can receive earthquake warning services. You can check the list of areas where earthquake warning services are currently provided. More areas will be supported in the future. Stay tuned!&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The Security app provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them. &amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature. &amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+  <string name="ew_guide_statement_text">&lt;Data&gt;"This disclaimer applies to all users (hereinafter referred to as you) who turn on the earthquake warning feature. By agreeing to this disclaimer, you enter into a legally binding contract with Xiaomi Inc. and its affiliates (hereinafter referred to as Xiaomi). You acknowledge that you have read all the contents of this disclaimer, and you fully understand and agree to all the terms and conditions of this disclaimer; otherwise, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The earthquake warning functionality is available in selected regions now (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tap to view&amp;lt;/a&amp;gt;). More regions will be available soon.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Earthquake warning features are provided by Xiaomi in the Security app. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them.&amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. The warning you receive might come seconds before the onset of an earthquake. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
   <string name="ew_guide_tips_1">"You'll be notified about upcoming earthquakes and hear warning sound"</string>
   <string name="ew_guide_tips_2">Information and warning sound will be updated during the earthquake</string>
   <string name="ew_guide_tips_3">"You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required"</string>
   <string name="ew_guide_title">View demo</string>
+  <string name="ew_list_all">All</string>
+  <string name="ew_list_empty_text">No warnings here yet</string>
+  <string name="ew_list_not_receive_tips">*Epicenter is far from you. You might not sense the earthquake.</string>
+  <string name="ew_list_receive">Received</string>
+  <string name="ew_list_receive_distance">Epicenter is %s km away from you</string>
+  <string name="ew_list_receive_time">Start time: %s</string>
+  <string name="ew_list_receive_time_title">Start time</string>
+  <string name="ew_list_title">Warnings</string>
   <string name="ew_main_close_text">"You won't be able to receive up-to-date info about this earthquake if you turn off the alert. Turn off anyway?"</string>
   <string name="ew_main_close_title">Attention</string>
   <string name="ew_main_contact_change">Change</string>
@@ -939,7 +955,22 @@ medical card"</string>
   <string name="ew_main_open_title">Receive alerts and get help</string>
   <string name="ew_main_place_tips">Learn where the nearest emergency shelter is whenever you need one</string>
   <string name="ew_main_place_title">Emergency shelters nearby</string>
+  <string name="ew_main_setting_show_desc">Demo</string>
+  <string name="ew_main_setting_warning_desc">Learn more</string>
+  <string name="ew_main_settings">Settings</string>
+  <string name="ew_main_warning_list">View warnings</string>
+  <string name="ew_main_warning_list_tips">View</string>
+  <string name="ew_main_warning_list_title">Warning history</string>
+  <string name="ew_push_message">Estimated intensity: %s. Expect slight shaking near you.</string>
+  <string name="ew_push_title">Earthquake warning for %s</string>
   <string name="ew_safe_place_no_maps_tips">"Can't search now. Install Baidu Maps or Amap first."</string>
+  <string name="ew_setting_desc_message">"The system estimates earthquake intensity based on the magnitude of the earthquake, the location of the epicenter, and the distance from you. The greater the intensity of the earthquake, the more devastation the earthquake might bring to your location. When the estimated intensity is greater than 2.0, you'll receive a strong earthquake warning; when the estimated intensity is lower than 2.0, you can choose to receive system notifications."</string>
+  <string name="ew_setting_desc_title">About estimated intensity</string>
+  <string name="ew_setting_more_title">Learn more about earthquake warnings</string>
+  <string name="ew_setting_normal_push_message">For earthquakes with intensity lower than 2.0</string>
+  <string name="ew_setting_normal_push_title">Receive system notifications</string>
+  <string name="ew_setting_strong_push_message">For earthquakes with intensity of 2.0 and higher</string>
+  <string name="ew_setting_strong_push_title">Warn about strong earthquakes (On by default)</string>
   <string name="examination_score_100">Everything looks good!</string>
   <string name="examination_score_60_0">Scan now</string>
   <string name="examination_score_80_100">A few items can be optimized</string>
@@ -1144,14 +1175,18 @@ medical card"</string>
   <string name="fw_oversea_content">Block incoming calls from foreign phone numbers</string>
   <string name="game_ad_recommendation">Everybody is playing</string>
   <string name="game_anti_disturb_msg">Game DND</string>
-  <string name="game_booster">Game speed booster</string>
-  <string name="game_booster_close">Game Speed Booster off</string>
-  <string name="game_booster_intro">About Game speed booster</string>
+  <string name="game_booster">Game Turbo</string>
+  <string name="game_booster_close">Game Turbo is off</string>
+  <string name="game_booster_intro">About Game Turbo</string>
   <string name="game_booster_jump_webview">Just a sec…</string>
   <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Boost</string>
   <string name="game_bootser_tab_settings">Booster settings</string>
   <string name="game_else_function">Other</string>
+  <string name="game_manual_record_setting_king">王者荣耀</string>
+  <string name="game_manual_record_setting_peace">和平精英</string>
+  <string name="game_manual_record_setting_setting">About this feature</string>
+  <string name="game_manual_record_setting_title">Key moments</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
   <string name="game_setting">Game settings</string>
   <string name="game_video_net_data">Mobile data</string>
@@ -1185,6 +1220,7 @@ medical card"</string>
   <string name="gamebox_immersion_tips_content">Immersive mode restricts all SIM card functionality except for the mobile data connection. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
   <string name="gamebox_immersion_tips_title">Attention</string>
   <string name="gamebox_immerson_open">"Turning on Immersive mode, don't switch networks…"</string>
+  <string name="gamebox_manual_record">Record</string>
   <string name="gamebox_milink">Cast</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Install QQ and try again.</string>
@@ -1231,6 +1267,11 @@ medical card"</string>
   <string name="gb_description_image_button_answer">Answer</string>
   <string name="gb_description_image_button_reject">Decline</string>
   <string name="gb_description_image_button_video_answer">Video call</string>
+  <string name="gb_dialog_record_way_ai">AI recordings are saved in the gamebox and stored there for 7 days.</string>
+  <string name="gb_dialog_record_way_finish">Done</string>
+  <string name="gb_dialog_record_way_manual">Record videos up to 30 seconds long manually</string>
+  <string name="gb_dialog_record_way_setting_tips">Note: Recording your gaming sessions requires higher power consumption which may result in lagging.</string>
+  <string name="gb_dialog_record_way_title">Select recording method</string>
   <string name="gb_first_guide_function_shiled_title">Turn off system features when Game Turbo is on</string>
   <string name="gb_first_guide_gamebox_des">Use shortcuts while playing games</string>
   <string name="gb_first_guide_handsfree_des">Answer calls in the background</string>
@@ -1245,10 +1286,20 @@ medical card"</string>
   <string name="gb_first_window_handsfree_title">Hands-free calls</string>
   <string name="gb_first_window_start">Start playing</string>
   <string name="gb_first_window_summary">Boost speed and performance on a system level</string>
-  <string name="gb_first_window_title">Game speed booster</string>
+  <string name="gb_first_window_title">Game Turbo</string>
+  <string name="gb_game_end_toast">Revisit the key moments of your games</string>
+  <string name="gb_game_video_bottom_tips">Watch recordings of your sessions in the gamebox. Videos are stored there for 7 days by default.</string>
+  <string name="gb_game_video_item_tag">Key moment</string>
+  <string name="gb_game_video_page_delete_success">Deleted successfully</string>
+  <string name="gb_game_video_page_null">Record the key moments of your gaming sessions</string>
+  <string name="gb_game_video_record_finish_tips">Saved video successfully</string>
+  <string name="gb_game_video_save">Save</string>
+  <string name="gb_game_video_type_ai">AI</string>
+  <string name="gb_game_video_type_manual">Manually</string>
   <string name="gb_get_gift_right_now">Check in now</string>
   <string name="gb_global_settings">General settings</string>
   <string name="gb_have_signed">Checked in today</string>
+  <string name="gb_manual_record_dialog_del_video_message">Delete selected videos permanently?</string>
   <string name="gb_msg_completely_shielded">Hide messages</string>
   <string name="gb_msg_completely_shielded_summary">Hide</string>
   <string name="gb_msg_not_shielded_summary">Show</string>
@@ -1270,12 +1321,22 @@ medical card"</string>
   <string name="gb_sound_audition">Try</string>
   <string name="gb_voice_change_settinged">Voice changer is on</string>
   <string name="gb_voice_changer_cartoon">Cartoon</string>
+  <string name="gb_voice_changer_dlg_button_agree">Allow</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Restrict</string>
   <string name="gb_voice_changer_dlg_title">Voice changer</string>
   <string name="gb_voice_changer_lady">Woman</string>
   <string name="gb_voice_changer_loli">Girl</string>
   <string name="gb_voice_changer_men">Man</string>
   <string name="gb_voice_changer_normal">Original</string>
+  <string name="gb_voice_changer_permission_dlg_msg">Voice changer needs to be able to record audio to work normally.</string>
+  <string name="gb_voice_changer_permission_dlg_title">Permissions required</string>
   <string name="gb_voice_changer_robot">Robot</string>
+  <string name="gb_wonderful_video_cancel">Cancel</string>
+  <string name="gb_wonderful_video_checkall">Select all</string>
+  <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
+  <string name="gb_wonderful_video_delete">Delete</string>
+  <string name="gb_wonderful_video_header_title">Today</string>
+  <string name="gb_wonderful_video_save_suc">Saved successfully</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-day boost</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-day boost</string>
@@ -1306,11 +1367,20 @@ medical card"</string>
   <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security &gt; Settings to restore it.</string>
   <string name="gs_dialog_confirm_close_title">Turn off</string>
   <string name="gs_forbid_autosync">Restrict background sync</string>
+  <string name="gs_game_ai_record">Record using AI</string>
+  <string name="gs_game_ai_record_subtitle">"You can start recording in the toolbox while you're playing. Videos with key moments will be generated automatically and deleted after 7 days by default. You can also choose to save videos permanently."</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
+  <string name="gs_game_manual_record">Record manually</string>
+  <string name="gs_game_manual_record_subtitle">"You can start recording in the toolbox while you're playing. Up to 30 seconds of video can be recorded after you tap the \"Record\" button.
+Videos will be saved to Game Turbo &gt; Key moments."</string>
+  <string name="gs_game_manual_record_subtitle_child">You may encounter some issues while using this feature:</string>
+  <string name="gs_game_manual_record_subtitle_child_carton">Recording your gaming sessions requires higher power consumption which may result in lagging.</string>
+  <string name="gs_game_manual_record_subtitle_child_conflict">Other screen recording features might not work properly.</string>
   <string name="gs_game_net_priority">Connection priority</string>
   <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>
   <string name="gs_game_performance">Performance</string>
+  <string name="gs_game_record_intro_tips">*Game session recording is available only for selected compatible games</string>
   <string name="gs_game_shortcut">Improve your gaming experience</string>
   <string name="gs_gamebox">In-game shortcuts</string>
   <string name="gs_gamebox_detail">Swipe from the top side edge of the screen to view</string>
@@ -1325,6 +1395,8 @@ medical card"</string>
   <string name="gs_show_way_vertical">Vertical</string>
   <string name="gs_sign_notification">Remind to check in at 8 PM daily</string>
   <string name="gs_slip_gamebox_detail">Use slider or swipe from the top side edge of the screen to make the shortcut panel appear</string>
+  <string name="gtb_exit_game_to_gtb">Open gamebox</string>
+  <string name="gtb_exit_game_to_home">Back to Home screen</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Wrong carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Your current carrier: "</string>
   <string name="guide_quck_open">Turn on</string>
@@ -1663,13 +1735,18 @@ to respond"</string>
   <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
   <string name="more_settings">More</string>
   <string name="name">Name</string>
+  <string name="nd_result_button_optimize">Optimize</string>
+  <string name="nd_result_summary_optimize">"Try optimizing network connection when it's unstable"</string>
+  <string name="nd_result_title_auxiliary">Network configuration</string>
+  <string name="nd_result_title_network">Network connectivity</string>
+  <string name="nd_result_title_optimize">Network optimization</string>
   <string name="net_booster">Network speed boost</string>
   <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
   <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
   <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
   <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
   <string name="net_booster_title">Network speed boost</string>
-  <string name="net_boostering">Network speed boosting</string>
+  <string name="net_boostering">Boosting network speed…</string>
   <string name="net_boosting">Boosting speed…</string>
   <string name="net_delay_title">Delay</string>
   <string name="net_overdue">Session ended</string>
@@ -1693,20 +1770,20 @@ to respond"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "&lt;b&gt;1. Public WLAN network issues&lt;/b&gt;"
+If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet service provider.
+ "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+Make sure that your account is in good standing with your Internet service provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+Try rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+Read the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
+ "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -2081,10 +2158,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
-  <string name="power_save_ps_close_setting">Turn off services and features with high power consumption (sync, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
-  <string name="power_save_ps_close_setting_5g">Turn off services and features with high power consumption (sync, 5G network connectivity, GPS, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\") to save battery</string>
-  <string name="power_save_ps_close_setting_5g_q">Turn off services and features with high power consumption (sync, 5G network connectivity, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\")</string>
-  <string name="power_save_ps_close_setting_q">Turn off services and features with high power consumption (sync, haptic feedback, \"Raise to wake\", \"Double tap to wake or turn off screen\", \"Show fingerprint icon when the screen is off\")</string>
+  <string name="power_save_ps_close_setting">Turn off services and features with high power consumption (sync, GPS, haptic feedback, \"Raise to wake\", and \"Show fingerprint icon when the screen is off\")</string>
+  <string name="power_save_ps_close_setting_5g">Turn off services and features with high power consumption (sync, 5G network connectivity, GPS, haptic feedback, \"Raise to wake\", and \"Show fingerprint icon when the screen is off\")</string>
+  <string name="power_save_ps_close_setting_5g_q">Turn off services and features with high power consumption (sync, 5G network connectivity, haptic feedback, \"Raise to wake\", and \"Show fingerprint icon when the screen is off\")</string>
+  <string name="power_save_ps_close_setting_q">Turn off services and features with high power consumption (sync, haptic feedback, \"Raise to wake\", and \"Show fingerprint icon when the screen is off\")</string>
   <string name="power_save_ps_freeze">Freeze apps in the background</string>
   <string name="power_save_ps_limit">Restrict the activity of system apps</string>
   <string name="power_save_settings">Battery settings</string>
@@ -2421,6 +2498,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
   <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
+  <string name="signal_exception_4g_bad_rsrq">Current signal reception is poor. Connection speed might be low.</string>
+  <string name="signal_exception_none_4g_5g_network">"You're using 2G/3G mobile networks. Connection speed might be low."</string>
   <string name="signal_exception_summary">"Can't connect to the network in this area."</string>
   <string name="signal_exception_title">Test signal strength</string>
   <string name="signed_rule">Rules</string>
@@ -2969,7 +3048,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plan’s data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
@@ -3090,6 +3169,17 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_update_tips_title">Warning</string>
   <string name="virus_wait_network_dialog_message">"Your phone isn't connected to WLAN now. Use mobile data connection?"</string>
   <string name="voltage_symbol">V</string>
+  <string name="vtb_func_desc">About this feature</string>
+  <string name="vtb_func_display_style_desc1">"Selected effects won't be applied to HDR videos."</string>
+  <string name="vtb_func_display_style_desc2">"These effects can't be applied to screenshots."</string>
+  <string name="vtb_func_frc_desc0">Motion smoothing reduces blur and adds detail to moving objects. Using this feature increases power consumption.</string>
+  <string name="vtb_func_frc_desc1">"Motion smoothing won't work in the following conditions:"</string>
+  <string name="vtb_func_frc_desc2">When video resolution is higher than 1080P</string>
+  <string name="vtb_func_frc_desc3">When frame rate is higher than 30fps</string>
+  <string name="vtb_func_frc_desc4">With HDR videos</string>
+  <string name="vtb_func_frc_title">Motion smoothing</string>
+  <string name="vtb_func_vpp_desc4">"This feature won't work when video resolution is higher than 4K."</string>
+  <string name="vtb_func_vpp_title">Enhanced contours</string>
   <string name="vtb_other_milink_connect">"Can't cast video now. About to cast other items…"</string>
   <string name="vtb_stop_milink_connect">Stopped casting video</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
