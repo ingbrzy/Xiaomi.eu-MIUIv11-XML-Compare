@@ -56,6 +56,8 @@
   <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_title">Find device</string>
+  <string name="finddevice_miservice_notification_content">"Lock your device remotely if it's lost"</string>
+  <string name="finddevice_miservice_notification_title">Turn on Find device</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Enter password</string>
@@ -537,6 +539,7 @@ Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agre
   <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Items aren't synced"</string>
+  <string name="wipe_data_query_progress_title">Checking…</string>
   <string name="wipe_secret_photo_dialog_title">"Hidden photos aren't synced"</string>
   <string name="xiaomi_cloud_service">Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">All important items in one place</string>
