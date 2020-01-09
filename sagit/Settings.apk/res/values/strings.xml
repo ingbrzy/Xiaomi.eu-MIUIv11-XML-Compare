@@ -3081,7 +3081,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="location_agps_def_location_mode">MSB</string>
   <string name="location_agps_def_network_mode">HOME</string>
   <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
+  <string name="location_agps_def_supl_host">supl.google.com</string>
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS settings</string>
   <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -4207,6 +4207,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="ping_test_label">Run Ping Test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
   <string name="please_type_passphrase">Password</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/track pad</string>
