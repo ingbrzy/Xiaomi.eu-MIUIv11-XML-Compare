@@ -71,7 +71,7 @@
   <string name="description_content">Besides its basic features, Calculator also works as a multifunctional converter, mortgage, and tax calculator.Make sure you can do without these features before you uninstall the app.</string>
   <string name="description_title">About Calculator</string>
   <string name="devided_by_zero_reminder_message">"Can't divide by zero"</string>
-  <string name="dialog_privacy_content">Besides the basic features of a calculator, our app also contains a scientific calculator and a multi-purpose converter. Some features need to connect to the internet to work normally. You must read and agree to our %1$s and %2$s before using Calculator.</string>
+  <string name="dialog_privacy_content">Besides the basic functionality, Mi Calculator allows you to convert currencies and measurement units, calculate mortgage repayments, and more. Some features may require connecting to the internet to be able to work normally. &lt;Data&gt;Before using this app, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">Terms and Conditions</string>
   <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
   <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
@@ -87,6 +87,7 @@
   <string name="digit7">7</string>
   <string name="digit8">8</string>
   <string name="digit9">9</string>
+  <string name="disallow">"Don't agree"</string>
   <string name="div">÷</string>
   <string name="divDesc">divide</string>
   <string name="dot">.</string>
@@ -183,6 +184,7 @@
   <string name="loading_message">Loading app…</string>
   <string name="loading_slogan">Use apps without installing them</string>
   <string name="loading_tips">Downloaded settings successfully. Launch Calculator again to apply.</string>
+  <string name="loan_basic_point">Basis point</string>
   <string name="loan_edittext_hint_commercial">Enter amount</string>
   <string name="loan_edittext_hint_commercial_combined">Commercial (×10K)</string>
   <string name="loan_edittext_hint_fund">Enter amount</string>
@@ -194,7 +196,16 @@
   <string name="loan_pay_years">Loan period</string>
   <string name="loan_payback_way">Repayment</string>
   <string name="loan_repayment_detail_loading">Loading detailed repayment…</string>
+  <string name="loan_type_summary_base">@string/base_rate</string>
+  <string name="loan_type_summary_lpr">LPR</string>
+  <string name="loan_type_title">Interest rate standard</string>
   <string name="loan_unit">(×10K)</string>
+  <string name="lpr_format">%1$s%% %2$s %3$s‱ = %4$s%%</string>
+  <string name="lpr_ok">Got it</string>
+  <string name="lpr_tips_msg">"Starting from October 8, 2019, personal commercial housing loan interest rate will be calculated according to the loan prime rate (LPR) instead of the previously implemented benchmark interest rate of 4.9%. Now, the final rate will be confirmed by adding an LPR basis point.
+
+One-year and five-year LPRs will be quoted on the 20th of each month (delays might occur due to banking holidays) on the website of the People's Bank of China."</string>
+  <string name="lpr_tips_title">LPR (Loan prime rate)</string>
   <string name="medical_treatment">Medical treatment</string>
   <string name="menuDesc">menu</string>
   <string name="minus">−</string>
@@ -222,6 +233,7 @@
   <string name="mortgage_input_error">Enter value</string>
   <string name="mortgage_interest_amount">Interest amount</string>
   <string name="mortgage_interest_rate">Commercial interest</string>
+  <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
   <string name="mortgage_item_repayment">Repayment method</string>
   <string name="mortgage_item_start_time">Start date</string>
   <string name="mortgage_item_years">Loan tenure</string>
@@ -242,6 +254,7 @@
   <string name="negDesc">Switch between temperatures below and above zero</string>
   <string name="network_confirm_content">Currency converter, tax and mortgage calculators need to connect to the internet and access location services to work normally.</string>
   <string name="network_confirm_title">Permissions required</string>
+  <string name="network_privacy">Note that this app needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
   <string name="network_purpose">Welcome to Calculator! Calculator allows you to convert currencies, calculate mortgage repayments, and more.</string>
   <string name="none">None</string>
   <string name="not_supported_due_to_language">This feature is only available for the Chinese language</string>
@@ -249,6 +262,14 @@
   <string name="percent"/>
   <string name="percentDesc">percent</string>
   <string name="percentage">%</string>
+  <string name="permission_location">Access location</string>
+  <string name="permission_location_desc">For providing location-based services</string>
+  <string name="permission_phone">Access device status and ID</string>
+  <string name="permission_phone_desc">For identifying different devices</string>
+  <string name="permission_privacy_link">&lt;Data&gt;Before using this app, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_purpose">"Welcome to Calculator! Besides the basic functionality, Calculator allows you to convert currencies and measurement units, calculate mortgage repayments, and more. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:"</string>
+  <string name="permission_remove_desc">You can choose to uninstall this app, or restrict permissions and revoke your authorization in the Settings.</string>
   <string name="pi">π</string>
   <string name="piDesc">pi</string>
   <string name="plus">+</string>
@@ -686,6 +707,7 @@
   <string name="unit_data_short_weight_uk.st">st</string>
   <string name="unit_data_short_weight_us.cwt">cwt</string>
   <string name="unit_myriads">×10K</string>
+  <string name="unit_per_ten_thousand">‱</string>
   <string name="unit_percentage">%</string>
   <string name="unit_times"/>
   <string name="unit_year">Y</string>

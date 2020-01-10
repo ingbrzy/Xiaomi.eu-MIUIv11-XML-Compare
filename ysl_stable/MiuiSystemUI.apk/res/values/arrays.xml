@@ -593,7 +593,7 @@
         <item>4G</item>
         <item>4G+</item>
         <item></item>
-        <item>4G</item>
+        <item>LTE</item>
         <item>5G</item>
     </string-array>
     <array name="data_type_name_cus_reg_key" />
@@ -619,33 +619,15 @@
         <item>davinciin</item>
         <item>raphael</item>
         <item>raphaelin</item>
+        <item>lmi</item>
+        <item>lmiin</item>
+        <item>lmipro</item>
+        <item>lmiinpro</item>
     </string-array>
     <string-array name="device_support_pickup_by_MTK">
         <item>cactus</item>
         <item>cereus</item>
         <item>lotus</item>
-    </string-array>
-    <string-array name="device_support_screen_on_delayed">
-        <item>dipper</item>
-        <item>polaris</item>
-        <item>wayne</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>nitrogen</item>
-        <item>whyred</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>platina</item>
-        <item>beryllium</item>
-        <item>capricorn</item>
-        <item>natrium</item>
-        <item>jason</item>
-        <item>sirius</item>
-        <item>lavender</item>
-        <item>cepheus</item>
-        <item>grus</item>
-        <item>andromeda</item>
-        <item>ursa</item>
     </string-array>
     <string-array name="device_support_slide_camera">
         <item>perseus</item>
@@ -936,6 +918,7 @@
     <string-array name="promote_tiles_on_update_successed">
         <item>custom(com.milink.service/com.milink.ui.service.MiLinkTileService)</item>
         <item>custom(com.miui.mishare.connectivity/.tile.MiShareTileService)</item>
+        <item>custom(com.amazon.dee.app/com.amazon.alexa.handsfree.settings.quicksettings.AlexaQuickSettingService)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="recents_thumbnail_blur_white_pkgs">
@@ -1416,6 +1399,7 @@
     </array>
     <string-array name="system_alert_window_notification_whitelist">
         <item>com.miui.notes</item>
+        <item>com.android.thememanager</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.xiaomi.joyose</item>
