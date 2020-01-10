@@ -1,2 +1,1 @@
 Removed: [nl] string/micloud_find_device_guide_title (format mismatch)
-Removed: [pt-rPT] string/data_merge_dialog_alert_active_on_phone_msg_one (format mismatch)
