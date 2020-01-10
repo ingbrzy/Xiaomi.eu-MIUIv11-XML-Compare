@@ -266,34 +266,14 @@
   <string name="cloud_time_tips">Last sync</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
   <string name="collect_video">Collect video</string>
-  <string name="comment_add_fail">评论发表失败</string>
-  <string name="comment_add_sucess">评论发表成功</string>
-  <string name="comment_all_display">已显示全部评论</string>
   <string name="comment_app_menu">Comment</string>
-  <string name="comment_confirm_report">确定举报</string>
-  <string name="comment_copied">已复制</string>
-  <string name="comment_delete">删除</string>
-  <string name="comment_delete_confirm_title">确认删除?</string>
-  <string name="comment_delete_fail">评论删除失败</string>
-  <string name="comment_delete_sucess">评论删除成功</string>
   <string name="comment_description">Comment</string>
-  <string name="comment_empty_hint">还没有评论哦，快来抢沙发</string>
-  <string name="comment_error_hint">评论加载失败，点击重试</string>
   <string name="comment_fail">"Couldn't add comment. Try again."</string>
-  <string name="comment_flag_choice">精选</string>
-  <string name="comment_flag_top">置顶</string>
   <string name="comment_hint">Comment</string>
-  <string name="comment_just_now">刚刚</string>
   <string name="comment_max_length">Your comment is too long.</string>
   <string name="comment_menu">Comment</string>
-  <string name="comment_no_net_hint">服务端开小差了，请稍后再试</string>
   <string name="comment_num_description">Comment number</string>
   <string name="comment_publish_to_topic">Comments sync to</string>
-  <string name="comment_reply">回复</string>
-  <string name="comment_reply_fail">评论回复失败</string>
-  <string name="comment_reply_sucess">评论回复成功</string>
-  <string name="comment_report_send">举报已提交</string>
-  <string name="comment_select_report_reason">选择举报理由</string>
   <string name="comment_success">Added comment successfully</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -440,11 +420,9 @@ to view open tabs from other devices."</string>
   <string name="exit_browser_confirmation">Press again to return to the desktop</string>
   <string name="exit_browser_warning">Exit Browser now?</string>
   <string name="exit_fullscreen">Exit fullscreen</string>
-  <string name="expand_article">展开阅读全文</string>
   <string name="expand_button_title">Advanced</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-  <string name="fast_app_card_bottom_text" formatted="false">%s %s</string>
   <string name="favorite">Add to favorites</string>
   <string name="feedback_not_interested_response">"You'll see fewer items of this kind"</string>
   <string name="file_dir">Change folder</string>
@@ -987,15 +965,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="share_image_text">Look what I shared! @MIUI</string>
   <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
   <string name="share_video">Share video</string>
-  <string name="short_video_ad_download_app">下载%s</string>
-  <string name="short_video_ad_download_immediately">立即下载</string>
-  <string name="short_video_ad_downloading">下载中%d%%</string>
-  <string name="short_video_ad_installing">安装中</string>
-  <string name="short_video_ad_open_app">打开%s</string>
-  <string name="short_video_ad_open_immediately">立即打开</string>
-  <string name="short_video_ad_resume_downloading">继续下载</string>
-  <string name="short_video_ad_see_details">查看详情</string>
-  <string name="short_video_ad_tag">广告</string>
   <string name="short_video_comment_hint">Enter comment</string>
   <string name="short_video_description">Video channel</string>
   <string name="short_video_gesture_btn">Got it</string>
@@ -1245,13 +1214,6 @@ item_style:
 feedsContentId:
 %s
 "</string>
-  <string name="vo_detail_feed_activity">详情页Feed流</string>
-  <string name="vo_fast_game_card_bottom_text">快游戏 免下载，立即玩</string>
-  <string name="vo_fast_game_card_more_text">更多快游戏</string>
-  <string name="vo_fast_game_card_title_text">看过文章的人还喜欢玩：</string>
-  <string name="vo_feed_activity">Feed流测试</string>
-  <string name="vo_feed_back_dislike">不喜欢</string>
-  <string name="vo_feed_back_wechat_share">微信分享</string>
   <string name="vo_feedback_back">Back</string>
   <string name="vo_feedback_black">Block: %s</string>
   <string name="vo_feedback_content">Poor content quality</string>
@@ -1261,7 +1223,6 @@ feedsContentId:
   <string name="vo_feedback_shield">Blocklist</string>
   <string name="vo_feedback_sub_quality">Clickbait, profanity, etc.</string>
   <string name="vo_feedback_sub_shield">, etc.</string>
-  <string name="vo_home_feed_activity">首页Feed流</string>
   <string name="vo_icon_text_burst">突发</string>
   <string name="vo_icon_text_deep">深度</string>
   <string name="vo_icon_text_featured">精选</string>
@@ -1288,7 +1249,6 @@ feedsContentId:
   <string name="vo_location_change_title">Location changed</string>
   <string name="vo_location_choose_city">Tap to switch cities</string>
   <string name="vo_mi_ad_detail">Open in %s</string>
-  <string name="vo_search_tag_title_text">相关搜索</string>
   <string name="vo_share_text">Share</string>
   <string name="vo_small_video_load_more_text">Swipe to load more</string>
   <string name="vo_small_video_title">Short videos</string>
