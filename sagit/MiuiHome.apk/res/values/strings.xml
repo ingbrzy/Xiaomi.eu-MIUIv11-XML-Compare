@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_menu_item_split_disable">"App doesn't support Split screen."</string>
+  <string name="accessibility_menu_item_split_enable">App supports Split screen</string>
+  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
+  <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
+  <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
   <string name="action_add_to_workspace">Add to workspace</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
@@ -87,6 +92,7 @@
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Travel</string>
   <string name="app_category_vr">VR</string>
+  <string name="app_name">folme</string>
   <string name="application_name">System launcher</string>
   <string name="apply">Set</string>
   <string name="apply_action">Set</string>
@@ -273,6 +279,9 @@
   <string name="launcher_minus_screen_title">Minus one screen</string>
   <string name="launcher_not_exist">An error occurred. Go back to Home screen and try again.</string>
   <string name="launcher_pull_down_title">Swipe down on the Home screen</string>
+  <string name="launcher_search_bar_title">Home screen search bar</string>
+  <string name="launcher_search_bar_value_disable">Off</string>
+  <string name="launcher_search_bar_value_enable">On</string>
   <string name="launcher_slide_up_title">Swipe up on the Home screen</string>
   <string name="launcher_sliding_up_gesture">Swipe up on the Home screen to open search</string>
   <string name="launcher_title">Home screen &amp; Recents</string>
@@ -290,6 +299,8 @@
   <string name="manager_group_settings">Manage app categories</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared</string>
+  <string name="memory_clear_result_giga">%1$sGB cleared</string>
+  <string name="memory_clear_result_mega">%1$sMB cleared</string>
   <string name="menu_add">Add</string>
   <string name="menu_auto_fill_of_uninstall">Fill cells of uninstalled apps</string>
   <string name="menu_back_desktop">Back to Home screen</string>
@@ -345,6 +356,7 @@
   <string name="photo_adjust">Preview</string>
   <string name="photo_confirm">Set</string>
   <string name="photo_load_failed">"Can't load photo"</string>
+  <string name="please_slide_agian">Slide again</string>
   <string name="pref_cell_layout_size">App icon layout</string>
   <string name="pref_enable_drawing_cache_summary">Turn off to free up memory. This may cause slower performance.</string>
   <string name="pref_enable_drawing_cache_title">Drawing cache</string>
@@ -366,7 +378,22 @@
   <string name="process"/>
   <string name="quick_app">Quick apps</string>
   <string name="recent_apps">Recent</string>
+  <string name="recent_menu_item_info">Info</string>
+  <string name="recent_menu_item_lock">Lock</string>
+  <string name="recent_menu_item_multi_window">Split</string>
+  <string name="recent_menu_item_unlock">Unlock</string>
+  <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Recents</string>
+  <string name="recents_dimiss_task">Clear</string>
+  <string name="recents_empty_message">No recent items</string>
+  <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
+  <string name="recents_empty_message_multi_window">Open apps from the Home screen</string>
+  <string name="recents_title_app_manager">Manage apps</string>
+  <string name="recents_title_game">Games</string>
+  <string name="recents_title_garbage_cleanup">Cleaner</string>
+  <string name="recents_title_garbage_deepclean">Deep clean</string>
+  <string name="recents_title_market">Find apps</string>
+  <string name="recents_title_security_scan">Security scan</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_app">App suggestions</string>
   <string name="recommend_apps_default_title">Empty</string>
@@ -416,6 +443,8 @@
   <string name="start_activity_failed">"Can't start launcher"</string>
   <string name="starting_preset_app">Starting…</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
+  <string name="status_bar_recent_memory_info2"/>
   <string name="status_downloaded">Downloaded</string>
   <string name="status_downloading">Downloading</string>
   <string name="status_installing">Installing</string>
