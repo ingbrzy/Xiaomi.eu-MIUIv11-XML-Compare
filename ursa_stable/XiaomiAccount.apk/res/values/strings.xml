@@ -283,6 +283,7 @@ Send this code to the supervisor."</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="passport_btn_change_account">Change account</string>
+  <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
@@ -298,6 +299,11 @@ To activate your account, follow the
   <string name="passport_continue">Continue</string>
   <string name="passport_copy_message_text_success">Copied successfully</string>
   <string name="passport_copy_message_vcode">Copy code</string>
+  <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
+  <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
+  <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
+  <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
+  <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_downlink_reg">Phone number</string>
   <string name="passport_email">Email address</string>
@@ -493,6 +499,7 @@ To activate your account, follow the
   <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
   <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
   <string name="push_notify_dialog_title">Account verification</string>
+  <string name="pwd_width_phone_number_or_mail_num">"Password can't contain your phone number, email, or Mi Account ID"</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
   <string name="recycle_phone_notification_title">Mi Account security risk</string>
@@ -505,7 +512,8 @@ To activate your account, follow the
   <string name="restart_action">Start over</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
-  <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
+  <string name="risky_pwd_not_allow">"New password isn't secure. Set a different one."</string>
+  <string name="same_new_and_old_pwd">New password must be different from the old one</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="search_account_security">Account security</string>
   <string name="search_account_security_desc">Account Settings</string>
