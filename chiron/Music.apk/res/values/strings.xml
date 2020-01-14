@@ -134,6 +134,7 @@
   <string name="button_wait_for_wifi">Wait</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
+  <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
   <string name="change_download_quality">Change download quality</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -147,7 +148,7 @@
   <string name="click_to_add_album_cover_and_lyric">Tap to add album cover and lyrics</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="close_music_time">"Time remaining: "</string>
-  <string name="com.crashlytics.android.build_id">cd2bf0a4-f9f3-4aef-ab56-cb392181c953</string>
+  <string name="com.crashlytics.android.build_id">116a80cc-3815-4e42-b8fc-b1da70d27616</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -175,6 +176,7 @@
   <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Create playlist</string>
   <string name="create_playlist_failure">"Couldn't create playlist"</string>
+  <string name="create_playlist_input_hint">Enter playlist name</string>
   <string name="current_album">Current album cover</string>
   <string name="current_lyric">Current lyrics</string>
   <string name="current_version">Current version</string>
@@ -650,6 +652,7 @@
   <string name="online_apk_install_in_background">Loading online content in the background…</string>
   <string name="online_apk_install_network_change_paused">"You're using mobile data. Paused loading items for now. Tap %s to view."</string>
   <string name="online_apk_install_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="online_apk_install_tips">"You need to download the plug-in of this content provider once. You'll be able to access songs directly next time."</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
   <string name="online_music_joox">JOOX</string>
   <string name="online_music_yandex">Yandex</string>
@@ -683,6 +686,7 @@
   <string name="payment_success_message">Thank you! Your payment was processed successfully. Enjoy PRO services.</string>
   <string name="payment_success_title">Congrats!</string>
   <string name="pending_apk">Pending…</string>
+  <string name="periodic_dump_memory_profile">周期性抓内存镜像log</string>
   <string name="permission_declaration_message">Allow access to storage in Security &gt; Permissions &gt; Permissions &gt; Storage &gt; Music to be able to use Music normally.</string>
   <string name="permission_declaration_negative_text">Later</string>
   <string name="permission_declaration_positive_text">Go to Security</string>
