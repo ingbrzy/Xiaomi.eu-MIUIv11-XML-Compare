@@ -43,6 +43,12 @@
         <item quantity="other">Delete %1$d items from history?</item>
         <item quantity="one">Delete %1$d item from history?</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Couldn't load video.
+Will play the next one in %d seconds…"</item>
+        <item quantity="one">"Couldn't load video.
+Will play the next one in %d second…"</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutes remaining</item>
         <item quantity="one">%d minute remaining</item>
