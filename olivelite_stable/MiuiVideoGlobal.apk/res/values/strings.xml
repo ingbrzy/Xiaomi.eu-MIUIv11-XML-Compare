@@ -334,6 +334,7 @@ Send this code to the supervisor."</string>
   <string name="fw_loading">Just a sec…</string>
   <string name="fw_reload_sub_title">Tap the screen to try again</string>
   <string name="fw_reload_title">"Couldn't connect to the network."</string>
+  <string name="gallery_fold_tags">Hide marks</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Camera</string>
   <string name="gallery_folder_alias_download">Downloads</string>
@@ -366,6 +367,7 @@ Send this code to the supervisor."</string>
   <string name="gallery_video_operate_text">Slow-motion adjustments</string>
   <string name="gallery_video_save_video">Creating video…</string>
   <string name="gallery_video_slow_edit">Slow-motion</string>
+  <string name="gallery_view_tags">Show marks</string>
   <string name="gcm_defaultSenderId">144285974528</string>
   <string name="get_back_pwd">Resetting password</string>
   <string name="get_ph_ticket">Get code</string>
@@ -410,11 +412,16 @@ for videos"</string>
   <string name="library_roundedimageview_licenseId">apache_2_0</string>
   <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
   <string name="loading">Just a sec…</string>
+  <string name="local_push_title">Popular today</string>
   <string name="login">Sign in</string>
   <string name="login_tip">Sign in to be able to receive our replies to your feedback.</string>
   <string name="logout">Sign out</string>
   <string name="logout_account">Sign out</string>
   <string name="lp_base_folder">SD card</string>
+  <string name="lp_play_mode_list_loop">Loop all</string>
+  <string name="lp_play_mode_pause">Play one</string>
+  <string name="lp_play_mode_single_loop">Loop one</string>
+  <string name="lp_play_mode_title">Playback mode</string>
   <string name="lp_speed_title">Playback speed</string>
   <string name="lp_speed_toast">Playing at %sX speed…</string>
   <string name="lp_videoView_error_button">Got it</string>
@@ -435,6 +442,7 @@ for videos"</string>
   <string name="lv_audio_track">Audio track</string>
   <string name="lv_auto_update">Update later</string>
   <string name="lv_brightness">Brightness</string>
+  <string name="lv_cast">Cast</string>
   <string name="lv_check_delete_file">Select items to delete</string>
   <string name="lv_check_send_file">You can only send 1 file at a time</string>
   <string name="lv_confirm_delete_history">Delete selected items?</string>
@@ -574,6 +582,7 @@ for videos"</string>
   <string name="next">Next</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
+  <string name="no_more_content">"That's all for now"</string>
   <string name="no_network_tips">"Can't use this feature now. Network access is restricted."</string>
   <string name="no_phone">No phone number</string>
   <string name="no_recommend_data">No recommended videos now</string>
