@@ -165,6 +165,7 @@
   <string name="etws_tsunami_warning">Tsunami warning</string>
   <string name="exercise">Exercise</string>
   <string name="exercises">Exercises</string>
+  <string name="gr_emergency_alert_dialog_title">GR-ALERT</string>
   <string name="gsma_911">911</string>
   <string name="gsma_919">919</string>
   <string name="menu_delete">Delete broadcast</string>
@@ -187,6 +188,7 @@
   <string name="pws_other_message_identifiers">Emergency alert</string>
   <string name="reading_settings">Reading settings</string>
   <string name="receive_broad_cast">Receive Cell BroadCast SMS</string>
+  <string name="ro_emergency_alert_dialog_title">RO-ALERT</string>
   <string name="show_cmas_opt_out_summary">Show an opt-out dialog after displaying the first CMAS alert (other than Presidential Alert).</string>
   <string name="show_cmas_opt_out_title">Show opt-out dialog</string>
   <string name="sms_cb_settings">Emergency alerts</string>
