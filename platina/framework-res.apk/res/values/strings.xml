@@ -396,7 +396,7 @@
   <string name="config_persistentDataPackageName">com.google.android.gms</string>
   <string name="config_qualified_networks_service_package"/>
   <string name="config_radio_access_family"/>
-  <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+  <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
   <string name="config_secondaryHomeComponent">com.miui.home/com.miui.home.launcher.SecondaryDisplayLauncher</string>
   <string name="config_timeZoneRulesDataPackage"/>
   <string name="config_timeZoneRulesUpdaterPackage">com.android.timezone.updater</string>
@@ -468,8 +468,8 @@ using %s"</string>
   <string name="date_time_set">Set</string>
   <string name="day">day</string>
   <string name="days">days</string>
-  <string name="db_default_journal_mode">TRUNCATE</string>
-  <string name="db_default_sync_mode">FULL</string>
+  <string name="db_default_journal_mode">PERSIST</string>
+  <string name="db_default_sync_mode">NORMAL</string>
   <string name="db_wal_sync_mode">NORMAL</string>
   <string name="decline">Decline</string>
   <string name="decline_remote_bugreport_action">DECLINE</string>
