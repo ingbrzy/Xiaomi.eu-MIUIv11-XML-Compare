@@ -4,4 +4,8 @@
         <item quantity="other">" %1$shours %2$s"</item>
         <item quantity="one">" %1$shour %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
 </resources>
