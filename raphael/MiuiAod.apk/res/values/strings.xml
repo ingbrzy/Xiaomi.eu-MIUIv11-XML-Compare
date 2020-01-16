@@ -91,6 +91,7 @@
   <string name="custom_image">Custom image</string>
   <string name="deep_space_planet">Outer space</string>
   <string name="deep_space_planet_des">This theme reflects the light changes happening around you during the day. Sunrises and sunsets are also synced with your location.</string>
+  <string name="delete">删除</string>
   <string name="digital_clock">Digital</string>
   <string name="disable_aod_in_power_save_mode">Turn off when Battery saver is on</string>
   <string name="disable_aod_in_power_save_mode_summary">"Don't display items to save power"</string>
@@ -103,6 +104,7 @@
   <string name="line_space">Line spacing</string>
   <string name="mini_time">Small clock</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="my_style_title">my style</string>
   <string name="notification_anim_pulse">Pulse</string>
   <string name="notification_anim_rhythm">Rhythm</string>
   <string name="notification_anim_star">Starlight</string>
@@ -151,6 +153,7 @@ wonderful is about to happen"</string>
   <string name="text_color">Text color</string>
   <string name="text_length_exceed_limit_alert">*The text you entered is too long</string>
   <string name="text_size">Text size</string>
+  <string name="theme_cate_title">theme</string>
   <string name="time_location">Clock position</string>
   <string name="time_style">Style</string>
   <string name="time_style_layout">Layout</string>
