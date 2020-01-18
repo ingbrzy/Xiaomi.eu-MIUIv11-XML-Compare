@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Installing…</string>
   <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
   <string name="app_store_missing_title">"App Store isn't installed"</string>
-  <string name="application_detail_tips">App info and permission settings</string>
+  <string name="application_detail_tips">App details and required permissions</string>
   <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
   <string name="btn_text_full_scan">Full scan</string>
   <string name="btn_text_install_new_version">Latest version</string>
@@ -104,8 +104,8 @@ All your previous user data will be saved."</string>
   <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
   <string name="install_failed_msg">"%1$s couldn't be installed on your phone."</string>
   <string name="install_failed_system_incompatible">"This app isn't compatible with MIUI"</string>
-  <string name="install_finished_notification_summary">Click to clean up now</string>
-  <string name="install_finished_notification_title">%1$s installed successfully, clean up %2$s now</string>
+  <string name="install_finished_notification_summary">Tap to free up storage space</string>
+  <string name="install_finished_notification_title">Installed %1$s successfully. You can free up %2$s of storage space.</string>
   <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Installing…</string>
   <string name="intercept_install">Install</string>
@@ -258,7 +258,7 @@ All your previous user data will be saved."</string>
   <string name="privacyPerms">Privacy</string>
   <string name="privacy_relative">Privacy</string>
   <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
-  <string name="replace_app_des_text">Do you want to update this app?</string>
+  <string name="replace_app_des_text">Replace the app with this version?</string>
   <string name="review_button_cancel">Cancel</string>
   <string name="review_button_continue">Continue</string>
   <string name="risk_warning_bottom_button">Install from GetApps</string>
@@ -307,7 +307,7 @@ All your previous user data will be saved."</string>
   <string name="untrusted_external_source_always_click">Always allow</string>
   <string name="untrusted_external_source_title">Allow \"%1$s\" to install apps?</string>
   <string name="untrusted_external_source_warning">"For your security, your phone isn't allowed to install unknown apps from this source."</string>
-  <string name="untrusted_external_source_warning_summary">Your phone and personal data are vulnerable to attacks from unknown sources. By allowing the installation of apps from this source, you agree to accept responsibility for any damage or data loss that may result from using these apps.</string>
+  <string name="untrusted_external_source_warning_summary">"Your device and personal data are vulnerable to attacks by the apps installed from unknown sources. By allowing to install apps from this source, you agree to accept responsibility for any damage or data loss that might occur while you're using these apps."</string>
   <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
   <string name="user_is_not_allowed_dlg_title">Not allowed</string>
   <string name="virus_scan_caller_unknown">Unknown</string>
