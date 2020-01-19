@@ -266,14 +266,38 @@
   <string name="cloud_time_tips">Last sync</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
   <string name="collect_video">Collect video</string>
+  <string name="comment_add_fail">"Couldn't add comment"</string>
+  <string name="comment_add_sucess">Added comment successfully</string>
+  <string name="comment_all_display">"That's all for now"</string>
   <string name="comment_app_menu">Comment</string>
+  <string name="comment_confirm_report">Report</string>
+  <string name="comment_copied">Copied successfully</string>
+  <string name="comment_delete">Delete</string>
+  <string name="comment_delete_confirm_title">Delete now?</string>
+  <string name="comment_delete_fail">"Couldn't delete comment"</string>
+  <string name="comment_delete_sucess">Deleted comment successfully</string>
   <string name="comment_description">Comment</string>
+  <string name="comment_empty_hint">No comments here yet. You can leave the first one!</string>
+  <string name="comment_error_hint">"Couldn't load comments. Tap to try again."</string>
   <string name="comment_fail">"Couldn't add comment. Try again."</string>
+  <string name="comment_flag_choice">Featured</string>
+  <string name="comment_flag_top">Pinned</string>
   <string name="comment_hint">Comment</string>
+  <string name="comment_just_now">Just now</string>
   <string name="comment_max_length">Your comment is too long.</string>
   <string name="comment_menu">Comment</string>
+  <string name="comment_no_net_hint">A server error occurred. Wait a minute or two and try again.</string>
   <string name="comment_num_description">Comment number</string>
   <string name="comment_publish_to_topic">Comments sync to</string>
+  <string name="comment_reply">Reply</string>
+  <string name="comment_reply_fail">"Couldn't reply"</string>
+  <string name="comment_reply_sucess">Replied successfully</string>
+  <string name="comment_report_advertising_marketing">Marketing or subliminal advertising</string>
+  <string name="comment_report_harassment_abuse">Harassment or hate speech</string>
+  <string name="comment_report_pornographic_violence">Sexually explicit or violent content</string>
+  <string name="comment_report_reactionary_politics">Political extremism</string>
+  <string name="comment_report_send">Submitted successfully</string>
+  <string name="comment_select_report_reason">Why are you reporting this?</string>
   <string name="comment_success">Added comment successfully</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -315,9 +339,20 @@
   <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_title">Using data usage</string>
   <string name="data_traffic_stop">Stop</string>
-  <string name="debug_browser_positive">确定</string>
-  <string name="debug_browser_title">输入所需域名:</string>
+  <string name="debug_address_title">超级地址切换模式</string>
+  <string name="debug_browser_hint">来改我呀～</string>
+  <string name="debug_browser_info_title">信息流为:</string>
+  <string name="debug_browser_sug_title">sug搜索为:</string>
+  <string name="debug_browser_switch">一键更换测试环境</string>
+  <string name="debug_browser_title">主环境为:</string>
+  <string name="debug_browser_warning">自定义环境请先关闭一键更换！</string>
+  <string name="debug_code_hint">请输入神秘暗号~</string>
+  <string name="debug_code_warning">有内鬼，终止交易！</string>
+  <string name="debug_edit_error">乖～不要乱输入呀!</string>
+  <string name="debug_edit_title">替换地址为</string>
+  <string name="debug_info_flow_title">详细信息</string>
   <string name="debug_mode_toast">Debug mode is enabled</string>
+  <string name="debug_sug_switch">切换sug测试环境</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">Delete</string>
   <string name="delete_bookmark_action_warning">Delete bookmarks?</string>
@@ -420,9 +455,11 @@ to view open tabs from other devices."</string>
   <string name="exit_browser_confirmation">Press again to return to the desktop</string>
   <string name="exit_browser_warning">Exit Browser now?</string>
   <string name="exit_fullscreen">Exit fullscreen</string>
+  <string name="expand_article">View full article</string>
   <string name="expand_button_title">Advanced</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+  <string name="fast_app_card_bottom_text" formatted="false">%s %s</string>
   <string name="favorite">Add to favorites</string>
   <string name="feedback_not_interested_response">"You'll see fewer items of this kind"</string>
   <string name="file_dir">Change folder</string>
@@ -808,8 +845,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_file_download_default_path_prefix">Default location: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_fling_gesture">Swipe gesture</string>
-  <string name="pref_follow_sys_dark_mode_content">根据系统深色模式状态，切换黑色或白色界面</string>
-  <string name="pref_follow_sys_dark_mode_title">深色模式</string>
   <string name="pref_font_size_category">Webpage text size</string>
   <string name="pref_force_userscalable">Force zoom</string>
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>
@@ -896,7 +931,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
   <string name="reopen">Open</string>
   <string name="replace">Replace</string>
-  <string name="reply_comment_title">Re: %s</string>
+  <string name="reply_comment_title">Re %s:</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
   <string name="retry_download">Retry</string>
   <string name="return_to_homepage">Go back to start page</string>
@@ -965,6 +1000,15 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="share_image_text">Look what I shared! @MIUI</string>
   <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
   <string name="share_video">Share video</string>
+  <string name="short_video_ad_download_app">Download %s</string>
+  <string name="short_video_ad_download_immediately">Download</string>
+  <string name="short_video_ad_downloading">Downloading %d%%</string>
+  <string name="short_video_ad_installing">Installing</string>
+  <string name="short_video_ad_open_app">Open %s</string>
+  <string name="short_video_ad_open_immediately">Open</string>
+  <string name="short_video_ad_resume_downloading">Resume</string>
+  <string name="short_video_ad_see_details">View details</string>
+  <string name="short_video_ad_tag">Ad</string>
   <string name="short_video_comment_hint">Enter comment</string>
   <string name="short_video_description">Video channel</string>
   <string name="short_video_gesture_btn">Got it</string>
@@ -1214,6 +1258,12 @@ item_style:
 feedsContentId:
 %s
 "</string>
+  <string name="vo_detail_feed_activity">详情页Feed流</string>
+  <string name="vo_fast_game_card_bottom_text">Play games without installing them</string>
+  <string name="vo_fast_game_card_more_text">More games</string>
+  <string name="vo_fast_game_card_title_text">You might also like these games</string>
+  <string name="vo_feed_activity">Feed流测试</string>
+  <string name="vo_feed_back_dislike">Not interested</string>
   <string name="vo_feedback_back">Back</string>
   <string name="vo_feedback_black">Block: %s</string>
   <string name="vo_feedback_content">Poor content quality</string>
@@ -1223,6 +1273,7 @@ feedsContentId:
   <string name="vo_feedback_shield">Blocklist</string>
   <string name="vo_feedback_sub_quality">Clickbait, profanity, etc.</string>
   <string name="vo_feedback_sub_shield">, etc.</string>
+  <string name="vo_home_feed_activity">首页Feed流</string>
   <string name="vo_icon_text_burst">突发</string>
   <string name="vo_icon_text_deep">深度</string>
   <string name="vo_icon_text_featured">精选</string>
@@ -1230,7 +1281,6 @@ feedsContentId:
   <string name="vo_icon_text_recommend">推荐</string>
   <string name="vo_icon_text_topping">置顶</string>
   <string name="vo_icon_text_video">视频</string>
-  <string name="vo_info_flow_debug_title">debug data</string>
   <string name="vo_info_flow_load_error_content">Try again</string>
   <string name="vo_info_flow_load_error_title">"Couldn't load info. Check your network settings and try again."</string>
   <string name="vo_info_flow_load_more_content">Load more</string>
@@ -1249,6 +1299,7 @@ feedsContentId:
   <string name="vo_location_change_title">Location changed</string>
   <string name="vo_location_choose_city">Tap to switch cities</string>
   <string name="vo_mi_ad_detail">Open in %s</string>
+  <string name="vo_search_tag_title_text">Related items</string>
   <string name="vo_share_text">Share</string>
   <string name="vo_small_video_load_more_text">Swipe to load more</string>
   <string name="vo_small_video_title">Short videos</string>
