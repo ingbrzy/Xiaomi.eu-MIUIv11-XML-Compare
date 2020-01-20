@@ -986,7 +986,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="security_permission_negative_btn_location">Cancel</string>
   <string name="security_permission_positive_btn_location">Agree</string>
   <string name="security_permission_title_location">Allow access to your location</string>
-  <string name="security_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
   <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
   <string name="security_warning">Security warning</string>
   <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
