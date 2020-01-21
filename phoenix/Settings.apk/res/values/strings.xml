@@ -2586,8 +2586,6 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_unlock_touch_type">Touch</string>
   <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
-  <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
-  <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button">Finish</string>
   <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
