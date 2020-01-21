@@ -1,1 +1,4 @@
 Removed: [de] string/tax_edittext_hint (untranslatable)
+Removed: [ko] string/item_title_tip (duplicate)
+Removed: [ko] string/mortgage_amount (duplicate)
+Removed: [ko] string/mortgage_detail_month (duplicate)
