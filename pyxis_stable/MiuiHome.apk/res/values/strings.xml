@@ -253,6 +253,7 @@
   <string name="guide_install_app_msg">"This app isn't installed on your device. Find and install the app now?"</string>
   <string name="guide_install_app_title">Find and install app?</string>
   <string name="guide_tips_editing_mode">Press &amp; hold to pick up a widget</string>
+  <string name="hide_apps_title">Hide app icons</string>
   <string name="home_gesture_content_center">Content Center</string>
   <string name="home_gesture_global_search">Search</string>
   <string name="home_gesture_no_action">None</string>
