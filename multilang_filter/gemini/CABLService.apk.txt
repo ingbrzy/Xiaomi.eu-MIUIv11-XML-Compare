@@ -1,0 +1,2 @@
+Removed: [fr] array/cabl_level_values (untranslatable)
+Removed: [vi] array/cabl_level_values (untranslatable)
