@@ -41,6 +41,7 @@
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="account_and_cloud">Account</string>
+  <string name="account_logout">Sign out</string>
   <string name="action_item_add">Add to</string>
   <string name="action_item_add_song">Add to playlist</string>
   <string name="action_item_add_to_current_playlist">Queue</string>
@@ -68,6 +69,8 @@
   <string name="agreement_desc">User Agreement (mandatory)</string>
   <string name="alaka_required">You should pay for this song to listen to it</string>
   <string name="alarm_clock_ringtones_successful">Set alarm successfully</string>
+  <string name="album_cover">Album cover</string>
+  <string name="album_is_empty">Album name can not be empty.</string>
   <string name="album_label">Album covers</string>
   <string name="album_name">Album</string>
   <string name="all_album_count">All albums (%d)</string>
@@ -110,6 +113,8 @@
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
   <string name="audio_picker_title">Choose a song</string>
+  <string name="auto_recommend">Auto (recommended)</string>
+  <string name="auto_sound_quality">Auto</string>
   <string name="auto_update">Update automatically</string>
   <string name="auto_update_tip">You can update system apps using mobile data. This might generate additional data fees.</string>
   <string name="available_playlist_name_format">New playlist %d</string>
@@ -129,6 +134,7 @@
   <string name="button_wait_for_wifi">Wait</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
+  <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
   <string name="change_download_quality">Change download quality</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -139,9 +145,10 @@
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_music_lang_pref">Preferred languages for songs</string>
   <string name="choose_stream_quality">Choose streaming quality</string>
+  <string name="click_to_add_album_cover_and_lyric">Tap to add album cover and lyrics</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="close_music_time">"Time remaining: "</string>
-  <string name="com.crashlytics.android.build_id">14273c2c-874b-4448-92b0-bcb2ae0b2a43</string>
+  <string name="com.crashlytics.android.build_id">2ba26f47-1c85-4a1d-a8e7-af2802b94dab</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -169,9 +176,11 @@
   <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Create playlist</string>
   <string name="create_playlist_failure">"Couldn't create playlist"</string>
+  <string name="create_playlist_input_hint">Enter playlist name</string>
   <string name="current_album">Current album cover</string>
   <string name="current_lyric">Current lyrics</string>
   <string name="current_version">Current version</string>
+  <string name="daily_recommendation">Daily mix</string>
   <string name="dark_mode">Dark mode</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
@@ -216,6 +225,10 @@
   <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
   <string name="dialog_renew_success">Thanks for your confirmation</string>
+  <string name="dialog_score_btn_good">Rate</string>
+  <string name="dialog_score_prompt_bad">"Thanks for your feedback! We'll do our best to improve our app and services."</string>
+  <string name="dialog_score_prompt_good">Thanks for your support! Rate our app in Google Play as well?</string>
+  <string name="dialog_score_title">Rate our app</string>
   <string name="dialog_song_sort_type">Sort songs</string>
   <string name="dialog_song_sort_type_name">By name</string>
   <string name="dialog_song_sort_type_playing_times">By the number of times played</string>
@@ -233,6 +246,7 @@
   <string name="dialog_title_remove_tracks">Remove</string>
   <string name="disallow_add_to_fm">"Can't add songs to FM radio"</string>
   <string name="do_not_remind_this_version">"Don't remind me about this version"</string>
+  <string name="do_not_support_google_voice_search">"Google Voice Search isn't supported on your device."</string>
   <string name="download">Download</string>
   <string name="download_added_to_list">Added to download list</string>
   <string name="download_apk_desktop_installing">Installing</string>
@@ -278,6 +292,7 @@
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_share_dialog">Share using</string>
+  <string name="download_song_quality_title">Quality of downloaded songs</string>
   <string name="download_start">Starting download…</string>
   <string name="download_start_apk">Starting to download… View progress in the Notification shade.</string>
   <string name="download_start_btn">Download</string>
@@ -414,6 +429,8 @@
   <string name="fragment_title_artist_album">Albums</string>
   <string name="gcm_defaultSenderId">948829309969</string>
   <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+  <string name="get_more_favorite_content_after_login">Sign in to discover more songs and videos.</string>
+  <string name="google_account_login">Sign in with Google</string>
   <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
   <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
   <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
@@ -428,6 +445,7 @@
   <string name="hide_album">Hide album cover</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="hide_lyric">Hide lyrics</string>
+  <string name="high_sound_quality">High</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="home_tab_home">Home</string>
@@ -440,12 +458,14 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Only PRO members can download multiple songs. Get a PRO membership now?</string>
-  <string name="hungama_category_chart">Top Charts</string>
+  <string name="hungama_batch_download_alert_summary_toast">Get a subscription to download the whole playlist.</string>
+  <string name="hungama_category_chart">Charts</string>
   <string name="hungama_category_playlist">Playlists</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Videos</string>
-  <string name="hungama_category_vip">Vip</string>
+  <string name="hungama_category_vip">Pro</string>
   <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
+  <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
   <string name="hungama_playlist_category">Playlist category</string>
   <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
   <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
@@ -499,7 +519,10 @@
   <string name="local_page_artist_more">More songs by %s</string>
   <string name="local_page_playlist">Playlists</string>
   <string name="local_page_song_download_history">Downloads</string>
+  <string name="login_instantly">Sign in</string>
+  <string name="login_mi_account_and_gain_more_rights">Sign in with your Mi Account to access more features.</string>
   <string name="long_press_to_select_lyric">Press &amp; hold to select local lyrics file</string>
+  <string name="low_sound_quality">Low</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
   <string name="lrc_searching">Searching…</string>
   <string name="lyric_is_empty">No lyrics available</string>
@@ -525,6 +548,7 @@
   <string name="metered_serious_alert_msg_with_beyond_data">"You've already exceeded your mobile data limit by %s. Use mobile data to play songs?"</string>
   <string name="metered_serious_alert_msg_with_data">You have only %s of mobile data left. Use mobile data to play songs?</string>
   <string name="metered_serious_allow">Play anyway</string>
+  <string name="middle_sound_quality">Standard</string>
   <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
@@ -547,10 +571,12 @@
   <string name="more_settings">Advanced settings</string>
   <string name="more_settings_summary">Sleep timer, filtering files, and more</string>
   <string name="more_share">Share</string>
+  <string name="more_splendid_contents">More</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mulit_choice_management">Manage multiple items</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
+  <string name="music_recommendation">Song recommendations</string>
   <string name="music_service">Music Service</string>
   <string name="music_settings">Music</string>
   <string name="mv_metered_play_summary">"Don't show data usage warning​"</string>
@@ -567,6 +593,7 @@
   <string name="network_settings_error">"Can't connect to the network"</string>
   <string name="network_traffic">Data usage</string>
   <string name="next_time">Not now</string>
+  <string name="next_to_play">Up next</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_downloads">No downloads</string>
@@ -575,6 +602,7 @@
   <string name="no_local_songs">Empty</string>
   <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
   <string name="no_local_source_find">"Couldn't find song"</string>
+  <string name="no_longer_prompt">"Don't show again"</string>
   <string name="no_results_return">No search results</string>
   <string name="no_scanned_songs">Empty</string>
   <string name="no_song_downloaded">"Couldn't find songs to download"</string>
@@ -624,6 +652,7 @@
   <string name="online_apk_install_in_background">Loading online content in the background…</string>
   <string name="online_apk_install_network_change_paused">"You're using mobile data. Paused loading items for now. Tap %s to view."</string>
   <string name="online_apk_install_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="online_apk_install_tips">"You need to download the plug-in of this content provider once. You'll be able to access songs directly next time."</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
   <string name="online_music_joox">JOOX</string>
   <string name="online_music_yandex">Yandex</string>
@@ -632,8 +661,10 @@
   <string name="online_service_open_tip">Online music services are on</string>
   <string name="online_service_title">Online services</string>
   <string name="online_switch">Online content services</string>
+  <string name="online_switch_confirm_title">Turning off online content services will make all online features unavailable. Turn off anyway?</string>
   <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
   <string name="online_switch_setting">Online content settings</string>
+  <string name="only_pro_can_choose_hd_sound_quality">HD audio is only available to PRO members</string>
   <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
   <string name="open_service">Turn on</string>
   <string name="operation_done_close">Close</string>
@@ -655,6 +686,7 @@
   <string name="payment_success_message">Thank you! Your payment was processed successfully. Enjoy PRO services.</string>
   <string name="payment_success_title">Congrats!</string>
   <string name="pending_apk">Pending…</string>
+  <string name="periodic_dump_memory_profile">周期性抓内存镜像log</string>
   <string name="permission_declaration_message">Allow access to storage in Security &gt; Permissions &gt; Permissions &gt; Storage &gt; Music to be able to use Music normally.</string>
   <string name="permission_declaration_negative_text">Later</string>
   <string name="permission_declaration_positive_text">Go to Security</string>
@@ -666,6 +698,7 @@
   <string name="pick_recent_song">Recently played</string>
   <string name="play_all_song">Play all</string>
   <string name="play_empty_playlist">"Can't play songs. The playlist is empty."</string>
+  <string name="play_history">Playback history</string>
   <string name="play_mode_all_loop">Repeat all</string>
   <string name="play_mode_one_loop">Loop</string>
   <string name="play_mode_play_all">Play all</string>
@@ -704,6 +737,7 @@
   <string name="ready_to_play">Up next</string>
   <string name="recently_played">Recently played</string>
   <string name="recently_played_songs">Recent</string>
+  <string name="recommend_songs_when_playing_audio_files">Get song recommendations while listening to music</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
   <string name="remove">Remove</string>
@@ -734,6 +768,7 @@ Be Happy"</string>
   <string name="s6">Allow Ad to create a calendar event?</string>
   <string name="s7">Test Ad</string>
   <string name="save_changes">Save changes</string>
+  <string name="save_image">Save image</string>
   <string name="search_album_and_lyric">Search album covers and lyrics</string>
   <string name="search_empty">"Couldn't find any results"</string>
   <string name="search_empty_subtitle_online_music">Tap the button below to open %s.</string>
@@ -759,7 +794,9 @@ Be Happy"</string>
   <string name="select_desc_sub">You can select up to 3 languages</string>
   <string name="select_device">Select device</string>
   <string name="select_displayed_folders">Choose folders to display</string>
+  <string name="select_local_album_cover">Select image</string>
   <string name="select_local_cover">Select local cover</string>
+  <string name="select_local_lyric">Select file</string>
   <string name="select_local_lyric_file">Select local lyrics file</string>
   <string name="select_none">Deselect all</string>
   <string name="select_one_language">Select at least 1 language</string>
@@ -809,6 +846,7 @@ Be Happy"</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_offline">This song is no longer available.</string>
   <string name="song_picker_complete">Done</string>
+  <string name="song_quality_category">Music</string>
   <string name="songgroup_pick_album">Albums</string>
   <string name="songgroup_pick_playlist">Playlists</string>
   <string name="sort_by_name">Name</string>
@@ -823,10 +861,13 @@ Be Happy"</string>
   <string name="storage_usb">USB storage</string>
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+  <string name="switch_success">Switched successfully</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist">Artists</string>
   <string name="tab_artist_list">Artists</string>
+  <string name="tab_chart">Charts</string>
+  <string name="tab_flow">Watch</string>
   <string name="tab_folder">Folders</string>
   <string name="tab_playlist">Playlists</string>
   <string name="tab_top_results">Top result</string>
@@ -881,6 +922,7 @@ Be Happy"</string>
   <string name="toast_uhd_songs_for_stream">Streaming quality set to High</string>
   <string name="today">Today</string>
   <string name="top_chart_title">Charts</string>
+  <string name="track_play_history_after_login">Sign in to view playback history</string>
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
@@ -895,6 +937,7 @@ Be Happy"</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="version_info">Version</string>
+  <string name="vhigh_sound_quality">HD</string>
   <string name="video_play_cellular">"Your device isn't connected to Wi-Fi. Use mobile data?"</string>
   <string name="video_replay_btn">Play again</string>
   <string name="video_retry_btn">Try again</string>
@@ -919,4 +962,5 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
+  <string name="you_may_like">You may also like</string>
 </resources>
