@@ -4,6 +4,7 @@
   <string name="app_name">Xiaomi.eu Extension</string>
   <string name="confirm_reset">Confirm reset</string>
   <string name="confirm_reset_message">Reset to default applications?</string>
+  <string name="contributors">Contributors</string>
   <string name="delete">Delete</string>
   <string name="hide_apps_close">Visible app icons</string>
   <string name="hide_apps_open">Hidden app icons</string>
