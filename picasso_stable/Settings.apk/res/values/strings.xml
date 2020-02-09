@@ -6070,6 +6070,8 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="sound_title">Sound</string>
   <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="sound_work_settings">Work profile sounds</string>
+  <string name="speaker">Speaker</string>
+  <string name="speaker_clean">Clear speaker</string>
   <string name="special_access">Special app access</string>
   <string name="special_access_more">See more</string>
   <string name="speed_label_fast">Fast</string>
