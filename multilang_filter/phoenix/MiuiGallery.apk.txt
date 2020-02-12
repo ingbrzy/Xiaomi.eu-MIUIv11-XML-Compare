@@ -1,7 +1,7 @@
 Removed: [ca] string/backup_pause_title (format mismatch)
 Removed: [cs] string/backup_pause_title (format mismatch)
-Removed: [es-rUS] string/backup_pause_title (format mismatch)
 Removed: [es] string/backup_pause_title (format mismatch)
+Removed: [es-rUS] string/backup_pause_title (format mismatch)
 Removed: [fi-rFI] string/backup_pause_title (format mismatch)
 Removed: [fr] array/menu_copy_or_move (item mismatch)
 Removed: [it] string/backup_pause_title (format mismatch)
