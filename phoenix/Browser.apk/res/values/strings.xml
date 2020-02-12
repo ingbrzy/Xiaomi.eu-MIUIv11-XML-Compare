@@ -931,7 +931,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
   <string name="reopen">Open</string>
   <string name="replace">Replace</string>
-  <string name="reply_comment_title">Re %s:</string>
+  <string name="reply_comment_title">"Reply to %s: "</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
   <string name="retry_download">Retry</string>
   <string name="return_to_homepage">Go back to start page</string>
