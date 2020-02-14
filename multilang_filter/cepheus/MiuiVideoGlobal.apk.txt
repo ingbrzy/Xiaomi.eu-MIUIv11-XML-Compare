@@ -1,4 +1,3 @@
-Removed: [ar] plurals/notice_user_banned (format mismatch)
 Removed: [as-rIN] plurals/notice_user_banned (format mismatch)
 Removed: [az-rAZ] plurals/notice_user_banned (format mismatch)
 Removed: [kk-rKZ] plurals/notice_user_banned (format mismatch)
