@@ -1654,4 +1654,12 @@
         <item>4</item>
     </integer-array>
     <array name="screen_resolution_supported" />
+    <integer-array name="config_compensateSignalLevelValue">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
 </resources>

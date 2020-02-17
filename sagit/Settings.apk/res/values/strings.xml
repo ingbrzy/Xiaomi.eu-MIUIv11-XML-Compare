@@ -221,6 +221,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
   <string name="account_sync_summary_some_on">Sync on for %1$d of %2$d items</string>
   <string name="account_sync_title">Account sync</string>
   <string name="account_type"/>
+  <string name="acount_data">Accounts</string>
   <string name="action_drag_label_move_bottom">Move to bottom</string>
   <string name="action_drag_label_move_down">Move down</string>
   <string name="action_drag_label_move_top">Move to top</string>
@@ -482,6 +483,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="app_usage_preference">App usage preferences</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
+  <string name="application_data">Apps</string>
   <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Allowed</string>
@@ -626,14 +628,25 @@ To restrict the app, first turn on battery optimization."</string>
   <string name="backtouch_enable_title">Adjust volume on the back</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
   <string name="backup_configure_account_title">Backup account</string>
+  <string name="backup_data">Backups</string>
   <string name="backup_data_summary">Back up app data, WLAN passwords, and other settings to Google servers</string>
   <string name="backup_data_title">Back up my data</string>
+  <string name="backup_difference_content">"Local backups:
+Local backups can include app data and normally contain more items. Backup files are stored at MIUI-backup-AllBackup and need to be copied to a computer once the backup process is complete.
+
+Cloud backups:
+Backups are stored in Xiaomi Cloud and can be accessed wirelessly. This method is faster and easier than local backups, but you can't back up app data to Xiaomi Cloud.
+"</string>
+  <string name="backup_difference_title">4. How are local backups different from cloud backups?</string>
   <string name="backup_disabled">Back up disabled</string>
   <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, and app data, and erase all copies on Google servers?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">"Backup service isn't active"</string>
   <string name="backup_pw_cancel_button_text">Cancel</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
+  <string name="backup_restore_data_content">"Your backups can contain contacts, messages (SMS and MMS), call history, calendar events, photos, audio files, videos, documents, apps, app data, and Home screen layout.
+"</string>
+  <string name="backup_restore_data_title">5. What items can I back up or restore?</string>
   <string name="backup_section_title">Backup &amp; restore</string>
   <string name="backup_set_clear_success">Turned off backup password successfully</string>
   <string name="backup_set_clear_title">Turn off backup password</string>
@@ -1377,12 +1390,14 @@ This feature can be turned off in the Settings."</string>
   <string name="clear_activities">Clear defaults</string>
   <string name="clear_activities_summary">Use this app for some operations by default</string>
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
+  <string name="clear_all_data">Erase all data</string>
   <string name="clear_cache_btn_text">Clear cache</string>
   <string name="clear_data_dlg_text">All this app’s data will be deleted permanently. This includes all files, settings, accounts, databases, etc.</string>
   <string name="clear_data_dlg_title">Delete app data?</string>
   <string name="clear_failed_dlg_text">Couldn’t clear storage for app.</string>
   <string name="clear_instant_app_confirmation">Do you want to remove this instant app?</string>
   <string name="clear_instant_app_data">Clear app</string>
+  <string name="clear_phone_data_category">Erase the following items</string>
   <string name="clear_uri_btn_text">Clear access</string>
   <string name="clear_user_data_text">Clear storage</string>
   <string name="close_aod">"This feature can't be combined with \"Always on mode\". Turn off \"Always on mode\" first."</string>
@@ -1397,7 +1412,9 @@ This feature can be turned off in the Settings."</string>
   <string name="cloud_backup_section_title">Xiaomi Cloud backup</string>
   <string name="cloud_backup_settings_section_title">Backup settings</string>
   <string name="cloud_restore_section_summary">Restore system settings, Home screen layout, and apps</string>
+  <string name="cloud_restore_section_summary_new">Back up Home screen layout, apps, system settings, and more</string>
   <string name="cloud_restore_section_title">Restore from Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title_new">In Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
@@ -1448,6 +1465,7 @@ This feature can be turned off in the Settings."</string>
   <string name="color_unspecified">Default</string>
   <string name="color_white">White</string>
   <string name="color_yellow">Yellow</string>
+  <string name="common_issue">FAQ</string>
   <string name="common_settings">Quick settings</string>
   <string name="complete_parameters">All specs</string>
   <string name="complete_settings">General settings</string>
@@ -1538,6 +1556,7 @@ This feature can be turned off in the Settings."</string>
   <string name="connected_wifi">Connected</string>
   <string name="connecting_to_vpn">Connecting to VPN</string>
   <string name="connection_and_sharing">Connection &amp; sharing</string>
+  <string name="contact_data">Contacts</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
@@ -1770,6 +1789,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_used_template">%1$s used</string>
   <string name="data_warning">Data warning</string>
   <string name="data_warning_footnote">Data warning and data limit are measured by your device. This may be different from carrier data.</string>
+  <string name="datasize_decrease_content">"Contacts, messages, and system data are compressed while they're being backed up, which results in smaller file size.
+"</string>
+  <string name="datasize_decrease_title">6. Why are some backup files smaller than the actual items?</string>
   <string name="date_and_time">Date &amp; time</string>
   <string name="date_and_time_settings_summary">Set date, time, time zone, &amp; formats</string>
   <string name="date_and_time_settings_title">Date &amp; time</string>
@@ -2758,6 +2780,39 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="home_key">Home</string>
   <string name="home_title">Home screen</string>
   <string name="home_work_profile_not_supported">"Doesn't support work profiles"</string>
+  <string name="how_backup_content">"There are 3 types of backups you can create: local, cloud, and USB.
+
+Local backups:
+Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
+Note:
+You can use Mi PC Suite to back up and restore items.
+Cloud backups:
+You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
+
+USB backups:
+This method allows you to save system settings, accounts, app data, and other items to an external USB storage device.
+"</string>
+  <string name="how_backup_title">1. How can I back up items?</string>
+  <string name="how_encrypt_content">"You can only encrypt local backups. There are 2 ways to do this:
+a) Open the page with your local backups, tap the button to turn on encryption, and sign in to your Mi Account. Backups will be encrypted automatically after that. Remember that you'll need to sign in to your Mi Account to restore items from encrypted backups.
+b) If you're using Mi PC Suite to back up items, you can use encryption options there.
+
+Note:
+Remember the password you set for encrypted backups! You won't be able to decrypt your backups if you forget it.
+"</string>
+  <string name="how_encrypt_title">3. How do I encrypt my backups?</string>
+  <string name="how_restore_backup_content">"Here's how you can restore items that were backed up using different methods:
+
+Local backups:
+Copy the backup file from your computer to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+
+Cloud backups:
+Sign in to your Mi Account, go to Settings &gt; Back up, restore, or reset &gt; In Xiaomi Cloud, and select the backup file.
+
+USB backups:
+Copy the backup file to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+"</string>
+  <string name="how_restore_backup_title">2. How do I restore backed up items?</string>
   <string name="http_invoke_app">Web apps</string>
   <string name="http_invoke_app_summary">Open apps faster without installing them</string>
   <string name="ignore_optimizations_off">Optimize</string>
@@ -3068,7 +3123,9 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
+  <string name="local_backup_section_summary_new">Back up accounts, app data, system settings, and more</string>
   <string name="local_backup_section_title">Local backups</string>
+  <string name="local_backup_section_title_new">On this device</string>
   <string name="locale_default">Default</string>
   <string name="locale_not_translated">May not be available in some apps</string>
   <string name="locale_remove_menu">Remove</string>
@@ -3415,6 +3472,7 @@ There are other users present on this device.
   <string name="master_clear_progress_title">Erasing</string>
   <string name="master_clear_short_title">Erase all data (factory reset)</string>
   <string name="master_clear_title">Erase all data (factory reset)</string>
+  <string name="master_clear_title_new">Erase all data (factory reset)</string>
   <string name="max_aspect_settings_all_app_display_loading">Just a sec…</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
   <string name="max_cpu2_info">Dual-core Max</string>
@@ -4080,6 +4138,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
 OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="other">Other</string>
   <string name="other_advanced_settings">Additional settings</string>
+  <string name="other_data">Other items on this device</string>
   <string name="other_device_info">Others</string>
   <string name="other_input_settings">Additional keyboard settings</string>
   <string name="other_personal_settings">Personal settings</string>
@@ -4200,6 +4259,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Languages</string>
   <string name="phone_language_summary"/>
+  <string name="photo_data">Photos and videos</string>
   <string name="physical_keyboard_title">Physical keyboard</string>
   <string name="pick_up_gesture_wakeup_title">Raise to wake</string>
   <string name="picture_color_mode">Picture color mode</string>
@@ -4458,6 +4518,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="privacy_protection_title">Privacy</string>
   <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
+  <string name="privacy_settings_new">Back up, restore, or reset</string>
   <string name="privacy_settings_title">Backup</string>
   <string name="privacy_thumbnail_blur_progress_message">Just a sec…</string>
   <string name="privacy_thumbnail_blur_title">Blur app previews</string>
@@ -4691,6 +4752,7 @@ UT Interface: %5$s"</string>
   <string name="reset_second_space_passwd_detail">Enter the Mi Account password used in First space</string>
   <string name="reset_shortcut_manager_throttling">Reset ShortcutManager rate-limiting</string>
   <string name="reset_shortcut_manager_throttling_complete">ShortcutManager rate-limiting has been reset</string>
+  <string name="reset_title">Reset</string>
   <string name="resetting_second_space_passwd">Resetting Second space password</string>
   <string name="resident_timezone_summary">Second clock</string>
   <string name="resolver_settings_label">Sort</string>
@@ -4934,6 +4996,7 @@ To use screen pinning:
   <string name="screenshot_three_gesture_summary">Other 3-fingered gestures will be turned off</string>
   <string name="sd_card_settings_label">USB storage</string>
   <string name="sd_card_storage">USB storage</string>
+  <string name="sd_data">SD card data</string>
   <string name="sd_eject">Unmount shared storage</string>
   <string name="sd_eject_summary">Unmount the internal USB storage</string>
   <string name="sd_ejecting_summary">Unmount in progress</string>
@@ -5909,6 +5972,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="system_app_settings">System app settings</string>
   <string name="system_apps_updater">System apps updater</string>
   <string name="system_backup_section_title">Backup</string>
+  <string name="system_backup_section_title_new">Back up or restore</string>
   <string name="system_dashboard_summary">Languages, time, backup, updates</string>
   <string name="system_default_app">(System default)</string>
   <string name="system_haptic_feedback">Haptic feedback</string>
@@ -5977,6 +6041,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timed_titlei">Timer %d</string>
   <string name="timezone_settings">Time zone</string>
+  <string name="tip_remove_data">Factory reset will erase these items from your device</string>
   <string name="title_color_calibration">Color correction preset</string>
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="title_font">Font</string>
