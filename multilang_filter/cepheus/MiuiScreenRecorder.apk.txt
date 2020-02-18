@@ -64,8 +64,6 @@ Removed: [ne-rIN] array/screenrecorder_settings_resolution_values (untranslatabl
 Removed: [ne-rIN] array/screenrecorder_utils_support_high_frames_cpu (item mismatch)
 Removed: [ne-rNP] array/screenrecorder_settings_resolution_values (untranslatable)
 Removed: [ne-rNP] array/screenrecorder_utils_support_high_frames_cpu (item mismatch)
-Removed: [nl] array/screenrecorder_settings_resolution_values (untranslatable)
-Removed: [nl] array/screenrecorder_utils_support_high_frames_cpu (item mismatch)
 Removed: [or-rIN] array/screenrecorder_settings_resolution_values (untranslatable)
 Removed: [or-rIN] array/screenrecorder_utils_support_high_frames_cpu (item mismatch)
 Removed: [pa-rIN] array/screenrecorder_settings_resolution_values (untranslatable)
