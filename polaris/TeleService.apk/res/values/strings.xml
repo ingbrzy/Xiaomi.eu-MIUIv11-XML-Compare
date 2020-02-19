@@ -1338,6 +1338,7 @@ Using preferred network instead."</string>
   <string name="not_set">Not set</string>
   <string name="not_voice_capable">Voice calling not supported</string>
   <string name="notice_header"/>
+  <string name="notification_channel_demo">Demo device</string>
   <string name="notification_demo_version_text">"Can't make calls or use mobile data"</string>
   <string name="notification_demo_version_title">This is a demo device</string>
   <string name="notification_network_selection_text">Selected network%s unavailable</string>
@@ -1603,6 +1604,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM only</string>
   <string name="preferred_network_type_pref_entries_only_3g">3G only</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA only</string>
+  <string name="preferred_network_type_pref_entries_only_4g">LTE only</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="preferred_phone_account">Preferred calling account</string>
