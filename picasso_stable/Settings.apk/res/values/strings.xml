@@ -1282,16 +1282,14 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
   <string name="bt_ldac_declaration">When a Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
-This feature can be turned off in [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_ldac_open_dialog_title">Turn on LDAC?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Attributes</string>
   <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience, but also increases power consumption.
-This feature can be turned off in the Settings."</string>
+  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
@@ -1496,6 +1494,8 @@ This feature can be turned off in the Settings."</string>
   <string name="cloud_restore_section_summary">Restore system settings, Home screen layout, and apps</string>
   <string name="cloud_restore_section_title">Restore from Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
+  <string name="codec_low_latency_summary">Minimize latency during game audio and video synchronization</string>
+  <string name="codec_low_latency_title">Low latency</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
@@ -7307,12 +7307,13 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_ask_disable">%s wants to turn off WLAN</string>
   <string name="wifi_ask_enable">%s wants to turn on WLAN</string>
-  <string name="wifi_assistant">WLAN assistant</string>
+  <string name="wifi_assist">WLAN assistant</string>
+  <string name="wifi_assistant">Select best networks automatically</string>
   <string name="wifi_assistant_auto_confirm_data_message">Current WLAN can not access the Internet, will use mobile data instead, you can turn off WLAN assistant in settings</string>
   <string name="wifi_assistant_confirm_always">No more hints next time</string>
   <string name="wifi_assistant_confirm_connection_title">Confirm connection</string>
   <string name="wifi_assistant_data_prompt">Enable prompt</string>
-  <string name="wifi_assistant_data_prompt_summary">When WLAN assistant switches to the mobile data network, show a dialog to prompt</string>
+  <string name="wifi_assistant_data_prompt_summary">Show data usage warning when switching to mobile data</string>
   <string name="wifi_assistant_description">"After turn on this function:
 1.When WLAN connection is poor, the system will try other available WLAN network automatically
 2.When all the existing WLAN connections are poor and the mobile data is enabled, the system will choose the best network connection intelligently"</string>
@@ -7395,6 +7396,8 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_details_subnet_mask">Subnet mask</string>
   <string name="wifi_details_title">Network details</string>
   <string name="wifi_dialog_remind_type_title">Mobile data network</string>
+  <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using WLAN Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary WLAN before using WLAN Direct</string>
   <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
@@ -7542,9 +7545,14 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_link_turbo">Use mobile data to boost speed</string>
   <string name="wifi_link_turbo_app_settings_summary">Select the apps that will use this feature</string>
   <string name="wifi_link_turbo_app_settings_title">Select apps</string>
+  <string name="wifi_link_turbo_customize">Custom apps</string>
+  <string name="wifi_link_turbo_customize_summary">Select apps that will work with WLAN assistant according to your preferences</string>
+  <string name="wifi_link_turbo_list">Apps</string>
   <string name="wifi_link_turbo_no_app">No apps here yet.</string>
   <string name="wifi_link_turbo_off">Off</string>
   <string name="wifi_link_turbo_on">On</string>
+  <string name="wifi_link_turbo_recommendation">Recommended apps</string>
+  <string name="wifi_link_turbo_recommendation_summary">Receive recommendations based on data usage stats</string>
   <string name="wifi_link_turbo_summary">Boost connection speed for selected apps using mobile data when WLAN connection is poor</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_configure">Configure</string>
