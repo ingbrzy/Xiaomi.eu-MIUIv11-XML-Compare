@@ -53,6 +53,7 @@
         <item>umi</item>
         <item>cmi</item>
         <item>lmi</item>
+        <item>lmiin</item>
         <item>picasso</item>
         <item>picassoin</item>
     </string-array>
@@ -74,7 +75,5 @@
         <item>phoenixin</item>
         <item>picasso</item>
         <item>picassoin</item>
-        <item>begonia</item>
-        <item>begoniain</item>
     </string-array>
 </resources>
