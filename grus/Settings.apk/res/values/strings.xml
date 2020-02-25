@@ -1712,6 +1712,8 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="copy">Copy</string>
   <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
   <string name="copyright_title">Copyright</string>
+  <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
+  <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
   <string name="credential_contains">This entry contains:</string>
@@ -1815,6 +1817,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="dark_ui_settings_dark_summary">Supported apps will also switch to dark theme</string>
   <string name="dark_ui_settings_dialog_acknowledge">Got it</string>
   <string name="dark_ui_settings_light_summary">This settings also applies to apps</string>
+  <string name="dark_wallpaper_mode">Adjust wallpaper to Dark mode</string>
   <string name="dashboard_title">Settings</string>
   <string name="data_during_calls_summary">Allow this SIM to be used for mobile data only during calls</string>
   <string name="data_during_calls_title">Data during calls</string>
@@ -2984,6 +2987,7 @@ Local backups:
 Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
 Note:
 You can use Mi PC Suite to back up and restore items.
+
 Cloud backups:
 You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
 
@@ -6503,6 +6507,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tether_share_qrcode_title">Share QR code</string>
+  <string name="tether_use_wifi6_summary">Some devices might be incompatible with the 802.11ax standard. Turn this feature off if you experience problems.</string>
+  <string name="tether_use_wifi6_title">Support sixth generation standard</string>
   <string name="tethering_footer_info">Use hotspot and tethering to provide internet to other devices through your mobile data connection. Apps can also create a hotspot to share content with nearby devices.</string>
   <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
   <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
