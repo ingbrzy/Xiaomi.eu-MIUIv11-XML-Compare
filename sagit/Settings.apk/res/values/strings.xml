@@ -1222,16 +1222,14 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
   <string name="bt_ldac_declaration">When a Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
-This feature can be turned off in [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_ldac_open_dialog_title">Turn on LDAC?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Attributes</string>
   <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience, but also increases power consumption.
-This feature can be turned off in the Settings."</string>
+  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
@@ -1675,6 +1673,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="dark_color_summary_oled">Use darker color palette for system backgrounds and compatible apps. Dark mode reduces power consumption and helps to relieve eye strain.</string>
   <string name="dark_ui_mode">Night mode</string>
   <string name="dark_ui_mode_title">Set Night mode</string>
+  <string name="dark_wallpaper_mode">Adjust wallpaper to Dark mode</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Collapse</string>
   <string name="dashboard_title">Settings</string>
   <string name="data_limit">Data limit</string>
@@ -2763,6 +2762,7 @@ Local backups:
 Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
 Note:
 You can use Mi PC Suite to back up and restore items.
+
 Cloud backups:
 You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
 
