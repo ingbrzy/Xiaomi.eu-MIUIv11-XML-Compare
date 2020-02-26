@@ -1282,16 +1282,14 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
   <string name="bt_ldac_declaration">When a Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
-This feature can be turned off in [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_ldac_open_dialog_title">Turn on LDAC?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Attributes</string>
   <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience, but also increases power consumption.
-This feature can be turned off in the Settings."</string>
+  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
@@ -1496,6 +1494,8 @@ This feature can be turned off in the Settings."</string>
   <string name="cloud_restore_section_summary">Restore system settings, Home screen layout, and apps</string>
   <string name="cloud_restore_section_title">Restore from Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
+  <string name="codec_low_latency_summary">Minimize latency during game audio and video synchronization</string>
+  <string name="codec_low_latency_title">Low latency</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
@@ -1511,6 +1511,27 @@ This feature can be turned off in the Settings."</string>
   <string name="color_lamp_incall_pulse_title">Flash for incoming calls</string>
   <string name="color_lamp_notification_pulse_title">Flash for notifications when the screen is off</string>
   <string name="color_lamp_title">LED light</string>
+  <string name="color_led_applications_title">Select apps</string>
+  <string name="color_led_applications_title_summary">You can restrict using LED light for individual apps</string>
+  <string name="color_led_battery_title">Keep on while charging</string>
+  <string name="color_led_charging_summary">Will be turned off when the battery is charged</string>
+  <string name="color_led_end_time">End time</string>
+  <string name="color_led_game_mode_summary">Show effects for games when Game Turbo is on</string>
+  <string name="color_led_game_mode_title">Use for Game Turbo</string>
+  <string name="color_led_hint">Select the scenarios when LED light should be used. LED light will light up when the screen is facing down and DND is off.</string>
+  <string name="color_led_incall_pulse_title">Use for incoming calls</string>
+  <string name="color_led_lucky_dialog_message">This feature requires using Red envelope assistant. Turn on now?</string>
+  <string name="color_led_lucky_dialog_title">Turn on Red envelope assistant</string>
+  <string name="color_led_music_mode_summary">"Show rhythmic light effects when playing music. Doesn't work in Silent mode."</string>
+  <string name="color_led_music_mode_title">Use for music</string>
+  <string name="color_led_notification_pulse_title">Pulse for notifications when the screen is off</string>
+  <string name="color_led_red_more_feature">Special effects</string>
+  <string name="color_led_red_package_title">Use for red envelopes</string>
+  <string name="color_led_red_packets_summary">Show effects for red envelopes from WeChat and QQ when Red envelope assistant is on</string>
+  <string name="color_led_special_scene_title">Special effects</string>
+  <string name="color_led_start_time">Start time</string>
+  <string name="color_led_summary">"Doesn't work in DND mode"</string>
+  <string name="color_led_title">LED light</string>
   <string name="color_magenta">Magenta</string>
   <string name="color_mode_option_automatic">Adaptive</string>
   <string name="color_mode_option_boosted">Boosted</string>
@@ -1664,6 +1685,8 @@ This feature can be turned off in the Settings."</string>
   <string name="copy">Copy</string>
   <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
   <string name="copyright_title">Copyright</string>
+  <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
+  <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
   <string name="credential_contains">This entry contains:</string>
@@ -1948,6 +1971,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_rule_name">Timer 1</string>
   <string name="default_sound">Default sound</string>
   <string name="default_spell_checker">Default spell checker</string>
+  <string name="default_suppression_title">Default (Recommended)</string>
   <string name="default_theme">Default</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="default_vol_stream_title">Default volume control stream</string>
@@ -2106,6 +2130,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="disallow_lock_screen_summary">Allow notifications in \"App notifications\" first</string>
   <string name="disconnect">disconnect</string>
   <string name="disconnected">Not connected</string>
+  <string name="display_advanced_mode_summary">Color gamut options</string>
+  <string name="display_advanced_mode_title">Advanced settings</string>
   <string name="display_auto_rotate_rotate">On</string>
   <string name="display_auto_rotate_stay_in_current">Off</string>
   <string name="display_auto_rotate_stay_in_landscape">Lock landscape</string>
@@ -2127,6 +2153,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="display_vr_pref_off">Reduce flicker</string>
   <string name="display_vr_pref_title">When device is in VR</string>
   <string name="display_white_balance_title">Display white balance</string>
+  <string name="diy_suppression_summary">Adjust the size of the area near the edges where accidental touch will be ignored</string>
+  <string name="diy_suppression_title">Custom</string>
   <string name="dlg_cancel">Cancel</string>
   <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
   <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
@@ -2272,6 +2300,8 @@ You can view generated logs in File Manager."</string>
   <string name="edge_mode_photo_summary">While in Camera app, tap the edge of your phone to trigger shutter, and tap again to take a photo</string>
   <string name="edge_mode_screenshot">Screenshot</string>
   <string name="edge_mode_screenshot_summary">Double tap both edges to take a screenshot</string>
+  <string name="edge_mode_state_summary">"The area around curved edges won't respond to touch"</string>
+  <string name="edge_mode_state_title">Ignore accidental touch on the edges</string>
   <string name="edge_to_edge_navigation_summary">To go Home, swipe up from the bottom of the screen. To switch apps, swipe up from the bottom, hold, then release. To go back, swipe from either the left or right edge.</string>
   <string name="edge_to_edge_navigation_title">Gesture navigation</string>
   <string name="edit_rule">Edit rules</string>
@@ -2754,6 +2784,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="google_service_title">Google services</string>
   <string name="google_title">Google</string>
   <string name="got_it">Got it</string>
+  <string name="gps_description">Multiple satellite navigation systems (GPS, BeiDou, GLONASS, Galileo) are supported</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="gxzw_add_fingerprint_area">Fingerprint scanner</string>
   <string name="gxzw_add_fingerprint_continue">Continue</string>
@@ -2817,7 +2848,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="header_category_system">System</string>
   <string name="header_category_wireless_networks">Wireless &amp; networks</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
-  <string name="headset_settings_title">Earphones</string>
+  <string name="headset_settings_title">Sound effects</string>
   <string name="heavy_weight_stop_description">This app can’t safely be stopped. If you stop it, you may lose some of your current work.</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
   <string name="help_label">Help &amp; feedback</string>
@@ -3289,7 +3320,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="location_agps_def_location_mode">MSB</string>
   <string name="location_agps_def_network_mode">HOME</string>
   <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
+  <string name="location_agps_def_supl_host">supl.google.com</string>
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS settings</string>
   <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -3539,6 +3570,7 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">High quality wallpaper carousel</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
@@ -4577,6 +4609,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="ping_test_label">Run Ping Test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
   <string name="please_type_passphrase">Password</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/track pad</string>
@@ -5720,6 +5754,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
   <string name="see_all_apps_title">See all %1$d apps</string>
   <string name="see_less">See less</string>
   <string name="see_more">See more</string>
+  <string name="seek_bar_info">Adjust size</string>
   <string name="select_all">Select all</string>
   <string name="select_application">Select application</string>
   <string name="select_automatically">Automatically select network</string>
@@ -6039,6 +6074,8 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="sound_title">Sound</string>
   <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="sound_work_settings">Work profile sounds</string>
+  <string name="speaker">Speaker</string>
+  <string name="speaker_clean">Clear speaker</string>
   <string name="special_access">Special app access</string>
   <string name="special_access_more">See more</string>
   <string name="speed_label_fast">Fast</string>
@@ -6309,6 +6346,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
   <string name="storageuse_settings_title">Storage use</string>
   <string name="strict_mode">Strict mode enabled</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
+  <string name="strong_suppression_summary">"Your device won't respond to accidental touch, some gesture controls might not work near the edges"</string>
+  <string name="strong_suppression_title">Big area</string>
   <string name="structure_add_facerecoginition_text">Add 3D face data</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Can't use this feature due to low battery"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Battery must be at least 5% charged to start recording.</string>
@@ -7160,6 +7199,8 @@ Tap the plus to add words."</string>
   <string name="vt_provisioned_switch_string">Video Calling Provisioned</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="wake_suppression_summary">Your device might respond to accidental touch, but will also respond to gesture controls near the edges</string>
+  <string name="wake_suppression_title">Small area</string>
   <string name="wakeup_and_sleep_settings_category_name">Lock screen settings</string>
   <string name="wakeup_for_keyguard_notification_title">Wake Lock screen for notifications</string>
   <string name="wallpaper_attributions">Wallpapers</string>
@@ -7270,12 +7311,13 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_ask_disable">%s wants to turn off WLAN</string>
   <string name="wifi_ask_enable">%s wants to turn on WLAN</string>
-  <string name="wifi_assistant">WLAN assistant</string>
+  <string name="wifi_assist">WLAN assistant</string>
+  <string name="wifi_assistant">Select best networks automatically</string>
   <string name="wifi_assistant_auto_confirm_data_message">Current WLAN can not access the Internet, will use mobile data instead, you can turn off WLAN assistant in settings</string>
   <string name="wifi_assistant_confirm_always">No more hints next time</string>
   <string name="wifi_assistant_confirm_connection_title">Confirm connection</string>
   <string name="wifi_assistant_data_prompt">Enable prompt</string>
-  <string name="wifi_assistant_data_prompt_summary">When WLAN assistant switches to the mobile data network, show a dialog to prompt</string>
+  <string name="wifi_assistant_data_prompt_summary">Show data usage warning when switching to mobile data</string>
   <string name="wifi_assistant_description">"After turn on this function:
 1.When WLAN connection is poor, the system will try other available WLAN network automatically
 2.When all the existing WLAN connections are poor and the mobile data is enabled, the system will choose the best network connection intelligently"</string>
@@ -7358,6 +7400,8 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_details_subnet_mask">Subnet mask</string>
   <string name="wifi_details_title">Network details</string>
   <string name="wifi_dialog_remind_type_title">Mobile data network</string>
+  <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using WLAN Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary WLAN before using WLAN Direct</string>
   <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
@@ -7505,9 +7549,14 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_link_turbo">Use mobile data to boost speed</string>
   <string name="wifi_link_turbo_app_settings_summary">Select the apps that will use this feature</string>
   <string name="wifi_link_turbo_app_settings_title">Select apps</string>
+  <string name="wifi_link_turbo_customize">Custom apps</string>
+  <string name="wifi_link_turbo_customize_summary">Select apps that will work with WLAN assistant according to your preferences</string>
+  <string name="wifi_link_turbo_list">Apps</string>
   <string name="wifi_link_turbo_no_app">No apps here yet.</string>
   <string name="wifi_link_turbo_off">Off</string>
   <string name="wifi_link_turbo_on">On</string>
+  <string name="wifi_link_turbo_recommendation">Recommended apps</string>
+  <string name="wifi_link_turbo_recommendation_summary">Receive recommendations based on data usage stats</string>
   <string name="wifi_link_turbo_summary">Boost connection speed for selected apps using mobile data when WLAN connection is poor</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_configure">Configure</string>
