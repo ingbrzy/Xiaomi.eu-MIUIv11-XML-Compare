@@ -551,12 +551,14 @@
         <item>49154</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimized for low latency</item>
         <item>Optimized for connection quality</item>
         <item>Balanced audio and connection quality</item>
         <item>Optimized for audio quality</item>
         <item>Best effort (Auto bit rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimized for low latency (256kbps)</item>
         <item>Optimized for connection quality (400kbps)</item>
         <item>Balanced audio and connection quality (500/560kbps)</item>
         <item>Optimized for audio quality (900kbps)</item>
@@ -567,6 +569,7 @@
         <item>32769</item>
         <item>32770</item>
         <item>32771</item>
+        <item>32772</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Use System Selection (Default)</item>
@@ -598,7 +601,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -611,7 +616,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -626,6 +633,8 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -1767,7 +1776,6 @@
         <item>cactus</item>
         <item>pine</item>
         <item>rosy</item>
-        <item>ginkgo</item>
         <item>willow</item>
         <item>olive</item>
         <item>tiare</item>
@@ -3242,6 +3250,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>0</item>
     </string-array>
+    <string-array name="support_speaker_auto_clean_device_list">
+        <item>willow</item>
+        <item>ginkgo</item>
+        <item>olive</item>
+        <item>olivelite</item>
+        <item>merlin</item>
+        <item>merlinin</item>
+        <item>curtana</item>
+        <item>curtanacn</item>
+        <item>durandal</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+    </string-array>
     <string-array name="swipe_direction_titles">
         <item>@string/swipe_direction_rtl</item>
         <item>@string/swipe_direction_ltr</item>
@@ -3335,6 +3356,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>5</item>
         <item>10</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Adjust colors based on the current lighting</item>
+        <item>Always enhance colors</item>
+        <item>Restore standard color of screen content with color calibration</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (recommended)</item>
+        <item>Saturated</item>
+        <item>Original color</item>
     </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>
@@ -3554,7 +3585,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-        <item>@string/wifi_security_sae</item>
     </string-array>
     <array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>

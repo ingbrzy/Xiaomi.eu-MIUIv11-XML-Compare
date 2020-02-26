@@ -46,7 +46,7 @@
   <string name="accessibility_shutter_button">Shutter</string>
   <string name="action_search">Search</string>
   <string name="address">Address:</string>
-  <string name="agree_app_use">Scanning QR codes and recognizing them on other images</string>
+  <string name="agree_app_use">Scanning QR codes and other images (some features might require accessing your location)</string>
   <string name="agree_btn">Agree</string>
   <string name="agree_camera_permission">For taking photos and recording video</string>
   <string name="agree_storage_permission">For accessing photos and files stored on your device</string>
@@ -71,6 +71,8 @@
   <string name="business_no_result">"Couldn't recognize business card. Try again."</string>
   <string name="calender">Calendar</string>
   <string name="call_anyone">Call</string>
+  <string name="calories_logo_text">AI support provided by Health Hope</string>
+  <string name="calories_request_interface_text">AI support</string>
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">Cancel</string>
   <string name="carsHome_title">Car</string>
@@ -265,6 +267,7 @@
   <string name="see_app_details">View app details</string>
   <string name="see_details">Tap to view details</string>
   <string name="select_dialog_confirm">OK</string>
+  <string name="select_from_album">Select from album</string>
   <string name="send_mail">Send email</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Always ask</string>
@@ -291,8 +294,10 @@
   <string name="study_searching">Searching for results…</string>
   <string name="study_title">Scan the problem you want to solve</string>
   <string name="study_vendor_info">Powered by Zuoyebang</string>
+  <string name="submitting">submitting</string>
   <string name="suggested_submission_success">Submitted your feedback successfully</string>
   <string name="switch_open">Turn on</string>
+  <string name="take_a_picture">Take a picture</string>
   <string name="taobao">Taobao</string>
   <string name="tel">Phone</string>
   <string name="title">Title:</string>

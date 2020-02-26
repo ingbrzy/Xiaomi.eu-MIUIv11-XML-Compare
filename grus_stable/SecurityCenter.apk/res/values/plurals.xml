@@ -104,6 +104,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%1$d people are playing</item>
         <item quantity="one">%1$d person is playing</item>
     </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d secs</item>
+        <item quantity="one">%d sec</item>
+    </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Checked in %d days in a row</item>
         <item quantity="one">Checked in %d time</item>
@@ -459,6 +463,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"Haven't added %d games"</item>
         <item quantity="one">"Haven't added %d game"</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d views</item>
