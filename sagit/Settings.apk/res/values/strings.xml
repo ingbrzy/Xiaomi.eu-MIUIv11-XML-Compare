@@ -883,6 +883,7 @@ Apps:
   <string name="bluetooth_broadcasting">Broadcasting</string>
   <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_failed">"Couldn't connect. Try again."</string>
+  <string name="bluetooth_connect_settings">Bluetooth connection settings</string>
   <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
   <string name="bluetooth_connected">Connected %1$s</string>
   <string name="bluetooth_connected_battery_level">Connected | Battery %1$s%2$s</string>
@@ -930,8 +931,6 @@ Apps:
   <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
   <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
   <string name="bluetooth_disable_inband_ringing_summary">Don’t play custom phone ringtones on Bluetooth headsets</string>
-  <string name="bluetooth_disable_mi_fast_connect">Disable Mi Link</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Disable Mi Link functionality</string>
   <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Disable profile?</string>
   <string name="bluetooth_disabled">Off</string>
@@ -946,6 +945,7 @@ Apps:
   <string name="bluetooth_disconnected">Disconnected</string>
   <string name="bluetooth_disconnecting">Disconnecting…</string>
   <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
+  <string name="bluetooth_display_settings">Bluetooth display settings</string>
   <string name="bluetooth_dock_settings">Dock Settings</string>
   <string name="bluetooth_dock_settings_a2dp">For music and media</string>
   <string name="bluetooth_dock_settings_headset">As speaker phone</string>
@@ -986,6 +986,8 @@ Apps:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Select maximum number of connected Bluetooth audio devices</string>
   <string name="bluetooth_max_connected_audio_devices_string">Maximum connected Bluetooth audio devices</string>
   <string name="bluetooth_menu_advanced">Advanced</string>
+  <string name="bluetooth_mi_fast_connect">Mi Link</string>
+  <string name="bluetooth_mi_fast_connect_summary">Connect to Bluetooth devices nearby</string>
   <string name="bluetooth_name_not_set">No name set, using account name</string>
   <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
   <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
