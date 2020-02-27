@@ -150,7 +150,7 @@
   <string name="click_to_add_album_cover_and_lyric">Tap to add album cover and lyrics</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="close_music_time">"Time remaining: "</string>
-  <string name="com.crashlytics.android.build_id">48e1c190-187d-4c62-9ad5-bda95aa51e0c</string>
+  <string name="com.crashlytics.android.build_id">fe63da86-5836-4c00-bac3-fe184b690e16</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -708,6 +708,7 @@
   <string name="play_mode_play_all">Play all</string>
   <string name="play_mode_shuffle_all">Shuffle</string>
   <string name="play_next">Play next</string>
+  <string name="play_setting">Playback</string>
   <string name="play_video_with_traffic">CONTINUE</string>
   <string name="play_video_with_traffic_toast">"You're using mobile data now."</string>
   <string name="playlist_empty">No playlists found.</string>
@@ -857,6 +858,7 @@ Be Happy"</string>
   <string name="songgroup_pick_playlist">Playlists</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
+  <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
   <string name="start_to_check_new_version">Checking for updates…</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
