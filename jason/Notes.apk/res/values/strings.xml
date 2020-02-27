@@ -149,6 +149,7 @@
   <string name="notealert_enter">Open note</string>
   <string name="notealert_ok">Dismiss</string>
   <string name="notelist_string_info">…</string>
+  <string name="notification_content_add_todo_from_other_app">You added a new task. Tap to view.</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permission_get_account_desc">Syncing notes with the cloud</string>
@@ -239,6 +240,7 @@
   <string name="sns_title_send">Send message</string>
   <string name="sns_toast_empty">"Can't send empty message"</string>
   <string name="sns_toast_over_limit">Sent as image</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sync_tips">Tap to sync notes with the cloud.</string>
   <string name="theme_blue_description">Blue</string>
   <string name="theme_green_description">Green</string>
