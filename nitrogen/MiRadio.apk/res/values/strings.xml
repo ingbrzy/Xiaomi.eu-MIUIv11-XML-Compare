@@ -8,18 +8,16 @@
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Search…</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
@@ -88,7 +86,7 @@
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="app_name">FM Radio</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="artist_album">Albums</string>
   <string name="artist_area_all">All</string>
   <string name="artist_area_china">China</string>
@@ -127,11 +125,12 @@
   <string name="backup_immediate">Back up</string>
   <string name="backup_song_title">Select songs to back up</string>
   <string name="balance_detail">使用余额：%1$s听币</string>
+  <string name="balance_insufficiently">听币不足，请充值</string>
   <string name="being_disable_auto_payment">Turning off…</string>
   <string name="being_enable_auto_payment">Turning on…</string>
   <string name="bind_sign_in_title">Bind to Mi Account</string>
   <string name="bluetooth_device">Bluetooth audio device</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="broadcast_list">Channels</string>
   <string name="buffering">Buffering…</string>
   <string name="button_cancel_download">Cancel</string>
@@ -157,6 +156,7 @@
 2．免费节目不扣费，已购节目会自动跳过
 3．数字音频作品购买成功后不可退回"</string>
   <string name="chapter_pay_title">从%1$s开始购买</string>
+  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_fail">充值遇到了问题，请重新充值</string>
   <string name="charge_success">充值成功</string>
@@ -235,6 +235,7 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="date_format_str">MM-dd-yyyy</string>
+  <string name="day_mode">日间模式</string>
   <string name="declaration_main_content">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"</string>
   <string name="declaration_main_content2">&lt;Data&gt;"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to sign out or restrict permissions in the Settings in such cases. Read and agree to our &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; and &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; before using FM Radio."&lt;/Data&gt;</string>
@@ -399,6 +400,8 @@ Please send this code to the technician."</string>
   <string name="enter_garbage_clean">Clean up internal storage.</string>
   <string name="exit_fm">Exit</string>
   <string name="expired">Expired</string>
+  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="facebook_application_id"/>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="fail_to_play">"Can't play song"</string>
@@ -493,6 +496,7 @@ Please send this code to the technician."</string>
   <string name="guide_radio">"Listen to local radio when you're offline"</string>
   <string name="guide_radio_tip">Connect earphones to receive signal</string>
   <string name="handle_later">Not now</string>
+  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="hint_frequency">Frequency: %1$s ~ %2$s</string>
   <string name="hint_label">Label</string>
@@ -508,7 +512,10 @@ Please send this code to the technician."</string>
   <string name="impunity_declaration_positive_text">Agree</string>
   <string name="impunity_declaration_title">Terms of Service</string>
   <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
+  <string name="individuation_recommend_setting_title">Personalized recommendations</string>
+  <string name="individuation_recommend_switch_message">"You won't receive recommendations based on your personal interests after you turn this feature off. Turn off anyway?"</string>
   <string name="individuation_recommend_title">Recommendations</string>
+  <string name="individuation_service_switch">Personalized recommendations</string>
   <string name="input_hint_prefix">Enter %1$s</string>
   <string name="installing_apk">Installing…</string>
   <string name="insufficient_balance">余额不足，立即充值</string>
@@ -638,6 +645,7 @@ Please send this code to the technician."</string>
   <string name="msg_internalantenna_optimal">Connect earphones for best effect</string>
   <string name="msg_noantenna_message">No headphones detected. Some functions may not be available.</string>
   <string name="msg_try_plug_headset">Connect headphones and try again.</string>
+  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="multiple_select">Select</string>
   <string name="multiply_prefix">X%1$s</string>
   <string name="music">Music</string>
@@ -769,7 +777,7 @@ Please send this code to the technician."</string>
   <string name="passport_user_id_intro">Sign in %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_wechat_not_install">WeChat is not installed</string>
-  <string name="password_toggle_content_description">Toggle password visibility</string>
+  <string name="password_toggle_content_description">Show password</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -800,10 +808,10 @@ Please send this code to the technician."</string>
   <string name="play_continue">&lt;Data&gt;Continue playing &amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="play_error_program_not_find">This item is no longer available.</string>
   <string name="play_mode_circle">Circle Mode</string>
-  <string name="play_mode_circle_hint">Switch play mode to single loop</string>
-  <string name="play_mode_circle_title">single cycle</string>
-  <string name="play_mode_normal_hint">Switch play mode to sequential</string>
-  <string name="play_mode_normal_title">play in order</string>
+  <string name="play_mode_circle_hint">Repeating one track now</string>
+  <string name="play_mode_circle_title">Loop one</string>
+  <string name="play_mode_normal_hint">Playing tracks in the original order now</string>
+  <string name="play_mode_normal_title">Play all</string>
   <string name="play_mode_shuffle">Shuffle Mode</string>
   <string name="play_mode_single">Single Mode</string>
   <string name="play_next">Play next</string>
