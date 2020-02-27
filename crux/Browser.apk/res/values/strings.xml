@@ -332,6 +332,10 @@
   <string name="contextmenu_webpage_snapshot">Save page</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_weather">Weather</string>
+  <string name="dark_mode_setting_dark">Night mode (dark)</string>
+  <string name="dark_mode_setting_follow">Follow system</string>
+  <string name="dark_mode_setting_light">Day mode (light)</string>
+  <string name="dark_mode_setting_title">Night mode</string>
   <string name="data_monitor">Traffic monitoring reminder</string>
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">Continue</string>
@@ -931,7 +935,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
   <string name="reopen">Open</string>
   <string name="replace">Replace</string>
-  <string name="reply_comment_title">Re %s:</string>
+  <string name="reply_comment_title">"Reply to %s: "</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
   <string name="retry_download">Retry</string>
   <string name="return_to_homepage">Go back to start page</string>
