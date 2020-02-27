@@ -5,7 +5,6 @@ Removed: [be-rBY] string/ext_media_nomedia_notification_message (format mismatch
 Removed: [be-rBY] string/ext_media_unmountable_notification_message (format mismatch)
 Removed: [be] string/wifi_no_internet (format mismatch)
 Removed: [bg] string/wifi_no_internet (format mismatch)
-Removed: [ca-rES] string/ext_media_badremoval_notification_message (format mismatch)
 Removed: [ca-rES] string/ext_media_new_notification_message (format mismatch)
 Removed: [ca-rES] string/ext_media_nomedia_notification_message (format mismatch)
 Removed: [ca-rES] string/ext_media_unmountable_notification_message (format mismatch)
