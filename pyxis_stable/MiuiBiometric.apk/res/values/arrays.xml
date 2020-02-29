@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="device_need_operating_mode">
+        <item>polaris</item>
+        <item>dipper</item>
+        <item>sirius</item>
+        <item>ursa</item>
+        <item>perseus</item>
+        <item>andromeda</item>
+        <item>cepheus</item>
+        <item>grus</item>
+        <item>equuleus</item>
+        <item>violet</item>
+        <item>pyxis</item>
+        <item>davinci</item>
+        <item>davinciin</item>
+        <item>raphael</item>
+        <item>raphaelin</item>
+        <item>crux</item>
+        <item>tucana</item>
+        <item>phoenix</item>
+        <item>phoenixin</item>
+        <item>umi</item>
+        <item>cmi</item>
+        <item>lmi</item>
+        <item>lmiin</item>
+        <item>picasso</item>
+        <item>picassoin</item>
+        <item>curtana</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+    </string-array>
     <string-array name="device_use_cameraone">
         <item>jason</item>
         <item>sagit</item>
@@ -30,33 +60,6 @@
         <item>olivelite</item>
         <item>willow</item>
     </string-array>
-    <string-array name="device_need_operating_mode">
-        <item>polaris</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>perseus</item>
-        <item>andromeda</item>
-        <item>cepheus</item>
-        <item>grus</item>
-        <item>equuleus</item>
-        <item>violet</item>
-        <item>pyxis</item>
-        <item>davinci</item>
-        <item>davinciin</item>
-        <item>raphael</item>
-        <item>raphaelin</item>
-        <item>crux</item>
-        <item>tucana</item>
-        <item>phoenix</item>
-        <item>phoenixin</item>
-        <item>umi</item>
-        <item>cmi</item>
-        <item>lmi</item>
-        <item>lmiin</item>
-        <item>picasso</item>
-        <item>picassoin</item>
-    </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
         <item>polaris</item>
@@ -75,7 +78,5 @@
         <item>phoenixin</item>
         <item>picasso</item>
         <item>picassoin</item>
-        <item>begonia</item>
-        <item>begoniain</item>
     </string-array>
 </resources>

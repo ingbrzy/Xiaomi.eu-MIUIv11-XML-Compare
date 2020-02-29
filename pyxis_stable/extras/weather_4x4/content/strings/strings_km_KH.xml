@@ -14,7 +14,7 @@
     <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
     <string name="weather_type_null">'មិនមានទិន្នន័យ'</string>
     <string name="weather_type_0">ស្រឡះ</string>
-    <string name="weather_type_1">មានពពក</string>
+    <string name="weather_type_1">មេឃស្រទំ</string>
     <string name="weather_type_2">ចុះអ័ភ្រ</string>
     <string name="weather_type_3">ចុះអាប់</string>
     <string name="weather_type_4">ព្យុះភ្លៀង​ខ្លាំង</string>
