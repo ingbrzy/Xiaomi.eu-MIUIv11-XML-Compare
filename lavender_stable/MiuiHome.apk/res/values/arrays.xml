@@ -15,7 +15,7 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
-    <string-array name="drawer_transparency">
+    <string-array name="drawer_alpha">
         <item>0%</item>
         <item>25%</item>
         <item>50%</item>
@@ -145,15 +145,5 @@
     <string-array name="global_search_provider_values">
         <item>0</item>
         <item>1</item>
-    </string-array>
-    <string-array name="minus_screen_entries">
-        <item>None</item>
-        <item>App vault</item>
-        <item>Google</item>
-    </string-array>
-    <string-array name="minus_screen_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
