@@ -132,6 +132,7 @@
   <string name="antivirus_monitor_clean_tips">Deleted items: %s</string>
   <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
   <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
+  <string name="antivirus_monitored_app_empty">"Couldn't find compatible payment apps"</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">"You aren't connected to WLAN. Using mobile data may generate additional fees. Continue anyway?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Upload app names and details</string>
