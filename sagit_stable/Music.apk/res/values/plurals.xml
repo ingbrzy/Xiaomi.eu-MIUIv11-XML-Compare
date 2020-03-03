@@ -118,6 +118,10 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">%d songs</item>
         <item quantity="one">%d song</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="one">Crossfade between songs: %d second</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videos</item>
         <item quantity="one">Video</item>
