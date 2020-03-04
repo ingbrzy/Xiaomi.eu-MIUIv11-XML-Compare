@@ -10,7 +10,7 @@
   <string name="back_up_task_in_process">Backing up…</string>
   <string name="back_up_task_unfinished">"Couldn't back up"</string>
   <string name="backing_up_to_micloud">Backing up…</string>
-  <string name="backup_fail_wifi_needed">"Couldn't back up, WLAN needed."</string>
+  <string name="backup_fail_wifi_needed">"Couldn't back up, Wi-Fi needed."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Not enough storage space in Xiaomi Cloud. Upgrade your plan or free up storage space.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
   <string name="backup_failed_reason_network_error">Network error. Wait a minute or two and try again.</string>
@@ -29,7 +29,7 @@
   <string name="btn_restore_continue">Restore anyway</string>
   <string name="btn_restore_resume">Resume</string>
   <string name="btn_restore_retry">Try again</string>
-  <string name="btn_restore_wait">Wait for WLAN</string>
+  <string name="btn_restore_wait">Wait for Wi-Fi</string>
   <string name="btn_retry">Check again</string>
   <string name="btn_skip">Skip this step</string>
   <string name="button_cancel">Cancel</string>
@@ -53,7 +53,7 @@
   <string name="cloud_app_restore_success">Apps restored</string>
   <string name="cloud_app_restore_wifi_prompt">Restore from the cloud backup.</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+  <string name="cloud_back_up_detail_discription">"These items will be backed up to Xiaomi Cloud when your device is connected to Wi-Fi: 
 *  Apps, Home screen layout, and wallpapers 
 *  Alarm, clock, and time settings 
 *  Notification settings 
@@ -62,7 +62,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="cloud_back_up_frequence_choice_title">Backup schedule</string>
   <string name="cloud_back_up_frequence_long">Every 7 days</string>
   <string name="cloud_back_up_frequence_short">Every day</string>
-  <string name="cloud_back_up_no_network_warn">"Can't connect to WLAN"</string>
+  <string name="cloud_back_up_no_network_warn">"Can't connect to Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Just a sec…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
@@ -74,12 +74,12 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="cloud_backup_detail_frequence">Backup schedule</string>
   <string name="cloud_backup_detail_manage">Manage backups</string>
   <string name="cloud_backup_detail_state">Automatic backups</string>
-  <string name="cloud_backup_detail_state_summary">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
+  <string name="cloud_backup_detail_state_summary">Create Xiaomi Cloud backups automatically when connected to Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Last backup: %1$s</string>
   <string name="cloud_backup_detail_title">Home screen, apps, and settings.</string>
   <string name="cloud_backup_have_data">Found a backup in Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Cancel</string>
-  <string name="cloud_backup_in_process">Backing up…</string>
+  <string name="cloud_backup_in_process">Backing up</string>
   <string name="cloud_backup_select_recover">Choose backup from Xiaomi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
@@ -108,8 +108,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="dialog_cancel_backup_msg">Toggling the switch will terminate ongoing backups.</string>
   <string name="dialog_cancel_backup_title">Cancel the ongoing backup?</string>
   <string name="dialog_msg_overwrite_backup">Local backup is different from the one in Xiaomi Cloud. If you continue, current backup will overwrite the previous one.</string>
-  <string name="dialog_msg_restore_require_wlan">Restoring backups requires connecting to WLAN.</string>
-  <string name="dialog_title_require_wlan">Connect to WLAN</string>
+  <string name="dialog_msg_restore_require_wlan">Restoring backups requires connecting to Wi-Fi.</string>
+  <string name="dialog_title_require_wlan">Connect to Wi-Fi</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="doing_calc_backup_data_size">Calculating size…</string>
   <string name="doing_restore_home">Restoring Home screen and settings…</string>
@@ -149,9 +149,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="notification_channel_remind">Reminder</string>
   <string name="notification_channel_service">Service</string>
   <string name="open_backup_switch">Toggle the backup switch</string>
-  <string name="open_wifi">Turn WLAN on now</string>
-  <string name="open_wifi_description">Connect to a WLAN network to restore app</string>
-  <string name="open_wifi_setting">WLAN settings</string>
+  <string name="open_wifi">Turn Wi-Fi on now</string>
+  <string name="open_wifi_description">Connect to a Wi-Fi network to restore app</string>
+  <string name="open_wifi_setting">Wi-Fi settings</string>
   <string name="other_device_main_space">First space</string>
   <string name="other_device_second_space">Second space</string>
   <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
@@ -195,6 +195,7 @@ Check your network settings and try again."</string>
   <string name="restore_finish_description">Restore finished</string>
   <string name="restore_finished_notification_content">Restored Home screen apps, system settings, etc.</string>
   <string name="restore_from_cloud">Restore from the cloud backup</string>
+  <string name="restore_from_mimover">Transfer from your old device using Mi Mover</string>
   <string name="restore_from_this_device">Restore using this backup</string>
   <string name="restore_home_failed">"Couldn't restore Home screen."</string>
   <string name="restore_home_screen_apps">Restore from the cloud backup</string>
@@ -217,6 +218,8 @@ Check your network settings and try again."</string>
   <string name="size_unknown">Unknown size</string>
   <string name="start_backup_to_micloud">Back up apps to Xiaomi Cloud</string>
   <string name="start_recover">Restore %s</string>
+  <string name="storage_unit_gb">%s GB</string>
+  <string name="storage_unit_mb">%s MB</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="title_alert_cancel_restore">Stop restoring</string>
   <string name="title_alert_restore_error">"Couldn't restore"</string>
