@@ -147,94 +147,6 @@
 
     invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
 
-    const-string v0, "cmi"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "umi"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "umi_in"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "lmi"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "lmipro"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "lmiin"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "lmiinpro"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "merlin"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "merlinin"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "urd"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "skuld"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "orion"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "curtana"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "durandal"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "excalibur"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "joyeuse"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "pre_bomb"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "atom"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "monet"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "monetin"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string/jumbo v0, "vangogh"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
-    const-string v0, "avenger"
-
-    invoke-static {v0}, Lcom/android/server/SystemServerInjector;->addDeviceName(Ljava/lang/String;)V
-
     return-void
 .end method
 
@@ -507,9 +419,21 @@
 
     if-nez v1, :cond_0
 
-    const-string v1, "enforceVersionPolicy: enable_flash_global enabled"
+    const/4 v1, 0x0
 
-    invoke-static {v2, v1}, Landroid/util/Slog;->d(Ljava/lang/String;Ljava/lang/String;)I
+    const-string/jumbo v3, "ro.product.first_api_level"
+
+    invoke-static {v3, v1}, Landroid/os/SystemProperties;->getInt(Ljava/lang/String;I)I
+
+    move-result v1
+
+    const/16 v3, 0x1d
+
+    if-ge v1, v3, :cond_0
+
+    const-string v3, "enforceVersionPolicy: enable_flash_global enabled"
+
+    invoke-static {v2, v3}, Landroid/util/Slog;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     return-void
 
@@ -563,102 +487,23 @@
 .end method
 
 .method private static isGlobalHaredware(Ljava/lang/String;)Z
-    .locals 5
+    .locals 2
 
-    const-string/jumbo v0, "ugglite"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    const-string/jumbo v1, "ro.boot.hwcountry"
-
-    const/4 v2, 0x1
-
-    if-nez v0, :cond_8
-
-    const-string/jumbo v0, "ugg"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_8
-
-    const-string/jumbo v0, "ugglite_ru"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_8
-
-    const-string/jumbo v0, "ugg_ru"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    goto/16 :goto_4
-
-    :cond_0
-    const-string/jumbo v0, "riva"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    const/4 v3, 0x0
-
-    if-nez v0, :cond_6
-
-    const-string/jumbo v0, "riva_ru"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_1
-
-    goto :goto_2
-
-    :cond_1
-    const-string/jumbo v0, "rosy"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    const-string v4, "CN"
-
-    if-nez v0, :cond_5
-
-    const-string/jumbo v0, "rosy_ru"
-
-    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_2
-
-    goto :goto_1
-
-    :cond_2
     const-string/jumbo v0, "ro.boot.hwc"
 
     invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
 
     move-result-object v0
 
-    invoke-virtual {v4, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+    const-string v1, "CN"
+
+    invoke-virtual {v1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
 
     move-result v1
 
-    if-nez v1, :cond_4
+    if-nez v1, :cond_1
 
-    if-eqz v0, :cond_3
+    if-eqz v0, :cond_0
 
     const-string v1, "CN_"
 
@@ -666,106 +511,20 @@
 
     move-result v1
 
-    if-eqz v1, :cond_3
+    if-eqz v1, :cond_0
 
     goto :goto_0
 
-    :cond_3
-    return v2
+    :cond_0
+    const/4 v1, 0x1
 
-    :cond_4
+    return v1
+
+    :cond_1
     :goto_0
-    return v3
+    const/4 v1, 0x0
 
-    :cond_5
-    :goto_1
-    invoke-static {v1}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v0
-
-    invoke-virtual {v4, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    xor-int/2addr v0, v2
-
-    return v0
-
-    :cond_6
-    :goto_2
-    const-string/jumbo v0, "ro.product.wt.boardid"
-
-    invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v1
-
-    const-string v4, "S88505AA1"
-
-    invoke-virtual {v4, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-nez v1, :cond_7
-
-    invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v1
-
-    const-string v4, "S88505DA1"
-
-    invoke-virtual {v4, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-nez v1, :cond_7
-
-    invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v1
-
-    const-string v4, "S88505AC1"
-
-    invoke-virtual {v4, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-nez v1, :cond_7
-
-    invoke-static {v0}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v0
-
-    const-string v1, "S88505DC1"
-
-    invoke-virtual {v1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_7
-
-    goto :goto_3
-
-    :cond_7
-    move v2, v3
-
-    :goto_3
-    return v2
-
-    :cond_8
-    :goto_4
-    invoke-static {v1}, Landroid/os/SystemProperties;->get(Ljava/lang/String;)Ljava/lang/String;
-
-    move-result-object v0
-
-    const-string v1, "China"
-
-    invoke-virtual {v1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    xor-int/2addr v0, v2
-
-    return v0
+    return v1
 .end method
 
 .method static markBootDexopt(JJ)V
