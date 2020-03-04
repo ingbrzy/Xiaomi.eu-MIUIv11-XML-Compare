@@ -1,6 +1,3 @@
+Removed: [fi-rFI] array/weight_line_chart_default_y (untranslatable)
 Removed: [pt-rBR] array/weight_line_chart_default_y (untranslatable)
 Removed: [ru] array/weight_line_chart_default_y (untranslatable)
-Removed: [uk] string/date_format_m_d (format mismatch)
-Removed: [uk] string/date_format_y_m_d (format mismatch)
-Removed: [uk] string/date_format_y_m (format mismatch)
-Removed: [uk] string/date_week_index (format mismatch)
