@@ -79,7 +79,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="cloud_backup_detail_title">Home screen, apps, and settings.</string>
   <string name="cloud_backup_have_data">Found a backup in Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Cancel</string>
-  <string name="cloud_backup_in_process">Backing up…</string>
+  <string name="cloud_backup_in_process">Backing up</string>
   <string name="cloud_backup_select_recover">Choose backup from Xiaomi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
@@ -218,6 +218,8 @@ Check your network settings and try again."</string>
   <string name="size_unknown">Unknown size</string>
   <string name="start_backup_to_micloud">Back up apps to Xiaomi Cloud</string>
   <string name="start_recover">Restore %s</string>
+  <string name="storage_unit_gb">%s GB</string>
+  <string name="storage_unit_mb">%s MB</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="title_alert_cancel_restore">Stop restoring</string>
   <string name="title_alert_restore_error">"Couldn't restore"</string>
