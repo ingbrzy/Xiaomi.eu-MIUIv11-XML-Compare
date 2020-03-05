@@ -1,0 +1,2 @@
+Removed: [hr] string/my_style_title (duplicate)
+Removed: [hr] string/theme_cate_title (duplicate)
