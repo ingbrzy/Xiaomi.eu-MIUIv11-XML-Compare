@@ -35,6 +35,7 @@
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>
   <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
+  <string name="data_traffic_enable_dialog_title">"If you aren't connected to Wi-Fi now, your device will use mobile data. Using mobile data may generate additional carrier fees."</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
@@ -94,6 +95,7 @@ Turn off personalized ads anyway?"</string>
   <string name="other_settings_auto_update">Automatic system updates</string>
   <string name="other_settings_auto_update_summary">MIUI will select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Glance for Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Privacy Policy</string>
   <string name="other_settings_enhanced_lockscreen_summary">Get curated images and stories delivered to your Lock screen daily. %1$s and %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">End User Licence Agreement</string>
@@ -141,7 +143,7 @@ Turn off personalized ads anyway?"</string>
   <string name="permission_recording">Record calls and audio:</string>
   <string name="permission_recording_introduction">For recording audio while recording video</string>
   <string name="permission_screen_shoot_introduction">For accessing and saving screen recordings</string>
-  <string name="permission_send_message">Send SMS</string>
+  <string name="permission_send_message">Send SMS:</string>
   <string name="permission_user_record_introduction">For recording audio</string>
   <string name="permission_virusscan_introduction">For performing virus scan and optimizing your device</string>
   <string name="permission_xunlei_introduction">For signing in and managing system accounts in order to provide Xunlei services</string>
@@ -230,8 +232,8 @@ You must agree to Kika Privacy Policy before using this feature."</string>
   <string name="user_agreement">User Agreement</string>
   <string name="user_agreement_declare">Before using MIUI, you must read and agree to our User Agreement and Privacy Policy. While your device is being activated, Mi SIM Activation Service, Find device, Home screen, Frequent phrases, Translation Service, MIUI Daemon, HTML Viewer, and Updater will connect to the network. Smart services will connect to the network and access your location.</string>
   <string name="voice_assist_advice">Mi AI allows you to use voice controls, but it consumes more power (+1% every hour).</string>
-  <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:
-1. When the screen is on.
+  <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:r
+1. When the screen is on.r
 2. When you're listening to music with your screen off."</string>
   <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
   <string name="voice_assist_title">Wake with voice</string>
