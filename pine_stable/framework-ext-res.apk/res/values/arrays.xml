@@ -1605,6 +1605,9 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
+    <string-array name="config_Poland_Orange_IPV6_array">
+        <item>pine</item>
+    </string-array>
     <array name="config_hightGrayBrightnessLevels" />
     <array name="config_lowGrayBrightnessLevels" />
     <array name="config_BrightnessCurvesLux" />
