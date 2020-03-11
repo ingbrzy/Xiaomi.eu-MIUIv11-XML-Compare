@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -254,13 +258,6 @@
         <item>韩</item>
         <item>日</item>
         <item>法</item>
-    </string-array>
-    <string-array name="playback_streaming_quality">
-        <item>Auto</item>
-        <item>Low</item>
-        <item>Medium</item>
-        <item>High</item>
-        <item>Very High</item>
     </string-array>
     <integer-array name="subtitle_font_size">
         <item>36</item>

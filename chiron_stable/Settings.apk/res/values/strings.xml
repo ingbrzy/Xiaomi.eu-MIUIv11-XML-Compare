@@ -241,6 +241,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
   <string name="add_account_label">Add account</string>
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_back_fingerprint_instruction_msg">Place your finger on the sensor</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
   <string name="add_device_admin">Activate this device admin app</string>
   <string name="add_device_admin_msg">Activate device admin app?</string>
   <string name="add_facerecoginition_text">Add face data</string>
@@ -305,7 +306,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_ringtone_title">Default alarm sound</string>
   <string name="alarm_sound_dialog_title">Choose alarm sound</string>
-  <string name="alarm_sound_title">Alarm sound</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_template">at %1$s</string>
@@ -344,7 +345,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="ambient_display_pickup_title">Lift to check phone</string>
   <string name="ambient_display_screen_summary_always_on">Always on / Increased battery usage</string>
   <string name="ambient_display_screen_summary_notifications">New notifications</string>
-  <string name="ambient_display_screen_title">Ambient display</string>
+  <string name="ambient_display_screen_title">Always-on display</string>
   <string name="ambient_display_summary">To check time, notification icons, and other info, double-tap your screen.</string>
   <string name="ambient_display_title">Double-tap to check phone</string>
   <string name="android_beam_disabled_summary">To use this feature, turn on NFC</string>
@@ -360,14 +361,14 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="another_migration_already_in_progress">Another migration is already in progress.</string>
   <string name="anti_spam">Blocklist</string>
-  <string name="aod_and_lock_screen_settings_title">Ambient display &amp; Lock screen</string>
+  <string name="aod_and_lock_screen_settings_title">Always-on display &amp; Lock screen</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
-  <string name="aod_name_wanxiang">Ambient display</string>
+  <string name="aod_name_wanxiang">Always-on display</string>
   <string name="aod_notification_style_animation">Show animation</string>
   <string name="aod_notification_style_none">Do nothing</string>
   <string name="aod_notification_style_screen_on">Light up screen</string>
-  <string name="aod_settings_category_name">Ambient display</string>
-  <string name="aod_settings_title">Ambient display</string>
+  <string name="aod_settings_category_name">Always-on display</string>
+  <string name="aod_settings_title">Always-on display</string>
   <string name="aod_show_mode_title">Show items</string>
   <string name="aod_style_description">Display clock, date, time, notifications, and other items when the screen is off</string>
   <string name="aod_style_title">Style</string>
@@ -2398,11 +2399,14 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">See notifications quickly</string>
   <string name="fingerprint_swipe_for_notifications_summary">To check your notifications, swipe down on the fingerprint sensor on the back of your phone.</string>
   <string name="fingerprint_swipe_for_notifications_title">Swipe fingerprint for notifications</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
   <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
   <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="fingerprint_unlock_touch_type">Touch</string>
+  <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
   <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
   <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
@@ -2606,6 +2610,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gxzw_add_fingerprint_put_finger_message">Press the screen and lift your finger after you feel vibration. Repeat several times.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Press and lift after vibration</string>
   <string name="gxzw_add_fingerprint_title">Add your fingerprint</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
@@ -2759,6 +2764,8 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="ignore_optimizations_on_desc">May drain your battery more quickly. App will no longer be restricted from using background battery.</string>
   <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
   <string name="ime_security_warning">%1$s might record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
+  <string name="ime_security_warning_title_global">Turning on keyboard</string>
   <string name="imei_information_summary">IMEI relative information</string>
   <string name="imei_information_title">IMEI information</string>
   <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
@@ -3030,6 +3037,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="legal_written_offer">Written Offer</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="lights_title">LED light</string>
@@ -3064,7 +3072,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="location_agps_def_location_mode">MSB</string>
   <string name="location_agps_def_network_mode">HOME</string>
   <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
+  <string name="location_agps_def_supl_host">supl.google.com</string>
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS settings</string>
   <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -3296,10 +3304,13 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">High quality wallpaper carousel</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
   <string name="lockscreen_settings_title">Lock screen preferences</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Customize the apps displayed on the lock screen side panel</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Side panel shortcuts</string>
   <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
   <string name="login_account_dialog_title">Sign in with Mi Account</string>
   <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
@@ -4186,6 +4197,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="ping_test_label">Run Ping Test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
   <string name="please_type_passphrase">Password</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/track pad</string>
@@ -4650,7 +4663,7 @@ UT Interface: %5$s"</string>
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">"Reset all network settings now? This might take several seconds. You won't be able to undo this action."</string>
-  <string name="reset_network_title">Reset WLAN, mobile &amp; Bluetooth</string>
+  <string name="reset_network_title">Reset WLAN, mobile networks, and Bluetooth</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Reset Second space password</string>
   <string name="reset_second_space_passwd_cancel">Cancel</string>
@@ -4700,7 +4713,7 @@ UT Interface: %5$s"</string>
   <string name="ring_volume_option_title">Calls, reminders, notifications</string>
   <string name="ring_volume_title">Ring volume</string>
   <string name="ringtone_slot_setting_title">Single SIM settings</string>
-  <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_title">Ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="ringtones_category_preference_title">Ringtones</string>
   <string name="ringtones_install_custom_sound_content">This file will be copied to the %s folder</string>
@@ -4753,7 +4766,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_cancel">Cancel</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
-  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature">Color temperature</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
@@ -5985,8 +5998,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="translation_contributors_summary"/>
-  <string name="translation_contributors_title">Contributors</string>
   <string name="trigger_carrier_provisioning">Trigger Carrier Provisioning</string>
   <string name="trusted_credentials">Trusted credentials</string>
   <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
@@ -6148,6 +6159,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_type_category_title">Recognition method</string>
   <string name="unlogin_account_summary">All Mi services. One Mi Account.</string>
   <string name="unlogin_account_title">Sign in to Mi Account</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
@@ -6665,6 +6677,7 @@ Tap the plus to add words."</string>
   <string name="weight_light">Light</string>
   <string name="weight_setting_toast">You can change font weight only for the default system font</string>
   <string name="welcome">Welcome</string>
+  <string name="wellbing_title">Digital Wellbeing &amp; parental controls</string>
   <string name="wfc_provisioned_switch_string">Wifi Calling Provisioned</string>
   <string name="wfd_available_devices">Available devices</string>
   <string name="wfd_disconnect_diag_msg">Disconnect from %1$s?</string>
@@ -7238,6 +7251,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>

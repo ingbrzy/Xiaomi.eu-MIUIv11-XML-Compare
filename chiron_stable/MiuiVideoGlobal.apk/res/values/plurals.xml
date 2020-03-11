@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">View %d replies</item>
+        <item quantity="one">View %d reply</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Going back to the home page in %1$d seconds…</item>
         <item quantity="one">Going back to the home page in %1$d second…</item>
@@ -19,6 +23,10 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d days until %3$s.</item>
+        <item quantity="one">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d day until %3$s.</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d videos</item>
