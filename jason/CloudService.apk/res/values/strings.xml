@@ -66,7 +66,7 @@
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Server error</string>
-  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Privacy Policy&lt;/a&gt;&lt;/u&gt;. If you need to revoke authorization, turn this feature off.</string>
+  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/a&gt;. If you need to revoke authorization, turn this feature off.</string>
   <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_title">Find device</string>
@@ -427,6 +427,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
   <string name="soundrecorder_sync_records">Sync with Xiaomi Cloud</string>
   <string name="starred_contact">Favorites</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_manage_expansion">Get more</string>
   <string name="storage_manage_list_title">Cloud data</string>
   <string name="storage_manage_list_title_action">View more</string>
