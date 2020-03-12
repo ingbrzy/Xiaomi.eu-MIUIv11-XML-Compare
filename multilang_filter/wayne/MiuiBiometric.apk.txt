@@ -1,3 +1,0 @@
-Removed: [pt-rBR] array/device_need_operating_mode (item mismatch)
-Removed: [pt-rBR] array/device_use_cameraone (item mismatch)
-Removed: [pt-rBR] array/device_use_resident_memory (item mismatch)
