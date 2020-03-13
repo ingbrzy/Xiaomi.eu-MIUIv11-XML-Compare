@@ -108,6 +108,7 @@
   <string name="disable">Disable</string>
   <string name="done_text">Done</string>
   <string name="emergency_alert">Emergency Alert</string>
+  <string name="emergency_alert_dialog_title_prefix">Alerta de Emergencia</string>
   <string name="emergency_alert_settings_title">Emergency alert settings</string>
   <string name="emergency_alerts">Emergency Alerts</string>
   <string name="en_alert_message_dialog_title">Alert Message</string>
