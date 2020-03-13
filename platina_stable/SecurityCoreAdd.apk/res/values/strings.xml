@@ -174,6 +174,10 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="greenguard_child_des_title">Scan QR code to add device</string>
   <string name="greenguard_functional_description">"Manage devices remotely, view location info,
 control installed apps and restrict usage"</string>
+  <string name="greenguard_install_cancle">No thanks</string>
+  <string name="greenguard_install_confirm">Install</string>
+  <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
+  <string name="greenguard_install_title">Install Family Guard</string>
   <string name="greenguard_parent_des">Manage the devices of your friends and family</string>
   <string name="greenguard_parent_des_title">Use Kite Guard to add devices</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -385,6 +389,7 @@ If you don't update, dual apps might not work properly as well."</string>
   <string name="start_new_fingerprint_tips">"Use Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_xspace_alert_content">Delete all dual apps along with their accounts and app data? Your device will be rebooted to apply this change.</string>
   <string name="stop_xspace_alert_title">"Delete dual apps' accounts"</string>
   <string name="summary_switch_apps_settings">Select apps used in the current space</string>
