@@ -1,32 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
-  <string name="abc_menu_alt_shortcut_label">Alt+</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
-  <string name="abc_menu_enter_shortcut_label">enter</string>
-  <string name="abc_menu_function_shortcut_label">Function+</string>
-  <string name="abc_menu_meta_shortcut_label">Meta+</string>
-  <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">space</string>
-  <string name="abc_menu_sym_shortcut_label">Sym+</string>
-  <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="action_get_otp">Get code</string>
   <string name="action_sign_in">Sign in</string>
@@ -136,7 +109,7 @@
   <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
   <string name="cm_privacy_dialog_title">Attention</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
-  <string name="com.crashlytics.android.build_id">e19461ef-6155-4035-83f0-ed961acfb7aa</string>
+  <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
   <string name="complain_message_title">Report</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
@@ -199,15 +172,11 @@
   <string name="delete_verification_code_sms_message">Delete all one-time passwords?</string>
   <string name="delete_verification_code_sms_title">Delete one-time passwords</string>
   <string name="delete_wild_sims">Delete numbers</string>
-  <string name="delete_wild_sims_confirm">All the messages from selected numbers will be deleted on this phone. You can restore them at i.mi.com.</string>
+  <string name="delete_wild_sims_confirm">All the messages belong to selected numbers will be deleted in this phone. You can restore them in i.mi.com.</string>
   <string name="delete_wild_sims_title">Delete selected numbers</string>
   <string name="delivery_report_activity">Delivery report</string>
   <string name="delivery_toast_body">Message received by %s</string>
-  <string name="dialog_choice_all_correct_as_normal">【%s】发送的所有短信</string>
-  <string name="dialog_choice_finance_correct_as_normal">【%s】发送的优惠券短信</string>
   <string name="dialog_complain_tips">Allow Messaging to connect to the network to be able to report items.</string>
-  <string name="dialog_message_correct_as_ad">将【%s】发送的所有短信（不包含验证码）移入推广短信</string>
-  <string name="dialog_message_correct_as_normal">可选择将以下短信移入普通短信</string>
   <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
   <string name="dialog_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
   <string name="dialog_message_networking">Messaging needs to use Yellow pages to be able to provide Sender ID recognition. Messaging and Yellow pages need to connect to the internet and access your location to work normally. Allow?</string>
@@ -216,8 +185,6 @@
   <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
   <string name="dialog_smart_message_privacy_tips">Smart Messaging services are provided in part by Dianhuabang. Before using Smart Messaging, you must agree to \"%1$s\". Smart Messaging needs to connect to the internet and access your location to work normally. Agree?</string>
   <string name="dialog_smart_message_privacy_tips_title">Dianhuabang Privacy Policy</string>
-  <string name="dialog_title_correct_as_ad">Set as business message</string>
-  <string name="dialog_title_correct_as_normal">Set as normal message</string>
   <string name="dialog_title_fake_cell_detect_error">Correction</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Terms and Conditions</string>
@@ -324,8 +291,6 @@
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hold_to_talk">Hold to talk</string>
-  <string name="home_tab_ad">Business</string>
-  <string name="home_tab_common">Normal</string>
   <string name="hybrid_check_network">Network settings</string>
   <string name="hybrid_data_error">An error occurred</string>
   <string name="hybrid_locating_fail">"Couldn't find your location"</string>
@@ -360,8 +325,6 @@
   <string name="menu_call">Call</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_contact">View contact info</string>
-  <string name="menu_correct_as_ad">Set business</string>
-  <string name="menu_correct_as_normal">Set normal</string>
   <string name="menu_delete_messages">Delete messages</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
@@ -420,8 +383,8 @@ This message might be unsolicited."</string>
   <string name="msg_no_member_selected">Select at least 1 contact</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi Msg</string>
-  <string name="msg_type_hint_mx_omit">Mi Message</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msg_type_sms_rcs">SMS, MMS, and internet messages</string>
@@ -460,7 +423,7 @@ This message might be unsolicited."</string>
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
-  <string name="mx_current_status">Mi Message settings</string>
+  <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message. Besides, when this feature is on, a small amount of mobile data is required to check whether the other user is online. Agree?</string>
@@ -574,7 +537,6 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
   <string name="pref_summary_auto_delete">Delete old messages as limits are reached</string>
-  <string name="pref_summary_collapse_ad_notification">允许将推广短信聚合到通知中心营销推广显示</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
   <string name="pref_summary_delivery_reports">Show delivery status for sent messages</string>
   <string name="pref_summary_delivery_ringtone">Receive sound notifications for delivered messages.</string>
@@ -593,7 +555,6 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_auto_delete">Delete old messages</string>
   <string name="pref_title_card_format">Card share format</string>
-  <string name="pref_title_collapse_ad_notification">Collapse AD message notification</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_manage_sim_messages">SIM card storage</string>
@@ -638,8 +599,6 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="privacy_password_title4">Password upgraded</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="privacy_term">Privacy Policy</string>
-  <string name="private_entry_available">松开进入隐私空间</string>
-  <string name="private_entry_default">下拉进入隐私空间</string>
   <string name="private_message">Private messaging</string>
   <string name="private_new_notification">Message notifications</string>
   <string name="private_protect">Privacy protection</string>
@@ -866,7 +825,6 @@ Take a look at the recommended ones!"</string>
   <string name="search_hint">Search messaging</string>
   <string name="search_keyword_mms">Messaging;SMS;MMS;Text;Texting;Message;Messages</string>
   <string name="search_label">Messaging</string>
-  <string name="search_menu_title">Search</string>
   <string name="search_path_mms">Settings/System apps/Messaging</string>
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
@@ -914,7 +872,7 @@ Take a look at the recommended ones!"</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
   <string name="set">Set</string>
-  <string name="share">Share</string>
+  <string name="share">share</string>
   <string name="share_img">Share</string>
   <string name="shortcut_new_msg">New message</string>
   <string name="shortcut_setting">Settings</string>
@@ -942,6 +900,8 @@ Take a look at the recommended ones!"</string>
   <string name="smart_messages_network_allow_title">Internet connection is required</string>
   <string name="smart_msg_main_purpose">Smart Messaging provides Sender ID recognition and smart menu services.</string>
   <string name="smart_msg_privacy_policy">Smart Messaging Privacy Policy</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Content:</string>
   <string name="sms_full_body">"Incoming message rejected: There's not enough space on this device."</string>
   <string name="sms_full_title">Text message memory full</string>
