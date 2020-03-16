@@ -806,6 +806,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="permission_notification">send notifications.</string>
   <string name="permission_unknown">Unknown Option</string>
   <string name="permissions_prompt_message">%s wants to</string>
+  <string name="person_description">我的</string>
   <string name="play_pause_video">Play or pause video</string>
   <string name="play_retry">Replay</string>
   <string name="play_video">Play video</string>
