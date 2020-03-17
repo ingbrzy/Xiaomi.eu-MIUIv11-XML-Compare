@@ -126,6 +126,7 @@
   <string name="app_info">App info</string>
   <string name="app_not_found">No application found to handle this action</string>
   <string name="app_running_notification_text">Tap for more information or to stop the app.</string>
+  <string name="app_running_notification_tip_text">This may slow down your device and drain battery. Tap to quit app</string>
   <string name="app_running_notification_title">%1$s is running</string>
   <string name="app_suspended_default_message">%1$s isn’t available right now. This is managed by %2$s.</string>
   <string name="app_suspended_more_details">Learn more</string>
@@ -395,7 +396,7 @@
   <string name="config_persistentDataPackageName"/>
   <string name="config_qualified_networks_service_package"/>
   <string name="config_radio_access_family"/>
-  <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+  <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
   <string name="config_secondaryHomeComponent">com.miui.home/com.miui.home.launcher.SecondaryDisplayLauncher</string>
   <string name="config_timeZoneRulesDataPackage"/>
   <string name="config_timeZoneRulesUpdaterPackage">com.android.timezone.updater</string>
@@ -408,7 +409,7 @@
   <string name="config_wifi_random_mac_oui">DA-A1-19</string>
   <string name="config_wifi_sar_sensor_type"/>
   <string name="config_wifi_softap_acs_supported_channel_list"/>
-  <string name="config_wifi_tcp_buffers">524288,1048576,5505024,262144,524288,4194304</string>
+  <string name="config_wifi_tcp_buffers">524288,1048576,8808040,262144,524288,6710886</string>
   <string name="config_wifi_tether_enable">com.android.settings/.wifi.tether.TetherService</string>
   <string name="config_wimaxManagerClassname"/>
   <string name="config_wimaxNativeLibLocation"/>
@@ -1089,6 +1090,8 @@ Try again in %2$d seconds."</string>
   <string name="menu_shift_shortcut_label">Shift+</string>
   <string name="menu_space_shortcut_label">space</string>
   <string name="menu_sym_shortcut_label">Sym+</string>
+  <string name="miaudiovisual_notification_summary">Turn on to show effects on the Lock screen</string>
+  <string name="miaudiovisual_notification_title">Audio and visual effects</string>
   <string name="midnight">midnight</string>
   <string name="mime_type_apk">Android application</string>
   <string name="mime_type_audio">Audio</string>
