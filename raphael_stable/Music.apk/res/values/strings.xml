@@ -54,6 +54,7 @@
   <string name="action_item_hifi">Headphones &amp; audio effects</string>
   <string name="action_item_play_all">Shuffle all</string>
   <string name="action_item_play_next">Play later</string>
+  <string name="action_item_play_video">Play music video</string>
   <string name="action_item_remove">Remove</string>
   <string name="action_item_remove_from_favorite">Unfavorite</string>
   <string name="action_item_share">Share</string>
@@ -134,6 +135,7 @@
   <string name="button_wait_for_wifi">Wait</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
+  <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
   <string name="change_download_quality">Change download quality</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -144,10 +146,11 @@
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_music_lang_pref">Preferred languages for songs</string>
   <string name="choose_stream_quality">Choose streaming quality</string>
+  <string name="click_and_watch_video_tip">Tap to play music video</string>
   <string name="click_to_add_album_cover_and_lyric">Tap to add album cover and lyrics</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="close_music_time">"Time remaining: "</string>
-  <string name="com.crashlytics.android.build_id">cd2bf0a4-f9f3-4aef-ab56-cb392181c953</string>
+  <string name="com.crashlytics.android.build_id">77e43839-1c02-45bb-85a9-4ab4a91b8df4</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -175,6 +178,7 @@
   <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Create playlist</string>
   <string name="create_playlist_failure">"Couldn't create playlist"</string>
+  <string name="create_playlist_input_hint">Enter playlist name</string>
   <string name="current_album">Current album cover</string>
   <string name="current_lyric">Current lyrics</string>
   <string name="current_version">Current version</string>
@@ -401,6 +405,7 @@
   <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
   <string name="feed_back">Feedback</string>
   <string name="file_not_found">"File doesn't exist"</string>
+  <string name="filter_by_MP4">Display folders with MP4 files</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_max">%d mins</string>
   <string name="filter_by_duration_min">%d sec</string>
@@ -451,6 +456,7 @@
   <string name="home_tab_local">My music</string>
   <string name="home_tab_more_music">More music</string>
   <string name="home_tab_online">Online music</string>
+  <string name="home_tab_recommend">Online</string>
   <string name="home_tab_search">Search</string>
   <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hot_icon_in_fast_indexer">H</string>
@@ -650,6 +656,7 @@
   <string name="online_apk_install_in_background">Loading online content in the background…</string>
   <string name="online_apk_install_network_change_paused">"You're using mobile data. Paused loading items for now. Tap %s to view."</string>
   <string name="online_apk_install_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="online_apk_install_tips">"You need to download the plug-in of this content provider once. You'll be able to access songs directly next time."</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
   <string name="online_music_joox">JOOX</string>
   <string name="online_music_yandex">Yandex</string>
@@ -683,6 +690,7 @@
   <string name="payment_success_message">Thank you! Your payment was processed successfully. Enjoy PRO services.</string>
   <string name="payment_success_title">Congrats!</string>
   <string name="pending_apk">Pending…</string>
+  <string name="periodic_dump_memory_profile">周期性抓内存镜像log</string>
   <string name="permission_declaration_message">Allow access to storage in Security &gt; Permissions &gt; Permissions &gt; Storage &gt; Music to be able to use Music normally.</string>
   <string name="permission_declaration_negative_text">Later</string>
   <string name="permission_declaration_positive_text">Go to Security</string>
@@ -700,6 +708,7 @@
   <string name="play_mode_play_all">Play all</string>
   <string name="play_mode_shuffle_all">Shuffle</string>
   <string name="play_next">Play next</string>
+  <string name="play_setting">Playback</string>
   <string name="play_video_with_traffic">CONTINUE</string>
   <string name="play_video_with_traffic_toast">"You're using mobile data now."</string>
   <string name="playlist_empty">No playlists found.</string>
@@ -802,6 +811,8 @@ Be Happy"</string>
   <string name="service_and_settings">Service and settings</string>
   <string name="set_as_alarm_clock_ringtone">Alarm</string>
   <string name="set_as_ring">Set as ringtone</string>
+  <string name="set_online_home_subtitle">Open online recommendations when the app is launched</string>
+  <string name="set_online_home_title">Show online recommendations on startup</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
   <string name="set_ringtones_successful">%s set as ringtone</string>
   <string name="setting_feature_setting">Feature settings</string>
@@ -847,6 +858,7 @@ Be Happy"</string>
   <string name="songgroup_pick_playlist">Playlists</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
+  <string name="sound_fade_in_and_out_when_change_song_automatically">Try crossfading songs during playback</string>
   <string name="start_to_check_new_version">Checking for updates…</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
@@ -959,4 +971,5 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
   <string name="you_may_like">You may also like</string>
+  <string name="youtube_play_history">Playback history</string>
 </resources>
