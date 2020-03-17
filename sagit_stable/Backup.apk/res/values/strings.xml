@@ -68,6 +68,7 @@
   <string name="button_send">Send</string>
   <string name="call_title">Call history</string>
   <string name="camera_summary">Camera settings (not including photos)</string>
+  <string name="camera_summary_for_cta">Camera settings</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_backup">Stop</string>
   <string name="cancel_moving_dialog_message">Stop importing now?</string>
@@ -142,7 +143,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="enable_encrypt_summery1">Sign in with your Mi Account to access encrypted backups.</string>
   <string name="enable_encrypt_summery2">"Your backups will be encrypted automatically. You'll need to sign in to your Mi Account to access them."</string>
   <string name="enable_encrypt_title">Encrypt backups</string>
-  <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
   <string name="err_acquire_system_service">"Couldn't start system service."</string>
   <string name="err_authentication_failed">"Couldn't authenticate"</string>
   <string name="err_bakfile_broken">"Can't use this backup."</string>
@@ -319,6 +319,7 @@ you should create an iCloud backup first."</string>
   <string name="recreate_soft_ap_tips">Tap the button below to try again.</string>
   <string name="refresh">Refresh</string>
   <string name="remote_receive">Receive</string>
+  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restore">Restore</string>
   <string name="restore_backup">Restore</string>
   <string name="restore_contact">Restore contacts</string>
