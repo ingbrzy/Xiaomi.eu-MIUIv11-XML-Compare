@@ -27,6 +27,13 @@
         <item>@string/wifi_security_psk_generic</item>
         <item>@string/wifi_security_eap</item>
     </string-array>
+    <string-array name="add_wifi_security_with_sae">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>@string/wifi_security_sae</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -535,6 +542,42 @@
         <item>1002</item>
         <item>1003</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Short latency</item>
+        <item>Middle latency</item>
+        <item>Long latency</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Short latency (50~100ms)</item>
+        <item>Middle latency (150~200ms)</item>
+        <item>Long latency (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_values">
+        <item>49152</item>
+        <item>49153</item>
+        <item>49154</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimized for low latency</item>
+        <item>Optimized for connection quality</item>
+        <item>Balanced audio and connection quality</item>
+        <item>Optimized for audio quality</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimized for low latency (256kbps)</item>
+        <item>Optimized for connection quality (400kbps)</item>
+        <item>Balanced audio and connection quality (500/560kbps)</item>
+        <item>Optimized for audio quality (900kbps)</item>
+        <item>Best effort (Auto bit rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_values">
+        <item>32768</item>
+        <item>32769</item>
+        <item>32770</item>
+        <item>32771</item>
+        <item>32772</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Use System Selection (Default)</item>
         <item>44.1 kHz</item>
@@ -564,6 +607,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -575,6 +622,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Enable optional codecs</item>
         <item>Disable optional codecs</item>
     </string-array>
@@ -588,6 +639,9 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -695,16 +749,16 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Disabled</item>
         <item>Enabled Filtered</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
         <item>Enabled</item>
+        <item>Enabled \"Headers filtered\"</item>
+        <item>Enabled \"Media packets filtered\"</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values">
         <item>disabled</item>
         <item>filtered</item>
+        <item>full</item>
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
-        <item>full</item>
     </string-array>
     <array name="bt_icon_bg_colors">
         <item>@color/bt_color_bg_1</item>
@@ -1729,7 +1783,6 @@
         <item>cactus</item>
         <item>pine</item>
         <item>rosy</item>
-        <item>ginkgo</item>
         <item>willow</item>
         <item>olive</item>
         <item>tiare</item>
@@ -3204,6 +3257,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>0</item>
     </string-array>
+    <string-array name="support_speaker_auto_clean_device_list">
+        <item>willow</item>
+        <item>ginkgo</item>
+        <item>olive</item>
+        <item>olivelite</item>
+        <item>merlin</item>
+        <item>merlinin</item>
+        <item>curtana</item>
+        <item>curtanacn</item>
+        <item>durandal</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+    </string-array>
     <string-array name="swipe_direction_titles">
         <item>@string/swipe_direction_rtl</item>
         <item>@string/swipe_direction_ltr</item>
@@ -3297,6 +3363,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>5</item>
         <item>10</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Adjust colors based on the current lighting</item>
+        <item>Always enhance colors</item>
+        <item>Restore standard color of screen content with color calibration</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (recommended)</item>
+        <item>Saturated</item>
+        <item>Original color</item>
     </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>
@@ -3516,6 +3592,11 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_ap_security_with_sae">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
+        <item>@string/wifi_security_sae</item>
     </string-array>
     <array name="wifi_calling_mode_choices">
         <item>@android:string/wfc_mode_wifi_preferred_summary</item>

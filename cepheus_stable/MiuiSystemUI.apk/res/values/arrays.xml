@@ -219,6 +219,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -231,6 +234,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -244,6 +250,9 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -266,16 +275,16 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Disabled</item>
         <item>Enabled Filtered</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
         <item>Enabled</item>
+        <item>Enabled \"Headers filtered\"</item>
+        <item>Enabled \"Media packets filtered\"</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values">
         <item>disabled</item>
         <item>filtered</item>
+        <item>full</item>
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
-        <item>full</item>
     </string-array>
     <array name="bt_icon_bg_colors">
         <item>@color/bt_color_bg_1</item>
@@ -650,37 +659,36 @@
         <item>davinciin</item>
         <item>raphael</item>
         <item>raphaelin</item>
+        <item>lmi</item>
+        <item>lmiin</item>
+        <item>lmipro</item>
+        <item>lmiinpro</item>
     </string-array>
     <string-array name="device_support_pickup_by_MTK">
         <item>cactus</item>
         <item>cereus</item>
         <item>lotus</item>
     </string-array>
-    <string-array name="device_support_screen_on_delayed">
-        <item>dipper</item>
-        <item>polaris</item>
-        <item>wayne</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>nitrogen</item>
-        <item>whyred</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>platina</item>
-        <item>beryllium</item>
-        <item>capricorn</item>
-        <item>natrium</item>
-        <item>jason</item>
-        <item>sirius</item>
-        <item>lavender</item>
-        <item>cepheus</item>
-        <item>grus</item>
-        <item>andromeda</item>
-        <item>ursa</item>
-    </string-array>
     <string-array name="device_support_slide_camera">
         <item>perseus</item>
         <item>andromeda</item>
+    </string-array>
+    <string-array name="device_support_video_24_wallpaper">
+        <item>cepheus</item>
+        <item>grus</item>
+        <item>dipper</item>
+        <item>beryllium</item>
+        <item>equuleus</item>
+        <item>perseus</item>
+        <item>andromeda</item>
+        <item>ursa</item>
+        <item>polaris</item>
+        <item>davinci</item>
+        <item>raphael</item>
+        <item>crux</item>
+        <item>cmi</item>
+        <item>lmi</item>
+        <item>umi</item>
     </string-array>
     <string-array name="devices_hide_charge_circle_when_fod">
         <item>cepheus</item>

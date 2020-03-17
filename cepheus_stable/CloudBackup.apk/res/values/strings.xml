@@ -79,7 +79,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="cloud_backup_detail_title">Home screen, apps, and settings.</string>
   <string name="cloud_backup_have_data">Found a backup in Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Cancel</string>
-  <string name="cloud_backup_in_process">Backing up…</string>
+  <string name="cloud_backup_in_process">Backing up</string>
   <string name="cloud_backup_select_recover">Choose backup from Xiaomi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
@@ -195,6 +195,7 @@ Check your network settings and try again."</string>
   <string name="restore_finish_description">Restore finished</string>
   <string name="restore_finished_notification_content">Restored Home screen apps, system settings, etc.</string>
   <string name="restore_from_cloud">Restore from the cloud backup</string>
+  <string name="restore_from_mimover">Transfer from your old device using Mi Mover</string>
   <string name="restore_from_this_device">Restore using this backup</string>
   <string name="restore_home_failed">"Couldn't restore Home screen."</string>
   <string name="restore_home_screen_apps">Restore from the cloud backup</string>
@@ -217,6 +218,8 @@ Check your network settings and try again."</string>
   <string name="size_unknown">Unknown size</string>
   <string name="start_backup_to_micloud">Back up apps to Xiaomi Cloud</string>
   <string name="start_recover">Restore %s</string>
+  <string name="storage_unit_gb">%s GB</string>
+  <string name="storage_unit_mb">%s MB</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="title_alert_cancel_restore">Stop restoring</string>
   <string name="title_alert_restore_error">"Couldn't restore"</string>
