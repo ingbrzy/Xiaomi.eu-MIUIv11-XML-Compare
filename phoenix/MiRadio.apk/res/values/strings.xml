@@ -464,6 +464,9 @@ Send this code to the supervisor."</string>
   <string name="feed_listitem_browse_count">%1$s</string>
   <string name="feed_listitem_comment_count">%1$s</string>
   <string name="feed_listitem_play_count">%1$s</string>
+  <string name="feedback">Feedback</string>
+  <string name="feedback_toast">"小米收音机的反馈通道为小米社区
+即将为你跳转到小米社区"</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -909,6 +912,7 @@ Send this code to the supervisor."</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pause_download">Pause</string>
+  <string name="pause_play">Pause playing</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_in_power_save_mode">Paused when Battery saver is on</string>
   <string name="paused_insufficient_space">Waiting</string>
