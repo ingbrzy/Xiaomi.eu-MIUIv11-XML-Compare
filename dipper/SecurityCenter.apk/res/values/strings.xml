@@ -251,7 +251,8 @@
   <string name="app_behavior_sms_read_single">This app read SMS</string>
   <string name="app_behavior_sms_send">%1s sent SMS</string>
   <string name="app_behavior_sms_send_single">This app sent SMS</string>
-  <string name="app_behavior_start_from_launcher">%1s launched from desktop</string>
+  <string name="app_behavior_start_from_app_single">%1s launched from desktop</string>
+  <string name="app_behavior_start_from_launcher">launched from desktop</string>
   <string name="app_behavior_start_from_launcher_single">launched from desktop</string>
   <string name="app_behavior_start_from_notification">%1s launched from notifications</string>
   <string name="app_behavior_start_from_notification_single">launched from notifications</string>
