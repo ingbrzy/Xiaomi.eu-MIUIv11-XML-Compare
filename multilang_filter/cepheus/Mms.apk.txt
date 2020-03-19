@@ -1,4 +1,3 @@
 Removed: [hr] string/dialog_message_rcs (format mismatch)
 Removed: [pl] string/dialog_message_rcs (format mismatch)
-Removed: [pt-rBR] string/sms_card_partner_label (duplicate)
 Removed: [sl] string/dialog_message_rcs (format mismatch)
