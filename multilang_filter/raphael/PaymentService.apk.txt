@@ -1,1 +1,2 @@
-Removed: [uk] array/passport_alphabet_table (item mismatch)
+Removed: [pt-rBR] array/mibi_nopassword_pay_threshold_values (untranslatable)
+Removed: [pt-rBR] string/confirm_unbundled_phone_dialog_message (format mismatch)
