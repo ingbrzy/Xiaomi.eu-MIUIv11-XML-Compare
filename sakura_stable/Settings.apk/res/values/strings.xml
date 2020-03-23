@@ -1208,16 +1208,14 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
   <string name="bt_ldac_declaration">When a Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
-This feature can be turned off in [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_ldac_open_dialog_title">Turn on LDAC?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Attributes</string>
   <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience, but also increases power consumption.
-This feature can be turned off in the Settings."</string>
+  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
   <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
   <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
@@ -2764,6 +2762,8 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="ignore_optimizations_on_desc">May drain your battery more quickly. App will no longer be restricted from using background battery.</string>
   <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
   <string name="ime_security_warning">%1$s might record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning_global">Input methods may be able to collect all the text you type, including personal data like password and credit card numbers. Use %1$s?</string>
+  <string name="ime_security_warning_title_global">Turning on keyboard</string>
   <string name="imei_information_summary">IMEI relative information</string>
   <string name="imei_information_title">IMEI information</string>
   <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
@@ -3035,6 +3035,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="legal_written_offer">Written Offer</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="lights_title">LED light</string>
@@ -3069,7 +3070,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="location_agps_def_location_mode">MSB</string>
   <string name="location_agps_def_network_mode">HOME</string>
   <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
+  <string name="location_agps_def_supl_host">supl.google.com</string>
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS settings</string>
   <string name="location_agps_pref_apn_title">Preferred APN</string>
@@ -3301,6 +3302,7 @@ as your First space PIN."</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Glance for Mi</string>
   <string name="lockscreen_magazine_summary">High quality wallpaper carousel</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
@@ -4193,6 +4195,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="ping_test_label">Run Ping Test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
   <string name="please_type_passphrase">Password</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/track pad</string>
@@ -7245,6 +7249,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
