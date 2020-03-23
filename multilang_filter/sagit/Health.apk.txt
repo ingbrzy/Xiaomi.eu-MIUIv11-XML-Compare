@@ -1,2 +1,0 @@
-Removed: [fi-rFI] array/weight_line_chart_default_y (untranslatable)
-Removed: [ru] array/weight_line_chart_default_y (untranslatable)
