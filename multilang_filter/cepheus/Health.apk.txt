@@ -1,2 +1,7 @@
+Removed: [de] string/exercise_duration_consume (format mismatch)
+Removed: [de] string/sleep_detector_unopened (duplicate)
+Removed: [de] string/tb_exercise_sport_no_distance (format mismatch)
+Removed: [de] string/tb_exercise_sport_normal (format mismatch)
+Removed: [de] string/tb_snore_detection_main (format mismatch)
 Removed: [fi-rFI] array/weight_line_chart_default_y (untranslatable)
 Removed: [ru] array/weight_line_chart_default_y (untranslatable)
