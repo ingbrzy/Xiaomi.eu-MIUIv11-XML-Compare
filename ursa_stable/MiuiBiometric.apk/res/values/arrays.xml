@@ -23,8 +23,14 @@
         <item>umi</item>
         <item>cmi</item>
         <item>lmi</item>
+        <item>lmiin</item>
         <item>picasso</item>
         <item>picassoin</item>
+        <item>curtana</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+        <item>toco</item>
+        <item>tocoin</item>
     </string-array>
     <string-array name="device_use_cameraone">
         <item>jason</item>
@@ -54,7 +60,6 @@
         <item>mido</item>
         <item>oxygen</item>
         <item>olivelite</item>
-        <item>willow</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
@@ -74,7 +79,5 @@
         <item>phoenixin</item>
         <item>picasso</item>
         <item>picassoin</item>
-        <item>begonia</item>
-        <item>begoniain</item>
     </string-array>
 </resources>

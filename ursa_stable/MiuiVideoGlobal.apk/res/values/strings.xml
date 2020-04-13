@@ -83,6 +83,10 @@
   <string name="action_update_phone">Change phone number</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="activity_not_found_notice">"Can't find the app"</string>
+  <string name="ad_buy">Purchase</string>
+  <string name="ad_download">Download</string>
+  <string name="ad_join">Join community</string>
+  <string name="ad_more">More</string>
   <string name="add_to_trust_device">This is a trusted device</string>
   <string name="agree">Agree</string>
   <string name="ai_animation_music_text">AI soundtrack</string>
@@ -167,7 +171,11 @@
   <string name="choose_to_signup">"No, I'll create one"</string>
   <string name="click_to_reload_more">Tap to load more</string>
   <string name="click_to_retry">Try again</string>
+  <string name="cloud_online_switch">Personalized recommendations</string>
+  <string name="cloud_online_switch_close_time">You can turn on personalized content recommendations in %s</string>
+  <string name="cloud_online_switch_open_time">Show personalized content recommendations</string>
   <string name="collect_diagnosis_log">Collect logs</string>
+  <string name="com.crashlytics.android.build_id">ec71a063-3031-4779-b62b-ab7779274c23</string>
   <string name="com_facebook_device_auth_instructions">Visit &lt;b&gt;facebook.com/device&lt;/b&gt; and enter the code shown above.</string>
   <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
   <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -199,6 +207,7 @@
   <string name="comment_model_add_comment">Add a comment</string>
   <string name="comment_model_bg_add_comment">Share your thoughts with our community</string>
   <string name="comment_model_bg_deleted_comment">This comment was deleted</string>
+  <string name="comment_model_close">"Commenting isn't available now. Stay tuned!"</string>
   <string name="comment_model_comment">Comments</string>
   <string name="comment_model_confirm_delete">Delete comment now?</string>
   <string name="comment_model_copy">Copy</string>
@@ -259,6 +268,7 @@ Send this code to the supervisor."</string>
   <string name="do_not_show_again">"Don't show again"</string>
   <string name="empty_channels">Manage channels</string>
   <string name="empty_subscribe">"You haven't subscribed to anything yet."</string>
+  <string name="error_details">Unexpected error</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
@@ -295,6 +305,7 @@ Send this code to the supervisor."</string>
   <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
   <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
   <string name="exo_track_unknown">Unknown</string>
+  <string name="explore">Discover</string>
   <string name="explore_on_mi_video">Find more on Mi Video</string>
   <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
@@ -356,6 +367,8 @@ Send this code to the supervisor."</string>
   <string name="gallery_video_adjust_hint">Only 960fps videos are supported</string>
   <string name="gallery_video_adjust_text">Adjust</string>
   <string name="gallery_video_default_music_text">Auto</string>
+  <string name="gallery_video_icon_is_8k">8K</string>
+  <string name="gallery_video_icon_is_record_log">LOG</string>
   <string name="gallery_video_item3_default_text">Emotions</string>
   <string name="gallery_video_item4_default_text">Sunrise</string>
   <string name="gallery_video_item5_default_text">Memories</string>
@@ -386,6 +399,7 @@ Send this code to the supervisor."</string>
   <string name="history">History</string>
   <string name="history_local_video">Local</string>
   <string name="history_online_video">Online</string>
+  <string name="hot">Popular</string>
   <string name="id_namespace">hungama</string>
   <string name="identity">Identification</string>
   <string name="inconsistent_pwd">"Passwords don't match"</string>
@@ -411,6 +425,7 @@ for videos"</string>
   <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
   <string name="library_roundedimageview_licenseId">apache_2_0</string>
   <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
+  <string name="live_tv_title">Live TV</string>
   <string name="loading">Just a sec…</string>
   <string name="local_push_title">Popular today</string>
   <string name="login">Sign in</string>
@@ -537,7 +552,6 @@ for videos"</string>
   <string name="lv_volume">Volume</string>
   <string name="manage">Manage</string>
   <string name="mi_video">Mi Video</string>
-  <string name="mock_url">12345</string>
   <string name="moment_guide_desc">Use gestures to zoom in and out</string>
   <string name="moment_tab_all">All</string>
   <string name="moment_tab_facebook">Facebook</string>
@@ -579,6 +593,7 @@ for videos"</string>
   <string name="need_update_app">Update Mi Video to use all its features</string>
   <string name="network_connect_info">"Couldn't connect to the network. Check your network settings and try again."</string>
   <string name="network_failed">"Couldn't connect to the network"</string>
+  <string name="new_channel_tip">Take a look at new channels!</string>
   <string name="next">Next</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
@@ -588,6 +603,7 @@ for videos"</string>
   <string name="no_recommend_data">No recommended videos now</string>
   <string name="no_subscriptions">No items here</string>
   <string name="not_show">"Don't show again"</string>
+  <string name="not_support_share">"Can't share this item currently"</string>
   <string name="notice_comment_action">%s commented on your post</string>
   <string name="notice_comment_action_deleted">This comment was deleted</string>
   <string name="notice_feedback_content">"There's an update on your feedback. Tap to view."</string>
@@ -965,6 +981,8 @@ Increase the security of your account."</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="restore_channel_list">Restore defaults now?</string>
   <string name="retry">Try again</string>
+  <string name="reveal">Rotate</string>
+  <string name="reveal_tip">Rotate your device for better viewing experience</string>
   <string name="revoke">Revoke</string>
   <string name="s1">Save image</string>
   <string name="s2">Allow Ad to store image in Picture gallery?</string>
@@ -979,6 +997,10 @@ Increase the security of your account."</string>
   <string name="save_cancel_toast">Tap \"Back\" again to cancel saving video</string>
   <string name="screenrecord_cancel">Compatibility issues</string>
   <string name="screenrecord_nosupport_record">"Screen recorder isn't currently supported on this device."</string>
+  <string name="screenshot_8k">8K screenshot</string>
+  <string name="screenshot_8k_save_toast">Saved 8K screenshot to %s</string>
+  <string name="screenshot_8k_saving">Saving 8K screenshot…</string>
+  <string name="screenshot_8k_share">Send file to</string>
   <string name="search">Search</string>
   <string name="search_choose_language">Select language</string>
   <string name="search_choose_voice_language">Select the language used for voice search</string>
@@ -1082,6 +1104,7 @@ Increase the security of your account."</string>
   <string name="ticket_sign_in">Sign in via SMS</string>
   <string name="title_publisher">Creators</string>
   <string name="title_subscribe">Subscriptions</string>
+  <string name="toast_no_data">"This item isn't available now. Come back later."</string>
   <string name="toast_share_failed">"Couldn't share. Wait a minute or two and try again."</string>
   <string name="today">Today</string>
   <string name="tuesday">Tuesday</string>
