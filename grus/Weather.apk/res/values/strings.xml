@@ -142,6 +142,7 @@
   <string name="content_desc_city_manage_del">Delete</string>
   <string name="content_desc_city_manage_edit">Edit</string>
   <string name="content_desc_close_button">Close</string>
+  <string name="daily_ad_index_item_experience_now">立即体验</string>
   <string name="daily_forcast_no_stable_direction">Breeze</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
