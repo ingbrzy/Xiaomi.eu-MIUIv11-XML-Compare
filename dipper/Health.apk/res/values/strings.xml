@@ -55,7 +55,7 @@ to add cards"</string>
   <string name="all_records">All records</string>
   <string name="altitude">Altitude</string>
   <string name="am">AM</string>
-  <string name="app_name">SnailAudioSDK</string>
+  <string name="app_name">TrackingTree</string>
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
   <string name="auth_description">Allow %1$s to sync data from the following devices</string>
@@ -326,8 +326,6 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="dialog_sure">OK</string>
   <string name="dialog_user_agreement_purpose">Welcome to Xiaomi Health! You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud.</string>
   <string name="disable">Off</string>
-  <string name="distance_km">%1$s %2$fkm</string>
-  <string name="distance_m">%1$s %2$dm</string>
   <string name="dot">.</string>
   <string name="drag_sort">Rearrange</string>
   <string name="dream_talk">Talking %1$s</string>
@@ -372,7 +370,7 @@ You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_detail_no_steps_hint">"Selected data source (%1$s) doesn't provide step count info.
 You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_duration">Exercise duration</string>
-  <string name="exercise_duration_consume">Duration: %1$d min(s), %2$d Cal</string>
+  <string name="exercise_duration_consume">Duration: %1$s, %2$s</string>
   <string name="exercise_goal">Activity goal</string>
   <string name="exercise_goal_accomplished">Reached goal</string>
   <string name="exercise_goal_lack_exercise">Not enough activity</string>
@@ -627,6 +625,9 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="min_pace">Lowest pace</string>
   <string name="minimum">Minimum</string>
   <string name="minute">M</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
+  <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud</string>
   <string name="model_card_setting">Card settings</string>
   <string name="modify">Edit</string>
   <string name="modify_end_date">Change end date</string>
@@ -836,6 +837,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_detection_guide_one_title">Track your sleep</string>
   <string name="sleep_detection_guide_schedule_hint_one">"Without bedtime schedule, your stats won't be accurate. "</string>
   <string name="sleep_detection_guide_schedule_hint_two">Set your bedtime schedule.</string>
+  <string name="sleep_detection_guide_schedule_hint_two_details">It is recommended that you go to work and rest management settings of clock.</string>
   <string name="sleep_detection_guide_three_description">"When bedtime schedule is set up, your sleep will be tracked automatically. "</string>
   <string name="sleep_detection_guide_three_title">Generate stats automatically</string>
   <string name="sleep_detection_guide_two_description">"To get accurate stats, place your device beside or under the pillow and make sure that it's no more than 50 cm away from your body."</string>
@@ -918,6 +920,7 @@ sleep data"</string>
   <string name="snore_detection_guide_one_description">Sound will be recorded while you sleep. Machine learning allows Xiaomi Health to detect snoring, talking, and loud noises, and save the recordings on your device.</string>
   <string name="snore_detection_guide_one_title">Record audio using microphone</string>
   <string name="snore_detection_guide_schedule_suggest">Microphone will be turned on and off according to your bedtime schedule. Set your bedtime schedule to make it work&gt;</string>
+  <string name="snore_detection_guide_schedule_suggest_details">Microphone will be turned on and off according to your bedtime schedule. It is recommended that you go to work and rest management settings of clock.</string>
   <string name="snore_detection_guide_three_description">Make sure your device is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</string>
   <string name="snore_detection_guide_three_title">Keep your device charged</string>
   <string name="snore_detection_guide_two_description">Microphone will be turned on and off according to your bedtime schedule.</string>
@@ -1033,14 +1036,15 @@ sleep data"</string>
   <string name="tb_exercise_exercise_duration">Exercise duration in minutes: %1$d. %2$s. Tap to view details.</string>
   <string name="tb_exercise_exercise_no_data">No exercise duration info</string>
   <string name="tb_exercise_goal_info">Daily activity goal: %1$s. %2$s</string>
+  <string name="tb_exercise_home_banner">Daily health check</string>
   <string name="tb_exercise_label_close">Close prompt</string>
   <string name="tb_exercise_list_add">Add exercise stats</string>
   <string name="tb_exercise_list_consume">Burnt Calories: %1$d. End time: %2$s. Tap to view details.</string>
   <string name="tb_exercise_list_sport">%1$s. Distance in kilometers: %2$s. End time: %3$s. Data source: %4$s. Tap to view details.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Duration: %2$s. End time: %3$s. Data source: %4$s. Tap to view details.</string>
   <string name="tb_exercise_list_walk">Number of steps: %1$s. End time: %2$s. Tap to view details.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Duration in minutes: %2$d. Burnt Calories: %3$d.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Distance in kilometers %2$.1f. Duration in minutes: %3$d. Burnt Calories: %4$d.</string>
+  <string name="tb_exercise_sport_no_distance">%1$s. Duration %2$s. Burnt Calories: %3$s.</string>
+  <string name="tb_exercise_sport_normal">%1$s. Distance %2$s. Duration : %3$s. Burnt Calories: %4$s.</string>
   <string name="tb_exercise_sport_sum">Exercise report. %1$s. Tap to view details.</string>
   <string name="tb_exercise_steps_no_data">No steps data. Current goal: %1$d. Tap to view details.</string>
   <string name="tb_exercise_steps_no_goal">Number of steps: %1$d. Tap to view details.</string>
