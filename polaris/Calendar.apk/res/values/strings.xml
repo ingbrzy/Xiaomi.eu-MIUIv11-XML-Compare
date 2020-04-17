@@ -40,6 +40,7 @@
   <string name="account_and_calendar">Accounts</string>
   <string name="action_bar_return">Back</string>
   <string name="action_label">Return</string>
+  <string name="action_text_card_manager">Channel</string>
   <string name="ad_card_download_count">%1$d人下载</string>
   <string name="ad_card_download_count_million">%1$d万人下载</string>
   <string name="ad_card_download_use_count">%1$d人正在用</string>
@@ -620,7 +621,7 @@ Check network settings and try again."</string>
   <string name="productivity_move_event_failed">"Can't move this event to MMMM dd, yyyy"</string>
   <string name="productivity_move_event_hint">Press and hold an event to move it to another date</string>
   <string name="productivity_move_event_success">Moved this event to MMMM dd, yyyy</string>
-  <string name="productivity_no_event">No events planned for today</string>
+  <string name="productivity_no_event">No events here yet</string>
   <string name="pull_to_refresh_hint">Pull to load events from %1$d</string>
   <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="recommend_card_add">立即订阅</string>
