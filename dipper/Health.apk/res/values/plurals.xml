@@ -57,6 +57,10 @@
         <item quantity="other">%1$d recordings</item>
         <item quantity="one">%1$d recording</item>
     </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">recordings</item>
+        <item quantity="one">recording</item>
+    </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Goal: %1$d steps</item>
         <item quantity="one">Goal: %1$d step</item>
