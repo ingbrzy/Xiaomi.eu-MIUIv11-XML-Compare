@@ -17,6 +17,7 @@
   <string name="cloud_addr_info">Cloud info</string>
   <string name="cloud_china_addr">Update Chinese server data</string>
   <string name="cloud_international_addr">Update international server data</string>
+  <string name="cloud_russion_addr">Update Russion server data</string>
   <string name="cloud_staging_addr">Update staging server data</string>
   <string name="config_classify">Sort by app settings</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
@@ -64,6 +65,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
   <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
   <string name="performance_category">Performance</string>
+  <string name="permstep_description">"Allow application to read your phone's step information"</string>
+  <string name="permstep_label">Read Steps</string>
   <string name="power_center">Battery optimization</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>
   <string name="power_checker_background_cpu_title">%1$s runs abnormally</string>
