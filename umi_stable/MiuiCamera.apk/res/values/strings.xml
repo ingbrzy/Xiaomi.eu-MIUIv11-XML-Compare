@@ -210,6 +210,7 @@ and adjust preferences automatically"</string>
   <string name="custom_watermark_words_input_hint">Enter text</string>
   <string name="custom_watermark_words_save_success">Saved successfully</string>
   <string name="device_india_watermark_default_text"/>
+  <string name="device_poco_watermark_default_text">SHOT ON POCO PHONE</string>
   <string name="device_ultra_pixel_app_watermark_family_name_suffix">_48m</string>
   <string name="device_ultra_pixel_watermark_default_text">108MP QUAD CAMERA</string>
   <string name="device_watermark_default_text">AI QUAD CAMERA</string>
@@ -999,7 +1000,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_google_lens_summary">Point your camera at contact info, URLs, and QR codes to view available options</string>
   <string name="pref_google_lens_title">Lens suggestions</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
-  <string name="pref_hdr_value_default">off</string>
+  <string name="pref_hdr_value_default">auto</string>
   <string name="pref_lens_dirty_detect_summary">Receive a notification when the lens is dirty</string>
   <string name="pref_lens_dirty_detect_title">Notify about dirty lens</string>
   <string name="pref_live_volumekey_function_default">volume</string>
