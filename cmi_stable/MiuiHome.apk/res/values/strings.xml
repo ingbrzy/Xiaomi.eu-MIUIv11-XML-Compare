@@ -41,6 +41,11 @@
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="accessibility_menu_item_split_disable">"App doesn't support Split screen."</string>
   <string name="accessibility_menu_item_split_enable">App supports Split screen</string>
+  <string name="accessibility_recent_task_enter">Opened Recents</string>
+  <string name="accessibility_recent_task_exit">Closed Recents</string>
+  <string name="accessibility_recent_task_locked_state">Locked</string>
+  <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Available RAM: %1$s. Double tap to clear.</string>
+  <string name="accessibility_recent_task_unlocked_state">Unlocked</string>
   <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
   <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
   <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
@@ -434,6 +439,7 @@
   <string name="recent_menu_item_lock">Lock</string>
   <string name="recent_menu_item_multi_window">Split</string>
   <string name="recent_menu_item_unlock">Unlock</string>
+  <string name="recents_abc_text">松手悬挂</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Recents</string>
   <string name="recents_dimiss_task">Clear</string>
@@ -442,6 +448,7 @@
   <string name="recents_empty_message_multi_window">Open apps from the Home screen</string>
   <string name="recents_exit_multi_window_mode">Exit</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
+  <string name="recents_incompatible_app_message">"This app doesn't support Split screen"</string>
   <string name="recents_task_screening">Casting</string>
   <string name="recents_title_app_manager">Manage apps</string>
   <string name="recents_title_game">Games</string>
@@ -495,6 +502,7 @@
   <string name="show_mem_info_title">Show memory status</string>
   <string name="show_most_popular_apps_you_used">Display most frequently used apps in the drawer</string>
   <string name="show_recents_recommend_title">Show suggestions</string>
+  <string name="slide_to_open_newhome">Swipe up to open Content Center</string>
   <string name="sort_by_abc">Sort by name</string>
   <string name="sort_by_frequency">Sort by usage</string>
   <string name="sort_by_not_defined">Auto-sort</string>
