@@ -87,6 +87,10 @@
   <string name="battery_plug_wirelee_title">Wireless charging test</string>
   <string name="battery_plugin_wirelee">Wireless charging is connected</string>
   <string name="battery_plugout_wirelee">Please connect wireless charging</string>
+  <string name="battery_reverse_wireless_charge_success">reverse wireless charge success</string>
+  <string name="battery_reverse_wireless_charge_summary">reverse wireless charge test</string>
+  <string name="battery_reverse_wireless_charge_time_out">reverse wireless charge time out</string>
+  <string name="battery_reverse_wireless_charge_title">reverse wireless charge</string>
   <string name="battery_value">Electricity</string>
   <string name="begin_to_save_finger_data">Begin to save finger data</string>
   <string name="bio_assay_time">活体识别耗时</string>
@@ -135,6 +139,7 @@ Charger test end, please plug out the charger"</string>
   <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
+  <string name="cit_analog_headset_plug_hint">Connect analog headphones now</string>
   <string name="cit_apk_signature_failed">apk signature FAILED</string>
   <string name="cit_apk_signature_passed">apk signature PASSED</string>
   <string name="cit_aud_current_state">Current State:</string>
@@ -211,6 +216,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 
 1.Tap the Preview button below to enter Camera interface
 2.Wait preview end, auto return."</string>
+  <string name="cit_back_light_sensor_check_title">Back Light Sensor</string>
   <string name="cit_back_pointer_location_title">Back touch sensor</string>
   <string name="cit_battery_check_summary">Device battery statistics</string>
   <string name="cit_battery_check_title">Battery info</string>
@@ -249,7 +255,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 1.Tap the calibration button below to start OIS calibration.
 2.There will be a calibration pass label to indicate the ois has been calibrated"</string>
   <string name="cit_camera_fast_check_title">Camera fast test</string>
+  <string name="cit_camera_rearsub">Back secondary camera test in progress, please wait....</string>
   <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
+  <string name="cit_charge_usb_dcp">Charging：USB_DCP</string>
+  <string name="cit_charge_usb_hvdcp">Charging：USB_HVDCP</string>
+  <string name="cit_charge_usb_pd">Charging：USB_PD</string>
   <string name="cit_charger_check_title">Charger Test</string>
   <string name="cit_charger_in">Charger connected</string>
   <string name="cit_charger_in_check_title">Charger insertion test</string>
@@ -261,11 +271,13 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 and reverse plug in the charger"</string>
   <string name="cit_charger_test_tips_electric">Current project needs to test charging current value greater than 1A</string>
   <string name="cit_charger_test_tips_hvdcp">Current project needs to test USB_HVDCP</string>
+  <string name="cit_charger_test_tips_pd">Current machine need to test USB_PD</string>
   <string name="cit_charger_waiting_in">Connect charger</string>
   <string name="cit_charger_waiting_out">Disconnect charger now</string>
   <string name="cit_def_torch_on_one">Turn on the first flash</string>
   <string name="cit_def_torch_on_three">Turn on the third flash</string>
   <string name="cit_def_torch_on_two">Turn on the second flash</string>
+  <string name="cit_depth_camera_check_title">Depth camera</string>
   <string name="cit_diag_chaging_summary">Copy charge logger files to sdcard</string>
   <string name="cit_diag_chaging_title">Read charge logger</string>
   <string name="cit_diag_chaging_wait">Please wait... Copying files</string>
@@ -297,6 +309,8 @@ and reverse plug in the charger"</string>
   <string name="cit_finger_check_title">Finger Print Test</string>
   <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
   <string name="cit_flash_life_check_title">Flash life</string>
+  <string name="cit_flicker_sensor_check_summary">Values for Flicker should appear below</string>
+  <string name="cit_flicker_sensor_check_title">Flicker Sensor</string>
   <string name="cit_fm_audio_path">Configure audio path</string>
   <string name="cit_fm_audio_path_headset">Headphones</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
@@ -322,8 +336,15 @@ Before test you have to insert the headset"</string>
 3.System will save the photo automatically after capture
 4.The photo you took must be displayed on the screen, Tap Pass to complete the test."</string>
   <string name="cit_front_camera_check_title">Front camera</string>
-  <string name="cit_front_rear_dual_camera_check_title">Front rear dual camera</string>
-  <string name="cit_front_rear_sub_camera_check_title">Front rear sub camera</string>
+  <string name="cit_front_camera_motor_cali_fail">Motor calibration failed</string>
+  <string name="cit_front_camera_motor_cali_success">Motor calibration success</string>
+  <string name="cit_front_camera_motor_cali_tips">Do not block the camera during the pop-up camera motor calibration process</string>
+  <string name="cit_front_dual_camera_check_summary_no_zoom">"测试步骤如下：
+
+1.Automatically open the camera to enter the preview interface
+2.Wait for the preview to finish and return automatically"</string>
+  <string name="cit_front_rear_dual_camera_check_title">Front Bokeh camera</string>
+  <string name="cit_front_rear_sub_camera_check_title">Front Aux camera</string>
   <string name="cit_get_signature_failed">get signature FAILED</string>
   <string name="cit_goodix_sensor_check_summary">Goodix sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
   <string name="cit_goodix_sensor_check_title">Goodix fingerprint sensor</string>
@@ -377,6 +398,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_headset_pull_hint">Disconnect headphones now</string>
   <string name="cit_hide_menu">Hide menu</string>
   <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
+  <string name="cit_init_fp_fod_test_tip">Init Fingerprint Test Environment</string>
   <string name="cit_kayboard_home_down">Button: HOME</string>
   <string name="cit_kayboard_power_down">Button: POWER</string>
   <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
@@ -400,7 +422,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC value should appear below,please test for light sensor</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
-  <string name="cit_macro_camera_check_title">macro camera check</string>
+  <string name="cit_macro_camera_check_title">Macro camera</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
   <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
   <string name="cit_main_camera_check_summary">"Test instructions:
@@ -411,7 +433,9 @@ Touch the screen to start GPS…"</string>
 4.The photo you took must be displayed on the screen. Tap Pass to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
   <string name="cit_name">Hardware tests</string>
-  <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
+  <string name="cit_nfc_check_enable_tip">Init NFC Test Environment</string>
+  <string name="cit_nfc_check_summary">Please click the button to init NFC,and then put the card on the top of the back of the phone</string>
+  <string name="cit_nfc_check_tip">put the card on the top of the back of the phone</string>
   <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_nfc_sim_check_summary">Confirm that correct the status and info of the NFC SIM card is displayed below, only two NFC SIM cards simultaneously exist and has correct status can pass</string>
   <string name="cit_no_sim_check_summary">Confirm the phone has no sim card!</string>
@@ -432,15 +456,16 @@ Touch the screen to start GPS…"</string>
   <string name="cit_power_check_title">Battery indicator</string>
   <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
   <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
-  <string name="cit_proximity_data_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device. 
-If it is an ultrasonic proximity sensor, please simulate the action of picking up the phone during the test."</string>
+  <string name="cit_proximity_data_check_summary">"Infrared distance sensor: Cover the phone distance sensor with your hand, and then leave the distance sensor. 
+ Ultrasonic distance sensor: Please simulate picking up the phone to answer the call 
+ If the lower test area shows a value of 0.0 when approaching, and a 5.0 value shows when it is far away, the test is successful, otherwise the test fails."</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
   <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
   <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
-  <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
-  <string name="cit_rear_dual_second_camera_check_title">dual second camera</string>
+  <string name="cit_rear_dual_camera_check_title">Bokeh camera</string>
+  <string name="cit_rear_dual_second_camera_check_title">Bokeh2 camera</string>
   <string name="cit_rear_sub_camera_check_summary">"Test instructions:
 
 1.Tap the Camera button below to enter rear sub Camera interface
@@ -504,6 +529,9 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_splash_check_summary">Make sure there is black screen phenomenon more 5s.</string>
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
+  <string name="cit_tele_camera_check_title">Tele camera</string>
+  <string name="cit_tfcard_no_support">Not support TF card on this device.</string>
+  <string name="cit_tfcard_support">TF card is supported on this device.</string>
   <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
   <string name="cit_tfcard_support_title">Support TFCard</string>
   <string name="cit_tof_sensor_check_summary">Values for TOF should appear below</string>
@@ -684,7 +712,6 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_test_device_value_set">modify device state</string>
   <string name="cit_tool_modem_test_get">update</string>
   <string name="cit_tool_modem_test_mode">Modem Test Mode Setting</string>
-  <string name="cit_tool_modem_test_mode_close">close test mode</string>
   <string name="cit_tool_modem_test_mode_closed">test mode closed</string>
   <string name="cit_tool_modem_test_mode_mismatch">test mode mismatched</string>
   <string name="cit_tool_modem_test_mode_opened">test mode opened</string>
@@ -731,6 +758,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_wifi_rx_run">Run</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
   <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
+  <string name="cit_tool_wifi_rxax_test">Rx: ax</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
@@ -739,6 +767,8 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_wifi_sniffer">WLAN Sniffer tool</string>
   <string name="cit_tool_wifi_sniffer_settings">Sniffer Settings</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+  <string name="cit_tool_wifi_tx_ax">Tx: ax</string>
+  <string name="cit_tool_wifi_tx_ax_gI">Guard Interval:</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
@@ -760,7 +790,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
   <string name="cit_touch_calib_title">Touch Calibration</string>
   <string name="cit_touch_panel_test_title">Touch sensor</string>
-  <string name="cit_ultra_camera_check_title">ultra camera check</string>
+  <string name="cit_ultra_camera_check_title">Ultra camera</string>
   <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
 test fail!"</string>
   <string name="cit_usb_OTG_in">USB_OTG device has plugged in, please plug out and reverse plug in</string>
@@ -790,6 +820,11 @@ test fail!"</string>
   <string name="cit_vibrator_play_touch_pattern">Vibration</string>
   <string name="cit_vibrator_short">Short vibration</string>
   <string name="cit_vibrator_show_advanced">Show advanced options</string>
+  <string name="cit_voc_data_check_title">VOC Data Sensor</string>
+  <string name="cit_voc_data_humidity">Humidity</string>
+  <string name="cit_voc_data_pressure">Pressure</string>
+  <string name="cit_voc_data_sensor_check_summary">Values for VOC, temperature,humidity,pressure,should appear below</string>
+  <string name="cit_voc_data_temperature">Temperature</string>
   <string name="cit_wifi_address_check_summary">Below is the address of the WLAN network that the phone is currently connected to. Confirm that the info highlighted in green is correct.</string>
   <string name="cit_wifi_address_check_title">WLAN Address</string>
   <string name="cit_wifi_address_error">"Couldn't get WLAN address. Make sure that WLAN is enabled."</string>
@@ -1073,6 +1108,7 @@ the specified position"</string>
   <string name="more_detail_confirm_setting">确认内存设置并请手动重启手机</string>
   <string name="more_than">大于</string>
   <string name="motor_calibration">Motor Calibration</string>
+  <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
   <string name="name_count">个</string>
   <string name="nav_category">导航策略</string>
   <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -1242,6 +1278,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="start_far">Start FAR</string>
   <string name="start_frr">Start FRR</string>
   <string name="status">Status</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_failed">One or more tests failed</string>
   <string name="status_passed">Passed</string>
   <string name="status_running">Running</string>
@@ -1292,6 +1329,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="test_bio_no_finger_tips">测试时请保证模组上方无遮挡</string>
   <string name="test_bio_recived_up_message">收到测试头提起消息，即将开始测试</string>
   <string name="test_bio_waiting_start">请抬起测试头，%d 秒后开始进行测试</string>
+  <string name="test_bottom_speaker">bottom_speaker</string>
   <string name="test_capture">图像质量测试</string>
   <string name="test_capture_title">图像质量测试:</string>
   <string name="test_case_status"/>
@@ -1353,6 +1391,7 @@ Please click the appropriate button according to the number you hear"</string>
   <string name="test_success_tips_multi_case_and" formatted="false">成功条件: %s%s %s</string>
   <string name="test_success_tips_string" formatted="false">成功条件：%s%s</string>
   <string name="test_top_mic">Top MIC</string>
+  <string name="test_top_speaker">top_speaker</string>
   <string name="test_unfinished">未完成</string>
   <string name="testagain">You can Press key HOME to test again</string>
   <string name="testing">AutoTest Running...</string>

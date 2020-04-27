@@ -342,9 +342,6 @@
   <string name="launcher_title">Home screen &amp; Recents</string>
   <string name="like">Add to favorites</string>
   <string name="liked">Added to favorites</string>
-  <string name="load_end">没有更多数据</string>
-  <string name="load_failed">加载失败，请点我重试</string>
-  <string name="loading">正在加载中...</string>
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_apps">Local apps</string>
@@ -442,6 +439,7 @@
   <string name="recent_menu_item_lock">Lock</string>
   <string name="recent_menu_item_multi_window">Split</string>
   <string name="recent_menu_item_unlock">Unlock</string>
+  <string name="recents_abc_text">松手悬挂</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Recents</string>
   <string name="recents_dimiss_task">Clear</string>
@@ -451,7 +449,6 @@
   <string name="recents_exit_multi_window_mode">Exit</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
   <string name="recents_incompatible_app_message">"This app doesn't support Split screen"</string>
-  <string name="recents_smallwindow_text">松手悬挂</string>
   <string name="recents_task_screening">Casting</string>
   <string name="recents_title_app_manager">Manage apps</string>
   <string name="recents_title_game">Games</string>
@@ -459,7 +456,6 @@
   <string name="recents_title_garbage_deepclean">Deep clean</string>
   <string name="recents_title_market">Find apps</string>
   <string name="recents_title_security_scan">Security scan</string>
-  <string name="recents_tv_small_window_text">小窗应用</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_app">App suggestions</string>
   <string name="recommend_apps_default_title">Empty</string>
@@ -507,13 +503,6 @@
   <string name="show_most_popular_apps_you_used">Display most frequently used apps in the drawer</string>
   <string name="show_recents_recommend_title">Show suggestions</string>
   <string name="slide_to_open_newhome">Swipe up to open Content Center</string>
-  <string name="small_window_button_complete">完成</string>
-  <string name="small_window_edit_content">最多添加10个常用小窗应用</string>
-  <string name="small_window_edit_title">编辑常用小窗应用</string>
-  <string name="small_window_empty">从下方选择应用添加</string>
-  <string name="small_window_select_title">从下方选择应用添加</string>
-  <string name="small_window_title_text">点击打开小窗应用</string>
-  <string name="small_window_toast">最多添加10个应用</string>
   <string name="sort_by_abc">Sort by name</string>
   <string name="sort_by_frequency">Sort by usage</string>
   <string name="sort_by_not_defined">Auto-sort</string>
