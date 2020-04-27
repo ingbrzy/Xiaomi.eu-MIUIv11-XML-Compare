@@ -42,7 +42,7 @@
   <string name="access_control_app_is_launching">App is starting</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Enter password before unlocking with a new fingerprint</string>
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
-  <string name="access_control_need_password">"%s added successfully
+  <string name="access_control_need_password">"%s added successfullyr
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
   <string name="accessibility_gameboosterservice_description">"Turn on to silence incoming WeChat calls when you're playing games"</string>
@@ -147,8 +147,10 @@
   <string name="antivirus_update_btn_contiue">Continue</string>
   <string name="antivirus_update_btn_open">Allow</string>
   <string name="antivirus_update_btn_update">Update</string>
+  <string name="apn_exception_modify_summary">"Default carrier access point isn't used or modified"</string>
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
+  <string name="apn_exception_wap_summary">WAP is unstable now. Switch to NET.</string>
   <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content.</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">Details</string>
@@ -1681,6 +1683,11 @@ to respond"</string>
   <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
   <string name="more_settings">More</string>
   <string name="name">Name</string>
+  <string name="nd_result_button_optimize">Optimize</string>
+  <string name="nd_result_summary_optimize">"Try optimizing network connection when it's unstable"</string>
+  <string name="nd_result_title_auxiliary">Network configuration</string>
+  <string name="nd_result_title_network">Network connectivity</string>
+  <string name="nd_result_title_optimize">Network optimization</string>
   <string name="net_booster">Network speed boost</string>
   <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
   <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
@@ -1710,20 +1717,20 @@ to respond"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "&lt;b&gt;1. Public WLAN network issues&lt;/b&gt;"
+If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet service provider.
+ "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+Make sure that your account is in good standing with your Internet service provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+Try rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+Read the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
+ "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -2418,6 +2425,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
   <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
+  <string name="signal_exception_4g_bad_rsrq">Current signal reception is poor. Connection speed might be low.</string>
+  <string name="signal_exception_none_4g_5g_network">"You're using 2G/3G mobile networks. Connection speed might be low."</string>
   <string name="signal_exception_summary">"Can't connect to the network in this area."</string>
   <string name="signal_exception_title">Test signal strength</string>
   <string name="signed_rule">Rules</string>
@@ -2966,7 +2975,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plan’s data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>

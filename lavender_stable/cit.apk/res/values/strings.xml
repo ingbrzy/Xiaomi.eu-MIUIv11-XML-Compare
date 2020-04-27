@@ -97,9 +97,9 @@
   <string name="WIFI_scan_timeout">WIFI scanning timeout</string>
   <string name="WIFI_scanning_wifi">Scanning WIFI hotspot</string>
   <string name="Warning_HallSensor">When the magnet location near the green rectangle, showed close, when the magnet is far away from the green rectangle, show far from them</string>
-  <string name="X:">X axis:</string>
-  <string name="Y:">Y axis:</string>
-  <string name="Z:">Z axis:</string>
+  <string name="X">X axis:</string>
+  <string name="Y">Y axis:</string>
+  <string name="Z">Z axis:</string>
   <string name="acc_adjust">Adjust</string>
   <string name="acce_X">X :</string>
   <string name="acce_Y">Y :</string>
@@ -127,6 +127,9 @@
   <string name="aifsnnum">"AIFS slots num[0-255]
 only in frame mode"</string>
   <string name="aifsnout">Aifsn should be from 0 to 255!</string>
+  <string name="air_state">Air state</string>
+  <string name="air_state_close">air close</string>
+  <string name="air_state_open">air open</string>
   <string name="airplane_error_msg">"You can't use FM when the phone is in airplane mode."</string>
   <string name="airplane_error_msg_dlg">"You can't use FM when the phone is in airplane mode, Please press the close button or the Back key to close it!"</string>
   <string name="alertdialog_message">Please wait for 10s,then power off to write the result!</string>
@@ -154,11 +157,13 @@ only in frame mode"</string>
   <string name="auto_import_fail">Input error！</string>
   <string name="auto_import_in">Please according to hear number off by pressing the right buttons！</string>
   <string name="auto_import_success">Input correct！</string>
-  <string name="autotest">FQC Test</string>
+  <string name="autotest">Hw test</string>
   <string name="back_camera">Master Back Camera</string>
   <string name="back_camera0">Master Back Camera</string>
   <string name="back_camera1">Vice Back Camera</string>
   <string name="back_camera2">Twin Back Camera</string>
+  <string name="back_camera4">Back Camera Aux_4</string>
+  <string name="back_camera5">Back Camera Aux_5</string>
   <string name="back_key">back key</string>
   <string name="back_to_test">Back</string>
   <string name="background_result">Back ground test result</string>
@@ -237,12 +242,31 @@ only in frame mode"</string>
   <string name="build_time">Build Time:</string>
   <string name="burntest">Burn Test</string>
   <string name="button_ok">OK</string>
+  <string name="calibrate">Adjust</string>
+  <string name="calibration_button_text">Calibration</string>
   <string name="calibration_distance">Calibration distance</string>
+  <string name="calibration_fail">Calibration Fail</string>
+  <string name="calibration_pass">Calibration Success</string>
   <string name="call_test">Call test</string>
   <string name="call_test_hint">Talk to the main mic, see if you can hear your voice.</string>
+  <string name="camera_cal_calibration">Calibration</string>
+  <string name="camera_cal_caling_message">Calibrating</string>
+  <string name="camera_cal_fail">Fail</string>
+  <string name="camera_cal_fail_message">Calibrate fail</string>
+  <string name="camera_cal_get_picture_success">Getting picture success, you can begin calibrate</string>
+  <string name="camera_cal_message">"Testing step:
+ 1.Click capture button
+ 2.It will autosave picture after capture
+ 3.According the message to calibration, click the pass button after calibration success"</string>
+  <string name="camera_cal_pass">Pass</string>
+  <string name="camera_cal_success_message">Calibrate success</string>
+  <string name="camera_cal_text">"Camera didn't calibrate, please finish calibration"</string>
+  <string name="camera_cal_title">Camera calibration</string>
+  <string name="camera_click_to_capture">Click screen to capture</string>
   <string name="camera_done">Done</string>
+  <string name="camera_switch">switch</string>
   <string name="camera_test">Camera</string>
-  <string name="camera_zoom">Zoom</string>
+  <string name="camera_zoom">zoom</string>
   <string name="camerainfo">Camera information</string>
   <string name="cancel">Cancel</string>
   <string name="cancelEnrol">CancelEnrol</string>
@@ -283,7 +307,6 @@ only in frame mode"</string>
   <string name="cit2">HW2:</string>
   <string name="cit2reporttitle">HW2 Test Report</string>
   <string name="cit3reporttitle">HW3 Test Report</string>
-  <string name="cit4reporttitle">HW4 Test Report</string>
   <string name="cit_bluetooth_logging_confirm_info">this Bluetooth Logging will collect your device Bluetooth protocal datas, only record current Bluetooth releated operations. Involve privacy information data will also be recorded: Bluetooth Phonebook Access/Telephone Call History/SMS/MMS/Exchanged Files/Music Meta Data etc. this data is limited to XiaoMi company internal debugging with users but not be used for other purposes.</string>
   <string name="cit_bluetooth_logging_confirm_ng">Reject</string>
   <string name="cit_bluetooth_logging_confirm_notify">Do you agree to enable logging?</string>
@@ -320,6 +343,7 @@ only in frame mode"</string>
   <string name="dialog_replace">Are you sure to replace local by the playing channel?</string>
   <string name="discard">Discard</string>
   <string name="distance">Distance</string>
+  <string name="dsi_value">DSI value</string>
   <string name="dualmic">Dual MIC</string>
   <string name="earphone_key">Earphone(h)</string>
   <string name="earphone_test">Earphone</string>
@@ -354,6 +378,7 @@ only in frame mode"</string>
   <string name="factoryid">Factory ID:</string>
   <string name="fail">Fail</string>
   <string name="far">far</string>
+  <string name="far_away">far away</string>
   <string name="fido_label">FIDO:</string>
   <string name="field_netinfo">network information</string>
   <string name="field_state">state</string>
@@ -375,7 +400,7 @@ only in frame mode"</string>
   <string name="flashled_off2">Torch2 off</string>
   <string name="flashled_on">Torch front</string>
   <string name="flashled_on1">Torch back1</string>
-  <string name="flashled_on1_2">Torch back1,Torch back2</string>
+  <string name="flashled_on1_2">Torch back1 or 2</string>
   <string name="flashled_on2">Torch back2</string>
   <string name="flashledtest">Flash LED is light?</string>
   <string name="fm_test">FM</string>
@@ -387,6 +412,7 @@ only in frame mode"</string>
   <string name="fptype">Fingerprint Handware Type:</string>
   <string name="fptypeerror">Fingerprint Handware Error</string>
   <string name="fptypegeterror">Get Type Failed!</string>
+  <string name="fqc_test">FQC Test</string>
   <string name="frame_mod_info">frame</string>
   <string name="freq">Channel:</string>
   <string name="freq_add">Add frequence</string>
@@ -419,7 +445,6 @@ only in frame mode"</string>
   <string name="hand_test">HW Test1</string>
   <string name="hand_test2">HW Test2</string>
   <string name="hand_test3">HW Test3</string>
-  <string name="hand_test4">HW Test4</string>
   <string name="hardver">Hardware version:</string>
   <string name="hardware_test">Hardware Test</string>
   <string name="hardware_version">Hardware Version:</string>
@@ -523,8 +548,10 @@ the selected?"</string>
   <string name="magnetic_info_hint">Pass</string>
   <string name="magnetic_test">Magnetic sensor</string>
   <string name="magnetic_test_timeout">ERROR: Magnetic test timeout</string>
+  <string name="main_channel">Main Channel</string>
   <string name="match">Match! Identify fingerID:</string>
   <string name="max_length_reached">Maximum length reached</string>
+  <string name="max_value">Max:</string>
   <string name="mbboardtest">MB board</string>
   <string name="meid_no">MEID:</string>
   <string name="memory_size">Memory Size</string>
@@ -545,6 +572,7 @@ the selected?"</string>
   <string name="midmainboardtest">PCBA test</string>
   <string name="midtest">cit test</string>
   <string name="min_available">%d min available</string>
+  <string name="min_value">Min:</string>
   <string name="minus">-</string>
   <string name="mod11a">11a</string>
   <string name="mod11ac">11ac</string>
@@ -560,8 +588,8 @@ tx100---Continuous modulated bug unframed Tx
 frame---Continuous modulated Tx, please set AIFS
 off---Disabling continuous Tx"</string>
   <string name="modulatelimit">[0-4]</string>
-  <string name="modulatenum">"0-sine 1-frame
-2-tx99 3-tx100
+  <string name="modulatenum">"0-siner 1-frame
+2-tx99r 3-tx100
 4-off"</string>
   <string name="modulatetest">Mod:</string>
   <string name="module_num">Model number:</string>
@@ -579,7 +607,6 @@ off---Disabling continuous Tx"</string>
   <string name="motor_no_warning">can not cancel vibrator because no vibrator mode</string>
   <string name="motor_receive_info">Note: play music from Receive, motor vibrate!</string>
   <string name="motor_receiver_test">receiver＆ Motor</string>
-  <string name="motor_retest_info">Test failed click the home button to retest</string>
   <string name="motor_show">Select vibration mode no vibration/interval vibration/Continue Vibration</string>
   <string name="motor_test">Motor</string>
   <string name="motor_test_info">Note: play music from Receive, motor vibrate, keyboard light blink</string>
@@ -596,7 +623,6 @@ off---Disabling continuous Tx"</string>
   <string name="networktype_sim2">SIM2 Network Type:</string>
   <string name="newinfo">New</string>
   <string name="next">Next</string>
-  <string name="nextP">Next</string>
   <string name="next_text">next</string>
   <string name="nfc_discovered">Discovered tag</string>
   <string name="nfc_scan">Scan a tag</string>
@@ -604,7 +630,7 @@ off---Disabling continuous Tx"</string>
   <string name="no">No</string>
   <string name="no_neighbore_cell">no neighboring cells</string>
   <string name="no_test">Not tested</string>
-  <string name="no_test_done">No test done</string>
+  <string name="no_test_done">﻿unfinished test</string>
   <string name="no_vib">no vibration</string>
   <string name="no_vib_info">cancel vibrator</string>
   <string name="nofinger">No Fingerprint</string>
@@ -689,9 +715,16 @@ mod:0-15"</string>
   <string name="press_hookkey_hint">Press hookkey than Image below will become green</string>
   <string name="press_record">Press: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 and Press record</string>
   <string name="pretestresult">Previous result</string>
+  <string name="processing_text">processing...</string>
+  <string name="proximity_info">Proximity Info</string>
+  <string name="proximity_info_distance">Distance:</string>
+  <string name="proximity_info_noise">Ground Noise:</string>
   <string name="proximity_sensor_adjust">Proximity sensor calibration</string>
   <string name="proximity_sensor_test">Proximity sensor test</string>
   <string name="proximity_sensor_test_values">Proximity sensor values</string>
+  <string name="psensor">Proximity state</string>
+  <string name="psensor_far_away">P Sensor far away</string>
+  <string name="psensor_near">P Sensor near</string>
   <string name="psn">PSN:</string>
   <string name="qc">HW:</string>
   <string name="qc_nv_flag">"QC NV Flag: "</string>
@@ -728,6 +761,9 @@ mod:0-15"</string>
   <string name="receive_test">Receive</string>
   <string name="receiveinfo">Receive test...</string>
   <string name="receiver">Receiver</string>
+  <string name="receiver_off">OFF</string>
+  <string name="receiver_on">ON</string>
+  <string name="receiver_open">manually</string>
   <string name="receiver_test">Receiver test</string>
   <string name="record_and_play">now play recording listen to earphone please</string>
   <string name="record_your_message">Record your message</string>
@@ -752,6 +788,33 @@ mod:0-15"</string>
   <string name="sar_sensor_hint_string">The following shows the output data value of each channel of the SAR sensor. Cover the bottom(CS1) or top(CS0) of the phone with your hand. The data changes to indicate normal. Please be careful not to calibrate when charging USB!</string>
   <string name="sar_sensor_test">sar sensor test</string>
   <string name="sar_test">Sarsensor Test</string>
+  <string name="sar_ui">SarUI</string>
+  <string name="sarsensor">Sar state</string>
+  <string name="sarsensor_down">Sar_down</string>
+  <string name="sarsensor_state">Sar_state</string>
+  <string name="sarsensor_test_hint_test">Near and far the antennas up and down side of DUT by another hand</string>
+  <string name="sarsensor_test_hold_here">Hold here</string>
+  <string name="sarsensor_test_keep_clear">Hold middle of DUT by one hand, and click start button</string>
+  <string name="sarsensor_test_try_cal">Try adjust if far/near no changed</string>
+  <string name="sarsensor_up">Sar_up</string>
+  <string name="sarsensordifftest_direction_currentvalue">Current Value:</string>
+  <string name="sarsensordifftest_direction_hintdofar">Pls press button on test fixture again</string>
+  <string name="sarsensordifftest_direction_hintdonear">Pls press button on test fixture</string>
+  <string name="sarsensordifftest_direction_init">Put DUT on test fixture and press start button</string>
+  <string name="sarsensordifftest_direction_waitfar">Pls check if DUT be not covered</string>
+  <string name="sarsensordifftest_direction_waitnear">Pls check if DUT be covered</string>
+  <string name="sarsensordifftest_info_calibrating">Calibrating…</string>
+  <string name="sarsensordifftest_info_catchdata">Catching data…</string>
+  <string name="sarsensordifftest_info_judgemain_fail">Main channel testing fail</string>
+  <string name="sarsensordifftest_info_judgemain_pass">Main channel testing success</string>
+  <string name="sarsensordifftest_info_judgesub_fail">Sub channel testing fail</string>
+  <string name="sarsensordifftest_info_judgesub_pass">Sub channel testing success</string>
+  <string name="sarsensordifftest_info_switchmain">Switch to main channel</string>
+  <string name="sarsensordifftest_info_switchsub">Switch to sub channel</string>
+  <string name="sarsensordifftest_info_testmain">Main channel testing…</string>
+  <string name="sarsensordifftest_info_testsub">Sub channel testing…</string>
+  <string name="sarsensordifftest_info_waitFar">Wait far…</string>
+  <string name="sarsensordifftest_info_waitNear">Wait near…</string>
   <string name="save">Save</string>
   <string name="save_local_freq">Save local frequence</string>
   <string name="sd_u_test">SD_U disk</string>
@@ -787,12 +850,13 @@ mod:0-15"</string>
   <string name="softversion_hint">Enter the function test？</string>
   <string name="someinfo">Some info</string>
   <string name="sound_file_delete">sound file is not exit ,can not play！</string>
-  <string name="speak_from_mic">Speaking to the MIC, the speaker playback.The sound must more than &lt;b&gt;29DB&lt;/b&gt;.</string>
+  <string name="speak_from_mic">"Speaking to the MIC, the speaker playback.The sound must more than  "&lt;b&gt;29DB&lt;/b&gt;.</string>
   <string name="speak_from_sub_mic">Speaking to the Sub MIC, the speaker playback. The sound must more than &lt;b&gt;29DB&lt;/b&gt;.</string>
   <string name="speaker">Speaker</string>
   <string name="speakerinfo">speaker test</string>
   <string name="speed">Speed :</string>
   <string name="start">Start</string>
+  <string name="start_ant">Start ANt</string>
   <string name="start_calibrate">Start calibrate...</string>
   <string name="start_get_service">get GPS service</string>
   <string name="start_test">Start test</string>
@@ -802,6 +866,7 @@ mod:0-15"</string>
   <string name="status_unavailable">unavailable</string>
   <string name="stop">Stop</string>
   <string name="storage_is_full">Storage is full</string>
+  <string name="sub_channel">Sub Channel</string>
   <string name="switch_key">switch key</string>
   <string name="switchlanguage">LangSwitcher</string>
   <string name="swversion">SW Version</string>
@@ -861,7 +926,6 @@ N: no test"</string>
   <string name="uit87">[ UIT87]:</string>
   <string name="uit88">[ UIT88]:</string>
   <string name="uit89">[ UIT89]:</string>
-  <string name="ultrasonic_warning">Please simulate the action of picking up the mobile phone to answer the call during the test</string>
   <string name="unit">" MHz"</string>
   <string name="unknown">unknown</string>
   <string name="unlock">Unlock</string>
