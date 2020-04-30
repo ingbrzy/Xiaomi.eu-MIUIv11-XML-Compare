@@ -182,33 +182,25 @@ Send this code to the supervisor."</string>
   <string name="facebook_app_id">2263965750590514</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="fb_login_protocol_scheme">fb2263965750590514</string>
-  <string name="find_device">Find device</string>
   <string name="find_device_access_denied">"Can't get status, access denied"</string>
   <string name="find_device_account_error">"Can't get status due to account error"</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">A server error occurred, wait a minute or two and try again</string>
-  <string name="find_device_clear_data">Erase data</string>
-  <string name="find_device_close">Off</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, wait a minute or two and try again</string>
   <string name="find_device_io_error">"Can't connect to the network"</string>
-  <string name="find_device_location">Locate</string>
   <string name="find_device_locked_account_email" formatted="false">%s, associated email address: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, associated phone number: %s</string>
   <string name="find_device_message">Device is locked. Message: %1$s. Call %2$s.</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
-  <string name="find_device_open">On</string>
   <string name="find_device_operation_failed_error">A server error occurred, wait a minute or two and try again</string>
   <string name="find_device_operation_failed_error_unknown">An error occurred, try again later</string>
   <string name="find_device_owner_phone">Device is locked. Call %1$s.</string>
-  <string name="find_device_play_sound">Play sound</string>
   <string name="find_device_prompt_message">Device is locked. Message: %1$s.</string>
   <string name="find_device_remote_exception">RPC error</string>
   <string name="find_device_request_error">A server error occurred, wait a minute or two and try again</string>
   <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
-  <string name="find_device_set_lost_model">Lost mode</string>
-  <string name="find_device_title">Find device</string>
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="for_diagnosis_usage_only">Used only for locating issues.</string>
   <string name="get_back_pwd">Resetting password</string>
