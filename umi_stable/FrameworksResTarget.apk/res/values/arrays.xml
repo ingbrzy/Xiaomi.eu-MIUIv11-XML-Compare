@@ -262,4 +262,15 @@
         <item>softap0</item>
         <item>wigig0</item>
     </string-array>
+    <array name="correct_brightness_video">
+        <item>0.0293</item>
+        <item>0.0293</item>
+        <item>0.0293</item>
+        <item>0.0582</item>
+        <item>0.0679</item>
+        <item>0.0838</item>
+        <item>0.0977</item>
+        <item>0.1075</item>
+        <item>0.1075</item>
+    </array>
 </resources>
