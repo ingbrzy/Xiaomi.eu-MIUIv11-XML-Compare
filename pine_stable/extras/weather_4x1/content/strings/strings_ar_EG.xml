@@ -6,8 +6,8 @@
     <string name="air_quality3">\'AQI \'+#aqi</string>
     <string name="air_quality4">\'AQI \'+#aqi</string>
     <string name="air_quality5">\'AQI \'+#aqi</string>
-    <string name="weather_null"></string>
-    <string name="weather_location_null"></string>
+    <string name="weather_null">انقر للحصول على معلومات الطقس</string>
+    <string name="weather_location_null">لا توجد معلومات حول الموقع</string>
     <string name="weather_type_0">صافٍ</string>
     <string name="weather_type_1">غائم</string>
     <string name="weather_type_2">ضبابي</string>
@@ -31,6 +31,6 @@
     <string name="weather_type_20">عاصفة رملية خفيفة</string>
     <string name="weather_type_21">عاصفة رملية</string>
     <string name="weather_type_22">برد</string>
-    <string name="weather_type_23">غبار في الهواء</string>
+    <string name="weather_type_23">غبار</string>
     <string name="weather_type_24">ضباب</string>
 </resources>
