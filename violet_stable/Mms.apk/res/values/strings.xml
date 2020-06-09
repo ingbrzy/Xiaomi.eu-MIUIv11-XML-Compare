@@ -109,7 +109,7 @@
   <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
   <string name="cm_privacy_dialog_title">Attention</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
-  <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
+  <string name="com.crashlytics.android.build_id">93b8f075-0a18-40b4-99ed-35e884a1ad96</string>
   <string name="complain_message_title">Report</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
@@ -872,7 +872,7 @@ Take a look at the recommended ones!"</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
   <string name="set">Set</string>
-  <string name="share">share</string>
+  <string name="share">Share</string>
   <string name="share_img">Share</string>
   <string name="shortcut_new_msg">New message</string>
   <string name="shortcut_setting">Settings</string>
