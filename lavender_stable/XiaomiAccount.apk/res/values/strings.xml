@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More options</string>
   <string name="abc_action_mode_done">Done</string>
@@ -10,18 +8,16 @@
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Search…</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
@@ -74,6 +70,7 @@
   <string name="account_user_email">Recovery email</string>
   <string name="account_user_gender">Gender</string>
   <string name="account_user_id">Mi Account ID</string>
+  <string name="account_user_id_show">Mi Account: %s</string>
   <string name="account_user_name">Name</string>
   <string name="account_user_name_dialog_title">Enter username</string>
   <string name="account_user_other_info">More sources</string>
@@ -81,12 +78,14 @@
   <string name="account_user_region">Region</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="action_add_phone">Add phone number</string>
+  <string name="action_retry">Try again</string>
   <string name="action_update_phone">Change phone number</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="activity_not_found_notice">"Can't find the app"</string>
   <string name="add_account">Connect account</string>
   <string name="agreement_and_privacy">Privacy Policy and User Agreement</string>
   <string name="app_name">Mi Account</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="auth_fail_warning">Session expired, sign in again later</string>
   <string name="authorize_title">Authorization</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
@@ -100,11 +99,16 @@
   <string name="binded">Connected</string>
   <string name="binded_description" formatted="false">"%s has been connected to your Mi Account.
 You can sign in to your Mi Account using %s now."</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="button_unbind">Disconnect</string>
   <string name="change_activate_email">Change email address</string>
   <string name="change_email_address">Change email address</string>
   <string name="change_password">Change password</string>
   <string name="change_phone_number">Change phone number</string>
+  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="cloud_description_closed">Occupied | Sync is off</string>
+  <string name="cloud_description_normal">Occupied</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Generate diagnostic log</string>
   <string name="com_facebook_device_auth_instructions">Visit &lt;b&gt;facebook.com/device&lt;/b&gt; and enter the code shown above.</string>
@@ -157,6 +161,7 @@ You can sign in to your Mi Account using %s now."</string>
   <string name="confirm_unbind">Disconnect this account?</string>
   <string name="confirm_unbundled_phone_dialog_message">The phone number %1$s is associated with Mi Account %2$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
   <string name="continue_action">Continue</string>
+  <string name="copy">Copy</string>
   <string name="delete_action">Delete</string>
   <string name="delete_bank_card_message">Mi Pay bank cards and NFC cards will be deleted after you sign out.</string>
   <string name="delete_bank_card_title">Attention</string>
@@ -178,6 +183,9 @@ Send this code to the supervisor."</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="exit">Exit</string>
+  <string name="expand_button_title">Advanced</string>
+  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="facebook">Facebook</string>
   <string name="facebook_app_id">2263965750590514</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
@@ -217,6 +225,14 @@ Send this code to the supervisor."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="google">Google</string>
   <string name="guest_account_label">Mi Guest Account</string>
+  <string name="health_action_activate">Activate</string>
+  <string name="health_action_install">Install</string>
+  <string name="health_action_update">Update</string>
+  <string name="health_description_normal">Steps</string>
+  <string name="health_state_not_activated">Not activated</string>
+  <string name="health_state_not_installed">Not installed</string>
+  <string name="health_state_not_support">Not supported in this version</string>
+  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="i_agree">OK</string>
   <string name="i_agree_continue">Agree</string>
   <string name="identity">Identification</string>
@@ -240,6 +256,7 @@ Send this code to the supervisor."</string>
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mi_finance">My finances</string>
   <string name="mi_finance_info">Bonuses for new users</string>
+  <string name="mi_health">Xiaomi Health</string>
   <string name="mi_vip_info">View privileges</string>
   <string name="mipay">Pay</string>
   <string name="mipay_balance">Balance</string>
@@ -249,6 +266,15 @@ Send this code to the supervisor."</string>
   <string name="mipay_indentity_done">Verified</string>
   <string name="mipay_others">Other</string>
   <string name="mipay_transit_card">Transport card</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
+  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with the cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with the cloud"</string>
@@ -260,6 +286,7 @@ Send this code to the supervisor."</string>
   <string name="no_response_retry">No response, try again.</string>
   <string name="no_sim_card_or_unactivated">"SIM card isn't installed or activated"</string>
   <string name="nobind">Not connected</string>
+  <string name="not_set">Not set</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
@@ -275,7 +302,7 @@ Send this code to the supervisor."</string>
   <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_label">Mi Account</string>
-  <string name="passport_account_name">Account: %1$s</string>
+  <string name="passport_account_name">"Account: %1$s "</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
   <string name="passport_account_set_password">Set password</string>
@@ -296,10 +323,7 @@ Send this code to the supervisor."</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
-  <string name="passport_click_email_to_valid">"
-
-To activate your account, follow the 
- link we've sent to your inbox."</string>
+  <string name="passport_click_email_to_valid">"To activate your account, follow the link we've sent to your inbox."</string>
   <string name="passport_completed">Finish</string>
   <string name="passport_confirm_login">Continue</string>
   <string name="passport_confirm_recycle_account">Yes</string>
@@ -355,6 +379,10 @@ To activate your account, follow the
   <string name="passport_get_verify_code">Get code</string>
   <string name="passport_getting_activator_phone">Getting SIM info…</string>
   <string name="passport_getting_verify_code">Getting</string>
+  <string name="passport_google_login">Sign in with the previously used Google Account?</string>
+  <string name="passport_google_login_agree">Google Account</string>
+  <string name="passport_google_login_disagree">Mi Account</string>
+  <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
   <string name="passport_i_know">Got it</string>
   <string name="passport_identification_expired">Verification code expired, start over</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
@@ -497,12 +525,18 @@ To activate your account, follow the
   <string name="passport_wrong_voice">The code you entered is incorrect</string>
   <string name="passport_wx_bind_account_limit">"Can't create account now. Try other sign-in methods."</string>
   <string name="passport_yes">Yes</string>
+  <string name="password_toggle_content_description">Show password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="permission_group_contacts">Contacts</string>
   <string name="permission_group_phone">Phone</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Storage</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="push_notification_content">Get verification code</string>
   <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
   <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
@@ -552,7 +586,10 @@ To activate your account, follow the
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Sent</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
+  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="state_loading">Just a sec…</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_ad">Ads in system apps</string>
   <string name="system_ad_list">View related apps.</string>
   <string name="system_ad_summary">"Turn this feature on to allow showing a small number of ads in system apps. These ads help us develop and improve our products and services. You can choose to turn this feature off anytime. Thanks for your support! "</string>
@@ -581,6 +618,8 @@ To activate your account, follow the
   <string name="used_cloud_storage_info">Used storage space %s</string>
   <string name="user_avatar_update_title">Change profile photo</string>
   <string name="user_avatar_uploading">Just a sec…</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
   <string name="vip_account_settings">VIP Settings</string>
   <string name="vip_settings_info">VIP settings</string>
   <string name="weixin">WeChat</string>
