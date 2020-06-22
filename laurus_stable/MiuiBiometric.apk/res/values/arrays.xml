@@ -19,8 +19,6 @@
         <item>tulip</item>
         <item>natrium</item>
         <item>sakura_india</item>
-        <item>onc</item>
-        <item>lavender</item>
         <item>lotus</item>
         <item>laurus</item>
         <item>olive</item>
@@ -29,6 +27,8 @@
         <item>oxygen</item>
         <item>olivelite</item>
         <item>willow</item>
+        <item>pine</item>
+        <item>olivewood</item>
     </string-array>
     <string-array name="device_need_operating_mode">
         <item>polaris</item>
@@ -56,6 +56,11 @@
         <item>lmiin</item>
         <item>picasso</item>
         <item>picassoin</item>
+        <item>curtana</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+        <item>toco</item>
+        <item>tocoin</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
@@ -75,7 +80,5 @@
         <item>phoenixin</item>
         <item>picasso</item>
         <item>picassoin</item>
-        <item>begonia</item>
-        <item>begoniain</item>
     </string-array>
 </resources>
